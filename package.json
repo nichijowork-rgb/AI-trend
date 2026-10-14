@@ -1,0 +1,13 @@
+{
+  "name": "ai-trend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "XのAI関連の投稿（新モデル・ツール・研究・医療×AIなど）をカテゴリ別に見られる静的ダッシュボード（GitHub Pages）",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "sample": "node tools/make-sample.mjs",
+    "test": "node --test test/*.test.js"
+  }
+}

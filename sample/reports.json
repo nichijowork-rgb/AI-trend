@@ -1,0 +1,285 @@
+{
+ "generated_at": "2026-10-11T18:41:00+09:00",
+ "daily": [
+  {
+   "date": "2026-10-11",
+   "rising": [
+    {
+     "id": "1844674407364874611",
+     "views": 56214,
+     "hours_since_post": 0.8,
+     "views_per_hour": 56214,
+     "condition_label": "【サンプル】条件A（投稿から2時間以内）"
+    },
+    {
+     "id": "1844674407368385475",
+     "views": 47613,
+     "hours_since_post": 0.2,
+     "views_per_hour": 47613,
+     "condition_label": "【サンプル】条件A（投稿から2時間以内）"
+    },
+    {
+     "id": "1999999999999999999",
+     "views": 412000,
+     "hours_since_post": 2.5,
+     "views_per_hour": 164800,
+     "condition_label": "【サンプル】条件B（投稿から6時間以内）"
+    },
+    {
+     "id": "1844674407360967218",
+     "views": 33276,
+     "hours_since_post": 0.8,
+     "views_per_hour": 33276,
+     "condition_label": "【サンプル】条件A（投稿から2時間以内）"
+    },
+    {
+     "id": "1844674407369478539",
+     "views": 17334,
+     "hours_since_post": 0.7,
+     "views_per_hour": 17334,
+     "condition_label": "【サンプル】条件A（投稿から2時間以内）"
+    },
+    {
+     "id": "1844674407365345317",
+     "views": 32988,
+     "hours_since_post": 2,
+     "views_per_hour": 16494,
+     "condition_label": "【サンプル】条件A（投稿から2時間以内）"
+    },
+    {
+     "id": "1844674407368768658",
+     "views": 15353,
+     "hours_since_post": 0.4,
+     "views_per_hour": 15353,
+     "condition_label": "【サンプル】条件A（投稿から2時間以内）"
+    },
+    {
+     "id": "1844674407364218565",
+     "views": 9485,
+     "hours_since_post": "x",
+     "views_per_hour": null,
+     "condition_label": "<img src=x onerror=\"alert('rep')\">条件名にタグ"
+    },
+    {
+     "id": "1844674407368941070",
+     "views": 1264,
+     "hours_since_post": 4,
+     "views_per_hour": 316,
+     "condition_label": "【サンプル】条件B（投稿から6時間以内）"
+    }
+   ],
+   "rising_watch": [
+    {
+     "id": "1844674407364543812",
+     "views": 33252,
+     "hours_since_post": 2.2,
+     "views_per_hour": 15115,
+     "condition_label": "【サンプル】伸び始め（条件名はデータ側の文字列）",
+     "reason": "【サンプル】補足1：1時間あたりのペースが上がっている"
+    },
+    {
+     "id": "1844674407359502946",
+     "views": 76567,
+     "hours_since_post": 6.1,
+     "views_per_hour": 12552,
+     "condition_label": "【サンプル】伸び始め（条件名はデータ側の文字列）",
+     "reason": "【サンプル】補足2：1時間あたりのペースが上がっている"
+    },
+    {
+     "id": "1844674407368124866",
+     "views": 11333,
+     "hours_since_post": 1,
+     "views_per_hour": 11333,
+     "condition_label": "【サンプル】伸び始め（条件名はデータ側の文字列）",
+     "reason": "【サンプル】補足3：1時間あたりのペースが上がっている"
+    },
+    {
+     "id": "1844674407368941070",
+     "views": 1000,
+     "hours_since_post": 1,
+     "views_per_hour": 1000,
+     "condition_label": "【サンプル】伸び始め",
+     "reason": "一般のバズのみ（除外される）"
+    }
+   ],
+   "review": [
+    {
+     "id": "1844674407366743390",
+     "before_views": 137784,
+     "after_views": 775568,
+     "crossed_500k": true
+    },
+    {
+     "id": "1844674407364317645",
+     "before_views": 41117,
+     "after_views": 82234,
+     "crossed_500k": false
+    },
+    {
+     "id": "1844674407370117628",
+     "before_views": 18442,
+     "after_views": 536884,
+     "crossed_500k": true
+    },
+    {
+     "id": "1844674407362452345",
+     "before_views": 35846,
+     "after_views": 71692,
+     "crossed_500k": false
+    },
+    {
+     "id": "1844674407367551016",
+     "before_views": 48038,
+     "after_views": 596076,
+     "crossed_500k": true
+    },
+    {
+     "id": "1999999999999999998",
+     "before_views": 301000,
+     "after_views": 655000,
+     "crossed_500k": true
+    },
+    {
+     "id": "1844674407366743390",
+     "before_views": "abc",
+     "after_views": null,
+     "crossed_500k": "yes",
+     "extra_unknown_field": 1
+    }
+   ],
+   "hit_rate": [
+    {
+     "condition_label": "【サンプル】条件A（投稿から2時間以内）",
+     "total": 3,
+     "crossed": 2
+    },
+    {
+     "condition_label": "【サンプル】条件B（投稿から6時間以内）",
+     "total": 2,
+     "crossed": 1
+    },
+    {
+     "condition_label": "【サンプル】条件C（投稿から12時間以内）",
+     "total": 0,
+     "crossed": 0
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "rising": [
+    {
+     "id": "1844674407366743390",
+     "views": 137784,
+     "hours_since_post": 0.5,
+     "views_per_hour": 137784,
+     "condition_label": "【サンプル】条件A（投稿から2時間以内）"
+    },
+    {
+     "id": "1844674407364317645",
+     "views": 41117,
+     "hours_since_post": 1.7,
+     "views_per_hour": 24186,
+     "condition_label": "【サンプル】条件A（投稿から2時間以内）"
+    },
+    {
+     "id": "1844674407370117628",
+     "views": 18442,
+     "hours_since_post": 0.6,
+     "views_per_hour": 18442,
+     "condition_label": "【サンプル】条件A（投稿から2時間以内）"
+    },
+    {
+     "id": "1844674407362452345",
+     "views": 35846,
+     "hours_since_post": 3.7,
+     "views_per_hour": 9688,
+     "condition_label": "【サンプル】条件B（投稿から6時間以内）"
+    },
+    {
+     "id": "1844674407367551016",
+     "views": 48038,
+     "hours_since_post": 6,
+     "views_per_hour": 8006,
+     "condition_label": "【サンプル】条件B（投稿から6時間以内）"
+    }
+   ],
+   "review": [],
+   "hit_rate": []
+  }
+ ],
+ "weekly": [
+  {
+   "period": {
+    "from": "2026-10-03",
+    "to": "2026-10-10"
+   },
+   "generated_at": "2026-10-10T12:00:00+09:00",
+   "hit_rate_by_condition": [
+    {
+     "condition_label": "【サンプル】条件A（投稿から2時間以内）",
+     "total": 12,
+     "crossed": 7
+    },
+    {
+     "condition_label": "【サンプル】条件B（投稿から6時間以内）",
+     "total": 9,
+     "crossed": 3
+    },
+    {
+     "condition_label": "【サンプル】条件C（投稿から12時間以内）",
+     "total": 0,
+     "crossed": 0
+    }
+   ],
+   "hit_rate_by_pace": [
+    {
+     "pace_label": "【サンプル】ペース速（1時間あたり上位）",
+     "total": 8,
+     "crossed": 6
+    },
+    {
+     "pace_label": "【サンプル】ペース中",
+     "total": 10,
+     "crossed": 3
+    },
+    {
+     "pace_label": "【サンプル】ペース遅",
+     "total": "n/a",
+     "crossed": 1
+    }
+   ],
+   "threshold_proposal": "【サンプル】条件Aの的中率が高いため据え置き。\n条件Bは見直しを検討。\n<script>alert(\"proposal\")</script>（タグは文字として表示される）",
+   "watch_candidates": [
+    {
+     "user": "sample_carex_jin01",
+     "reason": "【サンプル】伸びている投稿に3回登場"
+    },
+    {
+     "user": "sample_release_ten31",
+     "reason": "【サンプル】<img src=x onerror=\"alert('cand')\"> 理由にタグ"
+    },
+    {
+     "user": "sample_not_in_posts",
+     "reason": "【サンプル】posts.json に投稿が無いアカウント"
+    }
+   ]
+  },
+  {
+   "period": {
+    "from": "2026-09-26",
+    "to": "2026-10-03"
+   },
+   "hit_rate_by_condition": [
+    {
+     "condition_label": "【サンプル】条件A（投稿から2時間以内）",
+     "total": 5,
+     "crossed": 2
+    }
+   ],
+   "hit_rate_by_pace": [],
+   "threshold_proposal": "",
+   "watch_candidates": []
+  }
+ ]
+}
