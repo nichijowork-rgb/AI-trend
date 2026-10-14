@@ -1,0 +1,4767 @@
+{
+ "generated_at": "2026-10-14T22:25:08+09:00",
+ "min_impressions": 100000,
+ "categories": [
+  "医療・介護×AI",
+  "新モデル・発表",
+  "ツール・活用",
+  "研究・論文",
+  "ビジネス・業界",
+  "AIその他",
+  "監視アカウント",
+  "その他"
+ ],
+ "posts": [
+  {
+   "id": "2110222535346528615",
+   "url": "https://x.com/abacusai/status/2110222535346528615",
+   "user": "abacusai",
+   "created_utc": "2026-10-14T04:13:53Z",
+   "created_jst": "2026-10-14T13:13:53+09:00",
+   "ts": 1791951233,
+   "metrics": {
+    "impression_count": 2765519,
+    "like_count": 302,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "🚨 All The Top Models In One Place  - Gemini 4 Argon is here  Gemini 4 Argon  - data analysis Fable 5.1 - hard coding Opus 5.5 - 3D games Astra-6 - browser user ",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Opus",
+    "Fable",
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110026827792077010",
+   "url": "https://x.com/Polymarket/status/2110026827792077010",
+   "user": "Polymarket",
+   "created_utc": "2026-10-13T15:16:12Z",
+   "created_jst": "2026-10-14T00:16:12+09:00",
+   "ts": 1791904572,
+   "metrics": {
+    "impression_count": 1183763,
+    "like_count": 9819,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "JUST IN: Palantir CTO reveals many AI researchers have started smoking cigarettes to demonstrate their confidence that AI will cure cancer.",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110151780478927344",
+   "url": "https://x.com/thsottiaux/status/2110151780478927344",
+   "user": "thsottiaux",
+   "created_utc": "2026-10-13T23:32:43Z",
+   "created_jst": "2026-10-14T08:32:43+09:00",
+   "ts": 1791934363,
+   "metrics": {
+    "impression_count": 1166947,
+    "like_count": 12489,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Day 9/  We've rolled out optimizations to how we store state on disk for the chatgpt &amp; codex desktop app that should reduce the amount stored on disk by 60%",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "Codex"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110036327286886731",
+   "url": "https://x.com/quinn_leng/status/2110036327286886731",
+   "user": "quinn_leng",
+   "created_utc": "2026-10-13T15:53:57Z",
+   "created_jst": "2026-10-14T00:53:57+09:00",
+   "ts": 1791906837,
+   "metrics": {
+    "impression_count": 1080774,
+    "like_count": 919,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Introducing Kylon: The first company harness for your humans, agents and tools.  Whether you’re using Codex, Claude, Devin, Hermes, Gemini CLI, OpenClaw, Muse, ",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Gemini",
+    "Codex",
+    "Gemini CLI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110050795890827756",
+   "url": "https://x.com/fchollet/status/2110050795890827756",
+   "user": "fchollet",
+   "created_utc": "2026-10-13T16:51:27Z",
+   "created_jst": "2026-10-14T01:51:27+09:00",
+   "ts": 1791910287,
+   "metrics": {
+    "impression_count": 964504,
+    "like_count": 580,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "If an agent saves an engineer 2 hours to implement a feature but collectively costs the team 3 hours in alignment and review, the ROI is negative.  Isolated cha",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2109999109415501870",
+   "url": "https://x.com/SugarocvjSugar/status/2109999109415501870",
+   "user": "SugarocvjSugar",
+   "created_utc": "2026-10-13T13:26:04Z",
+   "created_jst": "2026-10-13T22:26:04+09:00",
+   "ts": 1791897964,
+   "metrics": {
+    "impression_count": 620750,
+    "like_count": 4653,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "並んで  #AIart #AI美女 #AIphoto #AIグラビア #SFW https://t.co/6lr9XiuxiW",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2109992256329646546",
+   "url": "https://x.com/josephflaherty/status/2109992256329646546",
+   "user": "josephflaherty",
+   "created_utc": "2026-10-13T12:58:50Z",
+   "created_jst": "2026-10-13T21:58:50+09:00",
+   "ts": 1791896330,
+   "metrics": {
+    "impression_count": 539595,
+    "like_count": 17498,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Vibe coding, DIY hardware, and 3D printing will lead to a renaissance in arcade-style gaming. https://t.co/HMSR4Z9Llz",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "vibe coding"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110013915950403818",
+   "url": "https://x.com/RightWingCope/status/2110013915950403818",
+   "user": "RightWingCope",
+   "created_utc": "2026-10-13T14:24:54Z",
+   "created_jst": "2026-10-13T23:24:54+09:00",
+   "ts": 1791901494,
+   "metrics": {
+    "impression_count": 477985,
+    "like_count": 3907,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "trump's new press secretary is mumbling through a chatgpt generated speech on stage rn https://t.co/aJAeD8ktwC",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110113955444109474",
+   "url": "https://x.com/rawsalerts/status/2110113955444109474",
+   "user": "rawsalerts",
+   "created_utc": "2026-10-13T21:02:25Z",
+   "created_jst": "2026-10-14T06:02:25+09:00",
+   "ts": 1791925345,
+   "metrics": {
+    "impression_count": 397533,
+    "like_count": 4820,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "🚨 #BREAKING: Palantir CEO reveals AI engineers have begun smoking cigarettes because they believe ChatGPT can cure cancer.",
+   "categories": [
+    "新モデル・発表",
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "CEO",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110194452157587542",
+   "url": "https://x.com/theo/status/2110194452157587542",
+   "user": "theo",
+   "created_utc": "2026-10-14T02:22:17Z",
+   "created_jst": "2026-10-14T11:22:17+09:00",
+   "ts": 1791944537,
+   "metrics": {
+    "impression_count": 387159,
+    "like_count": 7094,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "For the cost of 8 years of $200 Claude subs, you can force your team to use shitty quantized versions of DeepSeek v4 Flash running at 30tps. Incredible deal! ht",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Claude",
+    "DeepSeek"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110060618258497764",
+   "url": "https://x.com/emollick/status/2110060618258497764",
+   "user": "emollick",
+   "created_utc": "2026-10-13T17:30:29Z",
+   "created_jst": "2026-10-14T02:30:29+09:00",
+   "ts": 1791912629,
+   "metrics": {
+    "impression_count": 362204,
+    "like_count": 6752,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Using Gemini 4 makes you realize how many other models must be distilling Claude/GPT (or using a similar training pipeline). It feels quite different than other",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110112645139579373",
+   "url": "https://x.com/GeniusGTX/status/2110112645139579373",
+   "user": "GeniusGTX",
+   "created_utc": "2026-10-13T20:57:13Z",
+   "created_jst": "2026-10-14T05:57:13+09:00",
+   "ts": 1791925033,
+   "metrics": {
+    "impression_count": 309999,
+    "like_count": 3554,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "AMD CEO Lisa Su just went after Nvidia's $4,000 AI box using a $1,499 machine the size of a lunchbox.  Holding it up on stage with one hand, she ran a model wit",
+   "categories": [
+    "ビジネス・業界",
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Nvidia",
+    "AMD",
+    "CEO",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110159173350772823",
+   "url": "https://x.com/KusakiDesu/status/2110159173350772823",
+   "user": "KusakiDesu",
+   "created_utc": "2026-10-14T00:02:06Z",
+   "created_jst": "2026-10-14T09:02:06+09:00",
+   "ts": 1791936126,
+   "metrics": {
+    "impression_count": 309698,
+    "like_count": 57296,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "The fact that we went from \"Wikipedia is not a legitimate source of information\" in school to \"Just ask AI / ChatGPT to get it done\" is actually really insultin",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110070648370553150",
+   "url": "https://x.com/them_failure/status/2110070648370553150",
+   "user": "them_failure",
+   "created_utc": "2026-10-13T18:10:20Z",
+   "created_jst": "2026-10-14T03:10:20+09:00",
+   "ts": 1791915020,
+   "metrics": {
+    "impression_count": 291287,
+    "like_count": 19917,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "If I catch a STEM student using AI I can forgive them. Maybe they're being pressured or have been inadequately prepared for doing work themselves because they a",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110102474862313501",
+   "url": "https://x.com/vikktorrrre/status/2110102474862313501",
+   "user": "vikktorrrre",
+   "created_utc": "2026-10-13T20:16:48Z",
+   "created_jst": "2026-10-14T05:16:48+09:00",
+   "ts": 1791922608,
+   "metrics": {
+    "impression_count": 280700,
+    "like_count": 923,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Sam Altman: What happens when AI gets so smart that even the President can’t do better than following its recommendations?  “What if the President cannot do bet",
+   "categories": [
+    "ビジネス・業界",
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Altman",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110144056869392388",
+   "url": "https://x.com/theo/status/2110144056869392388",
+   "user": "theo",
+   "created_utc": "2026-10-13T23:02:02Z",
+   "created_jst": "2026-10-14T08:02:02+09:00",
+   "ts": 1791932522,
+   "metrics": {
+    "impression_count": 267874,
+    "like_count": 4169,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "BREAKING: Engineer who bugged OpenAI office identified as GPT-3 pretraining lead Dario Amodei https://t.co/0qyMuQjgVS",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "OpenAI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110038264463987088",
+   "url": "https://x.com/bindureddy/status/2110038264463987088",
+   "user": "bindureddy",
+   "created_utc": "2026-10-13T16:01:39Z",
+   "created_jst": "2026-10-14T01:01:39+09:00",
+   "ts": 1791907299,
+   "metrics": {
+    "impression_count": 258921,
+    "like_count": 1142,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "🚨 Gemini Argon 4 Falls Behind Fable And Astra, But Is Ahead of Open Source  -  Argon 4.0 falls short of GPT 6.1 Sol -  ahead of open-source (Deepseek Flash) -  ",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Fable",
+    "Gemini",
+    "DeepSeek"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110145512020279726",
+   "url": "https://x.com/SPCX100T/status/2110145512020279726",
+   "user": "SPCX100T",
+   "created_utc": "2026-10-13T23:07:49Z",
+   "created_jst": "2026-10-14T08:07:49+09:00",
+   "ts": 1791932869,
+   "metrics": {
+    "impression_count": 253843,
+    "like_count": 1045,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "I built a @Grok @Bot that watches $SPCX on its own — fully automated, no manual work.  I’ve been running it for over a month and fine-tuned it several times. Th",
+   "categories": [
+    "新モデル・発表",
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Grok"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110080979742192101",
+   "url": "https://x.com/Bober_smart/status/2110080979742192101",
+   "user": "Bober_smart",
+   "created_utc": "2026-10-13T18:51:23Z",
+   "created_jst": "2026-10-14T03:51:23+09:00",
+   "ts": 1791917483,
+   "metrics": {
+    "impression_count": 253103,
+    "like_count": 1363,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "It is becoming f*cking dangerous: AI agents from Claude Code transformed an ordinary academic reading list into an interactive research lab right inside the bro",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用",
+    "研究・論文"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Claude Code",
+    "research",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110014692420706667",
+   "url": "https://x.com/NVIDIAAIInfra/status/2110014692420706667",
+   "user": "NVIDIAAIInfra",
+   "created_utc": "2026-10-13T14:27:59Z",
+   "created_jst": "2026-10-13T23:27:59+09:00",
+   "ts": 1791901679,
+   "metrics": {
+    "impression_count": 245519,
+    "like_count": 1126,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Today, we’re open sourcing the full NVIDIA Run:ai platform as part of the NVIDIA DSX AI Factory Platform.  Developers, platform teams, and partners can build on",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Nvidia",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110091224627441737",
+   "url": "https://x.com/infolibnews/status/2110091224627441737",
+   "user": "infolibnews",
+   "created_utc": "2026-10-13T19:32:06Z",
+   "created_jst": "2026-10-14T04:32:06+09:00",
+   "ts": 1791919926,
+   "metrics": {
+    "impression_count": 229051,
+    "like_count": 1397,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "🚨 ADL CEO Jonathan Greenblatt reveals in Israel that he's been working with all the top AI Frontier Labs to push them to suppress \"anti-Semitism.\"  \"We've been ",
+   "categories": [
+    "ビジネス・業界",
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "CEO",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110118670362161348",
+   "url": "https://x.com/svembu/status/2110118670362161348",
+   "user": "svembu",
+   "created_utc": "2026-10-13T21:21:09Z",
+   "created_jst": "2026-10-14T06:21:09+09:00",
+   "ts": 1791926469,
+   "metrics": {
+    "impression_count": 229013,
+    "like_count": 2893,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "As of today, AI led productivity gain in software development estimates are (at best) 25% to 50% as measured on an end to end product basis (prototyping is much",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110121000134430930",
+   "url": "https://x.com/JustLingonberry/status/2110121000134430930",
+   "user": "JustLingonberry",
+   "created_utc": "2026-10-13T21:30:25Z",
+   "created_jst": "2026-10-14T06:30:25+09:00",
+   "ts": 1791927025,
+   "metrics": {
+    "impression_count": 226286,
+    "like_count": 4435,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "holy crap  OpenAI engineer making 1M/year used wife's chatgpt account to ask how to plant bugging device at OpenAI https://t.co/B3DKmv085S",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "OpenAI",
+    "ChatGPT"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110103646675652777",
+   "url": "https://x.com/n_mawaru/status/2110103646675652777",
+   "user": "n_mawaru",
+   "created_utc": "2026-10-13T20:21:27Z",
+   "created_jst": "2026-10-14T05:21:27+09:00",
+   "ts": 1791922887,
+   "metrics": {
+    "impression_count": 208940,
+    "like_count": 4704,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "生成AIがなければ「倫理観は無いが加害のための手段も無いのでかろうじて無害な人間」が  生成AIが野放しのせいで「倫理観が無い上に加害のための手段を持ってしまったので完全に有害な人間」になった事例があまりにも多すぎる…",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110204194569519347",
+   "url": "https://x.com/DHUniv/status/2110204194569519347",
+   "user": "DHUniv",
+   "created_utc": "2026-10-14T03:01:00Z",
+   "created_jst": "2026-10-14T12:01:00+09:00",
+   "ts": 1791946860,
+   "metrics": {
+    "impression_count": 204257,
+    "like_count": 1237,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "／ 【国内大学初】 生成AI「Claude」を全学導入！✨ ＼  デジタルハリウッド大学（DHU）は、Anthropic社の生成AIモデル「Claude」を全学導入します。  11月より全学生・全教職員が、費用や回数を気にせず“使い倒せる”環境を提供！ 先進的なAIを「自分の道具」にする実践教育を推進します。 http",
+   "categories": [
+    "新モデル・発表",
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Anthropic",
+    "Claude",
+    "導入",
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110033571301982214",
+   "url": "https://x.com/robbensinger/status/2110033571301982214",
+   "user": "robbensinger",
+   "created_utc": "2026-10-13T15:43:00Z",
+   "created_jst": "2026-10-14T00:43:00+09:00",
+   "ts": 1791906180,
+   "metrics": {
+    "impression_count": 193638,
+    "like_count": 1061,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "It seems to me that we're at \"it's time to panic about AI\".  I gather that a lot of researchers are worried that we may be about to die, on a timescale of month",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110148532762001674",
+   "url": "https://x.com/ChrisRMcGuire/status/2110148532762001674",
+   "user": "ChrisRMcGuire",
+   "created_utc": "2026-10-13T23:19:49Z",
+   "created_jst": "2026-10-14T08:19:49+09:00",
+   "ts": 1791933589,
+   "metrics": {
+    "impression_count": 188555,
+    "like_count": 337,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "This is an extremely bad look for Saudi Arabia, and if the Saudi government is indeed involved, this should have significant implications for the US-Saudi AI re",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110046933075276285",
+   "url": "https://x.com/CupKicking/status/2110046933075276285",
+   "user": "CupKicking",
+   "created_utc": "2026-10-13T16:36:06Z",
+   "created_jst": "2026-10-14T01:36:06+09:00",
+   "ts": 1791909366,
+   "metrics": {
+    "impression_count": 186549,
+    "like_count": 22383,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "If yo ChatGPT speaking aave u fries",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110012238295629893",
+   "url": "https://x.com/binance/status/2110012238295629893",
+   "user": "binance",
+   "created_utc": "2026-10-13T14:18:14Z",
+   "created_jst": "2026-10-13T23:18:14+09:00",
+   "ts": 1791901094,
+   "metrics": {
+    "impression_count": 180036,
+    "like_count": 372,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "AI in crypto isn't a future concept. It's booking your hotel.  Binance x402 is the missing link between agents and onchain commerce: programmable payments on @B",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110186868495233290",
+   "url": "https://x.com/wakao_08/status/2110186868495233290",
+   "user": "wakao_08",
+   "created_utc": "2026-10-14T01:52:09Z",
+   "created_jst": "2026-10-14T10:52:09+09:00",
+   "ts": 1791942729,
+   "metrics": {
+    "impression_count": 178353,
+    "like_count": 3989,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "ChatGPTは異常なまでにバナナが好きというのを試してみたらめちゃくちゃ容姿disされて流石に自殺を検討 https://t.co/pXIKcRcEof",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110016718550511940",
+   "url": "https://x.com/nikhilkamathcio/status/2110016718550511940",
+   "user": "nikhilkamathcio",
+   "created_utc": "2026-10-13T14:36:02Z",
+   "created_jst": "2026-10-13T23:36:02+09:00",
+   "ts": 1791902162,
+   "metrics": {
+    "impression_count": 174298,
+    "like_count": 1803,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "UPI feels simple because most of what makes it work is invisible.  I followed one payment all the way through with Sameer Nigam (PhonePe), Harshil Mathur (Razor",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110165020416073732",
+   "url": "https://x.com/sailorxmercury/status/2110165020416073732",
+   "user": "sailorxmercury",
+   "created_utc": "2026-10-14T00:25:20Z",
+   "created_jst": "2026-10-14T09:25:20+09:00",
+   "ts": 1791937520,
+   "metrics": {
+    "impression_count": 168564,
+    "like_count": 3397,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "ChatGPT would say “who the fuck are you”  Lmaoooo I’ve never used it. https://t.co/0fsq0i1vXW",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110088647152140790",
+   "url": "https://x.com/rockwotj/status/2110088647152140790",
+   "user": "rockwotj",
+   "created_utc": "2026-10-13T19:21:51Z",
+   "created_jst": "2026-10-14T04:21:51+09:00",
+   "ts": 1791919311,
+   "metrics": {
+    "impression_count": 166677,
+    "like_count": 322,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Today I compared GPT 6 Astra, Claude Opus 5.5, Muse Wonder and Gemini 4 Argon with: \"Make a slideshow for a 5th grade class on mountain lions\"  Can you guess wh",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Opus",
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110078650695508258",
+   "url": "https://x.com/71stfrick/status/2110078650695508258",
+   "user": "71stfrick",
+   "created_utc": "2026-10-13T18:42:08Z",
+   "created_jst": "2026-10-14T03:42:08+09:00",
+   "ts": 1791916928,
+   "metrics": {
+    "impression_count": 165889,
+    "like_count": 22549,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Speed gif, SON, ai slop  Speed gif, SON, ai slop  SPEED GIF, SON, AI SLOP https://t.co/8rWln7wSwd https://t.co/1gQn0SLcw7",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110015197255450694",
+   "url": "https://x.com/daniel_mac8/status/2110015197255450694",
+   "user": "daniel_mac8",
+   "created_utc": "2026-10-13T14:29:59Z",
+   "created_jst": "2026-10-13T23:29:59+09:00",
+   "ts": 1791901799,
+   "metrics": {
+    "impression_count": 161301,
+    "like_count": 1701,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Codexers: There are few free lunches in life. This is one.  Codex memory uses GPT-5.6 Luna and GPT-5.6 Terra by default.  Upgrade Codex memories by copying the ",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "GPT-5",
+    "Codex"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2109992191431176238",
+   "url": "https://x.com/xiao_signo028/status/2109992191431176238",
+   "user": "xiao_signo028",
+   "created_utc": "2026-10-13T12:58:34Z",
+   "created_jst": "2026-10-13T21:58:34+09:00",
+   "ts": 1791896314,
+   "metrics": {
+    "impression_count": 157446,
+    "like_count": 998,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "こういうパッケージは大体ストックフォトにある画像。生成AIとしらずに誰かが引っ張ってきた提出素材にokだしたりしてる。  と思って探したら、ほら、あった。adobe stockのAIイラストですね。おそらく普通の素材イラストと同等に扱われている。AIイラストかどうかは最初に使用した人しかわからない https://t.",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110027719476199856",
+   "url": "https://x.com/AiHubMix/status/2110027719476199856",
+   "user": "AiHubMix",
+   "created_utc": "2026-10-13T15:19:45Z",
+   "created_jst": "2026-10-14T00:19:45+09:00",
+   "ts": 1791904785,
+   "metrics": {
+    "impression_count": 156025,
+    "like_count": 574,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Gemini 4 Argon vs GPT 6 Astra  we tested both models through our API with the same prompt, but the results came out really different  - astra took 25 mins and c",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Gemini",
+    "prompt"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2109985020848869486",
+   "url": "https://x.com/washingtonpost/status/2109985020848869486",
+   "user": "washingtonpost",
+   "created_utc": "2026-10-13T12:30:05Z",
+   "created_jst": "2026-10-13T21:30:05+09:00",
+   "ts": 1791894605,
+   "metrics": {
+    "impression_count": 152821,
+    "like_count": 576,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Michigan Democratic Senate candidate Abdul El-Sayed on Tuesday unveiled a proposal to freeze development of advanced AI models and data center until policymaker",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "data center",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110205675880042601",
+   "url": "https://x.com/spikesguides/status/2110205675880042601",
+   "user": "spikesguides",
+   "created_utc": "2026-10-14T03:06:53Z",
+   "created_jst": "2026-10-14T12:06:53+09:00",
+   "ts": 1791947213,
+   "metrics": {
+    "impression_count": 145505,
+    "like_count": 6126,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Discovered ChatGPT has a secret racism mode.   All you have to do is talk to it like the biggest stereotype ever. https://t.co/vsBimfvYni",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110068185793970576",
+   "url": "https://x.com/ArtificialAnlys/status/2110068185793970576",
+   "user": "ArtificialAnlys",
+   "created_utc": "2026-10-13T18:00:33Z",
+   "created_jst": "2026-10-14T03:00:33+09:00",
+   "ts": 1791914433,
+   "metrics": {
+    "impression_count": 139421,
+    "like_count": 2549,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted prices unti",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "GPT-6",
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110098269904789797",
+   "url": "https://x.com/StefanoGPT/status/2110098269904789797",
+   "user": "StefanoGPT",
+   "created_utc": "2026-10-13T20:00:05Z",
+   "created_jst": "2026-10-14T05:00:05+09:00",
+   "ts": 1791921605,
+   "metrics": {
+    "impression_count": 137544,
+    "like_count": 818,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "OMG. I asked GPT-6 Astra to turn @thsottiaux's profile picture into a fully 3D model.  I don't think he's ready to see this. 💀  prompt is in the comments https:",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "GPT-6",
+    "prompt"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110042429801840924",
+   "url": "https://x.com/DeItaone/status/2110042429801840924",
+   "user": "DeItaone",
+   "created_utc": "2026-10-13T16:18:12Z",
+   "created_jst": "2026-10-14T01:18:12+09:00",
+   "ts": 1791908292,
+   "metrics": {
+    "impression_count": 132670,
+    "like_count": 356,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "$NVDA  - NVIDIA TO ANNOUNCE $2 BILLION IN NEW EUROPEAN AI INVESTMENTS  Nvidia CEO Jensen Huang says the company plans to announce $2 billion in European AI inve",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Nvidia",
+    "CEO",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110168312739217498",
+   "url": "https://x.com/tuolaji2024/status/2110168312739217498",
+   "user": "tuolaji2024",
+   "created_utc": "2026-10-14T00:38:25Z",
+   "created_jst": "2026-10-14T09:38:25+09:00",
+   "ts": 1791938305,
+   "metrics": {
+    "impression_count": 128789,
+    "like_count": 513,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "在 OpenAI 和 anthropic 加强防御蒸馏以后，开源模型一败涂地，就连美国豆包 gemini 4 都挺好用的了。 https://t.co/tib1uKicPG",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "OpenAI",
+    "Anthropic",
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110059330422833518",
+   "url": "https://x.com/wwwwprivate/status/2110059330422833518",
+   "user": "wwwwprivate",
+   "created_utc": "2026-10-13T17:25:22Z",
+   "created_jst": "2026-10-14T02:25:22+09:00",
+   "ts": 1791912322,
+   "metrics": {
+    "impression_count": 121938,
+    "like_count": 4515,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "正直生成AI は全面禁止にすべきだと思います。 世の中で言われている生成AI の活用法とやらも「数多の著作物や知的財産を無断使用している部分に目を瞑れば」便利である、みたいなものが多いですが、そこに目を瞑るべきではありません。 https://t.co/My2BW6YFQn",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110294092001251470",
+   "url": "https://x.com/Nanosecso/status/2110294092001251470",
+   "user": "Nanosecso",
+   "created_utc": "2026-10-14T08:58:13Z",
+   "created_jst": "2026-10-14T17:58:13+09:00",
+   "ts": 1791968293,
+   "metrics": {
+    "impression_count": 120202,
+    "like_count": 4659,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Acabo de ver esto.  Como que la web de Renfe ha costado 164 MILLONES.  REPITO: 164 MILLONES DE EUROS  Cualquier puto friki de aquí con la suscripción de 20 pavo",
+   "categories": [
+    "その他"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110160140116590728",
+   "url": "https://x.com/Unexplained2020/status/2110160140116590728",
+   "user": "Unexplained2020",
+   "created_utc": "2026-10-14T00:05:56Z",
+   "created_jst": "2026-10-14T09:05:56+09:00",
+   "ts": 1791936356,
+   "metrics": {
+    "impression_count": 118087,
+    "like_count": 316,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "This is terrifying! An AI researcher at Anthropic, one of the world's leading AI companies, reportedly believes the world has just SIX MONTHS left.  That brings",
+   "categories": [
+    "新モデル・発表",
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Anthropic",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110180038637408357",
+   "url": "https://x.com/illyism/status/2110180038637408357",
+   "user": "illyism",
+   "created_utc": "2026-10-14T01:25:01Z",
+   "created_jst": "2026-10-14T10:25:01+09:00",
+   "ts": 1791941101,
+   "metrics": {
+    "impression_count": 117757,
+    "like_count": 727,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "530 people asked for the system prompt I use to run SEO + AEO inside Claude Code and Cursor.  Instead of gatekeeping it in DMs, I just open-sourced the entire r",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "prompt"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110178999594815961",
+   "url": "https://x.com/amitisinvesting/status/2110178999594815961",
+   "user": "amitisinvesting",
+   "created_utc": "2026-10-14T01:20:53Z",
+   "created_jst": "2026-10-14T10:20:53+09:00",
+   "ts": 1791940853,
+   "metrics": {
+    "impression_count": 113316,
+    "like_count": 1153,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "A TON OF THINGS HAPPENED IN THE STOCK MARKET TODAY.  Here's a full recap:  1. Q3 2026 earnings season got underway with reports from JPMorgan $JPM, Goldman Sach",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2109987865526775955",
+   "url": "https://x.com/StockSavvyShay/status/2109987865526775955",
+   "user": "StockSavvyShay",
+   "created_utc": "2026-10-13T12:41:23Z",
+   "created_jst": "2026-10-13T21:41:23+09:00",
+   "ts": 1791895283,
+   "metrics": {
+    "impression_count": 113126,
+    "like_count": 717,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "$CIFR is down over 12% after announcing plans to raise up to $1B in 0% convertible debt to fund Barber Lake and expand its AI data center pipeline.  Cipher is e",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "data center",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110039818524660135",
+   "url": "https://x.com/Mnilax/status/2110039818524660135",
+   "user": "Mnilax",
+   "created_utc": "2026-10-13T16:07:50Z",
+   "created_jst": "2026-10-14T01:07:50+09:00",
+   "ts": 1791907670,
+   "metrics": {
+    "impression_count": 111560,
+    "like_count": 1947,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "it's f*cking gold  Unity just opened their game engines to Claude Code  15 github repos that turn Opus 5.5 into a full game studio:  RUN THE WHOLE STUDIO  01. C",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Opus",
+    "Claude Code"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110275714213961943",
+   "url": "https://x.com/KAI_YOU_ed/status/2110275714213961943",
+   "user": "KAI_YOU_ed",
+   "created_utc": "2026-10-14T07:45:11Z",
+   "created_jst": "2026-10-14T16:45:11+09:00",
+   "ts": 1791963911,
+   "metrics": {
+    "impression_count": 107271,
+    "like_count": 673,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "デジタルハリウッド大学、生成AI「Claude」を全学導入　学生が費用を気にせず“使い倒せる” https://t.co/O6x2fI0TwQ  全学生と教員、全職員が大学のアカウントを通じて利用可能に──なお、国内の大学でClaudeを全学導入するのは今回の事例が初になるとのこと😲 https://t.co/P1vG",
+   "categories": [
+    "新モデル・発表",
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Claude",
+    "導入",
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110104132178608271",
+   "url": "https://x.com/yozahir/status/2110104132178608271",
+   "user": "yozahir",
+   "created_utc": "2026-10-13T20:23:23Z",
+   "created_jst": "2026-10-14T05:23:23+09:00",
+   "ts": 1791923003,
+   "metrics": {
+    "impression_count": 101547,
+    "like_count": 6482,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "They tried to tell me the AI lady wouldn't invest in AI https://t.co/w0zHYHmJUC https://t.co/0eJnQfjhR7",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110048747183063220",
+   "url": "https://x.com/fanofaliens/status/2110048747183063220",
+   "user": "fanofaliens",
+   "created_utc": "2026-10-13T16:43:18Z",
+   "created_jst": "2026-10-14T01:43:18+09:00",
+   "ts": 1791909798,
+   "metrics": {
+    "impression_count": 101080,
+    "like_count": 1758,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "we're so damn cooked 😭  google's gemini 4 argon just did something actually crazy for fusion energy  in 1967 a physicist named harold grad guessed that the magn",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110078803297055212",
+   "url": "https://x.com/Bhavani_00007/status/2110078803297055212",
+   "user": "Bhavani_00007",
+   "created_utc": "2026-10-13T18:42:44Z",
+   "created_jst": "2026-10-14T03:42:44+09:00",
+   "ts": 1791916964,
+   "metrics": {
+    "impression_count": 101033,
+    "like_count": 619,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "4 Argon vs Opus 5.5 vs GPT 6 Astra vs Kimi K3  I asked all four to build a 3D whale breaching scene.  Argon's level of detail is on another level, and it wins o",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Opus",
+    "Kimi"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110255627704455591",
+   "url": "https://x.com/RoundtableSpace/status/2110255627704455591",
+   "user": "RoundtableSpace",
+   "created_utc": "2026-10-14T06:25:22Z",
+   "created_jst": "2026-10-14T15:25:22+09:00",
+   "ts": 1791959122,
+   "metrics": {
+    "impression_count": 98911,
+    "like_count": 672,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "10 github repos that turn claude code and codex into elite ui designers:   1.⁠ ⁠Superdesign Skill     https://t.co/fIXCvgpG2F  2.⁠ ⁠Better Design     https://t.",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Claude Code",
+    "Codex"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110090228602204461",
+   "url": "https://x.com/Grummz/status/2110090228602204461",
+   "user": "Grummz",
+   "created_utc": "2026-10-13T19:28:08Z",
+   "created_jst": "2026-10-14T04:28:08+09:00",
+   "ts": 1791919688,
+   "metrics": {
+    "impression_count": 98827,
+    "like_count": 3347,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Asha has noticed what gamers are doing with AI, and created XBOX LABS.  - AI is porting games to new platforms never intended. - AI is allowing game mixing. - X",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110105097070166276",
+   "url": "https://x.com/okaythenfuture/status/2110105097070166276",
+   "user": "okaythenfuture",
+   "created_utc": "2026-10-13T20:27:13Z",
+   "created_jst": "2026-10-14T05:27:13+09:00",
+   "ts": 1791923233,
+   "metrics": {
+    "impression_count": 97332,
+    "like_count": 2618,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Saudis are somehow so incompetent they can’t even rob or spy on OpenAI and Anthropic successfully.   China probably has 100+ spies in both orgs at this point, e",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "OpenAI",
+    "Anthropic"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110062111212589189",
+   "url": "https://x.com/JTheAccountant/status/2110062111212589189",
+   "user": "JTheAccountant",
+   "created_utc": "2026-10-13T17:36:25Z",
+   "created_jst": "2026-10-14T02:36:25+09:00",
+   "ts": 1791912985,
+   "metrics": {
+    "impression_count": 97093,
+    "like_count": 963,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Reverse-engineering software from an $80 billion company (@Intuit), publicly announcing what seems like a decompiled version (guessing here), and then explainin",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110001770844037255",
+   "url": "https://x.com/k2sbhai/status/2110001770844037255",
+   "user": "k2sbhai",
+   "created_utc": "2026-10-13T13:36:38Z",
+   "created_jst": "2026-10-13T22:36:38+09:00",
+   "ts": 1791898598,
+   "metrics": {
+    "impression_count": 94672,
+    "like_count": 817,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "GPT and Claude are FREE 😳  no account no credit card needed  - GPT-6 Luna - GPT-5.4 mini - Claude Haiku 4.5  try it on https://t.co/393TdxmDKs https://t.co/yrqH",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "GPT-6",
+    "GPT-5",
+    "Claude"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110111408364888065",
+   "url": "https://x.com/lucakvlr/status/2110111408364888065",
+   "user": "lucakvlr",
+   "created_utc": "2026-10-13T20:52:18Z",
+   "created_jst": "2026-10-14T05:52:18+09:00",
+   "ts": 1791924738,
+   "metrics": {
+    "impression_count": 94071,
+    "like_count": 1002,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "criei uma skill pro meu agente IA junto com Claude (claude-opus-5.5) e openAI (gpt-5.4), dei acesso a todos meus sfx, efeitos e plugins, esse é o resultado da e",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "OpenAI",
+    "GPT-5",
+    "Claude",
+    "Opus"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110031026026332551",
+   "url": "https://x.com/testingcatalog/status/2110031026026332551",
+   "user": "testingcatalog",
+   "created_utc": "2026-10-13T15:32:53Z",
+   "created_jst": "2026-10-14T00:32:53+09:00",
+   "ts": 1791905573,
+   "metrics": {
+    "impression_count": 92239,
+    "like_count": 1461,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "ANTHROPIC 🔥: Claude Fable 5.5 traces have been spotted in Azure configs.   If this model drops today, it would be a new SOTA across many areas.   Soon? 👀 https:",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Anthropic",
+    "Claude",
+    "Fable"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110047297560043673",
+   "url": "https://x.com/kimmonismus/status/2110047297560043673",
+   "user": "kimmonismus",
+   "created_utc": "2026-10-13T16:37:33Z",
+   "created_jst": "2026-10-14T01:37:33+09:00",
+   "ts": 1791909453,
+   "metrics": {
+    "impression_count": 89973,
+    "like_count": 1667,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "As you know by now, I trust Leo quite a bit. If he says Anthropic plans to release Fable 5.5 this week, it’s fair to assume there’s something to it.  So Fable 5",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Anthropic",
+    "Fable",
+    "release"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110066046891892961",
+   "url": "https://x.com/itsbreeze_09/status/2110066046891892961",
+   "user": "itsbreeze_09",
+   "created_utc": "2026-10-13T17:52:03Z",
+   "created_jst": "2026-10-14T02:52:03+09:00",
+   "ts": 1791913923,
+   "metrics": {
+    "impression_count": 89360,
+    "like_count": 12967,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Character AI filed for bankruptcy, Bumble is shutting down, PS5 games will soon run on PC, the AI bubble is showing its cracks, Adobe Creative Cloud and Microso",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "bubble",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110189752666440181",
+   "url": "https://x.com/irabukht/status/2110189752666440181",
+   "user": "irabukht",
+   "created_utc": "2026-10-14T02:03:37Z",
+   "created_jst": "2026-10-14T11:03:37+09:00",
+   "ts": 1791943417,
+   "metrics": {
+    "impression_count": 87761,
+    "like_count": 1047,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Railway hacked AI SEO, and it took them from $20M to ~$100M ARR in 1 year:  1/ Claude Code picks Railway for 82% of Python apps -&gt;  Ask it \"how do I deploy t",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Claude Code",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110081225176096983",
+   "url": "https://x.com/Aria_Nawi/status/2110081225176096983",
+   "user": "Aria_Nawi",
+   "created_utc": "2026-10-13T18:52:22Z",
+   "created_jst": "2026-10-14T03:52:22+09:00",
+   "ts": 1791917542,
+   "metrics": {
+    "impression_count": 87637,
+    "like_count": 225,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Been thinking about going Pro? Get 60% off Pro or 40% off Ultra from Oct 20–30. CapCut Desktop only.  What can CapCut do in ChatGPT? I tested the CapCut ChatGPT",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110171235556708361",
+   "url": "https://x.com/nizzyhussle/status/2110171235556708361",
+   "user": "nizzyhussle",
+   "created_utc": "2026-10-14T00:50:02Z",
+   "created_jst": "2026-10-14T09:50:02+09:00",
+   "ts": 1791939002,
+   "metrics": {
+    "impression_count": 86781,
+    "like_count": 5337,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "kalau mau pake ai buat skripsi, jangan pake chatgpt atau claude yang di web  download chatgpt atau claude desktop app  bikin project di folder tertentu, suruh d",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "Claude",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110131222676746431",
+   "url": "https://x.com/kenken26679105/status/2110131222676746431",
+   "user": "kenken26679105",
+   "created_utc": "2026-10-13T22:11:02Z",
+   "created_jst": "2026-10-14T07:11:02+09:00",
+   "ts": 1791929462,
+   "metrics": {
+    "impression_count": 83875,
+    "like_count": 666,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "なんか・・・ 一周回って、結局、PPTの資料は自分で作っている😅  もちろん、生成AIに、デスクリサーチは担当させているので、準備はかなり短縮できたけど・・・ 生成AIによるスライド自体の作成は、ここ３〜４ヶ月、相当に工夫したけど、自分が求める品質に至らなかった。  見た目はそれらしいけど、",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110081839176048769",
+   "url": "https://x.com/steamcito_ar/status/2110081839176048769",
+   "user": "steamcito_ar",
+   "created_utc": "2026-10-13T18:54:48Z",
+   "created_jst": "2026-10-14T03:54:48+09:00",
+   "ts": 1791917688,
+   "metrics": {
+    "impression_count": 82211,
+    "like_count": 1305,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "💀 Un dev indie tuvo que pagar una factura de más de 1.000 dólares a Google y OpenAI después de que su demo se volviera viral en Twitch  El juego usa IA generati",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "OpenAI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110122718456893834",
+   "url": "https://x.com/PTrubey/status/2110122718456893834",
+   "user": "PTrubey",
+   "created_utc": "2026-10-13T21:37:14Z",
+   "created_jst": "2026-10-14T06:37:14+09:00",
+   "ts": 1791927434,
+   "metrics": {
+    "impression_count": 82197,
+    "like_count": 3890,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Why I hate Anthropic example #112. This guy shitposted threatening Claude so that it doesn’t hallucinate and within hours his company’s corporate account gets b",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Anthropic",
+    "Claude"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110154781314752915",
+   "url": "https://x.com/Sui_A/status/2110154781314752915",
+   "user": "Sui_A",
+   "created_utc": "2026-10-13T23:44:39Z",
+   "created_jst": "2026-10-14T08:44:39+09:00",
+   "ts": 1791935079,
+   "metrics": {
+    "impression_count": 81999,
+    "like_count": 4204,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "「生成AIで皆がすぐアプリ作れるの最高では？どんどんDX進めましょう！」という話をされるたびに「皆が料理にチャレンジするのは良いとして、手を洗ってるかどうかわからない人がサラダを配ってるようなもんっス」と答えている",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110022753239646405",
+   "url": "https://x.com/OrevaZSN/status/2110022753239646405",
+   "user": "OrevaZSN",
+   "created_utc": "2026-10-13T15:00:01Z",
+   "created_jst": "2026-10-14T00:00:01+09:00",
+   "ts": 1791903601,
+   "metrics": {
+    "impression_count": 80217,
+    "like_count": 4778,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "My theory about corporate AI psychosis is that AI is most appealing to people who aren’t good at their jobs. AI slop looks incredible to them because they’re so",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110069786415968754",
+   "url": "https://x.com/thtbee_/status/2110069786415968754",
+   "user": "thtbee_",
+   "created_utc": "2026-10-13T18:06:54Z",
+   "created_jst": "2026-10-14T03:06:54+09:00",
+   "ts": 1791914814,
+   "metrics": {
+    "impression_count": 75659,
+    "like_count": 998,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Gemini 4 Argon - A futuristic 3D battle helicopter made purely in three.js !  Everything you see was procedurally generated from scratch.. this is a result of m",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110043532610433420",
+   "url": "https://x.com/masahirochaen/status/2110043532610433420",
+   "user": "masahirochaen",
+   "created_utc": "2026-10-13T16:22:35Z",
+   "created_jst": "2026-10-14T01:22:35+09:00",
+   "ts": 1791908555,
+   "metrics": {
+    "impression_count": 75384,
+    "like_count": 545,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "【超速報】Google「Gemini 4 Argon」が全世界で一般提供開始。遂に王者奪還か。  GPT-6 Astra、Claude Opus 5.5らとの公式比較で19項目中14項目がトップ（同率含む）。法務と長文脈の差がとにかく大きい。  ・DeepSWE v1.1 77.9% ・Harvey法務エージェント 1",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "GPT-6",
+    "Claude",
+    "Opus",
+    "Gemini",
+    "エージェント"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110046572826259918",
+   "url": "https://x.com/PawelHuryn/status/2110046572826259918",
+   "user": "PawelHuryn",
+   "created_utc": "2026-10-13T16:34:40Z",
+   "created_jst": "2026-10-14T01:34:40+09:00",
+   "ts": 1791909280,
+   "metrics": {
+    "impression_count": 70942,
+    "like_count": 406,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "So, I tested Muse Wonder Full 1.0 on real work. 2 repos. 105 bugs frontier models missed in Q1 2026. Find and fix what you can.  I'm so surprised we need a new ",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110042279880884565",
+   "url": "https://x.com/ash_twtz/status/2110042279880884565",
+   "user": "ash_twtz",
+   "created_utc": "2026-10-13T16:17:36Z",
+   "created_jst": "2026-10-14T01:17:36+09:00",
+   "ts": 1791908256,
+   "metrics": {
+    "impression_count": 69517,
+    "like_count": 1270,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "This is highly disappointing from Google.  Gemini 4 Argon is exclusive to Ultra users in Antigravity, while Pro users can access it in the Gemini app.  So Googl",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Gemini",
+    "Antigravity"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110038100483195236",
+   "url": "https://x.com/iruletheworldmo/status/2110038100483195236",
+   "user": "iruletheworldmo",
+   "created_utc": "2026-10-13T16:01:00Z",
+   "created_jst": "2026-10-14T01:01:00+09:00",
+   "ts": 1791907260,
+   "metrics": {
+    "impression_count": 67030,
+    "like_count": 677,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "gemini 4 argon is out. i've had access for a couple of weeks and google are back. kind of…  unlike muse, the model isn't simply benchmaxed, it's a genuine conte",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2109991303228563726",
+   "url": "https://x.com/up0nloss/status/2109991303228563726",
+   "user": "up0nloss",
+   "created_utc": "2026-10-13T12:55:03Z",
+   "created_jst": "2026-10-13T21:55:03+09:00",
+   "ts": 1791896103,
+   "metrics": {
+    "impression_count": 62954,
+    "like_count": 5861,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "20 degrees in October because people need ChatGPT to write their emails",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110008983180198035",
+   "url": "https://x.com/midudev/status/2110008983180198035",
+   "user": "midudev",
+   "created_utc": "2026-10-13T14:05:18Z",
+   "created_jst": "2026-10-13T23:05:18+09:00",
+   "ts": 1791900318,
+   "metrics": {
+    "impression_count": 62132,
+    "like_count": 2213,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Esta skill te crea vídeos con HTML, CSS y JS. Con animaciones y un editor integrado.  Se llama HyperFrames y es de código abierto.  Funciona en Claude, Cursor, ",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Llama",
+    "Cursor"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110029868528210352",
+   "url": "https://x.com/TheDefiantGhost/status/2110029868528210352",
+   "user": "TheDefiantGhost",
+   "created_utc": "2026-10-13T15:28:17Z",
+   "created_jst": "2026-10-14T00:28:17+09:00",
+   "ts": 1791905297,
+   "metrics": {
+    "impression_count": 61069,
+    "like_count": 558,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Eric Weinstein just said it on camera: You’re already paying to summon the demon.  “Do you have a subscription to any of these AIs?” “Yes.”  “So you’re paying t",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110171841751097852",
+   "url": "https://x.com/emollick/status/2110171841751097852",
+   "user": "emollick",
+   "created_utc": "2026-10-14T00:52:26Z",
+   "created_jst": "2026-10-14T09:52:26+09:00",
+   "ts": 1791939146,
+   "metrics": {
+    "impression_count": 59407,
+    "like_count": 787,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Hey, AI give me your best \"Unless it is from X, its just sparkling Y\" style joke\":  GPT-6 Pro: \"Unless it comes from the Stockholm region of Sweden, it’s just s",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "GPT-6",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110196316391281098",
+   "url": "https://x.com/jpbrammer/status/2110196316391281098",
+   "user": "jpbrammer",
+   "created_utc": "2026-10-14T02:29:42Z",
+   "created_jst": "2026-10-14T11:29:42+09:00",
+   "ts": 1791944982,
+   "metrics": {
+    "impression_count": 57532,
+    "like_count": 11183,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "ChatGPT saying \"twin\" and \"NAHHH FR\" https://t.co/mFVK4XyiTJ",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110035957521006649",
+   "url": "https://x.com/rileybrown/status/2110035957521006649",
+   "user": "rileybrown",
+   "created_utc": "2026-10-13T15:52:29Z",
+   "created_jst": "2026-10-14T00:52:29+09:00",
+   "ts": 1791906749,
+   "metrics": {
+    "impression_count": 55820,
+    "like_count": 911,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "I can tell you... for anything content related... this is the most useful skill i've ever had inside codex and claude code. The ability to gather all relevant t",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Claude Code",
+    "Codex"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110000458882580561",
+   "url": "https://x.com/DevBylyh/status/2110000458882580561",
+   "user": "DevBylyh",
+   "created_utc": "2026-10-13T13:31:25Z",
+   "created_jst": "2026-10-13T22:31:25+09:00",
+   "ts": 1791898285,
+   "metrics": {
+    "impression_count": 55622,
+    "like_count": 419,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Claude:天下无敌 DeepSeek:天上来敌 https://t.co/9PG1yBG7DB",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Claude",
+    "DeepSeek"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110255092356075995",
+   "url": "https://x.com/ONagel33303/status/2110255092356075995",
+   "user": "ONagel33303",
+   "created_utc": "2026-10-14T06:23:15Z",
+   "created_jst": "2026-10-14T15:23:15+09:00",
+   "ts": 1791958995,
+   "metrics": {
+    "impression_count": 55333,
+    "like_count": 397,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Chilling!   An Anthropic researcher privately tells friends that we have 6 MONTHS LEFT until AI takes over.    What's even more alarming is that reportedly this",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Anthropic",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110052331702124894",
+   "url": "https://x.com/emollick/status/2110052331702124894",
+   "user": "emollick",
+   "created_utc": "2026-10-13T16:57:33Z",
+   "created_jst": "2026-10-14T01:57:33+09:00",
+   "ts": 1791910653,
+   "metrics": {
+    "impression_count": 54341,
+    "like_count": 830,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "I spent a decent amount of time with Gemini 4 before launch. Overall, Gemini 4 is a big jump over previous Gemini models and it is the first non-OpenAI/Anthropi",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "OpenAI",
+    "Gemini",
+    "launch"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110006573485478292",
+   "url": "https://x.com/manaluxx/status/2110006573485478292",
+   "user": "manaluxx",
+   "created_utc": "2026-10-13T13:55:43Z",
+   "created_jst": "2026-10-13T22:55:43+09:00",
+   "ts": 1791899743,
+   "metrics": {
+    "impression_count": 53747,
+    "like_count": 3511,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Minha namorada é advogada né? Ai meu pai fica alugando ela, depois manda o dinheiro pagando e fala: ai o dinheiro para você bancar minha filha",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110080740415394048",
+   "url": "https://x.com/RohOnChain/status/2110080740415394048",
+   "user": "RohOnChain",
+   "created_utc": "2026-10-13T18:50:26Z",
+   "created_jst": "2026-10-14T03:50:26+09:00",
+   "ts": 1791917426,
+   "metrics": {
+    "impression_count": 51697,
+    "like_count": 786,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "RIP Bloomberg Terminal.  i just reverse-engineered a Bloomberg-style terminal using REA MCP (Reverse Engineer Anything), software got nuked  now i am using $24K",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "MCP"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110192618269221048",
+   "url": "https://x.com/rubenssoto_ai/status/2110192618269221048",
+   "user": "rubenssoto_ai",
+   "created_utc": "2026-10-14T02:15:00Z",
+   "created_jst": "2026-10-14T11:15:00+09:00",
+   "ts": 1791944100,
+   "metrics": {
+    "impression_count": 51357,
+    "like_count": 421,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Opus 5.5 vs Gemini 4 Argon vs Gpt 6.1 Sol vs Gpt 6 Astra  Do we have a new king? 👑 https://t.co/9Ym7bpNEu7",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Opus",
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110042554444153318",
+   "url": "https://x.com/ooekinawa/status/2110042554444153318",
+   "user": "ooekinawa",
+   "created_utc": "2026-10-13T16:18:42Z",
+   "created_jst": "2026-10-14T01:18:42+09:00",
+   "ts": 1791908322,
+   "metrics": {
+    "impression_count": 51289,
+    "like_count": 10201,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "I HATE AI I HATE AI VIDEOS I HATE AI FLYERS ITS ALL CHATGPT THIS CLAUDE THAT GEMINI THIS COPILOT THAT I HATE HOW NOBODY CAN FUCKING DO ANYTHING THEMSELVES ANYMO",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "Claude",
+    "Gemini",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2109993863209513121",
+   "url": "https://x.com/ReOpenChris/status/2109993863209513121",
+   "user": "ReOpenChris",
+   "created_utc": "2026-10-13T13:05:13Z",
+   "created_jst": "2026-10-13T22:05:13+09:00",
+   "ts": 1791896713,
+   "metrics": {
+    "impression_count": 51204,
+    "like_count": 901,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "NEW: Ad from Conservative group calls Byron Donalds a PUPPET of Silicon Valley AI Weirdos like Mark Zuckerberg and Sam Altman.  Calls on Republicans to REJECT B",
+   "categories": [
+    "ビジネス・業界",
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Altman",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110005617658138822",
+   "url": "https://x.com/romandevz/status/2110005617658138822",
+   "user": "romandevz",
+   "created_utc": "2026-10-13T13:51:55Z",
+   "created_jst": "2026-10-13T22:51:55+09:00",
+   "ts": 1791899515,
+   "metrics": {
+    "impression_count": 50676,
+    "like_count": 1090,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "GitHub está lleno de cosas gratis que casi nadie está usando.  los 10 repos que están explotando este mes, de lo más fácil a lo más técnico:  lo que puede usar ",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110070221750812813",
+   "url": "https://x.com/0xSero/status/2110070221750812813",
+   "user": "0xSero",
+   "created_utc": "2026-10-13T18:08:38Z",
+   "created_jst": "2026-10-14T03:08:38+09:00",
+   "ts": 1791914918,
+   "metrics": {
+    "impression_count": 50390,
+    "like_count": 998,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Best models for your hardware October  —— 4GB to 8GB VRAM ——  Smoll but mighty https://t.co/J5cb6QwhZl  —— 8GB to 16GB VRAM ——  1. Underdog Saluki https://t.co/",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110037204244578507",
+   "url": "https://x.com/ISOLAat_/status/2110037204244578507",
+   "user": "ISOLAat_",
+   "created_utc": "2026-10-13T15:57:26Z",
+   "created_jst": "2026-10-14T00:57:26+09:00",
+   "ts": 1791907046,
+   "metrics": {
+    "impression_count": 48908,
+    "like_count": 6975,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "#AIイラスト #AI美少女 #AIgirl #AIart #メイド https://t.co/eLtzbyeEOg",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110108675092193436",
+   "url": "https://x.com/EndyisBad/status/2110108675092193436",
+   "user": "EndyisBad",
+   "created_utc": "2026-10-13T20:41:26Z",
+   "created_jst": "2026-10-14T05:41:26+09:00",
+   "ts": 1791924086,
+   "metrics": {
+    "impression_count": 48764,
+    "like_count": 7268,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "CORRECTION: Claude, ChatGPT and Gemini are now testing Chapter 8 Season 3 👀 https://t.co/tirOFFmcuD",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "Claude",
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110022422506217491",
+   "url": "https://x.com/spacanpanman/status/2110022422506217491",
+   "user": "spacanpanman",
+   "created_utc": "2026-10-13T14:58:42Z",
+   "created_jst": "2026-10-13T23:58:42+09:00",
+   "ts": 1791903522,
+   "metrics": {
+    "impression_count": 48379,
+    "like_count": 600,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "$ASTS: AST SPACEMOBILE CATALYST MONITOR  Upcoming Catalysts:  ☑️BB14 - BB16 Delivery to Florida and Launch on Falcon 9 ☑️BB17 - BB19 Delivery to Florida and Lau",
+   "categories": [
+    "新モデル・発表",
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "launch"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110123048380797069",
+   "url": "https://x.com/blackright0/status/2110123048380797069",
+   "user": "blackright0",
+   "created_utc": "2026-10-13T21:38:33Z",
+   "created_jst": "2026-10-14T06:38:33+09:00",
+   "ts": 1791927513,
+   "metrics": {
+    "impression_count": 47111,
+    "like_count": 416,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "AI業界に激震。Anthropic（アンソロピック）CEOが「Claudeが意識（Consciousness）を持っていないと確信することはもはや不可能になった」と発言。",
+   "categories": [
+    "新モデル・発表",
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Anthropic",
+    "Claude",
+    "CEO",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110014929163973097",
+   "url": "https://x.com/ai_explorer25/status/2110014929163973097",
+   "user": "ai_explorer25",
+   "created_utc": "2026-10-13T14:28:55Z",
+   "created_jst": "2026-10-13T23:28:55+09:00",
+   "ts": 1791901735,
+   "metrics": {
+    "impression_count": 46652,
+    "like_count": 352,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Sam Altman (CEO of OpenAI):  \"You no longer need to write prompts.\"  In just 38 minutes, he explains how to use ChatGPT at a level that most people can't even i",
+   "categories": [
+    "新モデル・発表",
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "OpenAI",
+    "ChatGPT",
+    "CEO",
+    "Altman"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110173750654374026",
+   "url": "https://x.com/1banana2546/status/2110173750654374026",
+   "user": "1banana2546",
+   "created_utc": "2026-10-14T01:00:01Z",
+   "created_jst": "2026-10-14T10:00:01+09:00",
+   "ts": 1791939601,
+   "metrics": {
+    "impression_count": 44828,
+    "like_count": 464,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "ChatGPTの画像生成でポリシー違反だよって言われる人へ。  何がNG？ 安全基準って何？ →まとめてみた。  ・露骨な性的描写 ・未成年の性的描写 ・性的暴力や同意のない性的画像 ・過度に生々しい残虐描写 ・差別や暴力、自傷をあおる内容 ・詐欺やなりすまし目的の画像 https://t.co/BwCCe6egou ",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110051484717273124",
+   "url": "https://x.com/OxBairan/status/2110051484717273124",
+   "user": "OxBairan",
+   "created_utc": "2026-10-13T16:54:11Z",
+   "created_jst": "2026-10-14T01:54:11+09:00",
+   "ts": 1791910451,
+   "metrics": {
+    "impression_count": 39980,
+    "like_count": 380,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Save on your next upgrade. Up to 60% off starting Oct 20, only on CapCut Desktop. Generate AI Videos from ChatGPT with CapCut? That workflow is becoming possibl",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110035216165200155",
+   "url": "https://x.com/TokenGremlin/status/2110035216165200155",
+   "user": "TokenGremlin",
+   "created_utc": "2026-10-13T15:49:32Z",
+   "created_jst": "2026-10-14T00:49:32+09:00",
+   "ts": 1791906572,
+   "metrics": {
+    "impression_count": 39956,
+    "like_count": 1065,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Anthropic is incredibly smart, and I'd argue they're the most ruthless and strategically calculated company in the AI industry.  They timed their model launches",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Anthropic",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110087638837539017",
+   "url": "https://x.com/spectnfa/status/2110087638837539017",
+   "user": "spectnfa",
+   "created_utc": "2026-10-13T19:17:51Z",
+   "created_jst": "2026-10-14T04:17:51+09:00",
+   "ts": 1791919071,
+   "metrics": {
+    "impression_count": 38512,
+    "like_count": 354,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "ELON MUSK SAT SPEECHLESS AS JENSEN HUANG GAVE AWAY A CLAUDE PROMPT YOU CAN COPY TONIGHT  research used to eat jensen's whole weekend, 4-8 hours. now claude hand",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用",
+    "研究・論文"
+   ],
+   "matched_terms": [
+    "Claude",
+    "prompt",
+    "research"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110054102432682092",
+   "url": "https://x.com/nrqa__/status/2110054102432682092",
+   "user": "nrqa__",
+   "created_utc": "2026-10-13T17:04:35Z",
+   "created_jst": "2026-10-14T02:04:35+09:00",
+   "ts": 1791911075,
+   "metrics": {
+    "impression_count": 37661,
+    "like_count": 210,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "you can ship AI-written code at 2am and still sleep fine if you use Sazabi right  it's f*cking unreal..  it catches what slipped through in prod, then you fix i",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110048840082653647",
+   "url": "https://x.com/arena/status/2110048840082653647",
+   "user": "arena",
+   "created_utc": "2026-10-13T16:43:40Z",
+   "created_jst": "2026-10-14T01:43:40+09:00",
+   "ts": 1791909820,
+   "metrics": {
+    "impression_count": 37171,
+    "like_count": 394,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Agent Arena update: we’ve evolved the Bash Recovery signal, with Bash Reliability. Here’s how it impacts the leaderboard.  At the top for Agent Arena: - #1 Clau",
+   "categories": [
+    "研究・論文",
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Arena"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110234900616126769",
+   "url": "https://x.com/ann_nnng/status/2110234900616126769",
+   "user": "ann_nnng",
+   "created_utc": "2026-10-14T05:03:01Z",
+   "created_jst": "2026-10-14T14:03:01+09:00",
+   "ts": 1791954181,
+   "metrics": {
+    "impression_count": 36254,
+    "like_count": 390,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "testing the margarita sloshing effect with Gemini 4 Argon, Muse Wonder, Claude Opus 5.5, and GPT 6 Astra  they all used three.js with webgl, Gemini has improved",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Opus",
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110124065788932329",
+   "url": "https://x.com/cadettrim/status/2110124065788932329",
+   "user": "cadettrim",
+   "created_utc": "2026-10-13T21:42:36Z",
+   "created_jst": "2026-10-14T06:42:36+09:00",
+   "ts": 1791927756,
+   "metrics": {
+    "impression_count": 35720,
+    "like_count": 3495,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "This was my AI pawg maga goons before AI pawg maga goons was a thing https://t.co/fI5kO0oYmI",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110035797193752925",
+   "url": "https://x.com/0xCodila/status/2110035797193752925",
+   "user": "0xCodila",
+   "created_utc": "2026-10-13T15:51:51Z",
+   "created_jst": "2026-10-14T00:51:51+09:00",
+   "ts": 1791906711,
+   "metrics": {
+    "impression_count": 35001,
+    "like_count": 757,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "REA creator just released prompts that turn any AI agent into reverse-engineering lab  absurdly f*cking dangerous...  One paste and your agents will:  • reverse",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "AI agent",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2109989886954512657",
+   "url": "https://x.com/DocumentingAGI/status/2109989886954512657",
+   "user": "DocumentingAGI",
+   "created_utc": "2026-10-13T12:49:25Z",
+   "created_jst": "2026-10-13T21:49:25+09:00",
+   "ts": 1791895765,
+   "metrics": {
+    "impression_count": 34799,
+    "like_count": 325,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "The Information reports a startup founded by Jeffrey Katzenberg, former Sora lead Bill Peebles, and former Dropbox CFO Sujay Jaswa is negotiating access to Open",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Sora"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110025865429950522",
+   "url": "https://x.com/angeldot_/status/2110025865429950522",
+   "user": "angeldot_",
+   "created_utc": "2026-10-13T15:12:23Z",
+   "created_jst": "2026-10-14T00:12:23+09:00",
+   "ts": 1791904343,
+   "metrics": {
+    "impression_count": 34715,
+    "like_count": 350,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "EL TRUCO PARA PAGAR MENOS POR CLAUDE Y GPT QUE CASI NADIE USA  La mayoría hace esto:  → paga Claude o GPT directamente a un solo proveedor → al precio que ese p",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Claude"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110003379963343277",
+   "url": "https://x.com/EngMoElgaraihy/status/2110003379963343277",
+   "user": "EngMoElgaraihy",
+   "created_utc": "2026-10-13T13:43:02Z",
+   "created_jst": "2026-10-13T22:43:02+09:00",
+   "ts": 1791898982,
+   "metrics": {
+    "impression_count": 34682,
+    "like_count": 505,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "🚨 جي بي تي وكلود أصبحا مجانيين تماماً! 😳⚡️  بدون حساب. بدون بطاقة ائتمان.  النماذج المتاحة: GPT-6 Luna GPT-5.4 mini Claude Haiku 4.5  جربها على الموقع الرابط في",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "GPT-6",
+    "GPT-5",
+    "Claude"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110086564357505291",
+   "url": "https://x.com/googledevs/status/2110086564357505291",
+   "user": "googledevs",
+   "created_utc": "2026-10-13T19:13:35Z",
+   "created_jst": "2026-10-14T04:13:35+09:00",
+   "ts": 1791918815,
+   "metrics": {
+    "impression_count": 34608,
+    "like_count": 458,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "🏁 Taking Gemini 4 Argon for a spin in Google @Antigravity.  Learn how @genevieve__h transforms a desk photo into an interactive 3D racing game by using Argon to",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Gemini",
+    "Antigravity"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110158729010458788",
+   "url": "https://x.com/alpha31415926/status/2110158729010458788",
+   "user": "alpha31415926",
+   "created_utc": "2026-10-14T00:00:20Z",
+   "created_jst": "2026-10-14T09:00:20+09:00",
+   "ts": 1791936020,
+   "metrics": {
+    "impression_count": 34544,
+    "like_count": 770,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "これは全人類に見てほしい投稿。 「反AI」という語がどう使われているか、の良い例。  少なくない生成AI推進派が「反AI」がAIを滅ぼすべく過激な言動をするカルト集団であるかのように語るが、同時に彼らは彼らの生成AI推進論に対して少しでも不利な発言をする人に容赦なく「反AI」のレッテルを貼る → https://t.c",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110246725965504719",
+   "url": "https://x.com/aakashgupta/status/2110246725965504719",
+   "user": "aakashgupta",
+   "created_utc": "2026-10-14T05:50:00Z",
+   "created_jst": "2026-10-14T14:50:00+09:00",
+   "ts": 1791957000,
+   "metrics": {
+    "impression_count": 34439,
+    "like_count": 308,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Claude now writes code so fast that Anthropic had to rip out git, the tool basically every software company on Earth uses to track changes to its code.  Back in",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Anthropic",
+    "Claude"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110197943890305103",
+   "url": "https://x.com/icrptd/status/2110197943890305103",
+   "user": "icrptd",
+   "created_utc": "2026-10-14T02:36:10Z",
+   "created_jst": "2026-10-14T11:36:10+09:00",
+   "ts": 1791945370,
+   "metrics": {
+    "impression_count": 32617,
+    "like_count": 731,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "طبيعي بتتهم الموظف السعودي.. بينما يخوض السعودي حرب اعلامية.. وكل المنصات الاخبارية تبدأ الخبر بكلمة Saudi.. ماتبدأ بالخبر ان الشركة فيها جاسوس..  اصحى يالسعودي",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110014223476806051",
+   "url": "https://x.com/sudoingX/status/2110014223476806051",
+   "user": "sudoingX",
+   "created_utc": "2026-10-13T14:26:07Z",
+   "created_jst": "2026-10-13T23:26:07+09:00",
+   "ts": 1791901567,
+   "metrics": {
+    "impression_count": 32568,
+    "like_count": 582,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "here are the best uncensored ai models that run on a phone locally 🚨  i went through every uncensored and abliterated model small enough for a phone and picked ",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110205227978916154",
+   "url": "https://x.com/rdd147/status/2110205227978916154",
+   "user": "rdd147",
+   "created_utc": "2026-10-14T03:05:06Z",
+   "created_jst": "2026-10-14T12:05:06+09:00",
+   "ts": 1791947106,
+   "metrics": {
+    "impression_count": 31919,
+    "like_count": 345,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Sorry I under exaggerated my claim on how bad the $CRWV situation is. They have $11 billion of debt maturing and $2.6 billion of interest due by next year, whil",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110049787072360532",
+   "url": "https://x.com/GeokenAI/status/2110049787072360532",
+   "user": "GeokenAI",
+   "created_utc": "2026-10-13T16:47:26Z",
+   "created_jst": "2026-10-14T01:47:26+09:00",
+   "ts": 1791910046,
+   "metrics": {
+    "impression_count": 30964,
+    "like_count": 695,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "This is the real me, but the background is courtesy of Gemini 4 Argon.   I showed Argon the two green-screen stills below and asked it to 1) build me a room in ",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110226594262340052",
+   "url": "https://x.com/coinbureau/status/2110226594262340052",
+   "user": "coinbureau",
+   "created_utc": "2026-10-14T04:30:00Z",
+   "created_jst": "2026-10-14T13:30:00+09:00",
+   "ts": 1791952200,
+   "metrics": {
+    "impression_count": 30284,
+    "like_count": 423,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "🚨HUGE: Ripple partners with Stripe-owned Privy to bring embedded wallets and AI agent payments to the XRP Ledger.  The integration will let developers build XRP",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "AI agent",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110072127042797809",
+   "url": "https://x.com/testingcatalog/status/2110072127042797809",
+   "user": "testingcatalog",
+   "created_utc": "2026-10-13T18:16:12Z",
+   "created_jst": "2026-10-14T03:16:12+09:00",
+   "ts": 1791915372,
+   "metrics": {
+    "impression_count": 30226,
+    "like_count": 640,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "GOOGLE 🔥: Gemini 4 Argon landed on the 5th spot on Arena Overall ranking.   1 Opus 5.5 2 GPT 6.1 Sol 3 Fable 5.1  4 GPT 6 Astra 5 Gemini 4 Argon 👀 https://t.co/",
+   "categories": [
+    "新モデル・発表",
+    "研究・論文"
+   ],
+   "matched_terms": [
+    "Opus",
+    "Fable",
+    "Gemini",
+    "Arena"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110029309826232587",
+   "url": "https://x.com/wwwwprivate/status/2110029309826232587",
+   "user": "wwwwprivate",
+   "created_utc": "2026-10-13T15:26:04Z",
+   "created_jst": "2026-10-14T00:26:04+09:00",
+   "ts": 1791905164,
+   "metrics": {
+    "impression_count": 29328,
+    "like_count": 2804,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "このまま全ての生成AI が止まってほしいものです。 https://t.co/akZJazTN0G",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110007656073007452",
+   "url": "https://x.com/Voxyz_ai/status/2110007656073007452",
+   "user": "Voxyz_ai",
+   "created_utc": "2026-10-13T14:00:01Z",
+   "created_jst": "2026-10-13T23:00:01+09:00",
+   "ts": 1791900001,
+   "metrics": {
+    "impression_count": 28681,
+    "like_count": 597,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "If you build Unreal Engine games with Claude Code, install Epic's official Unreal Engine plugin first. It 𝗮𝗱𝗱𝘀 𝗻𝗼𝗱𝗲𝘀, 𝘄𝗶𝗿𝗲𝘀 𝘁𝗵𝗲𝗺 𝘂𝗽 𝗮𝗻𝗱 𝗰𝗼𝗺𝗽𝗶𝗹𝗲𝘀 𝗕𝗹𝘂𝗲𝗽𝗿𝗶𝗻𝘁𝘀 𝗼𝗻 𝗶",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Claude Code"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2109988954980384908",
+   "url": "https://x.com/himekawa_ai/status/2109988954980384908",
+   "user": "himekawa_ai",
+   "created_utc": "2026-10-13T12:45:43Z",
+   "created_jst": "2026-10-13T21:45:43+09:00",
+   "ts": 1791895543,
+   "metrics": {
+    "impression_count": 28212,
+    "like_count": 1176,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "生成AIユーザーってやっぱり社会性ないのでは？ まともな人は他人の努力に対して特権階級とか既得権益とか言わないわ",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110032752007684450",
+   "url": "https://x.com/BenjaminNorton/status/2110032752007684450",
+   "user": "BenjaminNorton",
+   "created_utc": "2026-10-13T15:39:45Z",
+   "created_jst": "2026-10-14T00:39:45+09:00",
+   "ts": 1791905985,
+   "metrics": {
+    "impression_count": 27597,
+    "like_count": 1163,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "The more you learn about the AI bubble, the more ridiculous it gets:  The AI industry needs to generate $6 TRILLION in revenue by 2031 to sustain its ongoing in",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "bubble",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110119545549779185",
+   "url": "https://x.com/Geiger_Capital/status/2110119545549779185",
+   "user": "Geiger_Capital",
+   "created_utc": "2026-10-13T21:24:38Z",
+   "created_jst": "2026-10-14T06:24:38+09:00",
+   "ts": 1791926678,
+   "metrics": {
+    "impression_count": 26774,
+    "like_count": 1336,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "China has countless spies in OpenAI, Anthropic, Meta, Google, etc…  They take advantage of our \"openness\".  Yet, they would never hire John or Michael and let t",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "OpenAI",
+    "Anthropic"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110077043358695713",
+   "url": "https://x.com/ankitatIIMA/status/2110077043358695713",
+   "user": "ankitatIIMA",
+   "created_utc": "2026-10-13T18:35:45Z",
+   "created_jst": "2026-10-14T03:35:45+09:00",
+   "ts": 1791916545,
+   "metrics": {
+    "impression_count": 25101,
+    "like_count": 798,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "💥14th October, 2026 US - 13 States Under Emergency Order to Prevent Blackouts  9th October, 2026 Executives fear major AI-driven cyberattack could disrupt banki",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110145993035645222",
+   "url": "https://x.com/RedactedNews/status/2110145993035645222",
+   "user": "RedactedNews",
+   "created_utc": "2026-10-13T23:09:44Z",
+   "created_jst": "2026-10-14T08:09:44+09:00",
+   "ts": 1791932984,
+   "metrics": {
+    "impression_count": 24648,
+    "like_count": 719,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "ED DOWD WARNS: THE U.S. ECONOMY IS HEADING TOWARD A COLLAPSE  Record government spending, the massive AI buildout, and weakening labor-force participation are f",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110045106220695877",
+   "url": "https://x.com/pete_rizzo_/status/2110045106220695877",
+   "user": "pete_rizzo_",
+   "created_utc": "2026-10-13T16:28:50Z",
+   "created_jst": "2026-10-14T01:28:50+09:00",
+   "ts": 1791908930,
+   "metrics": {
+    "impression_count": 23417,
+    "like_count": 432,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "JUST IN: ARTHUR HAYES JUST SAID #BITCOIN COULD HIT $250,000 IN JUST 2 MONTHS  \"THE FED WILL BE FORCED TO PRINT\"  \"THE AI BUBBLE\" WILL EVENTUALLY BURST  \"HOW MUC",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "bubble",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110030924041601503",
+   "url": "https://x.com/vral/status/2110030924041601503",
+   "user": "vral",
+   "created_utc": "2026-10-13T15:32:29Z",
+   "created_jst": "2026-10-14T00:32:29+09:00",
+   "ts": 1791905549,
+   "metrics": {
+    "impression_count": 22775,
+    "like_count": 227,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Why I use Glass over Codex and Claude Code:  - model agnostic (try the nth new model launch without changing your setup)  - cloud first (vs. frankensteined loca",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Claude",
+    "launch",
+    "Claude Code",
+    "Codex"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110087499821576357",
+   "url": "https://x.com/synthwavedd/status/2110087499821576357",
+   "user": "synthwavedd",
+   "created_utc": "2026-10-13T19:17:18Z",
+   "created_jst": "2026-10-14T04:17:18+09:00",
+   "ts": 1791919038,
+   "metrics": {
+    "impression_count": 22734,
+    "like_count": 710,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Gemini 4 Argon is the new state-of-the-art on SimpleQA Verified, a world knowledge benchmark that in my experience has reflected my personal vibes-based judgeme",
+   "categories": [
+    "新モデル・発表",
+    "研究・論文"
+   ],
+   "matched_terms": [
+    "Gemini",
+    "benchmark"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110229078687285646",
+   "url": "https://x.com/artagongulgul/status/2110229078687285646",
+   "user": "artagongulgul",
+   "created_utc": "2026-10-14T04:39:53Z",
+   "created_jst": "2026-10-14T13:39:53+09:00",
+   "ts": 1791952793,
+   "metrics": {
+    "impression_count": 21569,
+    "like_count": 237,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "動画生成AIに頼りきってしまったドラマの末路。 https://t.co/SxEZ2rIRL1",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110187173173477577",
+   "url": "https://x.com/oprimodev/status/2110187173173477577",
+   "user": "oprimodev",
+   "created_utc": "2026-10-14T01:53:22Z",
+   "created_jst": "2026-10-14T10:53:22+09:00",
+   "ts": 1791942802,
+   "metrics": {
+    "impression_count": 21323,
+    "like_count": 825,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Fiz um teste bem curioso que vi no feed, pedi a Meta AI pra gerar:  Crie uma imagem para estampa de camiseta com os dizeres Lula, PT e o número 13  E Crie uma i",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110055517116895300",
+   "url": "https://x.com/FlowbyGoogle/status/2110055517116895300",
+   "user": "FlowbyGoogle",
+   "created_utc": "2026-10-13T17:10:12Z",
+   "created_jst": "2026-10-14T02:10:12+09:00",
+   "ts": 1791911412,
+   "metrics": {
+    "impression_count": 20272,
+    "like_count": 370,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Some great examples of Nano Banana 2.1 strengths ⤵️  It excels at character consistency https://t.co/74EaTLC9ns",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Nano Banana"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110090568546344993",
+   "url": "https://x.com/rileybrown/status/2110090568546344993",
+   "user": "rileybrown",
+   "created_utc": "2026-10-13T19:29:29Z",
+   "created_jst": "2026-10-14T04:29:29+09:00",
+   "ts": 1791919769,
+   "metrics": {
+    "impression_count": 19948,
+    "like_count": 394,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Can’t believe we got 2 new frontier models on back to back days! Ok, nice. Alright back to Claude Code and Codex.",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Claude Code",
+    "Codex"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2109993123606941955",
+   "url": "https://x.com/shion_takk/status/2109993123606941955",
+   "user": "shion_takk",
+   "created_utc": "2026-10-13T13:02:17Z",
+   "created_jst": "2026-10-13T22:02:17+09:00",
+   "ts": 1791896537,
+   "metrics": {
+    "impression_count": 19259,
+    "like_count": 292,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Blenderで架空の書斎を作る練習  Opus 5.5とBlenderで自分の書斎を想像しながら作っています。 一旦、カメラワークのテストなど含めシーンを作って育てている過程をシェア。  @hayashimon1  @Yokohara_h  @H_Y_per  ここら辺のBlender上手い皆様から知見を借りてAIだ",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Opus",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110122301132034321",
+   "url": "https://x.com/alicekpop_ai/status/2110122301132034321",
+   "user": "alicekpop_ai",
+   "created_utc": "2026-10-13T21:35:35Z",
+   "created_jst": "2026-10-14T06:35:35+09:00",
+   "ts": 1791927335,
+   "metrics": {
+    "impression_count": 18993,
+    "like_count": 655,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Looking fluffy!  ⚫️ Nayeon 🔴 Jeongyeon 🔵 Momo 🟢 Sana  TWICE  Nano Banana Pro, prompt 🔽 https://t.co/qqWCsOxB7n",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "prompt",
+    "Nano Banana"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2109987742796947705",
+   "url": "https://x.com/NXT4EU/status/2109987742796947705",
+   "user": "NXT4EU",
+   "created_utc": "2026-10-13T12:40:54Z",
+   "created_jst": "2026-10-13T21:40:54+09:00",
+   "ts": 1791895254,
+   "metrics": {
+    "impression_count": 18626,
+    "like_count": 1102,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "In Frankfurt, an AI data center will heat the city through district heating, reusing waste heat from its servers to provide heat to homes and businesses.  It’s ",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "data center",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110025537116590115",
+   "url": "https://x.com/TokenGremlin/status/2110025537116590115",
+   "user": "TokenGremlin",
+   "created_utc": "2026-10-13T15:11:05Z",
+   "created_jst": "2026-10-14T00:11:05+09:00",
+   "ts": 1791904265,
+   "metrics": {
+    "impression_count": 17806,
+    "like_count": 367,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Gemini 4 Argon is already available on some platforms, and now we're just waiting for Google's official announcement. Meanwhile, Fable 5.5 has made its first pu",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Fable",
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110035001127440812",
+   "url": "https://x.com/injective/status/2110035001127440812",
+   "user": "injective",
+   "created_utc": "2026-10-13T15:48:41Z",
+   "created_jst": "2026-10-14T00:48:41+09:00",
+   "ts": 1791906521,
+   "metrics": {
+    "impression_count": 17294,
+    "like_count": 504,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Injective's enterprise adoption is accelerating ike never before.  Gulf Labs, part of Thailand's $27 billion GULF Group, is now live as an institutional validat",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110043400137474491",
+   "url": "https://x.com/shedntcare_/status/2110043400137474491",
+   "user": "shedntcare_",
+   "created_utc": "2026-10-13T16:22:03Z",
+   "created_jst": "2026-10-14T01:22:03+09:00",
+   "ts": 1791908523,
+   "metrics": {
+    "impression_count": 16471,
+    "like_count": 216,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "AI agents don’t need to be smarter. They need to work better with people.  The real bottleneck isn’t intelligence. It’s collaboration, context, and keeping ever",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110148530065363040",
+   "url": "https://x.com/SoundJourneyDS/status/2110148530065363040",
+   "user": "SoundJourneyDS",
+   "created_utc": "2026-10-13T23:19:48Z",
+   "created_jst": "2026-10-14T08:19:48+09:00",
+   "ts": 1791933588,
+   "metrics": {
+    "impression_count": 16455,
+    "like_count": 728,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "いやークリエイター相手に票を集めようって人間が生成AI利用しまくりで現代クリエイターへの敬意がない、平然と搾取を行う老人漫画家ってのは無理があるでしょ内山たかしさん。 どれだけクリエイターから生成AIが忌避されているか情報収集して、進言した方がいいのでは？ https://t.co/uT1SkTMHYd",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110006902331769049",
+   "url": "https://x.com/omarsar0/status/2110006902331769049",
+   "user": "omarsar0",
+   "created_utc": "2026-10-13T13:57:02Z",
+   "created_jst": "2026-10-13T22:57:02+09:00",
+   "ts": 1791899822,
+   "metrics": {
+    "impression_count": 16351,
+    "like_count": 305,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Banger paper from Google DeepMind on co-evolving an agent's harness and its weights.  (bookmark it)  If you already log your harness changes and results, those ",
+   "categories": [
+    "新モデル・発表",
+    "研究・論文"
+   ],
+   "matched_terms": [
+    "DeepMind",
+    "paper"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110150105974341655",
+   "url": "https://x.com/craigweiss/status/2110150105974341655",
+   "user": "craigweiss",
+   "created_utc": "2026-10-13T23:26:04Z",
+   "created_jst": "2026-10-14T08:26:04+09:00",
+   "ts": 1791933964,
+   "metrics": {
+    "impression_count": 16241,
+    "like_count": 575,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "the only frontier labs worth working at rn: - openai - anthropic - meta",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "OpenAI",
+    "Anthropic"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110070658944336082",
+   "url": "https://x.com/glenaunreal/status/2110070658944336082",
+   "user": "glenaunreal",
+   "created_utc": "2026-10-13T18:10:22Z",
+   "created_jst": "2026-10-14T03:10:22+09:00",
+   "ts": 1791915022,
+   "metrics": {
+    "impression_count": 15787,
+    "like_count": 1072,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Sabrina Carpenter really said eyes on me 😏❤️  Nano banana pro prompt below https://t.co/cV5WLppbve",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "prompt",
+    "Nano Banana"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110109296021397661",
+   "url": "https://x.com/TitusTeatus/status/2110109296021397661",
+   "user": "TitusTeatus",
+   "created_utc": "2026-10-13T20:43:54Z",
+   "created_jst": "2026-10-14T05:43:54+09:00",
+   "ts": 1791924234,
+   "metrics": {
+    "impression_count": 15584,
+    "like_count": 315,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "krea 3 really is like nothing else  nano banana pro / chatgpt 2 image quality in &lt;7s at 2K pixels  coming this thursday @krea_ai https://t.co/z2KGinJLLX",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "Nano Banana",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110150457813254495",
+   "url": "https://x.com/DeryaTR_/status/2110150457813254495",
+   "user": "DeryaTR_",
+   "created_utc": "2026-10-13T23:27:28Z",
+   "created_jst": "2026-10-14T08:27:28+09:00",
+   "ts": 1791934048,
+   "metrics": {
+    "impression_count": 14596,
+    "like_count": 473,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Gemini 4 Argon is incredible in biomedicine! In fact, in early testing, it’s the first model to rival GPT-6 Pro, which has been undisputed for me like all GPT-P",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "GPT-6",
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110214789834170558",
+   "url": "https://x.com/KaoriLupine/status/2110214789834170558",
+   "user": "KaoriLupine",
+   "created_utc": "2026-10-14T03:43:06Z",
+   "created_jst": "2026-10-14T12:43:06+09:00",
+   "ts": 1791949386,
+   "metrics": {
+    "impression_count": 14490,
+    "like_count": 678,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "\"You just hate Ai art because everyone else does-\"  Really?  Most of you don't have to live near data centers. Kaito and I bought a house before our local polit",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110037849995182297",
+   "url": "https://x.com/DeepLearningAI/status/2110037849995182297",
+   "user": "DeepLearningAI",
+   "created_utc": "2026-10-13T16:00:00Z",
+   "created_jst": "2026-10-14T01:00:00+09:00",
+   "ts": 1791907200,
+   "metrics": {
+    "impression_count": 14028,
+    "like_count": 329,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "🎯 Gemini 4 Argon has a 15% hallucination rate on AA-Omniscience, compared with 51% for GPT-6 Astra.  📊 It ranks first on the Vals Index, reflecting its high per",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "GPT-6",
+    "Gemini"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110138475752431625",
+   "url": "https://x.com/that1618guy/status/2110138475752431625",
+   "user": "that1618guy",
+   "created_utc": "2026-10-13T22:39:51Z",
+   "created_jst": "2026-10-14T07:39:51+09:00",
+   "ts": 1791931191,
+   "metrics": {
+    "impression_count": 13779,
+    "like_count": 204,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "for those asking, here are of my picks for the next leg up on RH chain  &gt; robinhood:0x18e674231a58c239dc7daedcffe15ec3a24cff5c: uni v4 hook infrastructure th",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110225466686918867",
+   "url": "https://x.com/MegadriveMarcy/status/2110225466686918867",
+   "user": "MegadriveMarcy",
+   "created_utc": "2026-10-14T04:25:32Z",
+   "created_jst": "2026-10-14T13:25:32+09:00",
+   "ts": 1791951932,
+   "metrics": {
+    "impression_count": 13744,
+    "like_count": 398,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "i have decompiled friday night funkin.  claude, chatgpt, gemini, and grok were definitely used.  download here: https://t.co/Vxe5u7ppMH",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "Claude",
+    "Gemini",
+    "Grok"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110215962113032322",
+   "url": "https://x.com/AngelicaOung/status/2110215962113032322",
+   "user": "AngelicaOung",
+   "created_utc": "2026-10-14T03:47:45Z",
+   "created_jst": "2026-10-14T12:47:45+09:00",
+   "ts": 1791949665,
+   "metrics": {
+    "impression_count": 13490,
+    "like_count": 590,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "1 million views 15k likes  No links, no sources Crazy unbelievable story AI image Everyone credulous in the comments   C’mon everyone demand better psyops https",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110222245285204395",
+   "url": "https://x.com/YUGAYUG01511120/status/2110222245285204395",
+   "user": "YUGAYUG01511120",
+   "created_utc": "2026-10-14T04:12:43Z",
+   "created_jst": "2026-10-14T13:12:43+09:00",
+   "ts": 1791951163,
+   "metrics": {
+    "impression_count": 12176,
+    "like_count": 879,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "アレは 生成AIによる、ディープフェイクポルノの類かなと思う https://t.co/XsiyfcKUtC",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110042721767522591",
+   "url": "https://x.com/IamEmily2050/status/2110042721767522591",
+   "user": "IamEmily2050",
+   "created_utc": "2026-10-13T16:19:22Z",
+   "created_jst": "2026-10-14T01:19:22+09:00",
+   "ts": 1791908362,
+   "metrics": {
+    "impression_count": 12055,
+    "like_count": 358,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "I had early access to Gemini 4 and tested the model nonstop over the last seven days in Antigravity and the Gemini app. Finally, people worldwide will have a ch",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Gemini",
+    "Antigravity"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110159037622878239",
+   "url": "https://x.com/Ryrenz/status/2110159037622878239",
+   "user": "Ryrenz",
+   "created_utc": "2026-10-14T00:01:34Z",
+   "created_jst": "2026-10-14T09:01:34+09:00",
+   "ts": 1791936094,
+   "metrics": {
+    "impression_count": 11435,
+    "like_count": 255,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "🖌️ 真的开眼了，MCP for Blender 能让 Claude 直接在 Blender 里给你建模、调材质、摆灯光。  GitHub 已经 30.6K star，两千七百多个 fork，而仓库是 2025 年 3 月才建的，一年半冲到这个量。  它分两半，一个 Blender 插件在本地开个端口，一个 MCP 服",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Claude",
+    "MCP"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110198014900047916",
+   "url": "https://x.com/grind_hash/status/2110198014900047916",
+   "user": "grind_hash",
+   "created_utc": "2026-10-14T02:36:26Z",
+   "created_jst": "2026-10-14T11:36:26+09:00",
+   "ts": 1791945386,
+   "metrics": {
+    "impression_count": 11348,
+    "like_count": 270,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "わ！！！ Gemini 4 Argon、Nano Banana Pro時代の操作感とクオリティが帰ってきた気がするーーー！！！  「続けてください」や「続きをお願いします」で、ちゃんとそれより前の絵柄を維持してくれてるの、Geminiでは久しぶり…😭  #Gemini_4_Argon #物理同期 https://t.c",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Gemini",
+    "Nano Banana"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110032926230642737",
+   "url": "https://x.com/AIjee_tpe/status/2110032926230642737",
+   "user": "AIjee_tpe",
+   "created_utc": "2026-10-13T15:40:26Z",
+   "created_jst": "2026-10-14T00:40:26+09:00",
+   "ts": 1791906026,
+   "metrics": {
+    "impression_count": 11150,
+    "like_count": 335,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Blonde hair + bodysuit + stockings and high heels  Image 1: GPT2.5 Image 2: Krea 2 + LoRA Image 3: Grok Imagine 2 + reference image Image 4: Qwen - Image 2.1 + ",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Grok",
+    "Qwen"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110264034515886545",
+   "url": "https://x.com/vfAoRWWpkt86517/status/2110264034515886545",
+   "user": "vfAoRWWpkt86517",
+   "created_utc": "2026-10-14T06:58:47Z",
+   "created_jst": "2026-10-14T15:58:47+09:00",
+   "ts": 1791961127,
+   "metrics": {
+    "impression_count": 11041,
+    "like_count": 1011,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "＞生成AIを導入すれば「ゲームの魂」が失われるとの危惧を招くでしょう。  違うでしょ。生成AIが他人の著作物を盗んでいるから、大批判されているんでしょ。 この手のニュースって、「クリエイターのお気持ち」に誘導しようとして、意地でも一番大きな問題に触れようとしないな…。 https://t.co/SnXl9td2Xt",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "導入",
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110106550752985406",
+   "url": "https://x.com/VraserX/status/2110106550752985406",
+   "user": "VraserX",
+   "created_utc": "2026-10-13T20:33:00Z",
+   "created_jst": "2026-10-14T05:33:00+09:00",
+   "ts": 1791923580,
+   "metrics": {
+    "impression_count": 10144,
+    "like_count": 868,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Apparently generating an AI image is an environmental catastrophe, but streaming 4K Netflix every night, flying across the world for vacations and replacing you",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110118127119786345",
+   "url": "https://x.com/1000xStocks/status/2110118127119786345",
+   "user": "1000xStocks",
+   "created_utc": "2026-10-13T21:19:00Z",
+   "created_jst": "2026-10-14T06:19:00+09:00",
+   "ts": 1791926340,
+   "metrics": {
+    "impression_count": 9642,
+    "like_count": 304,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Lisa Su just raised $AMD’s forecast AGAIN… Third time in nine months.  Could this be what finally pushes $AMD toward $1,000?  She now sees the data-center CPU m",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AMD"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110010216817312024",
+   "url": "https://x.com/cherryventi04/status/2110010216817312024",
+   "user": "cherryventi04",
+   "created_utc": "2026-10-13T14:10:12Z",
+   "created_jst": "2026-10-13T23:10:12+09:00",
+   "ts": 1791900612,
+   "metrics": {
+    "impression_count": 9523,
+    "like_count": 229,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Melody is now following Jeff from #that ppdcast. So looks like Mel and/or Drew talked to him or he reached out to them about the gross AI image, he apologized a",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110118332066349389",
+   "url": "https://x.com/PikuMiku001/status/2110118332066349389",
+   "user": "PikuMiku001",
+   "created_utc": "2026-10-13T21:19:49Z",
+   "created_jst": "2026-10-14T06:19:49+09:00",
+   "ts": 1791926389,
+   "metrics": {
+    "impression_count": 9445,
+    "like_count": 482,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "【☀️ おはようございます！朝の元気チャージ用ミクちゃん動画🎵💕】 　　 ※🎧音声ON推奨：立体音響の波音をどうぞ！🌊 　　　 お仕事や学校へ向かうマスターたちへ、波打ち際から元気いっぱいのいってらっしゃいエールをお届けですっ、🐟✌️✨💕 https://t.co/EUkd3bh4jN",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110310757950755274",
+   "url": "https://x.com/jgonzalezferrer/status/2110310757950755274",
+   "user": "jgonzalezferrer",
+   "created_utc": "2026-10-14T10:04:27Z",
+   "created_jst": "2026-10-14T19:04:27+09:00",
+   "ts": 1791972267,
+   "metrics": {
+    "impression_count": 9326,
+    "like_count": 350,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "I'm looking for AI video creators 🎥  Looking for creators who: 1. Have experience creating AI videos (films, shorts, animations, games...) using models like Hig",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110192086050062395",
+   "url": "https://x.com/doll_player/status/2110192086050062395",
+   "user": "doll_player",
+   "created_utc": "2026-10-14T02:12:53Z",
+   "created_jst": "2026-10-14T11:12:53+09:00",
+   "ts": 1791943973,
+   "metrics": {
+    "impression_count": 8952,
+    "like_count": 301,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "これはよくわかる。生成AIには無数の問題があるけど、その中のひとつは間違いなく「いきなり誰でも使える状態で開放されてしまったこと」だと思ってる。 https://t.co/CzjlVmSLuq",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110109428624269618",
+   "url": "https://x.com/AI_EmeraldApple/status/2110109428624269618",
+   "user": "AI_EmeraldApple",
+   "created_utc": "2026-10-13T20:44:26Z",
+   "created_jst": "2026-10-14T05:44:26+09:00",
+   "ts": 1791924266,
+   "metrics": {
+    "impression_count": 8747,
+    "like_count": 412,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "To some degree, there is an AI bubble, and this one is one of the first to go.  Character AI is filing for bankruptcy, and Disney has bid for it at only 20 mill",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "bubble",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110134887353393411",
+   "url": "https://x.com/reset_by_peer/status/2110134887353393411",
+   "user": "reset_by_peer",
+   "created_utc": "2026-10-13T22:25:36Z",
+   "created_jst": "2026-10-14T07:25:36+09:00",
+   "ts": 1791930336,
+   "metrics": {
+    "impression_count": 8262,
+    "like_count": 778,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "lol, it does not. They’ll just stop selling binaries and make everything into a cloud subscription service.  AI is a tool of capital. Its purpose is to capture ",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110115602736312699",
+   "url": "https://x.com/hypergameme/status/2110115602736312699",
+   "user": "hypergameme",
+   "created_utc": "2026-10-13T21:08:58Z",
+   "created_jst": "2026-10-14T06:08:58+09:00",
+   "ts": 1791925738,
+   "metrics": {
+    "impression_count": 8070,
+    "like_count": 605,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "It’s not “vibe coding” it’s “coding”. “Manual coding” is the name of a dumb hobby where you write garbage code with a keyboard. The obsolete will attempt to hol",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "vibe coding"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110071789368095064",
+   "url": "https://x.com/wagslane/status/2110071789368095064",
+   "user": "wagslane",
+   "created_utc": "2026-10-13T18:14:52Z",
+   "created_jst": "2026-10-14T03:14:52+09:00",
+   "ts": 1791915292,
+   "metrics": {
+    "impression_count": 6039,
+    "like_count": 326,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Vibe coding Clanker Slop cannon  Fucking cancel me then. https://t.co/2tsZZbV1ih",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "vibe coding"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110204452645085593",
+   "url": "https://x.com/furuzuki00/status/2110204452645085593",
+   "user": "furuzuki00",
+   "created_utc": "2026-10-14T03:02:01Z",
+   "created_jst": "2026-10-14T12:02:01+09:00",
+   "ts": 1791946921,
+   "metrics": {
+    "impression_count": 4860,
+    "like_count": 587,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "ボンデージ姿の女王様熟女 MILF  「いらっしゃい・・・」  生成AIイラスト  #AIart #AIイラスト #AIイラスト好きさんと繋がりたい #MILF https://t.co/QJFVzrQCYk",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110152040550953039",
+   "url": "https://x.com/artagongulgul/status/2110152040550953039",
+   "user": "artagongulgul",
+   "created_utc": "2026-10-13T23:33:45Z",
+   "created_jst": "2026-10-14T08:33:45+09:00",
+   "ts": 1791934425,
+   "metrics": {
+    "impression_count": 4851,
+    "like_count": 364,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Zeta AIが権利侵害で炎上し 百合展が生成AI画像使って作家が抗議し ドラクエ作者が生成AIを弄って海外で非難 オマケにディズニーやエピックも燃えてるが…  いつもならそれらを「反AI」と一括りにされるが…「そらな⭐︎マギカ」の監督さんは何を見てるのかね…？ https://t.co/TbzYrRNhCT",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110231815982293145",
+   "url": "https://x.com/NorihiroUehata/status/2110231815982293145",
+   "user": "NorihiroUehata",
+   "created_utc": "2026-10-14T04:50:45Z",
+   "created_jst": "2026-10-14T13:50:45+09:00",
+   "ts": 1791953445,
+   "metrics": {
+    "impression_count": 4826,
+    "like_count": 538,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "【拡散希望】衆議院議員 上原正裕代議士に対し、「生成AIの搾取構造の是正を求める要望書」を提出しました。上原代議士は川崎市議会議員を務められた経験を持ち、私とはともに政令指定都市議員として、外国人問題をはじめ政令指定都市が抱える様々な課題に取り組んできた仲間であり同志でもあります。 https://t.co/yj3wX",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110275500631576651",
+   "url": "https://x.com/tautau987/status/2110275500631576651",
+   "user": "tautau987",
+   "created_utc": "2026-10-14T07:44:21Z",
+   "created_jst": "2026-10-14T16:44:21+09:00",
+   "ts": 1791963861,
+   "metrics": {
+    "impression_count": 4787,
+    "like_count": 246,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "そりゃ、生成AIについて文句を言ったら、生成AI特化の垢や捨て垢がどこからともなく湧いてきて、よってたかって罵詈雑言や上から目線の冷笑説教を投げつけてきて、反論しようものなら言葉尻をあげつらったり論点ずらして絡んでくるんだから、ブロックするしかないじゃん… https://t.co/Cjs9ftwohf",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110117850039951646",
+   "url": "https://x.com/UseMemePools/status/2110117850039951646",
+   "user": "UseMemePools",
+   "created_utc": "2026-10-13T21:17:54Z",
+   "created_jst": "2026-10-14T06:17:54+09:00",
+   "ts": 1791926274,
+   "metrics": {
+    "impression_count": 4554,
+    "like_count": 307,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Ever wish you could add a pair to an existing coin?  Now you can. Memes. Runners. Stocks.   Meme Pools 🧵👇 https://t.co/AMcZmbjAHw",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110059373926203882",
+   "url": "https://x.com/nathanadamsfan/status/2110059373926203882",
+   "user": "nathanadamsfan",
+   "created_utc": "2026-10-13T17:25:32Z",
+   "created_jst": "2026-10-14T02:25:32+09:00",
+   "ts": 1791912332,
+   "metrics": {
+    "impression_count": 3925,
+    "like_count": 225,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "if ykw was more popular there would be an ai image with whisper with laser eyes saying yolo watch 2 https://t.co/6ixAAMUdeF",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110219043068387513",
+   "url": "https://x.com/tanicoILLUsub/status/2110219043068387513",
+   "user": "tanicoILLUsub",
+   "created_utc": "2026-10-14T04:00:00Z",
+   "created_jst": "2026-10-14T13:00:00+09:00",
+   "ts": 1791950400,
+   "metrics": {
+    "impression_count": 3884,
+    "like_count": 518,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "AIart 生成AI (予約/Scheduled) SFW ●六花さん ●Rikka Takarada こんてぃは～ Hello～ ＃宝多六花 https://t.co/xzihwgwjRd",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110128448546939045",
+   "url": "https://x.com/tanicoPHOENIX/status/2110128448546939045",
+   "user": "tanicoPHOENIX",
+   "created_utc": "2026-10-13T22:00:01Z",
+   "created_jst": "2026-10-14T07:00:01+09:00",
+   "ts": 1791928801,
+   "metrics": {
+    "impression_count": 3682,
+    "like_count": 461,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "AIart 生成AI (予約/Scheduled) SFW ●巫女アンダーウェア ●Shrine Maiden Underwear こんてぃは～ Hello～ https://t.co/INPXIZYgY1",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110128456419996030",
+   "url": "https://x.com/tanicoILLUsub/status/2110128456419996030",
+   "user": "tanicoILLUsub",
+   "created_utc": "2026-10-13T22:00:02Z",
+   "created_jst": "2026-10-14T07:00:02+09:00",
+   "ts": 1791928802,
+   "metrics": {
+    "impression_count": 3487,
+    "like_count": 345,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "AIart 生成AI (予約/Scheduled) SFW ●対魔忍スーツ ●Taimanin Bodysuit おはようございます～ Good morning～ https://t.co/sbPxQG5vRD",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110219043856859158",
+   "url": "https://x.com/tanicoILLU1st/status/2110219043856859158",
+   "user": "tanicoILLU1st",
+   "created_utc": "2026-10-14T04:00:00Z",
+   "created_jst": "2026-10-14T13:00:00+09:00",
+   "ts": 1791950400,
+   "metrics": {
+    "impression_count": 3259,
+    "like_count": 455,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "AIart 生成AI (予約/Scheduled) SFW ●宝多立花さん ●Rikka Takarada こんてぃは～ Hello～ https://t.co/iBqAfa88OJ",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110182912717181045",
+   "url": "https://x.com/Mame_is_rabbit/status/2110182912717181045",
+   "user": "Mame_is_rabbit",
+   "created_utc": "2026-10-14T01:36:26Z",
+   "created_jst": "2026-10-14T10:36:26+09:00",
+   "ts": 1791941786,
+   "metrics": {
+    "impression_count": 3034,
+    "like_count": 519,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "あまりに完璧なフォルム　生成AIを疑うほどに https://t.co/jH8Li6TRAI",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110100504068206778",
+   "url": "https://x.com/Kavin_DDO/status/2110100504068206778",
+   "user": "Kavin_DDO",
+   "created_utc": "2026-10-13T20:08:58Z",
+   "created_jst": "2026-10-14T05:08:58+09:00",
+   "ts": 1791922138,
+   "metrics": {
+    "impression_count": 2947,
+    "like_count": 400,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "おはようございます(^_^)  #nijijourney #AIイラスト #AI画像生成  #AIイラスト好きさんと繋がりたい https://t.co/o3TZyI3yP0",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110000104727801877",
+   "url": "https://x.com/sorapiyo1111111/status/2110000104727801877",
+   "user": "sorapiyo1111111",
+   "created_utc": "2026-10-13T13:30:01Z",
+   "created_jst": "2026-10-13T22:30:01+09:00",
+   "ts": 1791898201,
+   "metrics": {
+    "impression_count": 2883,
+    "like_count": 245,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "⬛︎在日ベトナム人 ▶︎技能実習生の失踪者数No.1 ▶︎外国人犯罪の検挙人員No.1  今度は試験問題の流出？  ⬛︎【速報】千葉県警 運転免許試験のベトナム語問題が流出 受験者のスマホに加工済みの問題画像 「生成AIに探させた」と説明  ▶︎ベトナム語の全種別試験を一時中止！ https://t.co/SUEXHC",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110149292102934995",
+   "url": "https://x.com/ashley_duffany/status/2110149292102934995",
+   "user": "ashley_duffany",
+   "created_utc": "2026-10-13T23:22:50Z",
+   "created_jst": "2026-10-14T08:22:50+09:00",
+   "ts": 1791933770,
+   "metrics": {
+    "impression_count": 2864,
+    "like_count": 387,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "What's a moran?  I hope Ukraine hits another AI data center soon because the bots are back 👀😂 https://t.co/6A0Go8aFxL",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "data center",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110203635548541127",
+   "url": "https://x.com/mun07211919/status/2110203635548541127",
+   "user": "mun07211919",
+   "created_utc": "2026-10-14T02:58:47Z",
+   "created_jst": "2026-10-14T11:58:47+09:00",
+   "ts": 1791946727,
+   "metrics": {
+    "impression_count": 2365,
+    "like_count": 302,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "ゲームを『生成AIを使ってるから』という理由で購入意欲が湧くゲームファンはいないが 『生成AIを使ってるのかよ』という理由で購入意欲が削がれるゲームファンは実際にいるんですよね それは先日のレベルファイブの件を見ればわかるはずですがね… https://t.co/rXbimXXC7m",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110230366921638110",
+   "url": "https://x.com/L0cCapital/status/2110230366921638110",
+   "user": "L0cCapital",
+   "created_utc": "2026-10-14T04:45:00Z",
+   "created_jst": "2026-10-14T13:45:00+09:00",
+   "ts": 1791953100,
+   "metrics": {
+    "impression_count": 2067,
+    "like_count": 307,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "Been staring at the Network Rankings description, and it raises a case the page doesn't seem to answer.  Network Rankings sort accounts by narrative: NFTs, DeFi",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "raises"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110299851410051457",
+   "url": "https://x.com/s8_esuhachi/status/2110299851410051457",
+   "user": "s8_esuhachi",
+   "created_utc": "2026-10-14T09:21:06Z",
+   "created_jst": "2026-10-14T18:21:06+09:00",
+   "ts": 1791969666,
+   "metrics": {
+    "impression_count": 1718,
+    "like_count": 296,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "動画生成の機会をいただけたので、また見てくださったら嬉しいです。また勉強ナリ　#Higgsfield @higgsfield_ai https://t.co/THxRvhcghr",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  },
+  {
+   "id": "2110194035344433504",
+   "url": "https://x.com/0xPritom/status/2110194035344433504",
+   "user": "0xPritom",
+   "created_utc": "2026-10-14T02:20:38Z",
+   "created_jst": "2026-10-14T11:20:38+09:00",
+   "ts": 1791944438,
+   "metrics": {
+    "impression_count": 1603,
+    "like_count": 389,
+    "retweet_count": null,
+    "reply_count": null,
+    "quote_count": null,
+    "bookmark_count": null
+   },
+   "text": "AI agents can now hire humans to collect real-world data. @vangrid_io is making that happen.  Here’s the interesting part.  An AI agent can request a specific l",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "AI agent",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": []
+  }
+ ]
+}

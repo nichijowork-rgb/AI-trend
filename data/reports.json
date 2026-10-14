@@ -1,0 +1,35 @@
+{
+ "generated_at": "2026-10-14T22:25:08+09:00",
+ "daily": [
+  {
+   "date": "2026-10-14",
+   "rising": [
+    {
+     "id": "2110194452157587542",
+     "views": 387159,
+     "hours_since_post": 10.3,
+     "views_per_hour": 37588,
+     "condition_label": "投稿から12時間以内で20万表示以上"
+    },
+    {
+     "id": "2110204194569519347",
+     "views": 204257,
+     "hours_since_post": 9.7,
+     "views_per_hour": 21057,
+     "condition_label": "投稿から12時間以内で20万表示以上"
+    },
+    {
+     "id": "2110275714213961943",
+     "views": 107271,
+     "hours_since_post": 4.9,
+     "views_per_hour": 21892,
+     "condition_label": "投稿から6時間以内で10万表示以上"
+    }
+   ],
+   "rising_watch": [],
+   "review": [],
+   "hit_rate": []
+  }
+ ],
+ "weekly": []
+}
