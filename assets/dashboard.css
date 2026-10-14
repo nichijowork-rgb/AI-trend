@@ -707,6 +707,11 @@ main { padding-top: 12px; }
 .post-head .post-cats { margin: 0; gap: 4px; }
 .post-head .badge { font-size: 11px; padding: 2px 7px; }
 .post-text { margin-top: 0; font-size: 14.5px; line-height: 1.6; }
+.trans-note { display: flex; align-items: center; gap: 8px; margin: 2px 0 4px; font-size: 12px; color: var(--muted); }
+.trans-label { display: inline-flex; align-items: center; padding: 1px 7px; border: 1px solid var(--border-strong); border-radius: 999px; font-weight: 600; }
+.trans-toggle { min-height: 32px; padding: 0 4px; border: 0; background: none; color: var(--link); font: inherit; font-size: 12px; cursor: pointer; }
+.trans-toggle:hover { text-decoration: underline; }
+.trans-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
 .post-text.is-clamped { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 4; overflow: hidden; }
 .more-text {
   display: inline-flex; align-items: center; min-height: var(--tap); margin: -8px 0 -8px -4px; padding: 0 4px;

@@ -427,6 +427,33 @@ async function main() {
       assert(await page.isVisible('#panel'), 'panel open restored from localStorage');
     });
 
+    await check('自動翻訳（text_ja）: 訳を表示・原文に切替・訳でも原文でも検索', async () => {
+      const en = sample.posts.find((p) => p.text_ja && p.text.includes('new open model'));
+      await page.fill('#user', en.user);
+      await page.press('#user', 'Enter');
+      await page.waitForFunction((u) => window.__dashboard.state.user === u, en.user);
+      await page.locator('#post-list > li', { hasText: 'オープンモデルを公開しました' }).first().waitFor();
+      const card = page.locator('#post-list > li', { has: page.locator('.trans-note') }).first(); // 切替で本文が変わっても同じカードを指す
+      assert((await card.locator('.trans-label').textContent()) === '自動翻訳', 'label');
+      assert(!(await card.locator('.post-text').textContent()).includes('We just released'), 'shows translation');
+      await card.locator('.trans-toggle').click();
+      assert((await card.locator('.post-text').textContent()).includes('We just released'), 'original');
+      assert((await card.locator('.trans-label').textContent()) === '原文（en）' && (await card.locator('.post-text').getAttribute('lang')) === 'en', 'original label');
+      assert(await card.locator('.post-text a[href="https://t.co/EnSample01"]').count() === 1, 'link in original');
+      await card.locator('.trans-toggle').click();
+      assert((await card.locator('.trans-label').textContent()) === '自動翻訳', 'back');
+      await page.fill('#user', '');
+      await page.press('#user', 'Enter');
+      await page.waitForFunction(() => window.__dashboard.state.user === '');
+      // 原文の英語でも検索できる
+      await page.fill('#q', 'new open model');
+      await page.waitForFunction(() => window.__dashboard.state.q === 'new open model');
+      assert(await page.locator('#post-list > li', { hasText: 'オープンモデルを公開しました' }).count() >= 1, 'search by original');
+      await page.fill('#q', '');
+      await page.waitForFunction(() => window.__dashboard.state.q === '');
+      await card.screenshot({ path: path.join(SHOTS, 'translation.png') }).catch(() => {});
+    });
+
     await check('長文の折りたたみ（続きを読む／閉じる・ハイライトとリンクは維持）', async () => {
       const long = sample.posts.find((p) => p.text.startsWith('【サンプル】長文の投稿です。'));
       await page.fill('#user', long.user);

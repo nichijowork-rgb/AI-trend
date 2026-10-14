@@ -12684,14 +12684,16 @@
     "quote_count": 4,
     "bookmark_count": 31
    },
-   "text": "【サンプル】月末の新モデルで新しい発表が出ていた https://t.co/8dAX1DuxL4",
+   "text": "【サンプル】We just released a new open model. It beats our previous version on reasoning benchmarks. https://t.co/EnSample01",
    "categories": [
     "新モデル・発表"
    ],
    "matched_terms": [
-    "新モデル"
+    "open model"
    ],
-   "is_watched": false
+   "is_watched": false,
+   "text_ja": "【サンプル・自動翻訳】新しいオープンモデルを公開しました。推論ベンチマークで前のバージョンを上回っています。 https://t.co/EnSample01",
+   "lang": "en"
   },
   {
    "id": "1844674407370293323",
@@ -22730,14 +22732,17 @@
     "quote_count": 1,
     "bookmark_count": 37
    },
-   "text": "【サンプル】今日の新モデルで新しい発表が出ていた 詳細はリンク先へ",
+   "text": "【サンプル】How a home-care nursing team used an AI scribe to cut documentation time. 【サンプル】How a home-care nursing team used an AI scribe to cut documentation time. 【サンプル】How a home-care nursing team used an AI scribe to cut documentation time. \nFull write-up in the thread.",
    "categories": [
-    "新モデル・発表"
+    "医療・介護×AI",
+    "ツール・活用"
    ],
    "matched_terms": [
-    "新モデル"
+    "AI scribe"
    ],
-   "is_watched": false
+   "is_watched": false,
+   "text_ja": "【サンプル・自動翻訳】訪問看護チームがAIの記録補助で書類作成の時間を減らした話。【サンプル・自動翻訳】訪問看護チームがAIの記録補助で書類作成の時間を減らした話。【サンプル・自動翻訳】訪問看護チームがAIの記録補助で書類作成の時間を減らした話。\n詳しくはスレッドで。",
+   "lang": "en"
   },
   {
    "id": "1844674407369222214",

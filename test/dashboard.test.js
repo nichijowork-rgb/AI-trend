@@ -10,7 +10,7 @@ import {
   niceTicks, isAllowedMediaUrl, sanitizeMedia, bestMp4, embedTweetId, PERIODS, LEGACY_PERIOD_ALIASES,
   categoryMatcher, isUnclassified, inGroup, individualChipCategories, chipVisibleInGroup, categoryLabel, normalizeCategorySelection, groupCategories,
   chooseRefTs, nextScheduledUpdate, isUpdateDelayed, viewsPerHour, formatPace, SORTS,
-  normalizeReports, filterTopicRising, pickReport, hitRateText, hitRatio, formatRisingPace, formatBeforeAfter, weekKey,
+  normalizeReports, filterTopicRising, displayText, pickReport, hitRateText, hitRatio, formatRisingPace, formatBeforeAfter, weekKey,
 } from '../assets/js/core.js';
 import { UPDATE_SCHEDULE, PACE_NOTE, REPORT_TEXT } from '../assets/js/config.js';
 
@@ -378,6 +378,7 @@ test('sample/posts.json: 仕様どおりで検証ケースを含む', () => {
   assert.ok(raw.posts.some((p) => p.metrics && p.metrics.impression_count === null));
   assert.ok(raw.posts.some((p) => !p.metrics || !('bookmark_count' in p.metrics)));
   assert.ok(raw.posts.some((p) => Array.isArray(p.media) && p.media.some((m) => m.type === 'video')));
+  assert.ok(raw.posts.some((p) => typeof p.text_ja === 'string' && p.lang === 'en'));
   assert.equal(summary.total_posts, raw.posts.length);
   // summary の件数とクライアント集計が一致
   const agg = aggregate(ds.posts, ds.categories);
@@ -636,4 +637,23 @@ test('sizedImageUrl: pbs.twimg.com の画像だけサイズ指定 URL に変え�
   assert.equal(sizedImageUrl('https://pbs.twimg.com/ext_tw_video_thumb/1/pu/img/X.jpeg', 'small'), 'https://pbs.twimg.com/ext_tw_video_thumb/1/pu/img/X?format=jpg&name=small');
   assert.equal(sizedImageUrl('https://video.twimg.com/a.mp4', 'small'), 'https://video.twimg.com/a.mp4');
   assert.equal(sizedImageUrl('not a url', 'small'), 'not a url');
+});
+
+test('text_ja（任意の日本語訳）: 表示は訳を優先、検索は訳でも原文でも当たる。空・同文・型違いは無し扱い', () => {
+  const ds = dataset([
+    rawPost({ id: '1', text: '【サンプル】New open model released', text_ja: '【サンプル】新しいオープンモデルを公開', lang: 'en' }),
+    rawPost({ id: '2', text: '【サンプル】日本語の投稿', text_ja: '   ' }),
+    rawPost({ id: '3', text: '【サンプル】same', text_ja: '【サンプル】same' }),
+    rawPost({ id: '4', text: '【サンプル】x', text_ja: 123, lang: 5 }),
+  ]);
+  const byId = (id) => ds.posts.find((p) => p.id === id);
+  assert.equal(byId('1').text_ja, '【サンプル】新しいオープンモデルを公開');
+  assert.equal(byId('1').lang, 'en');
+  assert.equal(displayText(byId('1')), '【サンプル】新しいオープンモデルを公開');
+  for (const id of ['2', '3', '4']) assert.equal(byId(id).text_ja, null, id);
+  assert.equal(byId('4').lang, null);
+  assert.equal(displayText(byId('2')), '【サンプル】日本語の投稿');
+  const ids = (q) => filterPosts(ds.posts, { q }, ds.refTs).map((p) => p.id);
+  assert.deepEqual(ids('オープンモデル'), ['1']);
+  assert.deepEqual(ids('open model'), ['1']);
 });

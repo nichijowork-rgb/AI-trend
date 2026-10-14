@@ -206,6 +206,8 @@ export function normalizeDataset(raw) {
     if (!cats.length) cats = ['その他'];
     cats.forEach(addCat);
     const text = typeof p.text === 'string' ? p.text : '';
+    // 任意: データ側botが付ける日本語訳（英語などの投稿のみ）。空・型違いは無し扱い
+    const textJa = typeof p.text_ja === 'string' && p.text_ja.trim() && p.text_ja !== text ? p.text_ja : null;
     const user = String(p.user ?? '').replace(/^@/, '');
     const terms = Array.isArray(p.matched_terms)
       ? p.matched_terms.filter((t) => typeof t === 'string' && t.trim())
@@ -218,11 +220,13 @@ export function normalizeDataset(raw) {
       ts,
       metrics,
       text,
+      text_ja: textJa,
+      lang: typeof p.lang === 'string' && p.lang ? p.lang : null,
       categories: cats,
       matched_terms: terms,
       is_watched: p.is_watched === true,
       media: sanitizeMedia(p.media),
-      _search: searchKey(text + '\n' + user),
+      _search: searchKey(text + '\n' + (textJa ? textJa + '\n' : '') + user), // 訳文でも原文でも検索できる
       _userKey: user.toLowerCase(),
       _day: dateKeyFromTs(ts),
     };
@@ -1065,6 +1069,13 @@ export function hashString(s) {
 export function categorySlot(name) {
   if (Object.prototype.hasOwnProperty.call(KNOWN_CATEGORY_SLOTS, name)) return KNOWN_CATEGORY_SLOTS[name];
   return SPARE_SLOTS[hashString(name) % SPARE_SLOTS.length];
+}
+
+// ---------------------------------------------------------------- 翻訳
+
+/** 表示に使う本文（日本語訳があれば訳、無ければ原文） */
+export function displayText(post) {
+  return post && post.text_ja ? post.text_ja : (post ? post.text : '');
 }
 
 // ---------------------------------------------------------------- 汎用

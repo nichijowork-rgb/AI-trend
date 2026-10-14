@@ -10,7 +10,7 @@ import {
   parseKeywords, parseState, parseTimestamp, serializeState, sortPosts, topAccounts,
   shortDate, VIEWS, embedTweetId, chooseRefTs, isUpdateDelayed, formatPace, viewsPerHour,
   normalizeReports, pickReport, formatRisingPace, formatBeforeAfter, REPORT_SECTIONS,
-  categoryMatcher, inGroup, isUnclassified, filterTopicRising, individualChipCategories, chipVisibleInGroup, categoryLabel, normalizeCategorySelection,
+  categoryMatcher, inGroup, isUnclassified, filterTopicRising, displayText, individualChipCategories, chipVisibleInGroup, categoryLabel, normalizeCategorySelection,
 } from './js/core.js';
 import { UPDATE_SCHEDULE, PACE_NOTE, REPORT_TEXT, CATEGORY_GROUPS, WATCH_CATEGORY } from './js/config.js';
 import {
@@ -425,7 +425,7 @@ function renderSummary(agg, active, filteredCount) {
       a.rel = 'noopener noreferrer';
       head.append(a);
     }
-    const text = el('p', 'top-post-text', p.text.replace(/\s+/g, ' ').trim() || '（本文なし）');
+    const text = el('p', 'top-post-text', displayText(p).replace(/\s+/g, ' ').trim() || '（本文なし）');
     wrap.append(head, text);
     box.append(wrap);
   }
@@ -639,11 +639,36 @@ const CLAMP_CHARS = 140;
 const CLAMP_LINES = 4;
 let clampSeq = 0;
 
-/** 長文は折りたたみ（約4行または約140字超）。ハイライト・リンクは DOM のまま CSS で隠すだけ */
+const isLongText = (t) => t.length > CLAMP_CHARS || t.split('\n').length > CLAMP_LINES;
+
+/**
+ * 本文。日本語訳（text_ja）があれば訳を表示し、「自動翻訳」の表示と「原文を見る／訳を見る」の切替を付ける。
+ * 長文は折りたたみ（約4行または約140字超）。ハイライト・リンクは DOM のまま CSS で隠すだけ
+ */
 function postBodyWithToggle(p) {
-  const body = postBody(p);
-  const long = p.text.length > CLAMP_CHARS || p.text.split('\n').length > CLAMP_LINES;
-  if (!long) return [body];
+  const body = el('p', 'post-text');
+  let showOriginal = !p.text_ja;
+  const fill = () => fillPostBody(body, showOriginal ? p.text : p.text_ja, p);
+  fill();
+  const nodes = [];
+  if (p.text_ja) {
+    const note = el('p', 'trans-note');
+    const label = el('span', 'trans-label', '');
+    const tb = el('button', 'trans-toggle', '');
+    tb.type = 'button';
+    const sync = () => {
+      label.textContent = showOriginal ? `原文${p.lang ? `（${p.lang}）` : ''}` : '自動翻訳';
+      tb.textContent = showOriginal ? '訳を見る' : '原文を見る';
+      tb.setAttribute('aria-pressed', String(showOriginal));
+      body.lang = showOriginal ? (p.lang || '') : 'ja';
+    };
+    tb.addEventListener('click', () => { showOriginal = !showOriginal; fill(); sync(); });
+    sync();
+    note.append(label, tb);
+    nodes.push(note);
+  }
+  nodes.push(body);
+  if (!isLongText(p.text) && !(p.text_ja && isLongText(p.text_ja))) return nodes;
   body.id = `pt-${++clampSeq}`;
   body.classList.add('is-clamped');
   const b = el('button', 'more-text', '続きを読む');
@@ -655,13 +680,14 @@ function postBodyWithToggle(p) {
     b.textContent = open ? '閉じる' : '続きを読む';
     b.setAttribute('aria-expanded', String(open));
   });
-  return [body, b];
+  nodes.push(b);
+  return nodes;
 }
 
-function postBody(p) {
-  const body = el('p', 'post-text');
+function fillPostBody(body, text, p) {
+  body.replaceChildren();
   const groups = [{ kind: 'q', terms: app.terms }, { kind: 'term', terms: p.matched_terms }];
-  for (const seg of linkifySegments(p.text)) {
+  for (const seg of linkifySegments(text)) {
     if (seg.type === 'url' && isSafeHttpUrl(seg.value)) {
       const a = el('a');
       a.href = seg.value;
@@ -1067,7 +1093,7 @@ function renderReports() {
           const u = el('button', 'rt-user', `@${post.user}`);
           u.type = 'button';
           u.addEventListener('click', () => update({ user: post.user }, { scroll: true }));
-          cell.append(u, el('span', 'rt-text', post.text.replace(/\s+/g, ' ').trim()));
+          cell.append(u, el('span', 'rt-text', displayText(post).replace(/\s+/g, ' ').trim()));
         } else {
           cell.append(el('span', 'muted', `ID: ${r.id ?? '不明'} `));
           const href = statusUrl(r.id);

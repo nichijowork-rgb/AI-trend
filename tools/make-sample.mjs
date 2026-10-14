@@ -224,6 +224,17 @@ special(21, {
   text: '【サンプル】長文の投稿です。' + '訪問看護の記録業務でAIを使ってみた架空のレポート。'.repeat(6) + '\n\n2行目以降も続きます。\n3行目。\n4行目。\n5行目：最後に生成AIの話題と ' + 'https://t.co/LongSample1',
   matched_terms: ['訪問看護', '生成AI'],
 });
+// 英語の投稿＋日本語訳（任意フィールド text_ja・lang）。22 は長文で折りたたみも確認
+special(19, {
+  text: '【サンプル】We just released a new open model. It beats our previous version on reasoning benchmarks. https://t.co/EnSample01',
+  text_ja: '【サンプル・自動翻訳】新しいオープンモデルを公開しました。推論ベンチマークで前のバージョンを上回っています。 https://t.co/EnSample01',
+  lang: 'en', categories: ['新モデル・発表'], matched_terms: ['open model'],
+});
+special(22, {
+  text: '【サンプル】How a home-care nursing team used an AI scribe to cut documentation time. '.repeat(3) + '\nFull write-up in the thread.',
+  text_ja: '【サンプル・自動翻訳】訪問看護チームがAIの記録補助で書類作成の時間を減らした話。'.repeat(3) + '\n詳しくはスレッドで。',
+  lang: 'en', categories: ['医療・介護×AI', 'ツール・活用'], matched_terms: ['AI scribe'],
+});
 // created_jst が null（ts から表示）
 special(20, { created_jst: null });
 // 数値表記確認用
