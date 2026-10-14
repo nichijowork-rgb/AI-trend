@@ -2,7 +2,7 @@
 // ブラウザ（ES module）と Node（node:test）の両方から import される。
 // ここには document / window / fetch を一切書かないこと。
 
-import { CATEGORY_GROUPS, CATEGORY_DISPLAY_NAMES, AI_CATEGORIES, WATCH_CATEGORY, GENERAL_CATEGORIES } from './config.js';
+import { CATEGORY_GROUPS, CATEGORY_DISPLAY_NAMES, WATCH_CATEGORY } from './config.js';
 
 export const METRIC_KEYS = [
   'impression_count', 'like_count', 'retweet_count', 'reply_count', 'quote_count', 'bookmark_count',
@@ -374,11 +374,13 @@ export function groupCategories(key) {
   return g ? g.categories : null;
 }
 
-const TOPIC_CATEGORIES = new Set([...AI_CATEGORIES, ...GENERAL_CATEGORIES]);
+/** 話題カテゴリ（全グループのカテゴリ。グループの並び順・重複なし） */
+export const TOPIC_CATEGORIES = Object.freeze([...new Set(CATEGORY_GROUPS.flatMap((g) => g.categories))]);
+const TOPIC_SET = new Set(TOPIC_CATEGORIES);
 
-/** 話題カテゴリ（AI6種・その他）を 1 つも持たない投稿か（＝どのグループにも入らない） */
+/** 話題カテゴリ（AI・医療）を 1 つも持たない投稿か（＝どのグループにも入らない） */
 export function isUnclassified(post) {
-  return !post.categories.some((c) => TOPIC_CATEGORIES.has(c));
+  return !post.categories.some((c) => TOPIC_SET.has(c));
 }
 
 /** 投稿がグループに入るか */
@@ -399,31 +401,42 @@ export function categoryMatcher(state) {
   return groupDef(state.group) ? (p) => inGroup(p, state.group) : null;
 }
 
-/** チップ表示用: 個別チップにするカテゴリ（AIの 6 つ＋未知カテゴリ。監視・一般は除く） */
+/** チップ表示用: 個別チップにするカテゴリ（話題カテゴリ＋未知カテゴリ。監視は除く）。データにあるものだけ */
 export function individualChipCategories(categories) {
-  const known = new Set([...AI_CATEGORIES, WATCH_CATEGORY, ...GENERAL_CATEGORIES]);
-  return [...AI_CATEGORIES.filter((c) => categories.includes(c)), ...categories.filter((c) => !known.has(c))];
+  const known = new Set([...TOPIC_CATEGORIES, WATCH_CATEGORY]);
+  return [...TOPIC_CATEGORIES.filter((c) => categories.includes(c)), ...categories.filter((c) => !known.has(c))];
 }
 
-/** カテゴリの表示名（「その他」→「一般のバズ」など。データ上の値は変えない） */
+/** 未知カテゴリ（どのグループにも入らず、どのモードでも個別チップとして出すもの） */
+export function unknownCategories(categories) {
+  return individualChipCategories(categories).filter((c) => !TOPIC_SET.has(c));
+}
+
+/** そのモード（グループ）で個別チップを出すカテゴリか */
+export function chipVisibleInGroup(cat, groupKey, categories) {
+  const cats = groupCategories(groupKey);
+  return !!cats && (cats.includes(cat) || unknownCategories(categories).includes(cat));
+}
+
+/** カテゴリの表示名（CATEGORY_DISPLAY_NAMES にあれば置き換え。データ上の値は変えない） */
 export function categoryLabel(name) {
   return Object.prototype.hasOwnProperty.call(CATEGORY_DISPLAY_NAMES, name) ? CATEGORY_DISPLAY_NAMES[name] : name;
 }
 
 /**
- * カテゴリ選択の正規化（旧 URL の cat=… / group=… も解釈）。
- * - group はモード（'ai' ＝AI ／ 'general' ＝一般のバズ）。既定はAI
- * - cats はモード内の個別選択（AI: AI6種＋未知カテゴリ、一般: 未知カテゴリのみ）。空ならモード全体
- * - 旧 URL の cat=その他 だけなら一般のバズモードに読み替え
+ * カテゴリ選択の正規化。
+ * - group はモード（'ai' ＝AI ／ 'medical' ＝医療）。既定はAI
+ * - cats はモード内の個別選択（そのモードのカテゴリ＋未知カテゴリ）。空ならモード全体
+ * - 個別選択がすべて別のモードのカテゴリなら、そのモードに読み替える（URL を手で書いたとき用）
  */
 export function normalizeCategorySelection(state, categories) {
-  const individual = individualChipCategories(categories);
-  const unknown = individual.filter((c) => !AI_CATEGORIES.includes(c));
   const raw = state.cats || [];
   let group = groupCategories(state.group) ? state.group : 'ai';
-  if (raw.length && raw.every((c) => GENERAL_CATEGORIES.includes(c))) group = 'general';
-  const allowed = new Set(group === 'general' ? unknown : individual);
-  return { cats: raw.filter((c) => allowed.has(c)), group };
+  if (raw.length && !raw.some((c) => chipVisibleInGroup(c, group, categories))) {
+    const other = CATEGORY_GROUPS.find((g) => raw.every((c) => chipVisibleInGroup(c, g.key, categories)));
+    if (other) group = other.key;
+  }
+  return { cats: raw.filter((c) => chipVisibleInGroup(c, group, categories)), group };
 }
 
 /** 並べ替え。欠損指標は末尾、同値は新しい順。伸びペース順は refTs が必要 */
@@ -830,16 +843,16 @@ function risingItem(r) {
 }
 
 /**
- * 伸びている投稿はAI関連のみ（安全策）。posts.json で引けた投稿のうち AI_CATEGORIES を 1 つも持たないもの
- * （＝一般のバズのみ）は除外する。posts.json に無い id は判定できないので残す。
+ * 伸びている投稿はAI・医療関連のみ（安全策）。posts.json で引けた投稿のうち話題カテゴリを 1 つも持たないもの
+ * （＝AI・医療以外）は除外する。posts.json に無い id は判定できないので残す。
  * 返り値: { items, excluded }
  */
-export function filterAiRising(items, postsById) {
+export function filterTopicRising(items, postsById) {
   const kept = [];
   let excluded = 0;
   for (const r of items || []) {
     const post = r.id && postsById ? postsById.get(r.id) : null;
-    if (post && !post.categories.some((c) => AI_CATEGORIES.includes(c))) { excluded++; continue; }
+    if (post && isUnclassified(post)) { excluded++; continue; }
     kept.push(r);
   }
   return { items: kept, excluded };
@@ -1005,17 +1018,25 @@ export function embedTweetId(post) {
 /**
  * 既知カテゴリは固定スロット、未知カテゴリは名前のハッシュで予備スロットへ（決定的）。
  * スロット番号は CSS 変数 --cat-N に対応（dashboard.css 参照）。0 は「その他」用のニュートラル。
- * パレットは dataviz の検証済み 8 色（紫・黄・アクア・青・緑・ピンク・オレンジ＋ニュートラル）をすべて既知カテゴリに使う。
+ * パレットは dataviz の検証済み 8 色（紫・黄・アクア・青・緑・ピンク・オレンジ＋ニュートラル）。AI と医療のモードで色を使い回す
+ * （同じモードのチップ同士では重ならない）。
  * アクセントはシアンなので、シアンに近い色はカテゴリに使わない。医療・介護×AI はピンクで目立たせる。
  * 予備（未知カテゴリ）はオリーブ・スレート。必ずラベルを併記するので色だけには頼らない。
  */
 export const KNOWN_CATEGORY_SLOTS = Object.freeze({
-  '医療・介護×AI': 6,
+  // AIモード
   '新モデル・発表': 1,
   'ツール・活用': 2,
   '研究・論文': 3,
   'ビジネス・業界': 7,
   'AIその他': 4,
+  // 両方（重点）
+  '医療・介護×AI': 6,
+  // 医療モード（AIモードとは同時に並ばないので色を使い回す。モード内では重複しない）
+  '訪問看護': 2,
+  '医療ニュース': 4,
+  '介護・福祉': 3,
+  '制度・報酬改定': 7,
   '監視アカウント': 5,
   'その他': 0,
 });

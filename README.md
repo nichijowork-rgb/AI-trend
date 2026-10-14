@@ -1,8 +1,8 @@
-# AI-trend：AIレポート ダッシュボード
+# AI-trend：AI・医療レポート
 
-別の収集botが毎日集めている X の **AI 関連の投稿**（新モデル・ツール・研究・ビジネス・**医療・介護×AI**）を、カテゴリ別に見やすく閲覧する静的 Web ページです。GitHub Pages で公開します（**https://nichijowork-rgb.github.io/AI-trend/**）。
+別の収集botが毎日集めている X の **AI 関連の投稿**（新モデル・ツール・研究・ビジネス）と **医療・介護の投稿**（訪問看護・医療ニュース・介護・制度改定、そして **医療・介護×AI**）を、右上の［AI｜医療］で切り替えてカテゴリ別に見る静的 Web ページです。GitHub Pages で公開します（**https://nichijowork-rgb.github.io/AI-trend/**）。
 
-[X-trend](https://github.com/nichijowork-rgb/X-trend)（夜職版）と同じ仕組み・同じデータ形式で、カテゴリと見た目だけを AI 向けにしています。
+[X-trend](https://github.com/nichijowork-rgb/X-trend)（夜職版）と同じ仕組み・同じデータ形式で、カテゴリと見た目だけを AI・医療向けにしています。
 
 - サーバー・API・DB・ビルドは無し（HTML / CSS / 素の JavaScript）
 - `data/*.json` は収集botだけが書く。画面は読むだけ

@@ -23,7 +23,7 @@ export const PACE_NOTE = 'データ更新時点の値からの計算。今後の
 export const REPORT_TEXT = Object.freeze({
   dailyEmpty: '該当なし（デイリーのデータがまだありません）',
   risingEmpty: '該当なし',
-  risingAllGeneral: (n) => `該当なし（一般のバズ ${n}件は対象外）`,
+  risingAllOffTopic: (n) => `該当なし（AI・医療以外の ${n}件は対象外）`,
   reviewEmpty: '該当なし',
   hitRateEmpty: '該当なし',
   weeklyEmpty: '該当なし（週間まとめはまだ届いていません）',
@@ -37,28 +37,28 @@ export const REPORT_TEXT = Object.freeze({
   risingTitle: '伸びている投稿',
   risingButton: '伸びている',
   risingWatchTitle: '補足：伸びそうな投稿',
-  risingLead: '投稿から短い時間で表示回数が急に伸びている、AI関連の投稿です。',
+  risingLead: '投稿から短い時間で表示回数が急に伸びている、AI・医療関連の投稿です。',
   risingCondLead: '次のどれかを満たす投稿を、1時間あたりの伸びが速い順に並べています。',
-  risingWatchLead: '上の条件には届かないものの、伸び始めているAI関連の投稿です。',
+  risingWatchLead: '上の条件には届かないものの、伸び始めているAI・医療関連の投稿です。',
   risingAsOf: (t) => `数値は ${t} 時点のものです。`,
 });
 
 /**
- * カテゴリのグループ（ツールバーのグループチップ）。
- * - AIすべて: AI_CATEGORIES のいずれかを持つ投稿
- * - 一般のバズ: GENERAL_CATEGORIES を持つ投稿（両方持つ投稿は両方に出る）
- * データ側botは全投稿に話題カテゴリ（AI6種 or その他）を 1 つ以上付ける（データ側botへの依頼事項。docs/DATA_BOT_REQUEST.md）。
- * 「監視アカウント」カテゴリだけではどのグループにも入らない（is_watched と「監視」バッジで表す）。
+ * カテゴリのグループ（ヘッダーの［AI｜医療］スイッチと、ツールバーの「すべて」チップ）。
+ * - ai（AIすべて）: AI_CATEGORIES のいずれかを持つ投稿
+ * - medical（医療すべて）: MEDICAL_CATEGORIES のいずれかを持つ投稿
+ * 「医療・介護×AI」は両方に入る（両方のカテゴリを持つ投稿は両方に出る）。
+ * 「監視アカウント」カテゴリだけではどのグループにも入らない（is_watched で表す）。
  * 話題カテゴリを持たない投稿（想定外）はどのグループにも入らず、詳細パネルに「分類なし n件」と注記する。
- * データに未知の新カテゴリが来たら個別チップとして表示し、どのグループにも含めない。
+ * データに未知の新カテゴリが来たら個別チップとして両方のモードに表示し、どのグループにも含めない。
  */
-export const AI_CATEGORIES = Object.freeze(['医療・介護×AI', '新モデル・発表', 'ツール・活用', '研究・論文', 'ビジネス・業界', 'AIその他']);
+export const AI_CATEGORIES = Object.freeze(['新モデル・発表', 'ツール・活用', '研究・論文', 'ビジネス・業界', '医療・介護×AI', 'AIその他']);
+export const MEDICAL_CATEGORIES = Object.freeze(['医療・介護×AI', '訪問看護', '医療ニュース', '介護・福祉', '制度・報酬改定']);
 export const WATCH_CATEGORY = '監視アカウント';
-export const GENERAL_CATEGORIES = Object.freeze(['その他']);
 export const CATEGORY_GROUPS = Object.freeze([
-  Object.freeze({ key: 'ai', label: 'AIすべて', categories: AI_CATEGORIES }),
-  Object.freeze({ key: 'general', label: '一般のバズ', categories: GENERAL_CATEGORIES }),
+  Object.freeze({ key: 'ai', label: 'AIすべて', short: 'AI', categories: AI_CATEGORIES }),
+  Object.freeze({ key: 'medical', label: '医療すべて', short: '医療', categories: MEDICAL_CATEGORIES }),
 ]);
 
-/** 画面での表示名（データ上の値はそのまま） */
-export const CATEGORY_DISPLAY_NAMES = Object.freeze({ 'その他': '一般のバズ' });
+/** 画面での表示名（データ上の値はそのまま。必要になったらここに足す） */
+export const CATEGORY_DISPLAY_NAMES = Object.freeze({});

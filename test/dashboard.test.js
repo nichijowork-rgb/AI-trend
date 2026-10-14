@@ -8,9 +8,9 @@ import {
   linkifySegments, isSafeHttpUrl, highlightSegments, serializeState, parseState, DEFAULT_STATE,
   categorySlot, hashString, KNOWN_CATEGORY_SLOTS, SPARE_SLOTS, isFilterActive, topAccounts, countByCategory,
   niceTicks, isAllowedMediaUrl, sanitizeMedia, bestMp4, embedTweetId, PERIODS, LEGACY_PERIOD_ALIASES,
-  categoryMatcher, isUnclassified, inGroup, individualChipCategories, categoryLabel, normalizeCategorySelection, groupCategories,
+  categoryMatcher, isUnclassified, inGroup, individualChipCategories, chipVisibleInGroup, categoryLabel, normalizeCategorySelection, groupCategories,
   chooseRefTs, nextScheduledUpdate, isUpdateDelayed, viewsPerHour, formatPace, SORTS,
-  normalizeReports, filterAiRising, pickReport, hitRateText, hitRatio, formatRisingPace, formatBeforeAfter, weekKey,
+  normalizeReports, filterTopicRising, pickReport, hitRateText, hitRatio, formatRisingPace, formatBeforeAfter, weekKey,
 } from '../assets/js/core.js';
 import { UPDATE_SCHEDULE, PACE_NOTE, REPORT_TEXT } from '../assets/js/config.js';
 
@@ -371,7 +371,7 @@ test('sample/posts.json: 仕様どおりで検証ケースを含む', () => {
   assert.ok(ds.categories.includes('テスト新カテゴリ'));
   assert.ok(raw.posts.every((p) => typeof p.id === 'string' && p.user.startsWith('sample_') && p.text.startsWith('【サンプル】')));
   assert.ok(raw.posts.some((p) => p.is_watched));
-  assert.ok(raw.posts.some((p) => /^【サンプル】\s*https:\/\/t\.co\/\S+$/.test(p.text) && p.categories.includes('その他')));
+  assert.ok(raw.posts.some((p) => /^【サンプル】\s*https:\/\/t\.co\/\S+$/.test(p.text) && p.categories.includes('AIその他')));
   assert.ok(raw.posts.some((p) => p.created_jst && p.created_jst.startsWith('2016')));
   assert.ok(raw.posts.some((p) => p.text.includes('<script>')));
   assert.ok(raw.posts.some((p) => p.text.includes('onerror')));
@@ -545,58 +545,68 @@ test('初期状態: 24時間・AIすべて・インプレッションが多い�
   assert.equal(DEFAULT_STATE.sort, 'imp');
   assert.equal(SORTS.find((x) => x.key === 'imp').label, 'インプレッションが多い順');
   assert.equal(serializeState(DEFAULT_STATE), '');
-  assert.equal(serializeState({ group: 'general' }), 'group=general');
+  assert.equal(serializeState({ group: 'medical' }), 'group=medical');
   assert.equal(serializeState({ period: '30d', sort: 'new' }), 'period=30d&sort=new');
   assert.deepEqual(parseState(''), { ...DEFAULT_STATE, cats: [], rclosed: [] });
-  assert.equal(parseState('group=general').group, 'general');
+  assert.equal(parseState('group=medical').group, 'medical');
+  assert.equal(parseState('group=general').group, 'ai'); // 廃止した「一般のバズ」は AI に
   assert.equal(parseState('group=zzz').group, 'ai');
 });
 
-test('グループ: AIすべて＝AI6カテゴリ、一般のバズ＝その他、話題カテゴリなしはどちらにも入らない', () => {
-  assert.deepEqual(groupCategories('ai'), ['医療・介護×AI', '新モデル・発表', 'ツール・活用', '研究・論文', 'ビジネス・業界', 'AIその他']);
-  assert.deepEqual(groupCategories('general'), ['その他']);
+test('グループ: AIすべて＝AI6カテゴリ、医療すべて＝医療5カテゴリ（医療・介護×AIは両方）、話題カテゴリなしはどちらにも入らない', () => {
+  assert.deepEqual(groupCategories('ai'), ['新モデル・発表', 'ツール・活用', '研究・論文', 'ビジネス・業界', '医療・介護×AI', 'AIその他']);
+  assert.deepEqual(groupCategories('medical'), ['医療・介護×AI', '訪問看護', '医療ニュース', '介護・福祉', '制度・報酬改定']);
+  assert.equal(groupCategories('general'), null);
   const ds = dataset([
     rawPost({ id: '1', categories: ['新モデル・発表'] }),
     rawPost({ id: '2', categories: ['監視アカウント'] }), // 話題カテゴリなし → どちらにも入らない
-    rawPost({ id: '3', categories: ['その他'] }),
+    rawPost({ id: '3', categories: ['訪問看護'] }),
     rawPost({ id: '4', categories: ['テスト新カテゴリ'] }), // 未知のみ → どちらにも入らない
-    rawPost({ id: '5', categories: ['新モデル・発表', '監視アカウント'] }), // 監視＋新モデル・発表 → AIのみ
-    rawPost({ id: '6', categories: ['監視アカウント', 'その他'] }), // 監視＋その他 → 一般のみ
-    rawPost({ id: '7', categories: ['ツール・活用', 'その他'] }), // 両方 → 両方
-  ], ['新モデル・発表', 'ツール・活用', '研究・論文', 'AIその他', '監視アカウント', 'その他', 'ビジネス・業界', '医療・介護×AI']);
+    rawPost({ id: '5', categories: ['新モデル・発表', '監視アカウント'] }), // 監視＋AI → AIのみ
+    rawPost({ id: '6', categories: ['監視アカウント', '制度・報酬改定'] }), // 監視＋医療 → 医療のみ
+    rawPost({ id: '7', categories: ['ツール・活用', '介護・福祉'] }), // 両方 → 両方
+    rawPost({ id: '8', categories: ['医療・介護×AI'] }), // 両方のグループに入るカテゴリ
+    rawPost({ id: '9', categories: ['その他'] }), // 旧カテゴリ → どちらにも入らない
+  ], ['新モデル・発表', 'ツール・活用', '研究・論文', 'AIその他', '監視アカウント', '訪問看護', '制度・報酬改定', '介護・福祉', '医療・介護×AI', 'その他']);
   const ids = (st) => filterPosts(ds.posts, st, ds.refTs).map((p) => p.id).sort();
-  assert.deepEqual(ids({ group: 'ai' }), ['1', '5', '7']);
-  assert.deepEqual(ids({ group: 'general' }), ['3', '6', '7']);
+  assert.deepEqual(ids({ group: 'ai' }), ['1', '5', '7', '8']);
+  assert.deepEqual(ids({ group: 'medical' }), ['3', '6', '7', '8']);
   assert.deepEqual(ids({ group: 'ai', cats: ['テスト新カテゴリ'] }), ['4']); // 個別選択が優先
-  assert.deepEqual(ids({}), ['1', '2', '3', '4', '5', '6', '7']); // 省略時は絞らない
+  assert.deepEqual(ids({}), ['1', '2', '3', '4', '5', '6', '7', '8', '9']); // 省略時は絞らない
   const byId = (id) => ds.posts.find((p) => p.id === id);
-  assert.equal(inGroup(byId('6'), 'ai'), false); // 監視＋その他 → 一般のみ
-  assert.equal(inGroup(byId('6'), 'general'), true);
-  assert.equal(inGroup(byId('5'), 'ai'), true); // 監視＋新モデル・発表 → AIのみ
-  assert.equal(inGroup(byId('5'), 'general'), false);
-  assert.equal(inGroup(byId('2'), 'ai') || inGroup(byId('2'), 'general'), false); // 話題カテゴリなし
-  assert.deepEqual(ds.posts.filter(isUnclassified).map((p) => p.id).sort(), ['2', '4']);
+  assert.equal(inGroup(byId('6'), 'ai'), false);
+  assert.equal(inGroup(byId('6'), 'medical'), true);
+  assert.equal(inGroup(byId('5'), 'ai'), true);
+  assert.equal(inGroup(byId('5'), 'medical'), false);
+  assert.equal(inGroup(byId('2'), 'ai') || inGroup(byId('2'), 'medical'), false); // 話題カテゴリなし
+  assert.deepEqual(ds.posts.filter(isUnclassified).map((p) => p.id).sort(), ['2', '4', '9']);
   assert.equal(categoryMatcher({ cats: [], group: '' }), null);
-  // 個別チップ: AI6つ＋未知カテゴリ（監視・その他は出さない）
-  assert.deepEqual(individualChipCategories(ds.categories), ['医療・介護×AI', '新モデル・発表', 'ツール・活用', '研究・論文', 'ビジネス・業界', 'AIその他', 'テスト新カテゴリ']);
-  assert.equal(categoryLabel('その他'), '一般のバズ');
+  // 個別チップ: 話題カテゴリ（AI→医療の順・重複なし）＋未知カテゴリ（監視は出さない）
+  assert.deepEqual(individualChipCategories(ds.categories), ['新モデル・発表', 'ツール・活用', '研究・論文', '医療・介護×AI', 'AIその他', '訪問看護', '介護・福祉', '制度・報酬改定', 'その他', 'テスト新カテゴリ']);
+  // モードごとに出すチップ（未知カテゴリは両方）
+  assert.equal(chipVisibleInGroup('訪問看護', 'ai', ds.categories), false);
+  assert.equal(chipVisibleInGroup('訪問看護', 'medical', ds.categories), true);
+  assert.equal(chipVisibleInGroup('医療・介護×AI', 'ai', ds.categories), true);
+  assert.equal(chipVisibleInGroup('医療・介護×AI', 'medical', ds.categories), true);
+  assert.equal(chipVisibleInGroup('テスト新カテゴリ', 'medical', ds.categories), true);
   assert.equal(categoryLabel('新モデル・発表'), '新モデル・発表');
 });
 
-test('normalizeCategorySelection: モード（AI／一般）と個別選択。旧 URL の cat=… / group=… も解釈', () => {
-  const cats = ['新モデル・発表', 'ツール・活用', '研究・論文', 'AIその他', '監視アカウント', 'その他', '新カテゴリ'];
-  assert.deepEqual(normalizeCategorySelection({ cats: ['新モデル・発表', 'その他'], group: 'ai' }, cats), { cats: ['新モデル・発表'], group: 'ai' });
-  assert.deepEqual(normalizeCategorySelection({ cats: ['その他'], group: 'ai' }, cats), { cats: [], group: 'general' });
+test('normalizeCategorySelection: モード（AI／医療）と個別選択', () => {
+  const cats = ['新モデル・発表', 'ツール・活用', '研究・論文', 'AIその他', '医療・介護×AI', '訪問看護', '監視アカウント', '新カテゴリ'];
+  assert.deepEqual(normalizeCategorySelection({ cats: ['新モデル・発表', '訪問看護'], group: 'ai' }, cats), { cats: ['新モデル・発表'], group: 'ai' });
+  assert.deepEqual(normalizeCategorySelection({ cats: ['訪問看護'], group: 'ai' }, cats), { cats: ['訪問看護'], group: 'medical' }); // 別モードだけなら読み替え
   assert.deepEqual(normalizeCategorySelection({ cats: ['監視アカウント'], group: 'ai' }, cats), { cats: [], group: 'ai' });
-  assert.deepEqual(normalizeCategorySelection({ cats: ['存在しない'], group: 'general' }, cats), { cats: [], group: 'general' });
+  assert.deepEqual(normalizeCategorySelection({ cats: ['存在しない'], group: 'medical' }, cats), { cats: [], group: 'medical' });
   assert.deepEqual(normalizeCategorySelection({ cats: [], group: '' }, cats), { cats: [], group: 'ai' });
-  assert.deepEqual(normalizeCategorySelection({ cats: ['新カテゴリ'], group: 'ai' }, cats), { cats: ['新カテゴリ'], group: 'ai' });
-  // 一般のバズモードではAIの個別選択は外れ、未知カテゴリだけ選べる
-  assert.deepEqual(normalizeCategorySelection({ cats: ['新モデル・発表', '新カテゴリ'], group: 'general' }, cats), { cats: ['新カテゴリ'], group: 'general' });
-  assert.equal(serializeState({ group: 'general', cats: ['新カテゴリ'] }), 'cat=%E6%96%B0%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA&group=general');
+  assert.deepEqual(normalizeCategorySelection({ cats: ['新カテゴリ'], group: 'medical' }, cats), { cats: ['新カテゴリ'], group: 'medical' });
+  assert.deepEqual(normalizeCategorySelection({ cats: ['医療・介護×AI'], group: 'medical' }, cats), { cats: ['医療・介護×AI'], group: 'medical' });
+  // 医療モードではAIだけの個別選択は外れ、医療と未知カテゴリだけ選べる
+  assert.deepEqual(normalizeCategorySelection({ cats: ['新モデル・発表', '訪問看護', '新カテゴリ'], group: 'medical' }, cats), { cats: ['訪問看護', '新カテゴリ'], group: 'medical' });
+  assert.equal(serializeState({ group: 'medical', cats: ['新カテゴリ'] }), 'cat=%E6%96%B0%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA&group=medical');
 });
 
-test('rising_watch（任意）と、伸びている投稿のAIのみフィルタ（一般のバズのみは除外・posts に無い id は残す）', () => {
+test('rising_watch（任意）と、伸びている投稿のAI・医療のみフィルタ（話題カテゴリなしは除外・posts に無い id は残す）', () => {
   const r = normalizeReports({ daily: [
     { date: '2026-10-12', rising: [{ id: '1' }],
       rising_watch: [{ id: '2', views: 150000, hours_since_post: 2, views_per_hour: 75000, condition_label: '10万〜20万表示・伸び始め', reason: '<b>補足</b>', extra: 1 }, 'bad'] },
@@ -606,16 +616,16 @@ test('rising_watch（任意）と、伸びている投稿のAIのみフィルタ
   assert.deepEqual(r.daily[1].risingWatch, []); // フィールドが無ければ空
   const ds = dataset([
     rawPost({ id: '1', categories: ['新モデル・発表'] }),
-    rawPost({ id: '2', categories: ['その他'] }), // 一般のバズのみ → 除外
-    rawPost({ id: '3', categories: ['その他', 'ツール・活用'] }), // AIも持つ → 残す
-    rawPost({ id: '4', categories: ['監視アカウント', 'その他'] }), // AIを持たない → 除外
-  ], ['新モデル・発表', 'ツール・活用', 'その他', '監視アカウント']);
+    rawPost({ id: '2', categories: ['その他'] }), // 話題カテゴリなし → 除外
+    rawPost({ id: '3', categories: ['その他', '訪問看護'] }), // 医療も持つ → 残す
+    rawPost({ id: '4', categories: ['監視アカウント'] }), // 話題カテゴリなし → 除外
+  ], ['新モデル・発表', '訪問看護', 'その他', '監視アカウント']);
   const byId = new Map(ds.posts.map((p) => [p.id, p]));
   const items = ['1', '2', '3', '4', '999'].map((id) => ({ id }));
-  const out = filterAiRising(items, byId);
+  const out = filterTopicRising(items, byId);
   assert.deepEqual(out.items.map((x) => x.id), ['1', '3', '999']); // 999 は posts に無いので判定できず残す（データ側の並び順のまま）
   assert.equal(out.excluded, 2);
-  assert.deepEqual(filterAiRising(undefined, byId), { items: [], excluded: 0 });
+  assert.deepEqual(filterTopicRising(undefined, byId), { items: [], excluded: 0 });
 });
 
 test('sizedImageUrl: pbs.twimg.com の画像だけサイズ指定 URL に変える', async () => {

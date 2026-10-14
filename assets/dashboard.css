@@ -788,7 +788,7 @@ main { padding-top: 12px; }
   #view-group button { padding: 0 5px; }
 }
 
-/* ---------- ヘッダー: タイトル＋「AI／一般のバズ」スイッチを 1 行、更新表示は 2 行目 ---------- */
+/* ---------- ヘッダー: タイトル＋「AI／医療」スイッチを 1 行、更新表示は 2 行目 ---------- */
 .header-inner { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; column-gap: 12px; }
 .header-inner .brand { display: contents; }
 .header-inner .title { grid-column: 1; grid-row: 1; }
@@ -808,6 +808,13 @@ main { padding-top: 12px; }
 }
 
 /* ---------- 伸びている投稿（専用トグル・パネル） ---------- */
+/* ---------- 追跡アカウントだけ（トグル） ---------- */
+.watch-only { gap: 6px; font-size: 13px; }
+.watch-only .eye { width: 16px; height: 16px; fill: currentColor; flex: none; }
+.watch-only[aria-pressed="true"] { background: var(--accent); color: var(--on-accent); border-color: var(--accent); font-weight: 700; box-shadow: var(--glow-accent); }
+.watch-only[aria-pressed="true"] .count-badge { background: var(--on-accent); color: var(--accent); }
+@media (forced-colors: active) { .watch-only[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+
 .rising-toggle { margin-left: auto; }
 .rising-toggle + .panel-toggle { margin-left: 0; }
 .rising-toggle .flame { width: 15px; height: 15px; fill: var(--accent); flex: none; filter: drop-shadow(0 0 3px var(--accent-glow)); }

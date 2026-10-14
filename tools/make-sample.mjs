@@ -27,7 +27,7 @@ const OUT = path.resolve(process.argv[3] || path.join(ROOT, 'sample'));
 
 const GENERATED_AT = '2026-10-11T18:41:00+09:00';
 const NEWEST_TS = Math.floor(Date.parse('2026-10-11T18:32:00+09:00') / 1000);
-const CATEGORIES = ['医療・介護×AI', '新モデル・発表', 'ツール・活用', '研究・論文', 'ビジネス・業界', 'AIその他', '監視アカウント', 'その他', 'テスト新カテゴリ'];
+const CATEGORIES = ['新モデル・発表', 'ツール・活用', '研究・論文', 'ビジネス・業界', '医療・介護×AI', 'AIその他', '訪問看護', '医療ニュース', '介護・福祉', '制度・報酬改定', '監視アカウント', 'テスト新カテゴリ'];
 
 // ---- 乱数（決定的）
 function mulberry32(seed) {
@@ -57,11 +57,15 @@ const prefixes = {
   '研究・論文': ['paper', 'lab', 'arxiv'],
   'ビジネス・業界': ['biz', 'dx', 'startup'],
   'AIその他': ['ai', 'news', 'tech'],
+  '訪問看護': ['houkan', 'ns', 'visitcare'],
+  '医療ニュース': ['medical', 'clinic', 'hospital'],
+  '介護・福祉': ['kaigo', 'care', 'fukushi'],
+  '制度・報酬改定': ['seido', 'kaitei', 'policy'],
 };
 const names = ['ryu', 'mio', 'kai', 'rina', 'sora', 'yuna', 'ren', 'aoi', 'hikaru', 'sakura', 'ten', 'nana', 'shin', 'mei', 'leo', 'luna', 'jin', 'emi', 'kaito', 'rei'];
 let n = 0;
 for (const [cat, ps] of Object.entries(prefixes)) {
-  for (let i = 0; i < 18; i++) {
+  for (let i = 0; i < 12; i++) {
     n++;
     USERS.push({ user: `sample_${pick(ps)}_${pick(names)}${String(n).padStart(2, '0')}`, cat, watched: false, w: rnd() ** 2 * 10 + 0.3 });
   }
@@ -69,15 +73,15 @@ for (const [cat, ps] of Object.entries(prefixes)) {
 for (let i = 1; i <= 8; i++) {
   USERS.push({ user: `sample_watch_${String(i).padStart(2, '0')}`, cat: pick(Object.keys(prefixes)), watched: true, w: 4 + rnd() * 4 });
 }
-for (let i = 1; i <= 10; i++) {
-  USERS.push({ user: `sample_misc_${String(i).padStart(2, '0')}`, cat: 'その他', watched: false, w: 1 });
-}
 const totalW = USERS.reduce((s, u) => s + u.w, 0);
 function pickUser() {
   let r = rnd() * totalW;
   for (const u of USERS) { r -= u.w; if (r <= 0) return u; }
   return USERS[USERS.length - 1];
 }
+
+const AI = ['新モデル・発表', 'ツール・活用', '研究・論文', 'ビジネス・業界', '医療・介護×AI', 'AIその他'];
+const MEDICAL = ['医療・介護×AI', '訪問看護', '医療ニュース', '介護・福祉', '制度・報酬改定'];
 
 // ---- 本文の部品
 const TERMS = {
@@ -87,6 +91,10 @@ const TERMS = {
   '研究・論文': ['論文', 'arXiv', 'ベンチマーク', 'LLM', '推論', 'マルチモーダル'],
   'ビジネス・業界': ['資金調達', 'AI規制', '導入事例', '業務効率化', 'AI人材', '生成AI'],
   'AIその他': ['AI', 'AIニュース', 'AIイベント', '勉強会', 'AIアート', 'AI雑談'],
+  '訪問看護': ['訪問看護', '訪看', 'ステーション', '看護師', '在宅医療', '利用者さん'],
+  '医療ニュース': ['病院', '医師', '感染症', 'ワクチン', '医療費', '外来'],
+  '介護・福祉': ['介護', 'ケアマネ', 'ヘルパー', 'デイサービス', '介護職', '人手不足'],
+  '制度・報酬改定': ['報酬改定', '診療報酬', '介護報酬', '加算', '厚労省', '制度改正'],
 };
 const OPENERS = ['今日の', '週末の', '昨日の', '最近の', '今週の', '月末の'];
 const BODIES = [
@@ -145,19 +153,18 @@ for (let i = 0; i < COUNT; i++) {
   const ts = NEWEST_TS - (i === 0 ? 0 : ageSec);
   let cats = [];
   let terms = [];
-  if (u.cat === 'その他') {
-    cats = ['その他'];
-  } else {
+  {
     cats = [u.cat];
     terms = [pick(TERMS[u.cat])];
     if (chance(0.25)) {
-      const other = pick(Object.keys(TERMS).filter((c) => c !== u.cat));
+      const mode = MEDICAL.includes(u.cat) ? MEDICAL : AI;
+      const other = pick(chance(0.8) ? mode.filter((c) => c !== u.cat) : Object.keys(TERMS).filter((c) => c !== u.cat));
       cats.push(other);
       terms.push(pick(TERMS[other]));
     }
   }
   if (u.watched) cats.push('監視アカウント');
-  const text = u.cat === 'その他' ? `【サンプル】${pick(['おはようございます', '今日は雨', 'ランチ何にしよう', '雑談です'])}` : makeText(cats, terms);
+  const text = makeText(cats, terms);
   posts.push({
     id: String(idBase - BigInt(i * 7919 + int(0, 7000))),
     url: '',
@@ -173,10 +180,14 @@ for (let i = 0; i < COUNT; i++) {
 }
 
 // ---- 特殊ケースの上書き（位置は固定 → 決定的）
+// 検証用の投稿（先頭 0〜22）は初期表示の AI モードに出るよう、AI のカテゴリを必ず 1 つ持たせる
+for (let i = 0; i <= 22; i++) {
+  if (!posts[i].categories.some((c) => AI.includes(c))) posts[i].categories = [...posts[i].categories, '医療・介護×AI'];
+}
 const special = (idx, patch) => { Object.assign(posts[idx], patch); };
-// URL だけの本文 → その他（ラベル【サンプル】は付ける）
+// URL だけの本文 → AIその他（ラベル【サンプル】は付ける）
 for (const idx of [3, 140, 600]) {
-  special(idx, { text: `【サンプル】\n${tco()}`, categories: ['その他'], matched_terms: [] });
+  special(idx, { text: `【サンプル】\n${tco()}`, categories: ['AIその他'], matched_terms: [] });
 }
 // 未知カテゴリ（少数）
 for (const idx of [5, 77, 222, 480, 901]) {
@@ -200,9 +211,9 @@ special(14, { metrics: {} });
 delete posts[17].metrics; // metrics 自体なし
 for (let i = 30; i < COUNT; i += 97) posts[i].metrics.impression_count = null;
 for (let i = 45; i < COUNT; i += 131) delete posts[i].metrics.bookmark_count;
-// 監視アカウントの投稿（話題カテゴリ＋「監視アカウント」。一般のバズ側の監視投稿と、話題カテゴリなし＝想定外の 1 件も含む）
+// 監視アカウントの投稿（話題カテゴリ＋「監視アカウント」。医療側の監視投稿と、話題カテゴリなし＝想定外の 1 件も含む）
 const watchUsers = USERS.filter((u) => u.watched);
-[[24, ['その他', '監視アカウント']], [25, ['その他', '監視アカウント']], [26, ['新モデル・発表', '監視アカウント']], [120, ['監視アカウント']]].forEach(([idx, cats], k) => {
+[[24, ['訪問看護', '監視アカウント']], [25, ['制度・報酬改定', '監視アカウント']], [26, ['新モデル・発表', '監視アカウント']], [120, ['監視アカウント']]].forEach(([idx, cats], k) => {
   special(idx, {
     user: watchUsers[k % watchUsers.length].user, is_watched: true, categories: cats, matched_terms: [],
     text: `【サンプル】監視アカウントの投稿（カテゴリ: ${cats.join('・')}）`,
@@ -323,13 +334,13 @@ const risingToday = risingFor(genTs, 6);
 risingToday.splice(2, 0, { id: '1999999999999999999', views: 412000, hours_since_post: 2.5, views_per_hour: 164800, condition_label: COND[1] });
 // XSS 文字列入りの条件名
 risingToday.push({ id: posts[40].id, views: posts[40].metrics.impression_count ?? 0, hours_since_post: 'x', views_per_hour: null, condition_label: '<img src=x onerror="alert(\'rep\')">条件名にタグ' });
-// 一般のバズのみの投稿（画面側の安全策で除外されることの確認用）
-const generalOnly = posts.find((p) => p.categories.length === 1 && p.categories[0] === 'その他' && p.metrics && typeof p.metrics.impression_count === 'number');
+// 話題カテゴリの無い投稿（画面側の安全策で除外されることの確認用）
+const generalOnly = posts.find((p) => p.categories.every((c) => c === '監視アカウント') && p.metrics && typeof p.metrics.impression_count === 'number');
 risingToday.push({ id: generalOnly.id, views: generalOnly.metrics.impression_count, hours_since_post: 4, views_per_hour: Math.round(generalOnly.metrics.impression_count / 4), condition_label: COND[1] });
 // 補足「伸びそうな投稿」（rising_watch。条件ラベル・理由はデータ側の文字列）
 const watchPool = risingFor(genTs, 12).slice(6, 9);
 const risingWatch = watchPool.map((r, i) => ({ ...r, condition_label: '【サンプル】伸び始め（条件名はデータ側の文字列）', reason: `【サンプル】補足${i + 1}：1時間あたりのペースが上がっている` }));
-risingWatch.push({ id: generalOnly.id, views: 1000, hours_since_post: 1, views_per_hour: 1000, condition_label: '【サンプル】伸び始め', reason: '一般のバズのみ（除外される）' });
+risingWatch.push({ id: generalOnly.id, views: 1000, hours_since_post: 1, views_per_hour: 1000, condition_label: '【サンプル】伸び始め', reason: 'AI・医療以外（除外される）' });
 const review = risingPrev.map((r, i) => ({
   id: r.id, before_views: r.views, after_views: r.views * 2 + (i % 2 === 0 ? 500000 : 0), crossed_500k: r.views * 2 + (i % 2 === 0 ? 500000 : 0) >= 500000,
 }));
@@ -342,7 +353,7 @@ const hit = (rows) => COND.map((c) => {
 const reports = {
   generated_at: GENERATED_AT,
   daily: [
-    { date: '2026-10-11', rising: risingToday, rising_watch: risingWatch, review, hit_rate: hit(risingPrev.map((r, i) => ({ label: r.condition_label, crossed: review[i].crossed_500k }))) },
+    { date: '2026-10-11', rising: risingToday, rising_watch: risingWatch, review, hit_rate: [...hit(risingPrev.map((r, i) => ({ label: r.condition_label, crossed: review[i].crossed_500k }))), { condition_label: '【サンプル】条件D（該当する投稿なし）', total: 0, crossed: 0 }] },
     { date: '2026-10-10', rising: risingPrev, review: [], hit_rate: [] },
   ],
   weekly: [

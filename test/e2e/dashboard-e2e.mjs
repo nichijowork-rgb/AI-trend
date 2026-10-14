@@ -150,8 +150,10 @@ async function ready(page) {
 const count = (page) => page.$eval('#result-count', (e) => e.textContent);
 const shown = (page) => page.$$eval('#post-list > li', (l) => l.length);
 // 初期状態（AIすべて＝AI6カテゴリ、期間 24 時間）の件数
-const AI_CATS = ['医療・介護×AI', '新モデル・発表', 'ツール・活用', '研究・論文', 'ビジネス・業界', 'AIその他'];
+const AI_CATS = ['新モデル・発表', 'ツール・活用', '研究・論文', 'ビジネス・業界', '医療・介護×AI', 'AIその他'];
+const MED_CATS = ['医療・介護×AI', '訪問看護', '医療ニュース', '介護・福祉', '制度・報酬改定'];
 const inAi = (p) => p.categories.some((c) => AI_CATS.includes(c));
+const inMed = (p) => p.categories.some((c) => MED_CATS.includes(c));
 function defaultCount(json) {
   const ref = Math.floor(Date.parse(json.generated_at) / 1000);
   return json.posts.filter((p) => p.ts > ref - 86400 && inAi(p)).length;
@@ -204,8 +206,10 @@ async function main() {
       assert((await page.$eval('#period-group button[aria-pressed="true"]', (b) => b.dataset.period)) === '24h', 'default period');
       assert((await page.$eval('#cat-chips .chip[aria-pressed="true"]', (b) => b.dataset.group)) === 'ai', 'default group');
       assert((await page.evaluate(() => location.hash)) === '', 'no params in URL');
-      const chipNames = await page.$$eval('#cat-chips .chip .chip-name', (l) => l.map((e) => e.textContent));
-      assert(chipNames[0] === 'AIすべて' && !chipNames.includes('一般のバズ') && !chipNames.includes('監視アカウント') && !chipNames.includes('すべて') && !chipNames.includes('その他'), chipNames.join());
+      const chipNames = await page.$$eval('#cat-chips .chip:not([hidden]) .chip-name', (l) => l.map((e) => e.textContent));
+      assert(chipNames[0] === 'AIすべて' && !chipNames.includes('医療すべて') && !chipNames.includes('訪問看護') && chipNames.includes('医療・介護×AI') && !chipNames.includes('監視アカウント'), chipNames.join());
+      const modes = await page.$$eval('#mode-group button', (l) => l.map((e) => e.textContent));
+      assert(modes.join('|') === 'AI|医療', modes.join());
       assert((await page.$eval('#mode-group button[aria-pressed="true"]', (b) => b.dataset.group)) === 'ai', 'mode switch ai');
       assert(!(await page.$('#theme-toggle')), 'theme toggle removed');
       assert(!(await page.$('.badge-watch')), 'watch badge hidden');
@@ -374,12 +378,12 @@ async function main() {
 
     // ---- 6. 空 posts
     await check('空 posts（0件）', async () => {
-      const { ctx, page, con } = await newPage({}, { data: { posts: { generated_at: '2026-10-11T18:41:00+09:00', categories: ['新モデル・発表', 'その他'], posts: [] }, summary: null } });
+      const { ctx, page, con } = await newPage({}, { data: { posts: { generated_at: '2026-10-11T18:41:00+09:00', categories: ['新モデル・発表'], posts: [] }, summary: null } });
       await page.goto(base);
       await ready(page);
       assert(await page.isVisible('#posts-empty'), 'empty msg');
       assert((await page.textContent('#stat-posts')) === '0', 'zero');
-      assert((await page.$$('#cat-chips .chip')).length === 2, 'chips'); // AIすべて＋新モデル・発表
+      assert((await page.$$('#cat-chips .chip:not([hidden])')).length === 2, 'chips'); // AIすべて＋新モデル・発表
       await page.screenshot({ path: path.join(SHOTS, 'empty.png') });
       allErrors.push(...con.errors);
       await ctx.close();
@@ -447,24 +451,25 @@ async function main() {
       return `高さ ${Math.round(h1)}px → ${Math.round(h2)}px`;
     });
 
-    await check('詳細側の条件（検索・アカウント・監視のみ）はツールバーにチップ表示され解除できる', async () => {
+    await check('詳細側の条件（検索・アカウント）はツールバーにチップ表示され解除できる。追跡のみはボタンで表示', async () => {
       await page.fill('#q', '生成AI');
       await page.waitForFunction(() => window.__dashboard.state.q === '生成AI');
       await page.check('#watched');
       await page.click('#panel-toggle'); // 閉じても見える
       const chips = await page.$$eval('#active-filters .af', (l) => l.map((e) => e.textContent));
-      assert(chips.some((t) => t.includes('キーワード: 生成AI')) && chips.some((t) => t.includes('監視アカウントのみ')), chips.join());
+      assert(chips.some((t) => t.includes('キーワード: 生成AI')) && !chips.some((t) => t.includes('追跡')), chips.join());
+      assert((await page.getAttribute('#watch-only', 'aria-pressed')) === 'true', 'watch button reflects checkbox');
       await page.click('#active-filters .af:has-text("キーワード") button');
       await page.waitForFunction(() => window.__dashboard.state.q === '');
-      await page.click('#active-filters .af:has-text("監視") button');
+      await page.click('#watch-only');
       await page.waitForFunction(() => !window.__dashboard.state.watched);
       await page.click('#panel-toggle');
       assert(await page.isVisible('#q'), 'panel reopened');
     });
 
-    await check('伸びている投稿パネル: 開閉・URL/保存・NEW・AIのみ（一般のバズ除外注記）・rising_watch・XSS', async () => {
+    await check('伸びている投稿パネル: 開閉・URL/保存・NEW・AI・医療のみ（対象外の除外注記）・rising_watch・XSS', async () => {
       const today = sampleReports.daily[0];
-      const isGeneralOnly = (id) => { const p = sample.posts.find((x) => x.id === id); return !!p && !p.categories.some((c) => AI_CATS.includes(c)); };
+      const isGeneralOnly = (id) => { const p = sample.posts.find((x) => x.id === id); return !!p && !inAi(p) && !inMed(p); };
       const shownRising = today.rising.filter((r) => !isGeneralOnly(r.id));
       const shownWatch = today.rising_watch.filter((r) => !isGeneralOnly(r.id));
       const excluded = today.rising.length - shownRising.length + today.rising_watch.length - shownWatch.length;
@@ -484,8 +489,8 @@ async function main() {
       const missing = await page.$$eval('#rising-body .post-missing', (l) => l.map((e) => e.querySelector('a') && e.querySelector('a').href));
       assert(missing.length === 1 && missing[0] === 'https://x.com/i/web/status/1999999999999999999', JSON.stringify(missing));
       const note = await page.textContent('#rising-note');
-      assert(note.includes('AI関連の投稿です') && note.includes(shownRising[0].condition_label) && note.includes('時点のものです'), note);
-      assert((await page.getAttribute('#rising-note', 'title')).includes(`一般のバズ ${excluded}件`), 'excluded in title');
+      assert(note.includes('AI・医療関連の投稿です') && note.includes(shownRising[0].condition_label) && note.includes('時点のものです'), note);
+      assert((await page.getAttribute('#rising-note', 'title')).includes(`AI・医療以外の ${excluded}件`), 'excluded in title');
       assert(await page.isVisible('#rising-watch'), 'rising_watch shown');
       assert((await page.textContent('#rising-watch-title')) === '補足：伸びそうな投稿', 'watch title');
       assert((await page.$$('#rising-watch .rising-item')).length === shownWatch.length, 'watch items');
@@ -494,9 +499,9 @@ async function main() {
       assert(!/<img[^>]*onerror/i.test(html) && !/<script/i.test(html), 'tag injected');
       assert((await page.textContent('#rising-panel')).includes('<img src=x onerror='), 'tag shown as text');
       assert((await page.textContent('#rising-body')).includes('伸びペース：不明'), 'unknown pace');
-      // AI／一般のバズの切替・カテゴリとは連動しない
+      // AI／医療の切替・カテゴリとは連動しない
       const before = await page.$$eval('#rising-body .rising-item', (l) => l.length);
-      await page.click('#mode-group button[data-group="general"]');
+      await page.click('#mode-group button[data-group="medical"]');
       assert((await page.$$eval('#rising-body .rising-item', (l) => l.length)) === before, 'independent of mode');
       await page.click('#mode-group button[data-group="ai"]');
       await page.$eval('#rising-panel', (e) => e.scrollIntoView());
@@ -595,22 +600,20 @@ async function main() {
       await page.click('#cat-chips .chip[data-cat="新モデル・発表"]');
       await page.click('#cat-chips .chip[data-cat="ツール・活用"]');
       assert((await page.$eval('#cat-chips .chip[aria-pressed="true"]', (b) => b.dataset.group)) === 'ai', 'back to ai');
-      // ヘッダーのスイッチで「一般のバズ」へ（個別選択は解除、期間・並び替えは保持）
+      // ヘッダーのスイッチで「医療」へ（個別選択は解除、期間・並び替えは保持）
       await page.click('#cat-chips .chip[data-cat="新モデル・発表"]');
-      await page.click('#mode-group button[data-group="general"]');
+      await page.click('#mode-group button[data-group="medical"]');
       let st = await page.evaluate(() => window.__dashboard.state);
-      assert(st.group === 'general' && st.cats.length === 0 && st.period === '30d' && st.sort === 'new', JSON.stringify(st));
-      assert(num(await count(page)) === S.filter((p) => p.categories.includes('その他')).length, 'general');
-      assert((await page.evaluate(() => location.hash)).includes('group=general'), 'group url');
-      // 一般モードではAIのチップは隠れ、どのグループにも入らない未知カテゴリのチップだけ残る
+      assert(st.group === 'medical' && st.cats.length === 0 && st.period === '30d' && st.sort === 'new', JSON.stringify(st));
+      assert(num(await count(page)) === S.filter(inMed).length, 'medical');
+      assert((await page.evaluate(() => location.hash)).includes('group=medical'), 'group url');
+      // 医療モードでは医療のチップ（＋未知カテゴリ）だけ出る。医療・介護×AI は両方に出る
       const visibleChips = await page.$$eval('#cat-chips .chip:not([hidden])', (l) => l.map((e) => e.dataset.cat || e.dataset.group));
-      assert(visibleChips.length === 1 && visibleChips[0] === 'テスト新カテゴリ', visibleChips.join());
-      const badges = await page.$$eval('#post-list .badge', (l) => [...new Set(l.map((e) => e.textContent))]);
-      assert(badges.includes('一般のバズ') && !badges.includes('その他') && !badges.includes('監視アカウント'), badges.join());
-      await page.click('#cat-chips .chip[data-cat="テスト新カテゴリ"]');
-      assert(num(await count(page)) === 5, 'unknown in general mode');
-      await page.click('#cat-chips .chip[data-cat="テスト新カテゴリ"]');
-      assert(num(await count(page)) === S.filter((p) => p.categories.includes('その他')).length, 'back to general');
+      assert(visibleChips.join('|') === ['medical', ...MED_CATS, 'テスト新カテゴリ'].join('|'), visibleChips.join());
+      await page.click('#cat-chips .chip[data-cat="訪問看護"]');
+      assert(num(await count(page)) === S.filter((p) => p.categories.includes('訪問看護')).length, 'houkan');
+      await page.click('#cat-chips .chip[data-cat="訪問看護"]');
+      assert(num(await count(page)) === S.filter(inMed).length, 'back to medical');
       await page.click('#mode-group button[data-group="ai"]');
       st = await page.evaluate(() => window.__dashboard.state);
       assert(st.group === 'ai' && st.cats.length === 0, JSON.stringify(st));
@@ -631,11 +634,27 @@ async function main() {
       return `${expected}件`;
     });
 
-    await check('監視アカウントのみ', async () => {
+    await check('追跡アカウントだけ（ツールバーのボタン・詳細のチェックと連動・並び替え可）', async () => {
       await page.check('#watched');
       const exp = S.filter((p) => p.is_watched && inAi(p)).length;
       assert(num(await count(page)) === exp, 'watched');
       await page.uncheck('#watched');
+      // ツールバーのボタン（件数バッジ＝押したときの件数）
+      const badge = num(await page.textContent('#watch-count'));
+      assert(badge === exp, `badge ${badge} vs ${exp}`);
+      await page.click('#watch-only');
+      assert((await page.getAttribute('#watch-only', 'aria-pressed')) === 'true' && await page.isChecked('#watched'), 'button on');
+      assert(num(await count(page)) === exp, 'button filter');
+      assert((await page.evaluate(() => location.hash)).includes('watched=1'), 'url');
+      // 並び替えはそのまま使える（いいねが多い順）
+      await page.selectOption('#sort', 'like');
+      const users = await page.$$eval('#post-list > li .post-user', (l) => l.map((e) => e.textContent.replace(/^@/, '')));
+      const watchedUsers = new Set(S.filter((p) => p.is_watched).map((p) => p.user));
+      assert(users.length > 0 && users.every((u) => watchedUsers.has(u)), users.join());
+      await page.selectOption('#sort', 'new');
+      await page.click('#watch-only');
+      assert((await page.getAttribute('#watch-only', 'aria-pressed')) === 'false' && !(await page.isChecked('#watched')), 'button off');
+      return `追跡 ${exp}件`;
     });
 
     await check('上位アカウント（切替・クリックで絞り込み）', async () => {

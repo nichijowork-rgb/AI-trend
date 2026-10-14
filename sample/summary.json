@@ -1,1380 +1,1461 @@
 {
  "generated_at": "2026-10-11T18:41:00+09:00",
  "total_posts": 1500,
- "total_accounts": 120,
+ "total_accounts": 116,
  "period": {
   "oldest_jst": "2016-03-04T10:00:00+09:00",
   "newest_jst": "2026-10-11T18:32:00+09:00"
  },
  "by_category": {
-  "医療・介護×AI": {
-   "posts": 311,
-   "impressions": 1742279,
-   "likes": 43056
-  },
   "新モデル・発表": {
-   "posts": 292,
-   "impressions": 2269731,
-   "likes": 60259
+   "posts": 159,
+   "impressions": 1477652,
+   "likes": 34101
   },
   "ツール・活用": {
-   "posts": 262,
-   "impressions": 2845341,
-   "likes": 67542
+   "posts": 209,
+   "impressions": 2114082,
+   "likes": 51369
   },
   "研究・論文": {
-   "posts": 290,
-   "impressions": 2059650,
-   "likes": 47088
+   "posts": 112,
+   "impressions": 688375,
+   "likes": 18223
   },
   "ビジネス・業界": {
-   "posts": 310,
-   "impressions": 3426361,
-   "likes": 92638
+   "posts": 224,
+   "impressions": 2600002,
+   "likes": 50646
+  },
+  "医療・介護×AI": {
+   "posts": 213,
+   "impressions": 922971,
+   "likes": 22237
   },
   "AIその他": {
-   "posts": 365,
-   "impressions": 3944436,
-   "likes": 82002
+   "posts": 169,
+   "impressions": 1770344,
+   "likes": 47118
+  },
+  "訪問看護": {
+   "posts": 144,
+   "impressions": 720800,
+   "likes": 16166
+  },
+  "医療ニュース": {
+   "posts": 257,
+   "impressions": 1346152,
+   "likes": 33161
+  },
+  "介護・福祉": {
+   "posts": 181,
+   "impressions": 908929,
+   "likes": 24204
+  },
+  "制度・報酬改定": {
+   "posts": 236,
+   "impressions": 1116956,
+   "likes": 29480
   },
   "監視アカウント": {
-   "posts": 164,
-   "impressions": 4918328,
-   "likes": 123461
-  },
-  "その他": {
-   "posts": 40,
-   "impressions": 291426,
-   "likes": 8454
+   "posts": 139,
+   "impressions": 3074749,
+   "likes": 80651
   },
   "テスト新カテゴリ": {
    "posts": 5,
-   "impressions": 6005,
-   "likes": 97
+   "impressions": 20781,
+   "likes": 168
   }
  },
  "by_account": [
   {
-   "user": "sample_nurse_ryu09",
-   "is_watched": false,
-   "posts": 38,
-   "impressions": 183772,
-   "likes": 3894
-  },
-  {
-   "user": "sample_nurse_ryu02",
+   "user": "sample_kaitei_leo112",
    "is_watched": false,
    "posts": 37,
-   "impressions": 115230,
-   "likes": 3194
+   "impressions": 111072,
+   "likes": 3288
   },
   {
-   "user": "sample_dx_jin90",
+   "user": "sample_startup_mio59",
    "is_watched": false,
-   "posts": 36,
-   "impressions": 181746,
-   "likes": 5272
-  },
-  {
-   "user": "sample_biz_yuna84",
-   "is_watched": false,
-   "posts": 35,
-   "impressions": 210902,
-   "likes": 6358
-  },
-  {
-   "user": "sample_llm_aoi26",
-   "is_watched": false,
-   "posts": 34,
-   "impressions": 160689,
-   "likes": 3999
-  },
-  {
-   "user": "sample_watch_08",
-   "is_watched": true,
    "posts": 33,
-   "impressions": 1057996,
-   "likes": 28289
+   "impressions": 1276722,
+   "likes": 15541
   },
   {
-   "user": "sample_lab_ren55",
+   "user": "sample_policy_kaito110",
+   "is_watched": false,
+   "posts": 33,
+   "impressions": 141488,
+   "likes": 3946
+  },
+  {
+   "user": "sample_care_ryu102",
    "is_watched": false,
    "posts": 31,
-   "impressions": 143196,
-   "likes": 3246
+   "impressions": 219307,
+   "likes": 5743
   },
   {
-   "user": "sample_news_ryu102",
+   "user": "sample_fukushi_rei108",
+   "is_watched": false,
+   "posts": 31,
+   "impressions": 101673,
+   "likes": 2156
+  },
+  {
+   "user": "sample_biz_jin60",
    "is_watched": false,
    "posts": 30,
-   "impressions": 288480,
-   "likes": 7858
-  },
-  {
-   "user": "sample_news_luna94",
-   "is_watched": false,
-   "posts": 29,
-   "impressions": 214314,
-   "likes": 6835
-  },
-  {
-   "user": "sample_watch_06",
-   "is_watched": true,
-   "posts": 28,
-   "impressions": 947481,
-   "likes": 28153
-  },
-  {
-   "user": "sample_dx_rei76",
-   "is_watched": false,
-   "posts": 28,
-   "impressions": 160627,
-   "likes": 3076
-  },
-  {
-   "user": "sample_news_ryu92",
-   "is_watched": false,
-   "posts": 28,
-   "impressions": 118727,
-   "likes": 3337
-  },
-  {
-   "user": "sample_ai_rina96",
-   "is_watched": false,
-   "posts": 27,
-   "impressions": 119436,
-   "likes": 2432
-  },
-  {
-   "user": "sample_ai_mei103",
-   "is_watched": false,
-   "posts": 27,
-   "impressions": 118432,
-   "likes": 2542
-  },
-  {
-   "user": "sample_arxiv_mio59",
-   "is_watched": false,
-   "posts": 27,
-   "impressions": 105450,
-   "likes": 2177
-  },
-  {
-   "user": "sample_hack_sora48",
-   "is_watched": false,
-   "posts": 27,
-   "impressions": 92955,
-   "likes": 2468
-  },
-  {
-   "user": "sample_llm_sora21",
-   "is_watched": false,
-   "posts": 26,
-   "impressions": 327017,
-   "likes": 7219
-  },
-  {
-   "user": "sample_prompt_luna52",
-   "is_watched": false,
-   "posts": 26,
-   "impressions": 114250,
-   "likes": 2668
-  },
-  {
-   "user": "sample_llm_jin32",
-   "is_watched": false,
-   "posts": 25,
-   "impressions": 148107,
-   "likes": 3705
-  },
-  {
-   "user": "sample_carex_mio04",
-   "is_watched": false,
-   "posts": 25,
-   "impressions": 121303,
-   "likes": 2393
-  },
-  {
-   "user": "sample_watch_02",
-   "is_watched": true,
-   "posts": 24,
-   "impressions": 648818,
-   "likes": 12491
-  },
-  {
-   "user": "sample_nurse_emi15",
-   "is_watched": false,
-   "posts": 24,
-   "impressions": 196109,
-   "likes": 5770
-  },
-  {
-   "user": "sample_prompt_mio49",
-   "is_watched": false,
-   "posts": 24,
-   "impressions": 117234,
-   "likes": 1809
-  },
-  {
-   "user": "sample_carex_jin08",
-   "is_watched": false,
-   "posts": 24,
-   "impressions": 83011,
-   "likes": 1803
-  },
-  {
-   "user": "sample_paper_jin60",
-   "is_watched": false,
-   "posts": 24,
-   "impressions": 68480,
-   "likes": 2137
-  },
-  {
-   "user": "sample_carex_mei03",
-   "is_watched": false,
-   "posts": 22,
-   "impressions": 167400,
-   "likes": 3221
-  },
-  {
-   "user": "sample_tech_rei108",
-   "is_watched": false,
-   "posts": 22,
-   "impressions": 136237,
-   "likes": 3184
-  },
-  {
-   "user": "sample_news_sakura98",
-   "is_watched": false,
-   "posts": 22,
-   "impressions": 78762,
-   "likes": 1425
-  },
-  {
-   "user": "sample_llm_kaito34",
-   "is_watched": false,
-   "posts": 22,
-   "impressions": 77602,
-   "likes": 1970
-  },
-  {
-   "user": "sample_release_sora36",
-   "is_watched": false,
-   "posts": 21,
-   "impressions": 73943,
-   "likes": 1609
-  },
-  {
-   "user": "sample_lab_aoi61",
-   "is_watched": false,
-   "posts": 21,
-   "impressions": 62432,
-   "likes": 1422
-  },
-  {
-   "user": "sample_dx_ten87",
-   "is_watched": false,
-   "posts": 19,
-   "impressions": 136451,
-   "likes": 2411
-  },
-  {
-   "user": "sample_release_ten33",
-   "is_watched": false,
-   "posts": 19,
-   "impressions": 96912,
-   "likes": 2625
-  },
-  {
-   "user": "sample_ai_ryu91",
-   "is_watched": false,
-   "posts": 19,
-   "impressions": 61512,
-   "likes": 1849
-  },
-  {
-   "user": "sample_watch_03",
-   "is_watched": true,
-   "posts": 18,
-   "impressions": 786895,
-   "likes": 19390
-  },
-  {
-   "user": "sample_watch_07",
-   "is_watched": true,
-   "posts": 18,
-   "impressions": 533427,
-   "likes": 17886
-  },
-  {
-   "user": "sample_paper_aoi65",
-   "is_watched": false,
-   "posts": 18,
-   "impressions": 185523,
-   "likes": 5791
-  },
-  {
-   "user": "sample_startup_kaito88",
-   "is_watched": false,
-   "posts": 18,
-   "impressions": 101581,
-   "likes": 2324
-  },
-  {
-   "user": "sample_carex_mio17",
-   "is_watched": false,
-   "posts": 18,
-   "impressions": 72339,
-   "likes": 2241
-  },
-  {
-   "user": "sample_tools_luna41",
-   "is_watched": false,
-   "posts": 17,
-   "impressions": 115881,
-   "likes": 2161
-  },
-  {
-   "user": "sample_llm_rei29",
-   "is_watched": false,
-   "posts": 17,
-   "impressions": 65694,
-   "likes": 1351
+   "impressions": 242429,
+   "likes": 6319
   },
   {
    "user": "sample_watch_04",
    "is_watched": true,
-   "posts": 16,
-   "impressions": 487233,
-   "likes": 7071
+   "posts": 29,
+   "impressions": 902450,
+   "likes": 21331
   },
   {
-   "user": "sample_watch_01",
+   "user": "sample_clinic_jin90",
+   "is_watched": false,
+   "posts": 29,
+   "impressions": 187114,
+   "likes": 4420
+  },
+  {
+   "user": "sample_houkan_yuna84",
+   "is_watched": false,
+   "posts": 29,
+   "impressions": 146453,
+   "likes": 3788
+  },
+  {
+   "user": "sample_care_sakura98",
+   "is_watched": false,
+   "posts": 28,
+   "impressions": 171965,
+   "likes": 3839
+  },
+  {
+   "user": "sample_clinic_ryu92",
+   "is_watched": false,
+   "posts": 28,
+   "impressions": 76386,
+   "likes": 1932
+  },
+  {
+   "user": "sample_medical_rina96",
+   "is_watched": false,
+   "posts": 27,
+   "impressions": 125380,
+   "likes": 1835
+  },
+  {
+   "user": "sample_seido_ten118",
+   "is_watched": false,
+   "posts": 27,
+   "impressions": 84862,
+   "likes": 2337
+  },
+  {
+   "user": "sample_biz_mio49",
+   "is_watched": false,
+   "posts": 26,
+   "impressions": 122937,
+   "likes": 3138
+  },
+  {
+   "user": "sample_clinic_luna94",
+   "is_watched": false,
+   "posts": 25,
+   "impressions": 146954,
+   "likes": 2799
+  },
+  {
+   "user": "sample_ai_aoi65",
+   "is_watched": false,
+   "posts": 24,
+   "impressions": 273450,
+   "likes": 8024
+  },
+  {
+   "user": "sample_hack_sora36",
+   "is_watched": false,
+   "posts": 24,
+   "impressions": 141475,
+   "likes": 3565
+  },
+  {
+   "user": "sample_hospital_kaito88",
+   "is_watched": false,
+   "posts": 24,
+   "impressions": 85332,
+   "likes": 2277
+  },
+  {
+   "user": "sample_watch_02",
    "is_watched": true,
-   "posts": 16,
-   "impressions": 231726,
-   "likes": 6243
+   "posts": 23,
+   "impressions": 416115,
+   "likes": 10174
   },
   {
-   "user": "sample_lab_kai70",
+   "user": "sample_kaitei_mio115",
    "is_watched": false,
-   "posts": 16,
-   "impressions": 132151,
-   "likes": 2700
+   "posts": 23,
+   "impressions": 154366,
+   "likes": 3615
   },
   {
-   "user": "sample_nurse_yuna12",
+   "user": "sample_kaitei_nana111",
    "is_watched": false,
-   "posts": 15,
-   "impressions": 89381,
-   "likes": 3243
+   "posts": 23,
+   "impressions": 126395,
+   "likes": 3319
   },
   {
-   "user": "sample_release_hikaru28",
+   "user": "sample_carex_jin08",
    "is_watched": false,
-   "posts": 14,
-   "impressions": 75845,
-   "likes": 1660
+   "posts": 23,
+   "impressions": 80117,
+   "likes": 2072
   },
   {
-   "user": "sample_model_nana25",
+   "user": "sample_ns_rei76",
    "is_watched": false,
-   "posts": 13,
-   "impressions": 64551,
-   "likes": 1886
+   "posts": 23,
+   "impressions": 63471,
+   "likes": 1738
+  },
+  {
+   "user": "sample_prompt_jin32",
+   "is_watched": false,
+   "posts": 22,
+   "impressions": 187642,
+   "likes": 4644
+  },
+  {
+   "user": "sample_nurse_ryu09",
+   "is_watched": false,
+   "posts": 22,
+   "impressions": 96702,
+   "likes": 2282
+  },
+  {
+   "user": "sample_biz_luna52",
+   "is_watched": false,
+   "posts": 22,
+   "impressions": 63970,
+   "likes": 1942
+  },
+  {
+   "user": "sample_hack_ten33",
+   "is_watched": false,
+   "posts": 21,
+   "impressions": 100266,
+   "likes": 2106
+  },
+  {
+   "user": "sample_watch_07",
+   "is_watched": true,
+   "posts": 20,
+   "impressions": 284524,
+   "likes": 7528
+  },
+  {
+   "user": "sample_news_kai70",
+   "is_watched": false,
+   "posts": 20,
+   "impressions": 126007,
+   "likes": 2950
+  },
+  {
+   "user": "sample_lab_luna41",
+   "is_watched": false,
+   "posts": 20,
+   "impressions": 67173,
+   "likes": 1670
+  },
+  {
+   "user": "sample_watch_03",
+   "is_watched": true,
+   "posts": 19,
+   "impressions": 314311,
+   "likes": 9315
+  },
+  {
+   "user": "sample_llm_emi15",
+   "is_watched": false,
+   "posts": 19,
+   "impressions": 156269,
+   "likes": 2944
   },
   {
    "user": "sample_carex_jin07",
    "is_watched": false,
-   "posts": 13,
-   "impressions": 60238,
-   "likes": 978
+   "posts": 19,
+   "impressions": 131368,
+   "likes": 3643
   },
   {
-   "user": "sample_ai_hikaru93",
+   "user": "sample_news_aoi61",
    "is_watched": false,
-   "posts": 13,
-   "impressions": 44404,
-   "likes": 933
+   "posts": 19,
+   "impressions": 129653,
+   "likes": 3338
   },
   {
-   "user": "sample_news_kaito105",
+   "user": "sample_prompt_rei29",
    "is_watched": false,
-   "posts": 12,
-   "impressions": 54089,
-   "likes": 1584
+   "posts": 19,
+   "impressions": 103176,
+   "likes": 2616
   },
   {
-   "user": "sample_arxiv_ren56",
+   "user": "sample_medical_ryu91",
    "is_watched": false,
-   "posts": 12,
-   "impressions": 48148,
-   "likes": 1640
+   "posts": 18,
+   "impressions": 113068,
+   "likes": 3694
   },
   {
-   "user": "sample_biz_luna81",
+   "user": "sample_kaigo_mei103",
    "is_watched": false,
-   "posts": 12,
-   "impressions": 42980,
-   "likes": 518
+   "posts": 18,
+   "impressions": 91820,
+   "likes": 2948
   },
   {
-   "user": "sample_carex_jin01",
+   "user": "sample_dx_ren55",
    "is_watched": false,
-   "posts": 12,
-   "impressions": 27241,
-   "likes": 509
+   "posts": 18,
+   "impressions": 85842,
+   "likes": 2757
+  },
+  {
+   "user": "sample_nurse_ryu02",
+   "is_watched": false,
+   "posts": 17,
+   "impressions": 60675,
+   "likes": 1501
+  },
+  {
+   "user": "sample_medical_hikaru93",
+   "is_watched": false,
+   "posts": 17,
+   "impressions": 41541,
+   "likes": 1766
+  },
+  {
+   "user": "sample_carex_mei03",
+   "is_watched": false,
+   "posts": 17,
+   "impressions": 37216,
+   "likes": 641
+  },
+  {
+   "user": "sample_watch_06",
+   "is_watched": true,
+   "posts": 16,
+   "impressions": 521644,
+   "likes": 18957
+  },
+  {
+   "user": "sample_seido_luna120",
+   "is_watched": false,
+   "posts": 16,
+   "impressions": 90614,
+   "likes": 2424
+  },
+  {
+   "user": "sample_prompt_aoi26",
+   "is_watched": false,
+   "posts": 15,
+   "impressions": 102021,
+   "likes": 1870
+  },
+  {
+   "user": "sample_startup_ren56",
+   "is_watched": false,
+   "posts": 15,
+   "impressions": 65031,
+   "likes": 2031
+  },
+  {
+   "user": "sample_model_mio17",
+   "is_watched": false,
+   "posts": 15,
+   "impressions": 57496,
+   "likes": 2024
+  },
+  {
+   "user": "sample_watch_08",
+   "is_watched": true,
+   "posts": 14,
+   "impressions": 190453,
+   "likes": 5268
+  },
+  {
+   "user": "sample_policy_rina114",
+   "is_watched": false,
+   "posts": 14,
+   "impressions": 112716,
+   "likes": 2984
+  },
+  {
+   "user": "sample_houkan_luna81",
+   "is_watched": false,
+   "posts": 14,
+   "impressions": 71006,
+   "likes": 1262
+  },
+  {
+   "user": "sample_llm_sora21",
+   "is_watched": false,
+   "posts": 14,
+   "impressions": 52218,
+   "likes": 1217
   },
   {
    "user": "sample_watch_05",
    "is_watched": true,
-   "posts": 11,
-   "impressions": 224752,
-   "likes": 3938
+   "posts": 13,
+   "impressions": 400710,
+   "likes": 6315
   },
   {
-   "user": "sample_startup_luna86",
+   "user": "sample_ns_shin73",
+   "is_watched": false,
+   "posts": 13,
+   "impressions": 104166,
+   "likes": 1113
+  },
+  {
+   "user": "sample_arxiv_sora48",
+   "is_watched": false,
+   "posts": 13,
+   "impressions": 43541,
+   "likes": 1189
+  },
+  {
+   "user": "sample_tools_nana25",
+   "is_watched": false,
+   "posts": 12,
+   "impressions": 59164,
+   "likes": 1934
+  },
+  {
+   "user": "sample_clinic_ten87",
+   "is_watched": false,
+   "posts": 12,
+   "impressions": 28119,
+   "likes": 870
+  },
+  {
+   "user": "sample_carex_mio04",
    "is_watched": false,
    "posts": 11,
-   "impressions": 84096,
-   "likes": 2458
+   "impressions": 86509,
+   "likes": 2104
   },
   {
-   "user": "sample_paper_leo71",
+   "user": "sample_carex_jin01",
    "is_watched": false,
    "posts": 11,
-   "impressions": 81900,
-   "likes": 2366
+   "impressions": 49570,
+   "likes": 821
   },
   {
-   "user": "sample_paper_aoi62",
+   "user": "sample_seido_ten113",
    "is_watched": false,
    "posts": 11,
-   "impressions": 73948,
-   "likes": 1046
+   "impressions": 44098,
+   "likes": 620
   },
   {
-   "user": "sample_news_sakura100",
+   "user": "sample_ai_leo67",
    "is_watched": false,
    "posts": 11,
-   "impressions": 53928,
-   "likes": 1579
+   "impressions": 42082,
+   "likes": 1075
   },
   {
-   "user": "sample_paper_leo67",
+   "user": "sample_prompt_kaito34",
    "is_watched": false,
    "posts": 11,
-   "impressions": 47350,
-   "likes": 1360
+   "impressions": 37128,
+   "likes": 1018
   },
   {
-   "user": "sample_prompt_shin51",
+   "user": "sample_ai_leo71",
    "is_watched": false,
-   "posts": 10,
-   "impressions": 48330,
-   "likes": 1317
+   "posts": 11,
+   "impressions": 34934,
+   "likes": 805
   },
   {
-   "user": "sample_news_kai104",
+   "user": "sample_biz_rei53",
+   "is_watched": false,
+   "posts": 11,
+   "impressions": 9544,
+   "likes": 285
+  },
+  {
+   "user": "sample_arxiv_hikaru40",
    "is_watched": false,
    "posts": 9,
-   "impressions": 1202959,
-   "likes": 13937
+   "impressions": 61780,
+   "likes": 1408
   },
   {
-   "user": "sample_lab_rina68",
+   "user": "sample_care_sakura100",
    "is_watched": false,
    "posts": 9,
-   "impressions": 61496,
-   "likes": 3219
+   "impressions": 40007,
+   "likes": 1400
   },
   {
-   "user": "sample_prompt_rei53",
+   "user": "sample_ai_aoi62",
    "is_watched": false,
    "posts": 9,
-   "impressions": 61007,
-   "likes": 1273
+   "impressions": 30251,
+   "likes": 458
   },
   {
-   "user": "sample_tools_ryu45",
+   "user": "sample_nurse_yuna12",
    "is_watched": false,
    "posts": 9,
-   "impressions": 41942,
-   "likes": 1087
+   "impressions": 16945,
+   "likes": 490
   },
   {
-   "user": "sample_paper_mio72",
-   "is_watched": false,
-   "posts": 9,
-   "impressions": 34533,
-   "likes": 666
-  },
-  {
-   "user": "sample_tools_ryu42",
+   "user": "sample_hack_mio35",
    "is_watched": false,
    "posts": 8,
-   "impressions": 87440,
-   "likes": 2876
+   "impressions": 35547,
+   "likes": 804
   },
   {
-   "user": "sample_ai_ten101",
+   "user": "sample_clinic_emi85",
    "is_watched": false,
    "posts": 8,
-   "impressions": 65020,
-   "likes": 1312
+   "impressions": 24251,
+   "likes": 420
   },
   {
-   "user": "sample_dx_nana78",
+   "user": "sample_tools_nana27",
+   "is_watched": false,
+   "posts": 8,
+   "impressions": 21118,
+   "likes": 306
+  },
+  {
+   "user": "sample_ai_mio72",
+   "is_watched": false,
+   "posts": 8,
+   "impressions": 18449,
+   "likes": 442
+  },
+  {
+   "user": "sample_ai_mei66",
    "is_watched": false,
    "posts": 7,
-   "impressions": 45493,
-   "likes": 1594
+   "impressions": 51393,
+   "likes": 708
   },
   {
-   "user": "sample_paper_mei66",
+   "user": "sample_lab_ryu45",
    "is_watched": false,
    "posts": 7,
-   "impressions": 22025,
-   "likes": 469
+   "impressions": 50180,
+   "likes": 1800
   },
   {
-   "user": "sample_nurse_jin18",
+   "user": "sample_hospital_luna86",
    "is_watched": false,
    "posts": 7,
-   "impressions": 18780,
-   "likes": 342
+   "impressions": 48771,
+   "likes": 1064
   },
   {
-   "user": "sample_tech_leo106",
+   "user": "sample_news_rina68",
    "is_watched": false,
    "posts": 7,
-   "impressions": 13593,
-   "likes": 413
+   "impressions": 44153,
+   "likes": 1118
   },
   {
-   "user": "sample_hack_hikaru40",
+   "user": "sample_ns_nana78",
    "is_watched": false,
    "posts": 7,
-   "impressions": 13173,
-   "likes": 369
+   "impressions": 35702,
+   "likes": 424
   },
   {
-   "user": "sample_misc_03",
+   "user": "sample_care_kai104",
    "is_watched": false,
    "posts": 7,
-   "impressions": 6219,
-   "likes": 140
+   "impressions": 33694,
+   "likes": 433
   },
   {
-   "user": "sample_misc_05",
+   "user": "sample_visitcare_emi77",
    "is_watched": false,
-   "posts": 6,
-   "impressions": 51104,
-   "likes": 1833
+   "posts": 7,
+   "impressions": 17636,
+   "likes": 365
   },
   {
-   "user": "sample_startup_emi77",
+   "user": "sample_medai_ten10",
    "is_watched": false,
-   "posts": 6,
-   "impressions": 51057,
-   "likes": 1272
-  },
-  {
-   "user": "sample_prompt_aoi39",
-   "is_watched": false,
-   "posts": 6,
-   "impressions": 30372,
-   "likes": 829
+   "posts": 7,
+   "impressions": 15696,
+   "likes": 377
   },
   {
    "user": "sample_release_rei24",
    "is_watched": false,
    "posts": 6,
-   "impressions": 9842,
-   "likes": 370
+   "impressions": 31696,
+   "likes": 507
   },
   {
-   "user": "sample_medai_ten10",
+   "user": "sample_llm_jin18",
    "is_watched": false,
-   "posts": 5,
-   "impressions": 59244,
-   "likes": 1564
-  },
-  {
-   "user": "sample_misc_02",
-   "is_watched": false,
-   "posts": 5,
-   "impressions": 26893,
-   "likes": 730
-  },
-  {
-   "user": "sample_ai_sora107",
-   "is_watched": false,
-   "posts": 5,
-   "impressions": 14647,
-   "likes": 283
-  },
-  {
-   "user": "sample_paper_nana63",
-   "is_watched": false,
-   "posts": 5,
-   "impressions": 10279,
-   "likes": 193
-  },
-  {
-   "user": "sample_dx_shin73",
-   "is_watched": false,
-   "posts": 5,
-   "impressions": 8815,
-   "likes": 198
-  },
-  {
-   "user": "sample_dx_emi85",
-   "is_watched": false,
-   "posts": 4,
-   "impressions": 36225,
-   "likes": 447
-  },
-  {
-   "user": "sample_medai_mio14",
-   "is_watched": false,
-   "posts": 4,
-   "impressions": 26593,
-   "likes": 433
-  },
-  {
-   "user": "sample_hack_ten38",
-   "is_watched": false,
-   "posts": 4,
-   "impressions": 18427,
-   "likes": 438
-  },
-  {
-   "user": "sample_nurse_rei05",
-   "is_watched": false,
-   "posts": 4,
-   "impressions": 14309,
-   "likes": 412
-  },
-  {
-   "user": "sample_misc_06",
-   "is_watched": false,
-   "posts": 4,
-   "impressions": 8321,
-   "likes": 197
-  },
-  {
-   "user": "sample_misc_04",
-   "is_watched": false,
-   "posts": 4,
-   "impressions": 3124,
-   "likes": 98
-  },
-  {
-   "user": "sample_model_nana27",
-   "is_watched": false,
-   "posts": 3,
-   "impressions": 38595,
-   "likes": 369
-  },
-  {
-   "user": "sample_misc_10",
-   "is_watched": false,
-   "posts": 3,
-   "impressions": 11816,
-   "likes": 343
-  },
-  {
-   "user": "sample_hack_sora43",
-   "is_watched": false,
-   "posts": 3,
-   "impressions": 7493,
-   "likes": 207
-  },
-  {
-   "user": "sample_misc_08",
-   "is_watched": false,
-   "posts": 3,
-   "impressions": 7152,
-   "likes": 160
+   "posts": 6,
+   "impressions": 18508,
+   "likes": 504
   },
   {
    "user": "sample_medai_leo06",
    "is_watched": false,
-   "posts": 3,
-   "impressions": 5728,
-   "likes": 118
+   "posts": 6,
+   "impressions": 5868,
+   "likes": 143
   },
   {
-   "user": "sample_startup_leo89",
+   "user": "sample_hack_hikaru28",
+   "is_watched": false,
+   "posts": 5,
+   "impressions": 66981,
+   "likes": 1920
+  },
+  {
+   "user": "sample_watch_01",
+   "is_watched": true,
+   "posts": 5,
+   "impressions": 44542,
+   "likes": 1763
+  },
+  {
+   "user": "sample_release_mio14",
+   "is_watched": false,
+   "posts": 5,
+   "impressions": 34206,
+   "likes": 1176
+  },
+  {
+   "user": "sample_paper_aoi39",
+   "is_watched": false,
+   "posts": 5,
+   "impressions": 29029,
+   "likes": 616
+  },
+  {
+   "user": "sample_kaitei_rina109",
+   "is_watched": false,
+   "posts": 5,
+   "impressions": 22653,
+   "likes": 698
+  },
+  {
+   "user": "sample_biz_rei54",
+   "is_watched": false,
+   "posts": 5,
+   "impressions": 19285,
+   "likes": 588
+  },
+  {
+   "user": "sample_kaigo_ten101",
+   "is_watched": false,
+   "posts": 5,
+   "impressions": 17029,
+   "likes": 578
+  },
+  {
+   "user": "sample_paper_kaito46",
+   "is_watched": false,
+   "posts": 5,
+   "impressions": 15788,
+   "likes": 384
+  },
+  {
+   "user": "sample_kaigo_sora107",
+   "is_watched": false,
+   "posts": 5,
+   "impressions": 14788,
+   "likes": 500
+  },
+  {
+   "user": "sample_ai_nana63",
+   "is_watched": false,
+   "posts": 5,
+   "impressions": 14619,
+   "likes": 565
+  },
+  {
+   "user": "sample_nurse_rei05",
+   "is_watched": false,
+   "posts": 5,
+   "impressions": 11595,
+   "likes": 268
+  },
+  {
+   "user": "sample_lab_ryu42",
+   "is_watched": false,
+   "posts": 5,
+   "impressions": 6568,
+   "likes": 350
+  },
+  {
+   "user": "sample_fukushi_leo106",
+   "is_watched": false,
+   "posts": 5,
+   "impressions": 6430,
+   "likes": 237
+  },
+  {
+   "user": "sample_care_kaito105",
+   "is_watched": false,
+   "posts": 4,
+   "impressions": 25112,
+   "likes": 884
+  },
+  {
+   "user": "sample_biz_shin51",
+   "is_watched": false,
+   "posts": 4,
+   "impressions": 24423,
+   "likes": 366
+  },
+  {
+   "user": "sample_lab_kai37",
    "is_watched": false,
    "posts": 3,
-   "impressions": 4498,
-   "likes": 83
+   "impressions": 27783,
+   "likes": 412
   },
   {
-   "user": "sample_medai_aoi13",
+   "user": "sample_fukushi_shin99",
    "is_watched": false,
-   "posts": 2,
-   "impressions": 28059,
-   "likes": 238
-  },
-  {
-   "user": "sample_biz_mei83",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 7322,
-   "likes": 299
-  },
-  {
-   "user": "sample_prompt_rei54",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 6909,
-   "likes": 205
-  },
-  {
-   "user": "sample_llm_kai19",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 6761,
-   "likes": 187
-  },
-  {
-   "user": "sample_tools_rina47",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 6432,
-   "likes": 244
-  },
-  {
-   "user": "sample_tech_ren95",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 4721,
-   "likes": 84
-  },
-  {
-   "user": "sample_tech_shin99",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 3524,
-   "likes": 123
-  },
-  {
-   "user": "sample_biz_ren82",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 2687,
-   "likes": 94
-  },
-  {
-   "user": "sample_tools_mei50",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 1827,
-   "likes": 14
-  },
-  {
-   "user": "sample_tech_ryu97",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 1065,
-   "likes": 31
-  },
-  {
-   "user": "sample_prompt_kaito46",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 957,
-   "likes": 31
-  },
-  {
-   "user": "sample_lab_aoi64",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 512,
-   "likes": 3
-  },
-  {
-   "user": "sample_carex_shin16",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 22486,
-   "likes": 586
-  },
-  {
-   "user": "sample_release_ten31",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 18752,
-   "likes": 365
-  },
-  {
-   "user": "sample_dx_aoi79",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 4836,
-   "likes": 51
-  },
-  {
-   "user": "sample_dx_sora75",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 3349,
-   "likes": 68
-  },
-  {
-   "user": "sample_model_kaito20",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 3323,
-   "likes": 121
-  },
-  {
-   "user": "sample_carex_nana11",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 3308,
-   "likes": 128
-  },
-  {
-   "user": "sample_biz_hikaru80",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 2988,
-   "likes": 73
-  },
-  {
-   "user": "sample_model_mio30",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 2509,
-   "likes": 86
-  },
-  {
-   "user": "sample_release_mio35",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 1779,
-   "likes": 63
+   "posts": 3,
+   "impressions": 6569,
+   "likes": 180
   },
   {
    "user": "sample_llm_yuna23",
    "is_watched": false,
-   "posts": 1,
-   "impressions": 1538,
-   "likes": 44
+   "posts": 3,
+   "impressions": 3874,
+   "likes": 135
   },
   {
-   "user": "sample_startup_yuna74",
+   "user": "sample_dx_mei50",
    "is_watched": false,
-   "posts": 1,
-   "impressions": 651,
-   "likes": 21
+   "posts": 2,
+   "impressions": 47142,
+   "likes": 1921
   },
   {
-   "user": "sample_misc_09",
+   "user": "sample_model_kaito20",
    "is_watched": false,
-   "posts": 1,
-   "impressions": 598,
-   "likes": 18
+   "posts": 2,
+   "impressions": 7929,
+   "likes": 148
   },
   {
-   "user": "sample_misc_01",
+   "user": "sample_tools_mio30",
    "is_watched": false,
-   "posts": 1,
-   "impressions": 422,
-   "likes": 14
+   "posts": 2,
+   "impressions": 7384,
+   "likes": 86
   },
   {
-   "user": "sample_misc_07",
+   "user": "sample_policy_leo117",
+   "is_watched": false,
+   "posts": 2,
+   "impressions": 7363,
+   "likes": 144
+  },
+  {
+   "user": "sample_seido_rei119",
+   "is_watched": false,
+   "posts": 2,
+   "impressions": 5243,
+   "likes": 162
+  },
+  {
+   "user": "sample_arxiv_sora43",
+   "is_watched": false,
+   "posts": 2,
+   "impressions": 4030,
+   "likes": 82
+  },
+  {
+   "user": "sample_hospital_leo89",
+   "is_watched": false,
+   "posts": 2,
+   "impressions": 3450,
+   "likes": 142
+  },
+  {
+   "user": "sample_houkan_ren82",
+   "is_watched": false,
+   "posts": 2,
+   "impressions": 3298,
+   "likes": 98
+  },
+  {
+   "user": "sample_ns_aoi79",
+   "is_watched": false,
+   "posts": 2,
+   "impressions": 2352,
+   "likes": 74
+  },
+  {
+   "user": "sample_dx_mei58",
    "is_watched": false,
    "posts": 1,
-   "impressions": 324,
-   "likes": 4
+   "impressions": 12774,
+   "likes": 114
+  },
+  {
+   "user": "sample_visitcare_yuna74",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 3095,
+   "likes": 78
+  },
+  {
+   "user": "sample_lab_mio44",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 2852,
+   "likes": 92
+  },
+  {
+   "user": "sample_policy_ten116",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 2790,
+   "likes": 63
+  },
+  {
+   "user": "sample_hospital_ren95",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 772,
+   "likes": 5
+  },
+  {
+   "user": "sample_startup_aoi57",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 239,
+   "likes": 10
+  },
+  {
+   "user": "sample_ns_sora75",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 131,
+   "likes": 5
+  },
+  {
+   "user": "sample_houkan_hikaru80",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 126,
+   "likes": 2
   }
  ],
  "by_day": [
   {
    "date": "2026-10-11",
-   "posts": 196,
-   "impressions": 1044814,
-   "likes": 21721,
+   "posts": 212,
+   "impressions": 1378502,
+   "likes": 33870,
    "categories": {
-    "新モデル・発表": 38,
-    "ビジネス・業界": 50,
-    "AIその他": 44,
-    "医療・介護×AI": 44,
-    "ツール・活用": 29,
-    "監視アカウント": 19,
-    "研究・論文": 36,
-    "その他": 2
+    "ビジネス・業界": 39,
+    "監視アカウント": 21,
+    "医療ニュース": 34,
+    "訪問看護": 14,
+    "医療・介護×AI": 33,
+    "介護・福祉": 20,
+    "新モデル・発表": 23,
+    "ツール・活用": 32,
+    "制度・報酬改定": 33,
+    "研究・論文": 16,
+    "AIその他": 24,
+    "テスト新カテゴリ": 1
    }
   },
   {
    "date": "2026-10-10",
-   "posts": 114,
-   "impressions": 909551,
-   "likes": 25671,
+   "posts": 124,
+   "impressions": 891351,
+   "likes": 29800,
    "categories": {
-    "AIその他": 27,
-    "医療・介護×AI": 26,
+    "介護・福祉": 13,
+    "制度・報酬改定": 26,
+    "ツール・活用": 15,
+    "AIその他": 18,
+    "医療ニュース": 23,
+    "医療・介護×AI": 14,
     "ビジネス・業界": 20,
+    "訪問看護": 17,
     "監視アカウント": 11,
-    "新モデル・発表": 23,
-    "研究・論文": 26,
-    "ツール・活用": 19,
-    "その他": 3
+    "新モデル・発表": 12,
+    "研究・論文": 5
    }
   },
   {
    "date": "2026-10-09",
    "posts": 87,
-   "impressions": 1033526,
-   "likes": 29395,
+   "impressions": 622758,
+   "likes": 17514,
    "categories": {
-    "研究・論文": 14,
-    "ツール・活用": 13,
-    "監視アカウント": 13,
-    "AIその他": 21,
-    "新モデル・発表": 16,
-    "ビジネス・業界": 22,
-    "その他": 2,
-    "医療・介護×AI": 20
+    "医療・介護×AI": 11,
+    "医療ニュース": 14,
+    "介護・福祉": 12,
+    "新モデル・発表": 11,
+    "ツール・活用": 12,
+    "監視アカウント": 8,
+    "AIその他": 11,
+    "研究・論文": 9,
+    "制度・報酬改定": 16,
+    "ビジネス・業界": 9,
+    "訪問看護": 6
    }
   },
   {
    "date": "2026-10-08",
-   "posts": 79,
-   "impressions": 527691,
-   "likes": 12912,
+   "posts": 61,
+   "impressions": 305980,
+   "likes": 7026,
    "categories": {
-    "医療・介護×AI": 19,
-    "新モデル・発表": 12,
-    "AIその他": 17,
-    "研究・論文": 17,
-    "ツール・活用": 13,
-    "監視アカウント": 9,
-    "その他": 4,
-    "ビジネス・業界": 14,
-    "テスト新カテゴリ": 1
+    "ツール・活用": 7,
+    "制度・報酬改定": 7,
+    "訪問看護": 10,
+    "AIその他": 5,
+    "新モデル・発表": 4,
+    "ビジネス・業界": 7,
+    "研究・論文": 4,
+    "医療・介護×AI": 9,
+    "介護・福祉": 8,
+    "医療ニュース": 10,
+    "監視アカウント": 3
    }
   },
   {
    "date": "2026-10-07",
-   "posts": 81,
-   "impressions": 885987,
-   "likes": 20978,
+   "posts": 80,
+   "impressions": 591458,
+   "likes": 14803,
    "categories": {
-    "ビジネス・業界": 16,
-    "監視アカウント": 8,
-    "新モデル・発表": 8,
-    "AIその他": 21,
-    "ツール・活用": 14,
-    "研究・論文": 19,
-    "医療・介護×AI": 20
+    "AIその他": 13,
+    "新モデル・発表": 14,
+    "監視アカウント": 9,
+    "医療・介護×AI": 12,
+    "ツール・活用": 11,
+    "訪問看護": 7,
+    "医療ニュース": 7,
+    "ビジネス・業界": 15,
+    "介護・福祉": 10,
+    "制度・報酬改定": 10,
+    "研究・論文": 4
    }
   },
   {
    "date": "2026-10-06",
-   "posts": 51,
-   "impressions": 646610,
-   "likes": 15052,
+   "posts": 58,
+   "impressions": 1564462,
+   "likes": 21863,
    "categories": {
-    "医療・介護×AI": 9,
-    "新モデル・発表": 14,
-    "ビジネス・業界": 9,
-    "ツール・活用": 9,
-    "研究・論文": 11,
-    "監視アカウント": 7,
-    "AIその他": 11,
-    "その他": 1
+    "ビジネス・業界": 7,
+    "訪問看護": 8,
+    "医療ニュース": 9,
+    "ツール・活用": 10,
+    "制度・報酬改定": 10,
+    "AIその他": 3,
+    "医療・介護×AI": 8,
+    "介護・福祉": 8,
+    "監視アカウント": 3,
+    "新モデル・発表": 5,
+    "研究・論文": 4
    }
   },
   {
    "date": "2026-10-05",
-   "posts": 45,
-   "impressions": 243541,
-   "likes": 5110,
+   "posts": 48,
+   "impressions": 236582,
+   "likes": 6972,
    "categories": {
-    "監視アカウント": 5,
-    "ビジネス・業界": 10,
-    "AIその他": 7,
-    "ツール・活用": 5,
-    "研究・論文": 11,
-    "医療・介護×AI": 13,
-    "テスト新カテゴリ": 1,
+    "研究・論文": 5,
+    "医療ニュース": 9,
     "新モデル・発表": 5,
-    "その他": 1
+    "医療・介護×AI": 13,
+    "ビジネス・業界": 5,
+    "訪問看護": 4,
+    "監視アカウント": 3,
+    "AIその他": 8,
+    "制度・報酬改定": 7,
+    "介護・福祉": 2,
+    "ツール・活用": 6,
+    "テスト新カテゴリ": 1
    }
   },
   {
    "date": "2026-10-04",
-   "posts": 54,
-   "impressions": 249209,
-   "likes": 5533,
+   "posts": 55,
+   "impressions": 267314,
+   "likes": 7087,
    "categories": {
-    "ビジネス・業界": 13,
-    "ツール・活用": 9,
-    "研究・論文": 8,
-    "新モデル・発表": 12,
-    "AIその他": 16,
-    "医療・介護×AI": 10,
-    "その他": 3,
-    "監視アカウント": 8
+    "新モデル・発表": 8,
+    "監視アカウント": 6,
+    "介護・福祉": 6,
+    "医療ニュース": 8,
+    "医療・介護×AI": 9,
+    "ビジネス・業界": 6,
+    "制度・報酬改定": 11,
+    "ツール・活用": 8,
+    "研究・論文": 5,
+    "訪問看護": 6,
+    "AIその他": 1
    }
   },
   {
    "date": "2026-10-03",
-   "posts": 63,
-   "impressions": 500831,
-   "likes": 9687,
+   "posts": 48,
+   "impressions": 331377,
+   "likes": 7742,
    "categories": {
-    "研究・論文": 13,
-    "AIその他": 19,
-    "医療・介護×AI": 7,
-    "新モデル・発表": 15,
-    "監視アカウント": 7,
-    "ビジネス・業界": 15,
-    "ツール・活用": 12,
-    "その他": 1
+    "ビジネス・業界": 5,
+    "ツール・活用": 5,
+    "医療・介護×AI": 11,
+    "監視アカウント": 2,
+    "テスト新カテゴリ": 1,
+    "制度・報酬改定": 7,
+    "訪問看護": 9,
+    "新モデル・発表": 6,
+    "介護・福祉": 7,
+    "医療ニュース": 9,
+    "AIその他": 3,
+    "研究・論文": 6
    }
   },
   {
    "date": "2026-10-02",
-   "posts": 64,
-   "impressions": 517529,
-   "likes": 15930,
+   "posts": 44,
+   "impressions": 182350,
+   "likes": 4688,
    "categories": {
-    "医療・介護×AI": 10,
-    "AIその他": 20,
-    "新モデル・発表": 16,
-    "ツール・活用": 12,
-    "ビジネス・業界": 13,
-    "監視アカウント": 7,
-    "研究・論文": 8,
-    "テスト新カテゴリ": 1,
-    "その他": 2
-   }
-  },
-  {
-   "date": "2026-10-01",
-   "posts": 57,
-   "impressions": 1530081,
-   "likes": 22755,
-   "categories": {
-    "AIその他": 7,
-    "ビジネス・業界": 11,
-    "ツール・活用": 14,
-    "新モデル・発表": 8,
-    "研究・論文": 12,
-    "監視アカウント": 5,
-    "その他": 4,
-    "医療・介護×AI": 10
-   }
-  },
-  {
-   "date": "2026-09-30",
-   "posts": 43,
-   "impressions": 764864,
-   "likes": 25802,
-   "categories": {
-    "ビジネス・業界": 9,
-    "医療・介護×AI": 10,
-    "AIその他": 12,
-    "研究・論文": 5,
-    "その他": 3,
-    "新モデル・発表": 9,
-    "ツール・活用": 5,
-    "監視アカウント": 7
-   }
-  },
-  {
-   "date": "2026-09-29",
-   "posts": 38,
-   "impressions": 154999,
-   "likes": 4247,
-   "categories": {
-    "AIその他": 10,
-    "その他": 1,
-    "新モデル・発表": 8,
-    "研究・論文": 8,
-    "監視アカウント": 5,
-    "ビジネス・業界": 10,
-    "ツール・活用": 5,
-    "医療・介護×AI": 4
-   }
-  },
-  {
-   "date": "2026-09-28",
-   "posts": 45,
-   "impressions": 671657,
-   "likes": 12873,
-   "categories": {
-    "ツール・活用": 8,
-    "研究・論文": 9,
-    "監視アカウント": 6,
-    "医療・介護×AI": 10,
-    "ビジネス・業界": 9,
-    "その他": 3,
-    "AIその他": 12,
-    "新モデル・発表": 7
-   }
-  },
-  {
-   "date": "2026-09-27",
-   "posts": 33,
-   "impressions": 234942,
-   "likes": 6602,
-   "categories": {
-    "ビジネス・業界": 11,
-    "監視アカウント": 1,
-    "新モデル・発表": 7,
-    "医療・介護×AI": 8,
-    "ツール・活用": 5,
-    "研究・論文": 5,
-    "AIその他": 6,
-    "その他": 1
-   }
-  },
-  {
-   "date": "2026-09-26",
-   "posts": 37,
-   "impressions": 170165,
-   "likes": 3343,
-   "categories": {
-    "研究・論文": 9,
-    "AIその他": 10,
-    "新モデル・発表": 9,
-    "医療・介護×AI": 10,
-    "ツール・活用": 7,
-    "テスト新カテゴリ": 1,
-    "ビジネス・業界": 2,
-    "監視アカウント": 1
-   }
-  },
-  {
-   "date": "2026-09-25",
-   "posts": 32,
-   "impressions": 223093,
-   "likes": 6688,
-   "categories": {
+    "ツール・活用": 10,
     "新モデル・発表": 6,
-    "医療・介護×AI": 10,
-    "AIその他": 8,
-    "ビジネス・業界": 8,
-    "ツール・活用": 4,
-    "研究・論文": 6,
+    "研究・論文": 3,
+    "介護・福祉": 6,
+    "医療・介護×AI": 7,
+    "制度・報酬改定": 9,
+    "医療ニュース": 4,
+    "AIその他": 4,
+    "訪問看護": 5,
+    "ビジネス・業界": 4,
     "監視アカウント": 2
    }
   },
   {
-   "date": "2026-09-24",
-   "posts": 30,
-   "impressions": 147772,
-   "likes": 4612,
+   "date": "2026-10-01",
+   "posts": 44,
+   "impressions": 155870,
+   "likes": 2856,
    "categories": {
-    "医療・介護×AI": 3,
-    "研究・論文": 7,
-    "新モデル・発表": 7,
-    "ツール・活用": 6,
-    "ビジネス・業界": 5,
-    "監視アカウント": 4,
+    "制度・報酬改定": 5,
+    "AIその他": 6,
+    "新モデル・発表": 2,
+    "監視アカウント": 3,
+    "介護・福祉": 7,
+    "医療・介護×AI": 4,
+    "研究・論文": 4,
+    "医療ニュース": 10,
+    "ビジネス・業界": 6,
+    "ツール・活用": 7,
+    "訪問看護": 4
+   }
+  },
+  {
+   "date": "2026-09-30",
+   "posts": 42,
+   "impressions": 496667,
+   "likes": 8938,
+   "categories": {
+    "訪問看護": 3,
+    "介護・福祉": 7,
+    "制度・報酬改定": 8,
+    "ツール・活用": 5,
+    "新モデル・発表": 5,
+    "監視アカウント": 7,
     "AIその他": 8,
-    "その他": 1
+    "医療ニュース": 9,
+    "医療・介護×AI": 3,
+    "ビジネス・業界": 7,
+    "研究・論文": 2
+   }
+  },
+  {
+   "date": "2026-09-29",
+   "posts": 26,
+   "impressions": 144022,
+   "likes": 2288,
+   "categories": {
+    "AIその他": 3,
+    "新モデル・発表": 2,
+    "医療ニュース": 5,
+    "監視アカウント": 2,
+    "制度・報酬改定": 5,
+    "医療・介護×AI": 6,
+    "ツール・活用": 3,
+    "介護・福祉": 3,
+    "ビジネス・業界": 2,
+    "研究・論文": 1,
+    "テスト新カテゴリ": 1,
+    "訪問看護": 1
+   }
+  },
+  {
+   "date": "2026-09-28",
+   "posts": 36,
+   "impressions": 118332,
+   "likes": 3504,
+   "categories": {
+    "ビジネス・業界": 5,
+    "研究・論文": 3,
+    "ツール・活用": 8,
+    "AIその他": 7,
+    "医療ニュース": 8,
+    "医療・介護×AI": 4,
+    "制度・報酬改定": 6,
+    "訪問看護": 3,
+    "介護・福祉": 3,
+    "監視アカウント": 2,
+    "新モデル・発表": 2
+   }
+  },
+  {
+   "date": "2026-09-27",
+   "posts": 43,
+   "impressions": 315014,
+   "likes": 6855,
+   "categories": {
+    "医療・介護×AI": 6,
+    "ビジネス・業界": 11,
+    "監視アカウント": 4,
+    "医療ニュース": 10,
+    "訪問看護": 3,
+    "ツール・活用": 5,
+    "介護・福祉": 3,
+    "新モデル・発表": 3,
+    "研究・論文": 3,
+    "制度・報酬改定": 4,
+    "AIその他": 2
+   }
+  },
+  {
+   "date": "2026-09-26",
+   "posts": 31,
+   "impressions": 166423,
+   "likes": 4313,
+   "categories": {
+    "介護・福祉": 5,
+    "医療ニュース": 5,
+    "AIその他": 6,
+    "医療・介護×AI": 4,
+    "ツール・活用": 5,
+    "制度・報酬改定": 5,
+    "監視アカウント": 4,
+    "研究・論文": 1,
+    "ビジネス・業界": 6,
+    "新モデル・発表": 4
+   }
+  },
+  {
+   "date": "2026-09-25",
+   "posts": 41,
+   "impressions": 128967,
+   "likes": 3222,
+   "categories": {
+    "制度・報酬改定": 5,
+    "介護・福祉": 8,
+    "医療ニュース": 12,
+    "ビジネス・業界": 2,
+    "研究・論文": 5,
+    "新モデル・発表": 3,
+    "訪問看護": 3,
+    "ツール・活用": 4,
+    "監視アカウント": 2,
+    "医療・介護×AI": 7
+   }
+  },
+  {
+   "date": "2026-09-24",
+   "posts": 25,
+   "impressions": 138473,
+   "likes": 3106,
+   "categories": {
+    "ツール・活用": 4,
+    "新モデル・発表": 5,
+    "監視アカウント": 2,
+    "ビジネス・業界": 7,
+    "AIその他": 2,
+    "医療・介護×AI": 4,
+    "介護・福祉": 3,
+    "制度・報酬改定": 1,
+    "医療ニュース": 3,
+    "研究・論文": 1
    }
   },
   {
    "date": "2026-09-23",
-   "posts": 44,
-   "impressions": 364669,
-   "likes": 6014,
+   "posts": 38,
+   "impressions": 211389,
+   "likes": 5499,
    "categories": {
-    "ビジネス・業界": 9,
-    "AIその他": 10,
-    "新モデル・発表": 8,
-    "ツール・活用": 13,
-    "研究・論文": 5,
-    "監視アカウント": 6,
-    "その他": 2,
-    "医療・介護×AI": 4
+    "制度・報酬改定": 7,
+    "医療ニュース": 10,
+    "訪問看護": 5,
+    "新モデル・発表": 1,
+    "監視アカウント": 1,
+    "介護・福祉": 5,
+    "AIその他": 5,
+    "医療・介護×AI": 3,
+    "研究・論文": 4,
+    "ツール・活用": 3,
+    "ビジネス・業界": 3
    }
   },
   {
    "date": "2026-09-22",
-   "posts": 37,
-   "impressions": 261810,
-   "likes": 8613,
+   "posts": 39,
+   "impressions": 273210,
+   "likes": 7664,
    "categories": {
-    "研究・論文": 7,
-    "新モデル・発表": 10,
-    "医療・介護×AI": 9,
-    "AIその他": 7,
-    "ビジネス・業界": 5,
-    "監視アカウント": 2,
-    "ツール・活用": 8
+    "ビジネス・業界": 7,
+    "AIその他": 4,
+    "介護・福祉": 7,
+    "医療・介護×AI": 8,
+    "制度・報酬改定": 5,
+    "新モデル・発表": 3,
+    "ツール・活用": 2,
+    "監視アカウント": 5,
+    "医療ニュース": 8,
+    "訪問看護": 4,
+    "研究・論文": 1
    }
   },
   {
    "date": "2026-09-21",
-   "posts": 27,
-   "impressions": 127919,
-   "likes": 2987,
+   "posts": 32,
+   "impressions": 440194,
+   "likes": 8742,
    "categories": {
-    "研究・論文": 5,
-    "監視アカウント": 4,
-    "ツール・活用": 7,
-    "AIその他": 6,
-    "医療・介護×AI": 6,
-    "ビジネス・業界": 6,
-    "新モデル・発表": 3,
-    "その他": 1
+    "ビジネス・業界": 4,
+    "訪問看護": 4,
+    "ツール・活用": 4,
+    "監視アカウント": 3,
+    "医療・介護×AI": 3,
+    "AIその他": 5,
+    "介護・福祉": 7,
+    "制度・報酬改定": 4,
+    "研究・論文": 1,
+    "医療ニュース": 8,
+    "新モデル・発表": 2
    }
   },
   {
    "date": "2026-09-20",
-   "posts": 35,
-   "impressions": 220521,
-   "likes": 4771,
+   "posts": 34,
+   "impressions": 337647,
+   "likes": 9383,
    "categories": {
-    "AIその他": 13,
-    "ビジネス・業界": 6,
-    "新モデル・発表": 11,
-    "医療・介護×AI": 9,
-    "監視アカウント": 2,
-    "テスト新カテゴリ": 1,
-    "ツール・活用": 3
+    "訪問看護": 5,
+    "医療・介護×AI": 4,
+    "介護・福祉": 5,
+    "医療ニュース": 5,
+    "AIその他": 4,
+    "新モデル・発表": 5,
+    "ツール・活用": 5,
+    "監視アカウント": 4,
+    "ビジネス・業界": 4,
+    "研究・論文": 4,
+    "制度・報酬改定": 4
    }
   },
   {
    "date": "2026-09-19",
-   "posts": 27,
-   "impressions": 234608,
-   "likes": 6160,
+   "posts": 36,
+   "impressions": 254947,
+   "likes": 7674,
    "categories": {
-    "AIその他": 12,
-    "ツール・活用": 5,
-    "新モデル・発表": 5,
-    "ビジネス・業界": 3,
-    "監視アカウント": 3,
-    "医療・介護×AI": 8,
-    "研究・論文": 5
+    "ビジネス・業界": 6,
+    "ツール・活用": 8,
+    "監視アカウント": 6,
+    "医療ニュース": 5,
+    "制度・報酬改定": 7,
+    "AIその他": 7,
+    "研究・論文": 1,
+    "介護・福祉": 2,
+    "新モデル・発表": 7,
+    "医療・介護×AI": 3
    }
   },
   {
    "date": "2026-09-18",
-   "posts": 28,
-   "impressions": 83776,
-   "likes": 1626,
+   "posts": 40,
+   "impressions": 325973,
+   "likes": 7400,
    "categories": {
-    "ビジネス・業界": 4,
-    "医療・介護×AI": 3,
-    "AIその他": 11,
-    "その他": 2,
-    "研究・論文": 4,
-    "ツール・活用": 8,
-    "新モデル・発表": 4,
-    "監視アカウント": 1
+    "ビジネス・業界": 10,
+    "制度・報酬改定": 5,
+    "訪問看護": 4,
+    "ツール・活用": 3,
+    "研究・論文": 2,
+    "医療ニュース": 4,
+    "監視アカウント": 7,
+    "介護・福祉": 3,
+    "新モデル・発表": 5,
+    "医療・介護×AI": 6,
+    "AIその他": 5
    }
   },
   {
    "date": "2026-09-17",
-   "posts": 32,
-   "impressions": 298858,
-   "likes": 6825,
+   "posts": 29,
+   "impressions": 224526,
+   "likes": 5869,
    "categories": {
-    "研究・論文": 10,
-    "ビジネス・業界": 9,
-    "ツール・活用": 7,
-    "医療・介護×AI": 5,
-    "AIその他": 4,
-    "新モデル・発表": 4,
-    "監視アカウント": 5
+    "ビジネス・業界": 6,
+    "医療ニュース": 5,
+    "ツール・活用": 5,
+    "研究・論文": 3,
+    "医療・介護×AI": 4,
+    "介護・福祉": 4,
+    "AIその他": 2,
+    "制度・報酬改定": 4,
+    "新モデル・発表": 2,
+    "訪問看護": 3,
+    "監視アカウント": 1
    }
   },
   {
    "date": "2026-09-16",
-   "posts": 30,
-   "impressions": 245050,
-   "likes": 5034,
+   "posts": 37,
+   "impressions": 190728,
+   "likes": 4714,
    "categories": {
-    "ビジネス・業界": 6,
+    "新モデル・発表": 3,
     "監視アカウント": 5,
-    "新モデル・発表": 7,
-    "AIその他": 7,
-    "研究・論文": 7,
-    "ツール・活用": 2,
-    "その他": 1,
-    "医療・介護×AI": 4
+    "訪問看護": 4,
+    "制度・報酬改定": 9,
+    "医療ニュース": 7,
+    "研究・論文": 3,
+    "ビジネス・業界": 8,
+    "医療・介護×AI": 3,
+    "ツール・活用": 6,
+    "AIその他": 2,
+    "介護・福祉": 1
    }
   },
   {
    "date": "2026-09-15",
-   "posts": 27,
-   "impressions": 194862,
-   "likes": 4197,
+   "posts": 23,
+   "impressions": 136047,
+   "likes": 3361,
    "categories": {
-    "医療・介護×AI": 5,
-    "ツール・活用": 8,
-    "研究・論文": 6,
-    "AIその他": 2,
-    "新モデル・発表": 7,
+    "医療・介護×AI": 6,
+    "医療ニュース": 4,
+    "制度・報酬改定": 6,
+    "ツール・活用": 4,
     "監視アカウント": 3,
-    "ビジネス・業界": 6
+    "AIその他": 2,
+    "研究・論文": 3,
+    "新モデル・発表": 2,
+    "ビジネス・業界": 1,
+    "介護・福祉": 2,
+    "訪問看護": 3
    }
   },
   {
    "date": "2026-09-14",
-   "posts": 28,
-   "impressions": 205981,
-   "likes": 2779,
+   "posts": 35,
+   "impressions": 169596,
+   "likes": 3355,
    "categories": {
-    "医療・介護×AI": 6,
-    "新モデル・発表": 7,
-    "監視アカウント": 4,
-    "その他": 1,
-    "AIその他": 8,
-    "ビジネス・業界": 5,
-    "ツール・活用": 4,
-    "研究・論文": 3
+    "訪問看護": 3,
+    "ツール・活用": 6,
+    "新モデル・発表": 5,
+    "AIその他": 6,
+    "研究・論文": 2,
+    "監視アカウント": 7,
+    "医療・介護×AI": 3,
+    "医療ニュース": 4,
+    "介護・福祉": 5,
+    "制度・報酬改定": 3,
+    "ビジネス・業界": 4,
+    "テスト新カテゴリ": 1
    }
   },
   {
    "date": "2026-09-13",
-   "posts": 24,
-   "impressions": 227237,
-   "likes": 6901,
+   "posts": 37,
+   "impressions": 200835,
+   "likes": 6401,
    "categories": {
-    "研究・論文": 7,
-    "AIその他": 7,
+    "ビジネス・業界": 6,
+    "介護・福祉": 7,
+    "制度・報酬改定": 6,
+    "医療・介護×AI": 5,
+    "医療ニュース": 5,
     "監視アカウント": 3,
-    "新モデル・発表": 6,
-    "ツール・活用": 6,
-    "ビジネス・業界": 2,
-    "医療・介護×AI": 6,
-    "その他": 1
+    "研究・論文": 3,
+    "訪問看護": 5,
+    "ツール・活用": 4,
+    "新モデル・発表": 1,
+    "AIその他": 2
    }
   },
   {
    "date": "2026-09-12",
-   "posts": 8,
-   "impressions": 92115,
-   "likes": 3432,
+   "posts": 11,
+   "impressions": 42729,
+   "likes": 1220,
    "categories": {
-    "研究・論文": 3,
-    "ビジネス・業界": 2,
-    "監視アカウント": 1,
+    "新モデル・発表": 3,
     "ツール・活用": 2,
-    "医療・介護×AI": 3,
-    "AIその他": 2
+    "AIその他": 1,
+    "医療ニュース": 3,
+    "ビジネス・業界": 2,
+    "介護・福祉": 2,
+    "制度・報酬改定": 1,
+    "訪問看護": 1
    }
   },
   {
    "date": "2019-05-01",
    "posts": 1,
-   "impressions": 1558,
-   "likes": 58,
+   "impressions": 3348,
+   "likes": 81,
    "categories": {
     "研究・論文": 1
    }
@@ -1382,8 +1463,8 @@
   {
    "date": "2016-12-31",
    "posts": 1,
-   "impressions": 5164,
-   "likes": 90,
+   "impressions": 5755,
+   "likes": 226,
    "categories": {
     "研究・論文": 1
    }
@@ -1391,8 +1472,8 @@
   {
    "date": "2016-07-21",
    "posts": 1,
-   "impressions": 3166,
-   "likes": 72,
+   "impressions": 1374,
+   "likes": 38,
    "categories": {
     "研究・論文": 1
    }
@@ -1400,8 +1481,8 @@
   {
    "date": "2016-03-04",
    "posts": 1,
-   "impressions": 341,
-   "likes": 13,
+   "impressions": 41589,
+   "likes": 1610,
    "categories": {
     "研究・論文": 1
    }
@@ -1410,151 +1491,108 @@
  "top_posts": {
   "by_impressions": [
    {
-    "id": "1844674407370945365",
-    "url": "https://x.com/sample_news_kai104/status/1844674407370945365",
-    "user": "sample_news_kai104",
-    "created_jst": "2026-10-01T23:51:49+09:00",
-    "ts": 1790866309,
+    "id": "1844674407370940351",
+    "url": "https://x.com/sample_startup_mio59/status/1844674407370940351",
+    "user": "sample_startup_mio59",
+    "created_jst": "2026-10-06T01:08:36+09:00",
+    "ts": 1791216516,
     "metrics": {
      "impression_count": 1155424,
      "like_count": 12345,
-     "retweet_count": 12,
-     "reply_count": 7,
-     "quote_count": 5,
-     "bookmark_count": 29
+     "retweet_count": 1,
+     "reply_count": 6,
+     "quote_count": 1,
+     "bookmark_count": 15
     },
-    "text": "【サンプル】週末のAIを実際に試してみたレポート 詳細はリンク先へ https://t.co/tm4r5bSvfT",
+    "text": "【サンプル】今週の業務効率化について気になったことメモ\n\nちなみに感想どうぞ",
+    "categories": [
+     "ビジネス・業界"
+    ]
+   },
+   {
+    "id": "1844674407362028634",
+    "url": "https://x.com/sample_watch_04/status/1844674407362028634",
+    "user": "sample_watch_04",
+    "created_jst": "2026-10-09T15:30:44+09:00",
+    "ts": 1791527444,
+    "metrics": {
+     "impression_count": 221265,
+     "like_count": 7774,
+     "retweet_count": 1773,
+     "reply_count": 897,
+     "quote_count": 298,
+     "bookmark_count": 1813
+    },
+    "text": "【サンプル】昨日の活用術の使いどころについての雑談 #AI活用",
+    "categories": [
+     "ツール・活用",
+     "監視アカウント"
+    ]
+   },
+   {
+    "id": "1844674407365968373",
+    "url": "https://x.com/sample_watch_05/status/1844674407365968373",
+    "user": "sample_watch_05",
+    "created_jst": "2026-09-30T00:17:17+09:00",
+    "ts": 1790695037,
+    "metrics": {
+     "impression_count": 219019,
+     "like_count": 1173,
+     "retweet_count": 280,
+     "reply_count": 61,
+     "quote_count": 1,
+     "bookmark_count": 164
+    },
+    "text": "【サンプル】今日のClaudeを実際に試してみたレポート\n勉強会も話題に。",
+    "categories": [
+     "新モデル・発表",
+     "AIその他",
+     "監視アカウント"
+    ]
+   },
+   {
+    "id": "1844674407369662098",
+    "url": "https://x.com/sample_watch_06/status/1844674407369662098",
+    "user": "sample_watch_06",
+    "created_jst": "2026-10-10T22:33:52+09:00",
+    "ts": 1791639232,
+    "metrics": {
+     "impression_count": 173893,
+     "like_count": 6449,
+     "retweet_count": 1151,
+     "reply_count": 400,
+     "quote_count": 256,
+     "bookmark_count": 1537
+    },
+    "text": "【サンプル】今日のAIニュースの話題をまとめてみた",
+    "categories": [
+     "AIその他",
+     "監視アカウント"
+    ]
+   },
+   {
+    "id": "1844674407362606210",
+    "url": "https://x.com/sample_ai_aoi65/status/1844674407362606210",
+    "user": "sample_ai_aoi65",
+    "created_jst": "2026-09-21T16:05:29+09:00",
+    "ts": 1789974329,
+    "metrics": {
+     "impression_count": 142189,
+     "like_count": 4418,
+     "retweet_count": 650,
+     "reply_count": 386,
+     "quote_count": 78,
+     "bookmark_count": 363
+    },
+    "text": "【サンプル】週末の勉強会界隈のニュースを見かけた https://t.co/YNADgDSnJR",
     "categories": [
      "AIその他"
     ]
    },
    {
-    "id": "1844674407365807257",
-    "url": "https://x.com/sample_watch_07/status/1844674407365807257",
-    "user": "sample_watch_07",
-    "created_jst": "2026-09-30T00:17:17+09:00",
-    "ts": 1790695037,
-    "metrics": {
-     "impression_count": 401293,
-     "like_count": 14771,
-     "retweet_count": 1532,
-     "reply_count": 44,
-     "quote_count": 258,
-     "bookmark_count": 1869
-    },
-    "text": "【サンプル】最近のClaudeの話題をまとめてみた #AI活用\nノーコードも話題に。\n\n補足：感想どうぞ",
-    "categories": [
-     "新モデル・発表",
-     "ツール・活用",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407370462485",
-    "url": "https://x.com/sample_watch_04/status/1844674407370462485",
-    "user": "sample_watch_04",
-    "created_jst": "2026-09-28T22:30:35+09:00",
-    "ts": 1790602235,
-    "metrics": {
-     "impression_count": 348290,
-     "like_count": 3609,
-     "retweet_count": 619,
-     "reply_count": 333,
-     "quote_count": 89,
-     "bookmark_count": 986
-    },
-    "text": "【サンプル】月末の生成AIについて気になったことメモ #AI活用\nベンチマークも話題に。\n\n補足：写真は後で",
-    "categories": [
-     "ツール・活用",
-     "研究・論文",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407367512998",
-    "url": "https://x.com/sample_watch_06/status/1844674407367512998",
+    "id": "1844674407366901770",
+    "url": "https://x.com/sample_watch_06/status/1844674407366901770",
     "user": "sample_watch_06",
-    "created_jst": "2026-10-09T15:12:52+09:00",
-    "ts": 1791526372,
-    "metrics": {
-     "impression_count": 336122,
-     "like_count": 11793,
-     "retweet_count": 2813,
-     "reply_count": 335,
-     "quote_count": 5,
-     "bookmark_count": 1992
-    },
-    "text": "【サンプル】今週の業務効率化を実際に試してみたレポート\nリリースも話題に。\n\n補足：また書きます",
-    "categories": [
-     "ビジネス・業界",
-     "新モデル・発表",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407370307549",
-    "url": "https://x.com/sample_watch_03/status/1844674407370307549",
-    "user": "sample_watch_03",
-    "created_jst": "2026-10-06T15:08:38+09:00",
-    "ts": 1791266918,
-    "metrics": {
-     "impression_count": 302874,
-     "like_count": 5569,
-     "retweet_count": 1457,
-     "reply_count": 90,
-     "quote_count": 144,
-     "bookmark_count": 1597
-    },
-    "text": "【サンプル】最近の勉強会の使いどころについての雑談 #生成AI",
-    "categories": [
-     "AIその他",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407366336569",
-    "url": "https://x.com/sample_watch_08/status/1844674407366336569",
-    "user": "sample_watch_08",
-    "created_jst": "2026-10-07T01:04:12+09:00",
-    "ts": 1791302652,
-    "metrics": {
-     "impression_count": 247961,
-     "like_count": 6175,
-     "retweet_count": 479,
-     "reply_count": 616,
-     "quote_count": 62,
-     "bookmark_count": 2032
-    },
-    "text": "【サンプル】今週の資金調達を実際に試してみたレポート",
-    "categories": [
-     "ビジネス・業界",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407369895648",
-    "url": "https://x.com/sample_watch_03/status/1844674407369895648",
-    "user": "sample_watch_03",
-    "created_jst": "2026-10-02T11:24:01+09:00",
-    "ts": 1790907841,
-    "metrics": {
-     "impression_count": 179030,
-     "like_count": 6709,
-     "retweet_count": 1447,
-     "reply_count": 310,
-     "quote_count": 121,
-     "bookmark_count": 2207
-    },
-    "text": "【サンプル】今日の勉強会を実際に試してみたレポート #AI活用 https://t.co/cpuuNxtHMT",
-    "categories": [
-     "AIその他",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407366743390",
-    "url": "https://x.com/sample_watch_08/status/1844674407366743390",
-    "user": "sample_watch_08",
     "created_jst": "2026-10-10T18:12:05+09:00",
     "ts": 1791623525,
     "metrics": {
@@ -1565,359 +1603,355 @@
      "quote_count": 101,
      "bookmark_count": 361
     },
-    "text": "【サンプル】週末のAI規制で新しい発表が出ていた #AI活用 https://t.co/KcM3t9rQgD",
+    "text": "【サンプル】週末のAIニュースで新しい発表が出ていた #AI活用 https://t.co/KcM3t9rQgD",
     "categories": [
-     "ビジネス・業界",
+     "AIその他",
      "監視アカウント"
     ]
    },
    {
-    "id": "1844674407368085585",
-    "url": "https://x.com/sample_nurse_emi15/status/1844674407368085585",
-    "user": "sample_nurse_emi15",
-    "created_jst": "2026-09-13T09:28:15+09:00",
-    "ts": 1789259295,
+    "id": "1844674407362540092",
+    "url": "https://x.com/sample_watch_04/status/1844674407362540092",
+    "user": "sample_watch_04",
+    "created_jst": "2026-09-20T20:10:44+09:00",
+    "ts": 1789902644,
     "metrics": {
-     "impression_count": 130238,
-     "like_count": 4277,
-     "retweet_count": 1117,
-     "reply_count": 217,
-     "quote_count": 135,
-     "bookmark_count": 1694
+     "impression_count": 132743,
+     "like_count": 4091,
+     "retweet_count": 720,
+     "reply_count": 521,
+     "quote_count": 116,
+     "bookmark_count": 91
     },
-    "text": "【サンプル】今日の医療AIの話題をまとめてみた 詳細はリンク先へ\n自動化も話題に。",
+    "text": "【サンプル】週末の自動化で新しい発表が出ていた",
+    "categories": [
+     "ツール・活用",
+     "監視アカウント"
+    ]
+   },
+   {
+    "id": "1844674407370176521",
+    "url": "https://x.com/sample_watch_04/status/1844674407370176521",
+    "user": "sample_watch_04",
+    "created_jst": "2026-09-21T14:39:13+09:00",
+    "ts": 1789969153,
+    "metrics": {
+     "impression_count": 129781,
+     "like_count": 927,
+     "retweet_count": 232,
+     "reply_count": 100,
+     "quote_count": 26,
+     "bookmark_count": 64
+    },
+    "text": "【サンプル】今週の生成AIで新しい発表が出ていた #AI活用\n\nPS.感想どうぞ",
+    "categories": [
+     "ツール・活用",
+     "監視アカウント"
+    ]
+   },
+   {
+    "id": "1844674407369446979",
+    "url": "https://x.com/sample_care_ryu102/status/1844674407369446979",
+    "user": "sample_care_ryu102",
+    "created_jst": "2026-10-06T08:16:24+09:00",
+    "ts": 1791242184,
+    "metrics": {
+     "impression_count": 109626,
+     "like_count": 3040,
+     "retweet_count": 661,
+     "reply_count": 14,
+     "quote_count": 138,
+     "bookmark_count": 1164
+    },
+    "text": "【サンプル】最近のデイサービス界隈のニュースを見かけた https://t.co/AsvgwrOTUT",
+    "categories": [
+     "介護・福祉"
+    ]
+   },
+   {
+    "id": "1844674407360766585",
+    "url": "https://x.com/sample_watch_03/status/1844674407360766585",
+    "user": "sample_watch_03",
+    "created_jst": "2026-10-06T15:59:01+09:00",
+    "ts": 1791269941,
+    "metrics": {
+     "impression_count": 86534,
+     "like_count": 2181,
+     "retweet_count": 402,
+     "reply_count": 109,
+     "quote_count": 40,
+     "bookmark_count": 727
+    },
+    "text": "【サンプル】最近の外来を実際に試してみたレポート（続く） https://t.co/zQb9ZMC886",
+    "categories": [
+     "医療ニュース",
+     "監視アカウント"
+    ]
+   },
+   {
+    "id": "1844674407365112558",
+    "url": "https://x.com/sample_watch_02/status/1844674407365112558",
+    "user": "sample_watch_02",
+    "created_jst": "2026-09-19T23:51:20+09:00",
+    "ts": 1789829480,
+    "metrics": {
+     "impression_count": 79464,
+     "like_count": 2219,
+     "retweet_count": 657,
+     "reply_count": 65,
+     "quote_count": 70,
+     "bookmark_count": 622
+    },
+    "text": "【サンプル】最近のAI規制の話題をまとめてみた（続く）\nプロンプトも話題に。",
+    "categories": [
+     "ビジネス・業界",
+     "ツール・活用",
+     "監視アカウント"
+    ]
+   },
+   {
+    "id": "1844674407369814540",
+    "url": "https://x.com/sample_biz_jin60/status/1844674407369814540",
+    "user": "sample_biz_jin60",
+    "created_jst": "2026-10-11T17:21:29+09:00",
+    "ts": 1791706889,
+    "metrics": {
+     "impression_count": 79379,
+     "like_count": 2159,
+     "retweet_count": 359,
+     "reply_count": 26,
+     "quote_count": 49,
+     "bookmark_count": 793
+    },
+    "text": "【サンプル】月末の業務効率化の使いどころについての雑談\nAIイベントも話題に。\n\nちなみに感想どうぞ https://t.co/wBfyilZBzL",
+    "categories": [
+     "ビジネス・業界",
+     "AIその他"
+    ]
+   },
+   {
+    "id": "1844674407366930084",
+    "url": "https://x.com/sample_carex_jin07/status/1844674407366930084",
+    "user": "sample_carex_jin07",
+    "created_jst": "2026-10-07T03:27:30+09:00",
+    "ts": 1791311250,
+    "metrics": {
+     "impression_count": 76101,
+     "like_count": 2284,
+     "retweet_count": 542,
+     "reply_count": 197,
+     "quote_count": 105,
+     "bookmark_count": 369
+    },
+    "text": "【サンプル】週末の電子カルテ界隈のニュースを見かけた\n診療報酬も話題に。",
     "categories": [
      "医療・介護×AI",
+     "制度・報酬改定"
+    ]
+   },
+   {
+    "id": "1844674407370877220",
+    "url": "https://x.com/sample_clinic_jin90/status/1844674407370877220",
+    "user": "sample_clinic_jin90",
+    "created_jst": "2026-09-18T11:54:18+09:00",
+    "ts": 1789700058,
+    "metrics": {
+     "impression_count": 71772,
+     "like_count": 1852,
+     "retweet_count": 258,
+     "reply_count": 142,
+     "quote_count": 17,
+     "bookmark_count": 644
+    },
+    "text": "【サンプル】<img src=x onerror=\"alert(1)\"> 画像タグ入り\n\"><svg onload=alert(2)> javascript:alert(3) プロンプト",
+    "categories": [
      "ツール・活用"
     ]
    },
    {
-    "id": "1844674407370926478",
-    "url": "https://x.com/sample_llm_sora21/status/1844674407370926478",
-    "user": "sample_llm_sora21",
-    "created_jst": "2026-09-27T01:57:11+09:00",
-    "ts": 1790441831,
-    "metrics": {
-     "impression_count": 128362,
-     "like_count": 3831,
-     "retweet_count": 969,
-     "reply_count": 461,
-     "quote_count": 57,
-     "bookmark_count": 900
-    },
-    "text": "【サンプル】\nhttps://t.co/kj2WoHxwtX",
-    "categories": [
-     "その他"
-    ]
-   },
-   {
-    "id": "1844674407367021997",
-    "url": "https://x.com/sample_watch_05/status/1844674407367021997",
-    "user": "sample_watch_05",
-    "created_jst": "2026-09-16T09:09:10+09:00",
-    "ts": 1789517350,
-    "metrics": {
-     "impression_count": 121784,
-     "like_count": 1941,
-     "retweet_count": 232,
-     "reply_count": 119,
-     "quote_count": 34,
-     "bookmark_count": 613
-    },
-    "text": "【サンプル】週末のAIイベント界隈のニュースを見かけた",
-    "categories": [
-     "AIその他",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407364962084",
-    "url": "https://x.com/sample_watch_02/status/1844674407364962084",
-    "user": "sample_watch_02",
-    "created_jst": "2026-09-23T18:04:13+09:00",
-    "ts": 1790154253,
-    "metrics": {
-     "impression_count": 118283,
-     "like_count": 609,
-     "retweet_count": 82,
-     "reply_count": 48,
-     "quote_count": 29,
-     "bookmark_count": 155
-    },
-    "text": "【サンプル】最近の生成AIの使いどころについての雑談 #生成AI",
-    "categories": [
-     "ツール・活用",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407365313276",
-    "url": "https://x.com/sample_news_ryu102/status/1844674407365313276",
-    "user": "sample_news_ryu102",
-    "created_jst": "2026-09-19T15:31:15+09:00",
-    "ts": 1789799475,
-    "metrics": {
-     "impression_count": 91576,
-     "like_count": 2186,
-     "retweet_count": 112,
-     "reply_count": 24,
-     "quote_count": 17,
-     "bookmark_count": 227
-    },
-    "text": "【サンプル】今週のAIアートの話題をまとめてみた #AI活用\n論文も話題に。\n\nちなみにまた書きます",
-    "categories": [
-     "AIその他",
-     "研究・論文"
-    ]
-   },
-   {
-    "id": "1844674407362380497",
-    "url": "https://x.com/sample_watch_03/status/1844674407362380497",
+    "id": "1844674407365947390",
+    "url": "https://x.com/sample_watch_03/status/1844674407365947390",
     "user": "sample_watch_03",
-    "created_jst": "2026-10-09T14:58:17+09:00",
-    "ts": 1791525497,
+    "created_jst": "2026-09-27T02:36:13+09:00",
+    "ts": 1790444173,
     "metrics": {
-     "impression_count": 89443,
-     "like_count": 2068,
-     "retweet_count": 389,
-     "reply_count": 249,
-     "quote_count": 73,
-     "bookmark_count": 267
+     "impression_count": 69147,
+     "like_count": 2235,
+     "retweet_count": 220,
+     "reply_count": 267,
+     "quote_count": 89,
+     "bookmark_count": 522
     },
-    "text": "【サンプル】昨日の勉強会について気になったことメモ #AI活用\n生成AIも話題に。",
+    "text": "【サンプル】今週の医師の話題をまとめてみた https://t.co/rLLscwgoXE",
     "categories": [
-     "AIその他",
-     "ツール・活用",
+     "医療ニュース",
      "監視アカウント"
     ]
    },
    {
-    "id": "1844674407366901571",
-    "url": "https://x.com/sample_watch_02/status/1844674407366901571",
-    "user": "sample_watch_02",
-    "created_jst": "2026-10-08T00:47:34+09:00",
-    "ts": 1791388054,
+    "id": "1844674407366777002",
+    "url": "https://x.com/sample_llm_emi15/status/1844674407366777002",
+    "user": "sample_llm_emi15",
+    "created_jst": "2026-10-03T20:12:27+09:00",
+    "ts": 1791025947,
     "metrics": {
-     "impression_count": 79074,
-     "like_count": 3064,
-     "retweet_count": 483,
-     "reply_count": 391,
-     "quote_count": 54,
-     "bookmark_count": 434
+     "impression_count": 65753,
+     "like_count": 1213,
+     "retweet_count": 262,
+     "reply_count": 125,
+     "quote_count": 21,
+     "bookmark_count": 10
     },
-    "text": "【サンプル】昨日のノーコードの話題をまとめてみた\n生成AIも話題に。\n\nちなみに感想どうぞ",
-    "categories": [
-     "ツール・活用",
-     "医療・介護×AI",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407359502946",
-    "url": "https://x.com/sample_llm_jin32/status/1844674407359502946",
-    "user": "sample_llm_jin32",
-    "created_jst": "2026-10-11T12:34:07+09:00",
-    "ts": 1791689647,
-    "metrics": {
-     "impression_count": 76567,
-     "like_count": 1413,
-     "retweet_count": 296,
-     "reply_count": 188,
-     "quote_count": 50,
-     "bookmark_count": 494
-    },
-    "text": "【サンプル】月末のオープンモデルについて気になったことメモ（続く） https://t.co/Eao7nj7JSf",
+    "text": "【サンプル】今週のGPTで新しい発表が出ていた",
     "categories": [
      "新モデル・発表"
     ]
    },
    {
-    "id": "1844674407366836083",
-    "url": "https://x.com/sample_watch_06/status/1844674407366836083",
-    "user": "sample_watch_06",
-    "created_jst": "2026-10-07T02:42:16+09:00",
-    "ts": 1791308536,
+    "id": "1844674407365257205",
+    "url": "https://x.com/sample_ns_shin73/status/1844674407365257205",
+    "user": "sample_ns_shin73",
+    "created_jst": "2026-10-07T21:37:13+09:00",
+    "ts": 1791376633,
     "metrics": {
-     "impression_count": 76398,
-     "like_count": 1871,
-     "retweet_count": 257,
-     "reply_count": 54,
-     "quote_count": 43,
-     "bookmark_count": 629
+     "impression_count": 64497,
+     "like_count": 402,
+     "retweet_count": 13,
+     "reply_count": 59,
+     "quote_count": 14,
+     "bookmark_count": 86
     },
-    "text": "【サンプル】月末の業務効率化を実際に試してみたレポート 詳細はリンク先へ\nAIも話題に。\n\n補足：感想どうぞ https://t.co/UXSNtAlNdb",
+    "text": "【サンプル】最近の訪問看護の話題をまとめてみた（続く）\n\nちなみに写真は後で",
     "categories": [
-     "ビジネス・業界",
-     "AIその他",
-     "監視アカウント"
+     "訪問看護"
     ]
    },
    {
-    "id": "1844674407368359059",
-    "url": "https://x.com/sample_watch_08/status/1844674407368359059",
-    "user": "sample_watch_08",
-    "created_jst": "2026-10-02T05:27:17+09:00",
-    "ts": 1790886437,
+    "id": "1844674407368801187",
+    "url": "https://x.com/sample_care_sakura98/status/1844674407368801187",
+    "user": "sample_care_sakura98",
+    "created_jst": "2026-09-26T11:40:07+09:00",
+    "ts": 1790390407,
     "metrics": {
-     "impression_count": 74019,
-     "like_count": 2322,
-     "retweet_count": 44,
-     "reply_count": 279,
-     "quote_count": 10,
-     "bookmark_count": 885
-    },
-    "text": "【サンプル】今週の導入事例の話題をまとめてみた #生成AI\n\nPS.写真は後で",
-    "categories": [
-     "ビジネス・業界",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407369596470",
-    "url": "https://x.com/sample_watch_02/status/1844674407369596470",
-    "user": "sample_watch_02",
-    "created_jst": "2026-09-14T10:03:59+09:00",
-    "ts": 1789347839,
-    "metrics": {
-     "impression_count": 72367,
-     "like_count": 623,
-     "retweet_count": 150,
-     "reply_count": 56,
+     "impression_count": 60673,
+     "like_count": 1280,
+     "retweet_count": 371,
+     "reply_count": 61,
      "quote_count": 13,
-     "bookmark_count": 198
+     "bookmark_count": 205
     },
-    "text": "【サンプル】昨日の生成AIの話題をまとめてみた",
+    "text": "【サンプル】今週のヘルパーを実際に試してみたレポート\n感染症も話題に。\n\nちなみにまた書きます",
+    "categories": [
+     "介護・福祉",
+     "医療ニュース"
+    ]
+   },
+   {
+    "id": "1844674407369310030",
+    "url": "https://x.com/sample_watch_08/status/1844674407369310030",
+    "user": "sample_watch_08",
+    "created_jst": "2026-09-20T07:40:03+09:00",
+    "ts": 1789857603,
+    "metrics": {
+     "impression_count": 57194,
+     "like_count": 1582,
+     "retweet_count": 110,
+     "reply_count": 182,
+     "quote_count": 22,
+     "bookmark_count": 324
+    },
+    "text": "【サンプル】月末のClaude界隈のニュースを見かけた #AI活用\n推論も話題に。\n\nちなみにまた書きます",
+    "categories": [
+     "新モデル・発表",
+     "研究・論文",
+     "監視アカウント"
+    ]
+   },
+   {
+    "id": "1844674407364834834",
+    "url": "https://x.com/sample_hack_hikaru28/status/1844674407364834834",
+    "user": "sample_hack_hikaru28",
+    "created_jst": "2026-10-11T04:57:16+09:00",
+    "ts": 1791662236,
+    "metrics": {
+     "impression_count": 56423,
+     "like_count": 1511,
+     "retweet_count": 63,
+     "reply_count": 144,
+     "quote_count": 31,
+     "bookmark_count": 253
+    },
+    "text": "【サンプル】今日のノーコードの話題をまとめてみた\nマルチモーダルも話題に。\n\nPS.感想どうぞ https://t.co/JpZ8E3OHPK",
     "categories": [
      "ツール・活用",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407362832788",
-    "url": "https://x.com/sample_news_ryu102/status/1844674407362832788",
-    "user": "sample_news_ryu102",
-    "created_jst": "2026-10-07T14:42:34+09:00",
-    "ts": 1791351754,
-    "metrics": {
-     "impression_count": 71021,
-     "like_count": 2232,
-     "retweet_count": 393,
-     "reply_count": 2,
-     "quote_count": 98,
-     "bookmark_count": 192
-    },
-    "text": "【サンプル】最近の勉強会で新しい発表が出ていた https://t.co/J7N7dTeXB4",
-    "categories": [
-     "AIその他"
+     "研究・論文"
     ]
    }
   ],
   "by_likes": [
    {
-    "id": "1844674407365807257",
-    "url": "https://x.com/sample_watch_07/status/1844674407365807257",
-    "user": "sample_watch_07",
-    "created_jst": "2026-09-30T00:17:17+09:00",
-    "ts": 1790695037,
+    "id": "1844674407370940351",
+    "url": "https://x.com/sample_startup_mio59/status/1844674407370940351",
+    "user": "sample_startup_mio59",
+    "created_jst": "2026-10-06T01:08:36+09:00",
+    "ts": 1791216516,
     "metrics": {
-     "impression_count": 401293,
-     "like_count": 14771,
-     "retweet_count": 1532,
-     "reply_count": 44,
-     "quote_count": 258,
-     "bookmark_count": 1869
+     "impression_count": 1155424,
+     "like_count": 12345,
+     "retweet_count": 1,
+     "reply_count": 6,
+     "quote_count": 1,
+     "bookmark_count": 15
     },
-    "text": "【サンプル】最近のClaudeの話題をまとめてみた #AI活用\nノーコードも話題に。\n\n補足：感想どうぞ",
+    "text": "【サンプル】今週の業務効率化について気になったことメモ\n\nちなみに感想どうぞ",
     "categories": [
-     "新モデル・発表",
+     "ビジネス・業界"
+    ]
+   },
+   {
+    "id": "1844674407362028634",
+    "url": "https://x.com/sample_watch_04/status/1844674407362028634",
+    "user": "sample_watch_04",
+    "created_jst": "2026-10-09T15:30:44+09:00",
+    "ts": 1791527444,
+    "metrics": {
+     "impression_count": 221265,
+     "like_count": 7774,
+     "retweet_count": 1773,
+     "reply_count": 897,
+     "quote_count": 298,
+     "bookmark_count": 1813
+    },
+    "text": "【サンプル】昨日の活用術の使いどころについての雑談 #AI活用",
+    "categories": [
      "ツール・活用",
      "監視アカウント"
     ]
    },
    {
-    "id": "1844674407370945365",
-    "url": "https://x.com/sample_news_kai104/status/1844674407370945365",
-    "user": "sample_news_kai104",
-    "created_jst": "2026-10-01T23:51:49+09:00",
-    "ts": 1790866309,
-    "metrics": {
-     "impression_count": 1155424,
-     "like_count": 12345,
-     "retweet_count": 12,
-     "reply_count": 7,
-     "quote_count": 5,
-     "bookmark_count": 29
-    },
-    "text": "【サンプル】週末のAIを実際に試してみたレポート 詳細はリンク先へ https://t.co/tm4r5bSvfT",
-    "categories": [
-     "AIその他"
-    ]
-   },
-   {
-    "id": "1844674407367512998",
-    "url": "https://x.com/sample_watch_06/status/1844674407367512998",
+    "id": "1844674407369662098",
+    "url": "https://x.com/sample_watch_06/status/1844674407369662098",
     "user": "sample_watch_06",
-    "created_jst": "2026-10-09T15:12:52+09:00",
-    "ts": 1791526372,
+    "created_jst": "2026-10-10T22:33:52+09:00",
+    "ts": 1791639232,
     "metrics": {
-     "impression_count": 336122,
-     "like_count": 11793,
-     "retweet_count": 2813,
-     "reply_count": 335,
-     "quote_count": 5,
-     "bookmark_count": 1992
+     "impression_count": 173893,
+     "like_count": 6449,
+     "retweet_count": 1151,
+     "reply_count": 400,
+     "quote_count": 256,
+     "bookmark_count": 1537
     },
-    "text": "【サンプル】今週の業務効率化を実際に試してみたレポート\nリリースも話題に。\n\n補足：また書きます",
-    "categories": [
-     "ビジネス・業界",
-     "新モデル・発表",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407369895648",
-    "url": "https://x.com/sample_watch_03/status/1844674407369895648",
-    "user": "sample_watch_03",
-    "created_jst": "2026-10-02T11:24:01+09:00",
-    "ts": 1790907841,
-    "metrics": {
-     "impression_count": 179030,
-     "like_count": 6709,
-     "retweet_count": 1447,
-     "reply_count": 310,
-     "quote_count": 121,
-     "bookmark_count": 2207
-    },
-    "text": "【サンプル】今日の勉強会を実際に試してみたレポート #AI活用 https://t.co/cpuuNxtHMT",
+    "text": "【サンプル】今日のAIニュースの話題をまとめてみた",
     "categories": [
      "AIその他",
      "監視アカウント"
     ]
    },
    {
-    "id": "1844674407366336569",
-    "url": "https://x.com/sample_watch_08/status/1844674407366336569",
-    "user": "sample_watch_08",
-    "created_jst": "2026-10-07T01:04:12+09:00",
-    "ts": 1791302652,
-    "metrics": {
-     "impression_count": 247961,
-     "like_count": 6175,
-     "retweet_count": 479,
-     "reply_count": 616,
-     "quote_count": 62,
-     "bookmark_count": 2032
-    },
-    "text": "【サンプル】今週の資金調達を実際に試してみたレポート",
-    "categories": [
-     "ビジネス・業界",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407366743390",
-    "url": "https://x.com/sample_watch_08/status/1844674407366743390",
-    "user": "sample_watch_08",
+    "id": "1844674407366901770",
+    "url": "https://x.com/sample_watch_06/status/1844674407366901770",
+    "user": "sample_watch_06",
     "created_jst": "2026-10-10T18:12:05+09:00",
     "ts": 1791623525,
     "metrics": {
@@ -1928,277 +1962,175 @@
      "quote_count": 101,
      "bookmark_count": 361
     },
-    "text": "【サンプル】週末のAI規制で新しい発表が出ていた #AI活用 https://t.co/KcM3t9rQgD",
-    "categories": [
-     "ビジネス・業界",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407370307549",
-    "url": "https://x.com/sample_watch_03/status/1844674407370307549",
-    "user": "sample_watch_03",
-    "created_jst": "2026-10-06T15:08:38+09:00",
-    "ts": 1791266918,
-    "metrics": {
-     "impression_count": 302874,
-     "like_count": 5569,
-     "retweet_count": 1457,
-     "reply_count": 90,
-     "quote_count": 144,
-     "bookmark_count": 1597
-    },
-    "text": "【サンプル】最近の勉強会の使いどころについての雑談 #生成AI",
+    "text": "【サンプル】週末のAIニュースで新しい発表が出ていた #AI活用 https://t.co/KcM3t9rQgD",
     "categories": [
      "AIその他",
      "監視アカウント"
     ]
    },
    {
-    "id": "1844674407368085585",
-    "url": "https://x.com/sample_nurse_emi15/status/1844674407368085585",
-    "user": "sample_nurse_emi15",
-    "created_jst": "2026-09-13T09:28:15+09:00",
-    "ts": 1789259295,
+    "id": "1844674407362606210",
+    "url": "https://x.com/sample_ai_aoi65/status/1844674407362606210",
+    "user": "sample_ai_aoi65",
+    "created_jst": "2026-09-21T16:05:29+09:00",
+    "ts": 1789974329,
     "metrics": {
-     "impression_count": 130238,
-     "like_count": 4277,
-     "retweet_count": 1117,
-     "reply_count": 217,
-     "quote_count": 135,
-     "bookmark_count": 1694
+     "impression_count": 142189,
+     "like_count": 4418,
+     "retweet_count": 650,
+     "reply_count": 386,
+     "quote_count": 78,
+     "bookmark_count": 363
     },
-    "text": "【サンプル】今日の医療AIの話題をまとめてみた 詳細はリンク先へ\n自動化も話題に。",
+    "text": "【サンプル】週末の勉強会界隈のニュースを見かけた https://t.co/YNADgDSnJR",
     "categories": [
-     "医療・介護×AI",
-     "ツール・活用"
+     "AIその他"
     ]
    },
    {
-    "id": "1844674407370926478",
-    "url": "https://x.com/sample_llm_sora21/status/1844674407370926478",
-    "user": "sample_llm_sora21",
-    "created_jst": "2026-09-27T01:57:11+09:00",
-    "ts": 1790441831,
-    "metrics": {
-     "impression_count": 128362,
-     "like_count": 3831,
-     "retweet_count": 969,
-     "reply_count": 461,
-     "quote_count": 57,
-     "bookmark_count": 900
-    },
-    "text": "【サンプル】\nhttps://t.co/kj2WoHxwtX",
-    "categories": [
-     "その他"
-    ]
-   },
-   {
-    "id": "1844674407370462485",
-    "url": "https://x.com/sample_watch_04/status/1844674407370462485",
+    "id": "1844674407362540092",
+    "url": "https://x.com/sample_watch_04/status/1844674407362540092",
     "user": "sample_watch_04",
-    "created_jst": "2026-09-28T22:30:35+09:00",
-    "ts": 1790602235,
+    "created_jst": "2026-09-20T20:10:44+09:00",
+    "ts": 1789902644,
     "metrics": {
-     "impression_count": 348290,
-     "like_count": 3609,
-     "retweet_count": 619,
-     "reply_count": 333,
+     "impression_count": 132743,
+     "like_count": 4091,
+     "retweet_count": 720,
+     "reply_count": 521,
+     "quote_count": 116,
+     "bookmark_count": 91
+    },
+    "text": "【サンプル】週末の自動化で新しい発表が出ていた",
+    "categories": [
+     "ツール・活用",
+     "監視アカウント"
+    ]
+   },
+   {
+    "id": "1844674407369446979",
+    "url": "https://x.com/sample_care_ryu102/status/1844674407369446979",
+    "user": "sample_care_ryu102",
+    "created_jst": "2026-10-06T08:16:24+09:00",
+    "ts": 1791242184,
+    "metrics": {
+     "impression_count": 109626,
+     "like_count": 3040,
+     "retweet_count": 661,
+     "reply_count": 14,
+     "quote_count": 138,
+     "bookmark_count": 1164
+    },
+    "text": "【サンプル】最近のデイサービス界隈のニュースを見かけた https://t.co/AsvgwrOTUT",
+    "categories": [
+     "介護・福祉"
+    ]
+   },
+   {
+    "id": "1844674407366930084",
+    "url": "https://x.com/sample_carex_jin07/status/1844674407366930084",
+    "user": "sample_carex_jin07",
+    "created_jst": "2026-10-07T03:27:30+09:00",
+    "ts": 1791311250,
+    "metrics": {
+     "impression_count": 76101,
+     "like_count": 2284,
+     "retweet_count": 542,
+     "reply_count": 197,
+     "quote_count": 105,
+     "bookmark_count": 369
+    },
+    "text": "【サンプル】週末の電子カルテ界隈のニュースを見かけた\n診療報酬も話題に。",
+    "categories": [
+     "医療・介護×AI",
+     "制度・報酬改定"
+    ]
+   },
+   {
+    "id": "1844674407365947390",
+    "url": "https://x.com/sample_watch_03/status/1844674407365947390",
+    "user": "sample_watch_03",
+    "created_jst": "2026-09-27T02:36:13+09:00",
+    "ts": 1790444173,
+    "metrics": {
+     "impression_count": 69147,
+     "like_count": 2235,
+     "retweet_count": 220,
+     "reply_count": 267,
      "quote_count": 89,
-     "bookmark_count": 986
+     "bookmark_count": 522
     },
-    "text": "【サンプル】月末の生成AIについて気になったことメモ #AI活用\nベンチマークも話題に。\n\n補足：写真は後で",
+    "text": "【サンプル】今週の医師の話題をまとめてみた https://t.co/rLLscwgoXE",
     "categories": [
-     "ツール・活用",
-     "研究・論文",
+     "医療ニュース",
      "監視アカウント"
     ]
    },
    {
-    "id": "1844674407366901571",
-    "url": "https://x.com/sample_watch_02/status/1844674407366901571",
+    "id": "1844674407365112558",
+    "url": "https://x.com/sample_watch_02/status/1844674407365112558",
     "user": "sample_watch_02",
-    "created_jst": "2026-10-08T00:47:34+09:00",
-    "ts": 1791388054,
+    "created_jst": "2026-09-19T23:51:20+09:00",
+    "ts": 1789829480,
     "metrics": {
-     "impression_count": 79074,
-     "like_count": 3064,
-     "retweet_count": 483,
-     "reply_count": 391,
-     "quote_count": 54,
-     "bookmark_count": 434
+     "impression_count": 79464,
+     "like_count": 2219,
+     "retweet_count": 657,
+     "reply_count": 65,
+     "quote_count": 70,
+     "bookmark_count": 622
     },
-    "text": "【サンプル】昨日のノーコードの話題をまとめてみた\n生成AIも話題に。\n\nちなみに感想どうぞ",
-    "categories": [
-     "ツール・活用",
-     "医療・介護×AI",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407369075851",
-    "url": "https://x.com/sample_paper_aoi65/status/1844674407369075851",
-    "user": "sample_paper_aoi65",
-    "created_jst": "2026-09-12T20:41:01+09:00",
-    "ts": 1789213261,
-    "metrics": {
-     "impression_count": 70848,
-     "like_count": 2851,
-     "retweet_count": 296,
-     "reply_count": 97,
-     "quote_count": 95,
-     "bookmark_count": 1006
-    },
-    "text": "【サンプル】最近のarXivの話題をまとめてみた\n\n補足：また書きます https://t.co/jEHOwZdbUF",
-    "categories": [
-     "研究・論文"
-    ]
-   },
-   {
-    "id": "1844674407367958016",
-    "url": "https://x.com/sample_watch_03/status/1844674407367958016",
-    "user": "sample_watch_03",
-    "created_jst": "2026-09-25T10:11:28+09:00",
-    "ts": 1790298688,
-    "metrics": {
-     "impression_count": 64023,
-     "like_count": 2392,
-     "retweet_count": 567,
-     "reply_count": 303,
-     "quote_count": 37,
-     "bookmark_count": 561
-    },
-    "text": "【サンプル】最近のAIで新しい発表が出ていた\n生成AIも話題に。",
-    "categories": [
-     "AIその他",
-     "ビジネス・業界",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407368359059",
-    "url": "https://x.com/sample_watch_08/status/1844674407368359059",
-    "user": "sample_watch_08",
-    "created_jst": "2026-10-02T05:27:17+09:00",
-    "ts": 1790886437,
-    "metrics": {
-     "impression_count": 74019,
-     "like_count": 2322,
-     "retweet_count": 44,
-     "reply_count": 279,
-     "quote_count": 10,
-     "bookmark_count": 885
-    },
-    "text": "【サンプル】今週の導入事例の話題をまとめてみた #生成AI\n\nPS.写真は後で",
+    "text": "【サンプル】最近のAI規制の話題をまとめてみた（続く）\nプロンプトも話題に。",
     "categories": [
      "ビジネス・業界",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407369264405",
-    "url": "https://x.com/sample_watch_06/status/1844674407369264405",
-    "user": "sample_watch_06",
-    "created_jst": "2026-09-28T20:03:03+09:00",
-    "ts": 1790593383,
-    "metrics": {
-     "impression_count": 68422,
-     "like_count": 2302,
-     "retweet_count": 505,
-     "reply_count": 281,
-     "quote_count": 33,
-     "bookmark_count": 247
-    },
-    "text": "【サンプル】今日のAI規制について気になったことメモ\n生成AIも話題に。",
-    "categories": [
-     "ビジネス・業界",
-     "医療・介護×AI",
-     "監視アカウント"
-    ]
-   },
-   {
-    "id": "1844674407362832788",
-    "url": "https://x.com/sample_news_ryu102/status/1844674407362832788",
-    "user": "sample_news_ryu102",
-    "created_jst": "2026-10-07T14:42:34+09:00",
-    "ts": 1791351754,
-    "metrics": {
-     "impression_count": 71021,
-     "like_count": 2232,
-     "retweet_count": 393,
-     "reply_count": 2,
-     "quote_count": 98,
-     "bookmark_count": 192
-    },
-    "text": "【サンプル】最近の勉強会で新しい発表が出ていた https://t.co/J7N7dTeXB4",
-    "categories": [
-     "AIその他"
-    ]
-   },
-   {
-    "id": "1844674407365313276",
-    "url": "https://x.com/sample_news_ryu102/status/1844674407365313276",
-    "user": "sample_news_ryu102",
-    "created_jst": "2026-09-19T15:31:15+09:00",
-    "ts": 1789799475,
-    "metrics": {
-     "impression_count": 91576,
-     "like_count": 2186,
-     "retweet_count": 112,
-     "reply_count": 24,
-     "quote_count": 17,
-     "bookmark_count": 227
-    },
-    "text": "【サンプル】今週のAIアートの話題をまとめてみた #AI活用\n論文も話題に。\n\nちなみにまた書きます",
-    "categories": [
-     "AIその他",
-     "研究・論文"
-    ]
-   },
-   {
-    "id": "1844674407362380497",
-    "url": "https://x.com/sample_watch_03/status/1844674407362380497",
-    "user": "sample_watch_03",
-    "created_jst": "2026-10-09T14:58:17+09:00",
-    "ts": 1791525497,
-    "metrics": {
-     "impression_count": 89443,
-     "like_count": 2068,
-     "retweet_count": 389,
-     "reply_count": 249,
-     "quote_count": 73,
-     "bookmark_count": 267
-    },
-    "text": "【サンプル】昨日の勉強会について気になったことメモ #AI活用\n生成AIも話題に。",
-    "categories": [
-     "AIその他",
      "ツール・活用",
      "監視アカウント"
     ]
    },
    {
-    "id": "1844674407361274249",
-    "url": "https://x.com/sample_news_ryu102/status/1844674407361274249",
-    "user": "sample_news_ryu102",
-    "created_jst": "2026-10-01T12:48:46+09:00",
-    "ts": 1790826526,
+    "id": "1844674407360766585",
+    "url": "https://x.com/sample_watch_03/status/1844674407360766585",
+    "user": "sample_watch_03",
+    "created_jst": "2026-10-06T15:59:01+09:00",
+    "ts": 1791269941,
     "metrics": {
-     "impression_count": 54953,
-     "like_count": 2064,
-     "retweet_count": 581,
-     "reply_count": 139,
-     "quote_count": 19,
-     "bookmark_count": 813
+     "impression_count": 86534,
+     "like_count": 2181,
+     "retweet_count": 402,
+     "reply_count": 109,
+     "quote_count": 40,
+     "bookmark_count": 727
     },
-    "text": "【サンプル】最近のAI雑談の話題をまとめてみた #生成AI",
+    "text": "【サンプル】最近の外来を実際に試してみたレポート（続く） https://t.co/zQb9ZMC886",
     "categories": [
+     "医療ニュース",
+     "監視アカウント"
+    ]
+   },
+   {
+    "id": "1844674407369814540",
+    "url": "https://x.com/sample_biz_jin60/status/1844674407369814540",
+    "user": "sample_biz_jin60",
+    "created_jst": "2026-10-11T17:21:29+09:00",
+    "ts": 1791706889,
+    "metrics": {
+     "impression_count": 79379,
+     "like_count": 2159,
+     "retweet_count": 359,
+     "reply_count": 26,
+     "quote_count": 49,
+     "bookmark_count": 793
+    },
+    "text": "【サンプル】月末の業務効率化の使いどころについての雑談\nAIイベントも話題に。\n\nちなみに感想どうぞ https://t.co/wBfyilZBzL",
+    "categories": [
+     "ビジネス・業界",
      "AIその他"
     ]
    },
    {
-    "id": "1844674407367551016",
-    "url": "https://x.com/sample_biz_yuna84/status/1844674407367551016",
-    "user": "sample_biz_yuna84",
+    "id": "1844674407367669801",
+    "url": "https://x.com/sample_medical_ryu91/status/1844674407367669801",
+    "user": "sample_medical_ryu91",
     "created_jst": "2026-10-10T12:43:52+09:00",
     "ts": 1791603832,
     "metrics": {
@@ -2209,9 +2141,146 @@
      "quote_count": 22,
      "bookmark_count": 51
     },
-    "text": "【サンプル】昨日の生成AIの使いどころについての雑談（続く） https://t.co/gkvw3VeifG",
+    "text": "【サンプル】昨日の外来の使いどころについての雑談（続く） https://t.co/gkvw3VeifG",
     "categories": [
-     "ビジネス・業界"
+     "医療ニュース"
+    ]
+   },
+   {
+    "id": "1844674407363755780",
+    "url": "https://x.com/sample_kaigo_mei103/status/1844674407363755780",
+    "user": "sample_kaigo_mei103",
+    "created_jst": "2026-09-22T18:33:13+09:00",
+    "ts": 1790069593,
+    "metrics": {
+     "impression_count": 47206,
+     "like_count": 1969,
+     "retweet_count": 559,
+     "reply_count": 2,
+     "quote_count": 96,
+     "bookmark_count": 660
+    },
+    "text": "【サンプル】今週の介護職で新しい発表が出ていた https://t.co/LGjukCaPcp",
+    "categories": [
+     "介護・福祉"
+    ]
+   },
+   {
+    "id": "1844674407366031910",
+    "url": "https://x.com/sample_watch_06/status/1844674407366031910",
+    "user": "sample_watch_06",
+    "created_jst": "2026-09-30T00:31:12+09:00",
+    "ts": 1790695872,
+    "metrics": {
+     "impression_count": 47702,
+     "like_count": 1950,
+     "retweet_count": 185,
+     "reply_count": 110,
+     "quote_count": 8,
+     "bookmark_count": 425
+    },
+    "text": "【サンプル】月末の勉強会界隈のニュースを見かけた 詳細はリンク先へ https://t.co/FPMJlBm8qD",
+    "categories": [
+     "AIその他",
+     "監視アカウント"
+    ]
+   },
+   {
+    "id": "1844674407370877220",
+    "url": "https://x.com/sample_clinic_jin90/status/1844674407370877220",
+    "user": "sample_clinic_jin90",
+    "created_jst": "2026-09-18T11:54:18+09:00",
+    "ts": 1789700058,
+    "metrics": {
+     "impression_count": 71772,
+     "like_count": 1852,
+     "retweet_count": 258,
+     "reply_count": 142,
+     "quote_count": 17,
+     "bookmark_count": 644
+    },
+    "text": "【サンプル】<img src=x onerror=\"alert(1)\"> 画像タグ入り\n\"><svg onload=alert(2)> javascript:alert(3) プロンプト",
+    "categories": [
+     "ツール・活用"
+    ]
+   },
+   {
+    "id": "1844674407368118415",
+    "url": "https://x.com/sample_watch_05/status/1844674407368118415",
+    "user": "sample_watch_05",
+    "created_jst": "2026-10-11T10:07:18+09:00",
+    "ts": 1791680838,
+    "metrics": {
+     "impression_count": 40295,
+     "like_count": 1716,
+     "retweet_count": 284,
+     "reply_count": 0,
+     "quote_count": 12,
+     "bookmark_count": 512
+    },
+    "text": "【サンプル】最近のオープンモデルを実際に試してみたレポート https://t.co/EavYuSVsIP",
+    "categories": [
+     "新モデル・発表",
+     "監視アカウント"
+    ]
+   },
+   {
+    "id": "1844674407369613336",
+    "url": "https://x.com/sample_ai_aoi65/status/1844674407369613336",
+    "user": "sample_ai_aoi65",
+    "created_jst": "2026-10-05T09:16:00+09:00",
+    "ts": 1791159360,
+    "metrics": {
+     "impression_count": 43281,
+     "like_count": 1628,
+     "retweet_count": 82,
+     "reply_count": 156,
+     "quote_count": 57,
+     "bookmark_count": 485
+    },
+    "text": "【サンプル】今週のAIニュースについて気になったことメモ #生成AI\n\n補足：写真は後で",
+    "categories": [
+     "AIその他"
+    ]
+   },
+   {
+    "id": "700000000000000000",
+    "url": "https://x.com/sample_lab_ryu45/status/700000000000000000",
+    "user": "sample_lab_ryu45",
+    "created_jst": "2016-03-04T10:00:00+09:00",
+    "ts": 1457053200,
+    "metrics": {
+     "impression_count": 41589,
+     "like_count": 1610,
+     "retweet_count": 227,
+     "reply_count": 26,
+     "quote_count": 77,
+     "bookmark_count": 357
+    },
+    "text": "【サンプル】昔の投稿（2016年）が混ざるケース 論文",
+    "categories": [
+     "研究・論文"
+    ]
+   },
+   {
+    "id": "1844674407367888516",
+    "url": "https://x.com/sample_watch_02/status/1844674407367888516",
+    "user": "sample_watch_02",
+    "created_jst": "2026-10-10T05:16:08+09:00",
+    "ts": 1791576968,
+    "metrics": {
+     "impression_count": 35898,
+     "like_count": 1600,
+     "retweet_count": 297,
+     "reply_count": 156,
+     "quote_count": 40,
+     "bookmark_count": 213
+    },
+    "text": "【サンプル】今日の資金調達の話題をまとめてみた\narXivも話題に。\n\n補足：写真は後で",
+    "categories": [
+     "ビジネス・業界",
+     "研究・論文",
+     "監視アカウント"
     ]
    }
   ]

@@ -11,8 +11,8 @@
   <meta name="color-scheme" content="dark light">
   <meta name="theme-color" content="#060a14" media="(prefers-color-scheme: dark)">
   <meta name="theme-color" content="#f4f7fc" media="(prefers-color-scheme: light)">
-  <title>AIレポート ダッシュボード</title>
-  <meta name="description" content="X のAI（新モデル・ツール・研究・医療×AI など）の投稿をカテゴリ別に閲覧する静的ダッシュボード">
+  <title>AI・医療レポート</title>
+  <meta name="description" content="X のAI・医療／介護まわりの投稿をカテゴリ別に閲覧する静的ダッシュボード">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230a0712'/%3E%3Cpath d='M8 22l5-7 4 4 7-10' fill='none' stroke='%23ff3b4e' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
   <link rel="stylesheet" href="assets/dashboard.css">
   <script src="assets/js/theme-init.js"></script>
@@ -29,7 +29,7 @@
   <header class="site-header">
     <div class="wrap header-inner">
       <div class="brand">
-        <h1 class="title"><span class="title-neon">AIレポート</span></h1>
+        <h1 class="title"><span class="title-neon">AI・医療レポート</span></h1>
         <p class="meta-line">
           <span>最終更新 <strong id="meta-generated">—</strong></span>
           <span class="sep" aria-hidden="true">・</span>
@@ -66,6 +66,10 @@
           <label class="sr-only" for="sort">並び替え</label>
           <select id="sort" class="input input-sm" title="並び替え"></select>
           <div class="segmented" id="view-group" role="group" aria-label="表示"></div>
+          <button type="button" id="watch-only" class="btn watch-only" aria-pressed="false" title="追跡しているアカウントの投稿だけを表示（並び替えはそのまま使えます）">
+            <svg class="eye" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 3.5C4.6 3.5 2 6.2 1 8c1 1.8 3.6 4.5 7 4.5s6-2.7 7-4.5c-1-1.8-3.6-4.5-7-4.5Zm0 7.2A2.7 2.7 0 1 1 8 5.3a2.7 2.7 0 0 1 0 5.4Z"/></svg>
+            <span>追跡アカウントだけ</span><span class="count-badge" id="watch-count">0</span>
+          </button>
         </div>
         <div class="toolbar-foot">
           <p class="result-count" id="result-count" aria-live="polite"></p>
@@ -103,7 +107,7 @@
             <div class="field field-check">
               <label class="check">
                 <input id="watched" type="checkbox">
-                <span>監視アカウントのみ</span>
+                <span>追跡アカウントのみ</span>
               </label>
             </div>
             <div class="field field-reset">
@@ -198,7 +202,7 @@
         </section>
       </section>
 
-      <!-- 伸びている投稿（専用パネル。既定は閉じる。AI関連のみ・切替やカテゴリとは連動しない） -->
+      <!-- 伸びている投稿（専用パネル。既定は閉じる。AI・医療関連のみ・切替やカテゴリとは連動しない） -->
       <section class="card rising-panel" id="rising-panel" aria-labelledby="rising-heading" hidden>
         <div class="section-head">
           <h2 id="rising-heading" class="section-title"><span class="neon">伸びている投稿</span></h2>

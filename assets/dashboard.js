@@ -10,7 +10,7 @@ import {
   parseKeywords, parseState, parseTimestamp, serializeState, sortPosts, topAccounts,
   shortDate, VIEWS, embedTweetId, chooseRefTs, isUpdateDelayed, formatPace, viewsPerHour,
   normalizeReports, pickReport, formatRisingPace, formatBeforeAfter, REPORT_SECTIONS,
-  categoryMatcher, inGroup, isUnclassified, filterAiRising, individualChipCategories, categoryLabel, normalizeCategorySelection,
+  categoryMatcher, inGroup, isUnclassified, filterTopicRising, individualChipCategories, chipVisibleInGroup, categoryLabel, normalizeCategorySelection,
 } from './js/core.js';
 import { UPDATE_SCHEDULE, PACE_NOTE, REPORT_TEXT, CATEGORY_GROUPS, WATCH_CATEGORY } from './js/config.js';
 import {
@@ -110,7 +110,6 @@ const app = {
   lastDayCats: null,
   tooltip: null,
   embedder: null,
-  unknownCats: new Set(),
   noticeDismissed: false,
   perf: { lastRenderMs: 0, renders: 0 },
 };
@@ -156,14 +155,12 @@ function buildControls() {
     b.type = 'button';
     b.dataset.group = g.key;
     b.append(el('span', 'chip-name', g.label), el('span', 'count', ''));
-    b.title = g.key === 'ai' ? `${g.label}（${g.categories.join('・')}）` : g.label;
+    b.title = `${g.label}（${g.categories.join('・')}）`;
     // グループを押すとそのグループのみ（個別選択は解除）
     b.addEventListener('click', () => update({ group: g.key, cats: [] }));
     return b;
   };
-  const [aiGroup, general] = CATEGORY_GROUPS;
-  app.unknownCats = new Set(individualChipCategories(ds.categories).filter((c) => !aiGroup.categories.includes(c)));
-  chips.append(groupChip(aiGroup));
+  for (const g of CATEGORY_GROUPS) chips.append(groupChip(g));
   for (const c of individualChipCategories(ds.categories)) {
     const b = el('button', 'chip');
     b.type = 'button';
@@ -176,19 +173,19 @@ function buildControls() {
       const set = new Set(app.state.cats);
       if (set.has(c)) set.delete(c); else set.add(c);
       const cats = ds.categories.filter((x) => set.has(x));
-      // 選択はモード（AI／一般のバズ）の中で行う。全部外したらそのモードの全体に戻る
+      // 選択はモード（AI／医療）の中で行う。全部外したらそのモードの全体に戻る
       update({ cats });
     });
     chips.append(b);
   }
-  // ヘッダーの「AI ／ 一般のバズ」スイッチ（グループの切替。期間・並び替え・検索などは保持）
+  // ヘッダーの「AI ／ 医療」スイッチ（グループの切替。期間・並び替え・検索などは保持）
   const mg = $('mode-group');
   mg.replaceChildren();
-  for (const g of [aiGroup, general]) {
-    const b = el('button', null, g.key === 'ai' ? 'AI' : g.label);
+  for (const g of CATEGORY_GROUPS) {
+    const b = el('button', null, g.short);
     b.type = 'button';
     b.dataset.group = g.key;
-    b.title = g.key === 'ai' ? `AI（${g.categories.join('・')}）` : g.label;
+    b.title = `${g.short}（${g.categories.join('・')}）`;
     b.addEventListener('click', () => update({ group: g.key, cats: [] }));
     mg.append(b);
   }
@@ -277,6 +274,7 @@ function buildControls() {
   user.addEventListener('change', () => { applyUser.cancel(); update({ user: user.value.replace(/^@/, '').trim() }); });
 
   $('watched').addEventListener('change', (e) => update({ watched: e.target.checked }));
+  $('watch-only').addEventListener('click', () => update({ watched: !app.state.watched }));
   // 初期状態（AIすべて・24時間・インプレッションが多い順）に戻す。表示切替・パネル等は維持
   $('reset').addEventListener('click', () => update({ cats: [], group: DEFAULT_STATE.group, period: DEFAULT_STATE.period, sort: DEFAULT_STATE.sort, user: '', q: '', watched: false }));
 
@@ -311,8 +309,8 @@ function syncControls() {
   for (const b of $('cat-chips').querySelectorAll('.chip')) {
     const c = b.dataset.cat;
     b.setAttribute('aria-pressed', String(c ? st.cats.includes(c) : (!st.cats.length && st.group === b.dataset.group)));
-    // 一般のバズモードではAIのチップを隠し、どのグループにも入らない未知カテゴリのチップだけ残す
-    b.hidden = st.group === 'general' && !(c && app.unknownCats.has(c));
+    // いまのモードの「すべて」チップと、そのモードのカテゴリ（＋未知カテゴリ）のチップだけ出す
+    b.hidden = c ? !chipVisibleInGroup(c, st.group, app.ds.categories) : b.dataset.group !== st.group;
   }
   for (const b of $('period-group').children) b.setAttribute('aria-pressed', String(b.dataset.period === st.period));
   for (const b of $('acct-group').children) b.setAttribute('aria-pressed', String(b.dataset.acct === st.acct));
@@ -333,6 +331,7 @@ function syncControls() {
   if (document.activeElement !== $('q')) $('q').value = st.q;
   if (document.activeElement !== $('user')) $('user').value = st.user;
   $('watched').checked = st.watched;
+  $('watch-only').setAttribute('aria-pressed', String(!!st.watched));
 }
 
 // ---------------------------------------------------------------- 描画
@@ -353,11 +352,14 @@ function render() {
   const agg = active ? aggregate(filtered, ds.categories) : app.allAgg;
 
   renderChipCounts(countByCategory(base), base);
-  // 話題カテゴリ（AI6種・その他）を持たない投稿はどのグループにも入らないので件数だけ注記
+  // 「追跡アカウントだけ」ボタンの件数（いまのモード・期間・検索条件での追跡アカウントの投稿数）
+  const watchBase = state.watched ? base : filterPosts(ds.posts, { ...state, watched: true }, ds.refTs, { ignoreCategories: true });
+  $('watch-count').textContent = formatExact(match ? watchBase.filter(match).length : watchBase.length);
+  // 話題カテゴリ（AI・医療）を持たない投稿はどのグループにも入らないので件数だけ注記
   let unclassified = 0;
   for (const p of base) if (isUnclassified(p)) unclassified++;
   $('unclassified-note').hidden = unclassified === 0;
-  $('unclassified-note').textContent = `分類なし ${formatExact(unclassified)}件（話題カテゴリが無く「AIすべて」「一般のバズ」のどちらにも入らない投稿。現在の期間・検索条件で集計）`;
+  $('unclassified-note').textContent = `分類なし ${formatExact(unclassified)}件（話題カテゴリが無く「AIすべて」「医療すべて」のどちらにも入らない投稿。現在の期間・検索条件で集計）`;
   renderSummary(agg, active, filtered.length);
   renderCharts(agg, filtered);
   renderAccounts(agg);
@@ -545,7 +547,7 @@ function renderActiveFilters() {
   // カテゴリ・期間はツールバーに常に見えているので、ここでは詳細パネル側の条件だけをチップにする
   if (st.user) add(`アカウント: @${st.user}`, { user: '' });
   if (st.q.trim()) add(`キーワード: ${st.q.trim()}`, { q: '' });
-  if (st.watched) add('監視アカウントのみ', { watched: false });
+  // 追跡アカウントのみはツールバーの「追跡アカウントだけ」ボタン自体が状態を示すのでチップは出さない
 }
 
 function showEmbedNotice() {
@@ -862,7 +864,7 @@ function updateRisingBadge() {
   const latest = latestRisingDate();
   const isNew = !!latest && latest > String(storageGet(RISING_SEEN_KEY) || '');
   $('rising-new').hidden = !isNew;
-  const n = app.reports && app.reports.daily[0] ? filterAiRising(app.reports.daily[0].rising, app.postsById).items.length : 0;
+  const n = app.reports && app.reports.daily[0] ? filterTopicRising(app.reports.daily[0].rising, app.postsById).items.length : 0;
   $('rising-count').textContent = String(n);
   $('rising-toggle').setAttribute('aria-label', `伸びている投稿 ${n}件${isNew ? '（新しいデータあり）' : ''}`);
 }
@@ -914,7 +916,7 @@ function risingNoteEls(items, lead, condLead, asOf) {
   return out;
 }
 
-/** 伸びている投稿パネル（AI関連のみ。AI／一般の切替やカテゴリ絞り込みとは連動しない） */
+/** 伸びている投稿パネル（AI・医療関連のみ。AI／医療の切替やカテゴリ絞り込みとは連動しない） */
 function renderRising() {
   if (!app.reports) return;
   const body = $('rising-body');
@@ -928,22 +930,22 @@ function renderRising() {
     return;
   }
   $('rsdate').value = d.date;
-  const main = filterAiRising(d.rising, app.postsById);
-  const watch = filterAiRising(d.risingWatch, app.postsById);
+  const main = filterTopicRising(d.rising, app.postsById);
+  const watch = filterTopicRising(d.risingWatch, app.postsById);
   const excluded = main.excluded + watch.excluded;
   const asOf = app.reports.generated_at ? REPORT_TEXT.risingAsOf(formatDateTime(app.reports.generated_at, parseTimestamp(app.reports.generated_at), null)) : '';
   $('rising-note').replaceChildren(...risingNoteEls(d.rising, REPORT_TEXT.risingLead, REPORT_TEXT.risingCondLead, asOf));
   $('rising-watch-note').replaceChildren(...risingNoteEls(d.risingWatch, REPORT_TEXT.risingWatchLead, '', ''));
-  $('rising-note').title = excluded ? `一般のバズ ${formatExact(excluded)}件は表示していません` : '';
+  $('rising-note').title = excluded ? `AI・医療以外の ${formatExact(excluded)}件は表示していません` : '';
   body.append(main.items.length
     ? risingListEl(main.items, { label: `伸びている投稿（${main.items.length}件・データ側の並び順）` })
-    : reportEmpty(main.excluded ? REPORT_TEXT.risingAllGeneral(formatExact(main.excluded)) : REPORT_TEXT.risingEmpty));
+    : reportEmpty(main.excluded ? REPORT_TEXT.risingAllOffTopic(formatExact(main.excluded)) : REPORT_TEXT.risingEmpty));
   // 補足「伸びそうな投稿」（任意フィールド rising_watch。空なら「該当なし」）
   watchSec.hidden = false;
   $('rising-watch-title').textContent = REPORT_TEXT.risingWatchTitle;
   $('rising-watch-body').replaceChildren(...(watch.items.length
     ? [risingListEl(watch.items, { withReason: true, label: `${REPORT_TEXT.risingWatchTitle}（${watch.items.length}件）` })]
-    : [reportEmpty(watch.excluded ? REPORT_TEXT.risingAllGeneral(formatExact(watch.excluded)) : REPORT_TEXT.risingEmpty)]));
+    : [reportEmpty(watch.excluded ? REPORT_TEXT.risingAllOffTopic(formatExact(watch.excluded)) : REPORT_TEXT.risingEmpty)]));
 }
 
 function setupRising() {
@@ -1045,10 +1047,10 @@ function renderReports() {
     // 「伸びている投稿」は専用パネル（renderRising）へ移動。ここは答え合わせ・的中率のみ
     // 答え合わせ
     let review;
-    // 伸びている投稿と同じくAI関連のみ（一般のバズのみの投稿は対象外）
-    const reviewAi = filterAiRising(d.review, byId);
+    // 伸びている投稿と同じくAI・医療関連のみ（それ以外の投稿は対象外）
+    const reviewAi = filterTopicRising(d.review, byId);
     if (!reviewAi.items.length) {
-      review = reportEmpty(reviewAi.excluded ? REPORT_TEXT.risingAllGeneral(formatExact(reviewAi.excluded)) : REPORT_TEXT.reviewEmpty);
+      review = reportEmpty(reviewAi.excluded ? REPORT_TEXT.risingAllOffTopic(formatExact(reviewAi.excluded)) : REPORT_TEXT.reviewEmpty);
     } else {
       review = el('div', 'table-scroll');
       const table = el('table', 'data-table report-table');
@@ -1202,7 +1204,7 @@ async function main() {
     if (loaded.isSample) {
       $('sample-banner').hidden = false;
       $('sample-reason').textContent = `理由: ${loaded.reason}`;
-      document.title = '【サンプル】AIレポート ダッシュボード';
+      document.title = '【サンプル】AI・医療レポート';
     }
     app.reports = loaded.reports;
     renderHeader(loaded);
