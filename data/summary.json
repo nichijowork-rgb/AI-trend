@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-15T16:25:17+09:00",
- "min_impressions": 30000,
+ "generated_at": "2026-10-15T16:40:29+09:00",
+ "min_impressions": 10000,
  "thresholds": {
   "ai": 100000,
-  "medical": 30000,
+  "medical": 10000,
   "watched": 100000
  },
- "total_posts": 334,
- "total_accounts": 280,
- "below_threshold_posts": 89,
+ "total_posts": 344,
+ "total_accounts": 289,
+ "below_threshold_posts": 35,
  "report_missing_ids": [],
  "unknown_user_posts": 0,
  "period": {
-  "oldest_jst": "2026-10-13T21:30:05+09:00",
+  "oldest_jst": "2026-10-08T17:13:17+09:00",
   "newest_jst": "2026-10-15T07:02:05+09:00"
  },
  "categories": [
@@ -119,11 +119,15 @@
   "訪問看護": [
    "訪問看護",
    "訪看",
+   "訪問看護師",
+   "訪問看護ステーション",
    "在宅医療",
    "在宅看護",
+   "在宅ケア",
    "訪問診療",
    "訪問リハ",
-   "看取り"
+   "看取り",
+   "地域包括ケア"
   ],
   "医療ニュース": [
    "病院",
@@ -155,6 +159,11 @@
   "介護・福祉": [
    "介護",
    "介護職",
+   "介護士",
+   "介護福祉士",
+   "介護現場",
+   "介護施設",
+   "介護離職",
    "ケアマネ",
    "ヘルパー",
    "デイサービス",
@@ -168,6 +177,10 @@
   ],
   "制度・報酬改定": [
    "診療報酬",
+   "診療報酬改定",
+   "介護報酬改定",
+   "報酬改定 2026",
+   "トリプル改定",
    "介護報酬",
    "報酬改定",
    "厚労省",
@@ -215,7 +228,12 @@
   "keitowebai",
   "taishiyade",
   "kzkhykw",
-  "miyatti"
+  "miyatti",
+  "MHLWitter",
+  "Joint_kaigo",
+  "yomiDr",
+  "asahi_apital",
+  "kango_roo"
  ],
  "by_category": {
   "医療・介護×AI": {
@@ -244,34 +262,34 @@
    "likes": 54992
   },
   "AIその他": {
-   "posts": 82,
-   "impressions": 9000148,
-   "likes": 160404
+   "posts": 83,
+   "impressions": 10060885,
+   "likes": 163833
   },
   "訪問看護": {
-   "posts": 0,
-   "impressions": 0,
-   "likes": 0
+   "posts": 3,
+   "impressions": 57265,
+   "likes": 812
   },
   "医療ニュース": {
-   "posts": 13,
-   "impressions": 968052,
-   "likes": 2677
+   "posts": 19,
+   "impressions": 1110035,
+   "likes": 3918
   },
   "介護・福祉": {
-   "posts": 4,
-   "impressions": 286900,
-   "likes": 1606
+   "posts": 9,
+   "impressions": 414106,
+   "likes": 2694
   },
   "制度・報酬改定": {
-   "posts": 2,
-   "impressions": 104324,
-   "likes": 289
+   "posts": 3,
+   "impressions": 134331,
+   "likes": 359
   },
   "監視アカウント": {
-   "posts": 43,
-   "impressions": 13228883,
-   "likes": 69682
+   "posts": 44,
+   "impressions": 14289620,
+   "likes": 73111
   }
  },
  "by_account": [
@@ -351,6 +369,13 @@
    "posts": 1,
    "impressions": 1066031,
    "likes": 2824
+  },
+  {
+   "user": "asahi_apital",
+   "is_watched": true,
+   "posts": 1,
+   "impressions": 1060737,
+   "likes": 3429
   },
   {
    "user": "OfficialLoganK",
@@ -682,6 +707,13 @@
    "likes": 23269
   },
   {
+   "user": "polymarketjapan",
+   "is_watched": false,
+   "posts": 2,
+   "impressions": 185348,
+   "likes": 1202
+  },
+  {
    "user": "HimazinProducer",
    "is_watched": false,
    "posts": 2,
@@ -771,13 +803,6 @@
    "posts": 1,
    "impressions": 166289,
    "likes": 1730
-  },
-  {
-   "user": "polymarketjapan",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 165112,
-   "likes": 1115
   },
   {
    "user": "wwwwprivate",
@@ -1483,7 +1508,7 @@
    "user": "BWm7LDaUhfW1TPC",
    "is_watched": false,
    "posts": 1,
-   "impressions": 48730,
+   "impressions": 49100,
    "likes": 89
   },
   {
@@ -1571,6 +1596,13 @@
    "likes": 761
   },
   {
+   "user": "CwpTBjqHIwuEnyf",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 41788,
+   "likes": 685
+  },
+  {
    "user": "OxBairan",
    "is_watched": false,
    "posts": 1,
@@ -1620,11 +1652,25 @@
    "likes": 217
   },
   {
+   "user": "ColemanYasser",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 37174,
+   "likes": 43
+  },
+  {
    "user": "nvidia",
    "is_watched": false,
    "posts": 1,
    "impressions": 37045,
    "likes": 327
+  },
+  {
+   "user": "hatatsun_0w0",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 36887,
+   "likes": 133
   },
   {
    "user": "googledevs",
@@ -1760,6 +1806,13 @@
    "likes": 434
   },
   {
+   "user": "fukushishimbun",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 29637,
+   "likes": 70
+  },
+  {
    "user": "SaycheeseDGTL",
    "is_watched": false,
    "posts": 1,
@@ -1793,6 +1846,13 @@
    "posts": 1,
    "impressions": 27717,
    "likes": 1391
+  },
+  {
+   "user": "everyquest3",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 26938,
+   "likes": 299
   },
   {
    "user": "oprimodev",
@@ -2012,6 +2072,13 @@
    "likes": 316
   },
   {
+   "user": "kusakashinya",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 12812,
+   "likes": 136
+  },
+  {
    "user": "Ryrenz",
    "is_watched": false,
    "posts": 1,
@@ -2066,6 +2133,13 @@
    "posts": 1,
    "impressions": 9798,
    "likes": 755
+  },
+  {
+   "user": "oosaka_tamura",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 9765,
+   "likes": 63
   },
   {
    "user": "cherryventi04",
@@ -2150,6 +2224,13 @@
    "posts": 1,
    "impressions": 5871,
    "likes": 22
+  },
+  {
+   "user": "hero_houkan",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 5712,
+   "likes": 64
   },
   {
    "user": "taiwata",
@@ -2238,10 +2319,67 @@
  ],
  "by_day": [
   {
+   "date": "2026-10-08",
+   "posts": 5,
+   "impressions": 92401,
+   "likes": 605,
+   "categories": {
+    "医療・介護×AI": 0,
+    "新モデル・発表": 0,
+    "ツール・活用": 0,
+    "研究・論文": 0,
+    "ビジネス・業界": 0,
+    "AIその他": 0,
+    "訪問看護": 2,
+    "医療ニュース": 4,
+    "介護・福祉": 2,
+    "制度・報酬改定": 0,
+    "監視アカウント": 0
+   }
+  },
+  {
+   "date": "2026-10-10",
+   "posts": 2,
+   "impressions": 1090374,
+   "likes": 3499,
+   "categories": {
+    "医療・介護×AI": 0,
+    "新モデル・発表": 0,
+    "ツール・活用": 0,
+    "研究・論文": 0,
+    "ビジネス・業界": 0,
+    "AIその他": 1,
+    "訪問看護": 0,
+    "医療ニュース": 0,
+    "介護・福祉": 1,
+    "制度・報酬改定": 1,
+    "監視アカウント": 1
+   }
+  },
+  {
+   "date": "2026-10-11",
+   "posts": 2,
+   "impressions": 62024,
+   "likes": 772,
+   "categories": {
+    "医療・介護×AI": 0,
+    "新モデル・発表": 0,
+    "ツール・活用": 0,
+    "研究・論文": 0,
+    "ビジネス・業界": 0,
+    "AIその他": 0,
+    "訪問看護": 1,
+    "医療ニュース": 2,
+    "介護・福祉": 1,
+    "制度・報酬改定": 0,
+    "監視アカウント": 0
+   }
+  },
+  {
    "date": "2026-10-13",
-   "posts": 39,
-   "impressions": 4699185,
-   "likes": 65036,
+   "posts": 40,
+   "impressions": 4736072,
+   "likes": 65169,
    "categories": {
     "医療・介護×AI": 1,
     "新モデル・発表": 16,
@@ -2251,7 +2389,7 @@
     "AIその他": 12,
     "訪問看護": 0,
     "医療ニュース": 0,
-    "介護・福祉": 0,
+    "介護・福祉": 1,
     "制度・報酬改定": 0,
     "監視アカウント": 4
    }
@@ -2259,7 +2397,7 @@
   {
    "date": "2026-10-14",
    "posts": 291,
-   "impressions": 54828914,
+   "impressions": 54829284,
    "likes": 617069,
    "categories": {
     "医療・介護×AI": 20,
@@ -2484,6 +2622,25 @@
     "is_watched": false
    },
    {
+    "id": "2108686445384982574",
+    "url": "https://x.com/asahi_apital/status/2108686445384982574",
+    "user": "asahi_apital",
+    "created_jst": "2026-10-10T07:30:00+09:00",
+    "metrics": {
+     "impression_count": 1060737,
+     "like_count": 3429,
+     "retweet_count": 883,
+     "reply_count": 56,
+     "quote_count": 281,
+     "bookmark_count": 836
+    },
+    "categories": [
+     "AIその他",
+     "監視アカウント"
+    ],
+    "is_watched": true
+   },
+   {
     "id": "2110039322229649783",
     "url": "https://x.com/GeminiApp/status/2110039322229649783",
     "user": "GeminiApp",
@@ -2649,24 +2806,6 @@
     },
     "categories": [
      "新モデル・発表"
-    ],
-    "is_watched": false
-   },
-   {
-    "id": "2109992256329646546",
-    "url": "https://x.com/josephflaherty/status/2109992256329646546",
-    "user": "josephflaherty",
-    "created_jst": "2026-10-13T21:58:50+09:00",
-    "metrics": {
-     "impression_count": 539595,
-     "like_count": 17498,
-     "retweet_count": null,
-     "reply_count": null,
-     "quote_count": null,
-     "bookmark_count": null
-    },
-    "categories": [
-     "ツール・活用"
     ],
     "is_watched": false
    }
