@@ -22,5 +22,6 @@ npm run sample # サンプルデータを作り直す（sample/ に出力）
 - [docs/HANDOFF.md](docs/HANDOFF.md)：引き継ぎ書（**作業前に必読**）
 - [docs/DATA_BOT_REQUEST.md](docs/DATA_BOT_REQUEST.md)：収集botの担当者に渡す依頼書（最新の仕様）
 - [docs/DATA_BOT_NOTICE_2026-10-14.md](docs/DATA_BOT_NOTICE_2026-10-14.md)：初回データを受けての共有事項
+- [docs/DATA_BOT_NOTICE_2026-10-15.md](docs/DATA_BOT_NOTICE_2026-10-15.md)：2回目のデータを受けての共有事項
 - [docs/DASHBOARD.md](docs/DASHBOARD.md)：画面仕様・データ仕様
 - [docs/DASHBOARD_REQUIREMENTS.md](docs/DASHBOARD_REQUIREMENTS.md)：元の要件（X-trend の要件を AI 版に読み替えたもの）
