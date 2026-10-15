@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T16:54:18+09:00",
+ "generated_at": "2026-10-15T23:23:38+09:00",
  "min_impressions": 10000,
  "categories": [
   "医療・介護×AI",
@@ -600,6 +600,32 @@
    "lang": "ja"
   },
   {
+   "id": "2110642941840511336",
+   "url": "https://x.com/heisdayo13/status/2110642941840511336",
+   "user": "heisdayo13",
+   "created_utc": "2026-10-15T08:04:25Z",
+   "created_jst": "2026-10-15T17:04:25+09:00",
+   "ts": 1792051465,
+   "metrics": {
+    "impression_count": 807822,
+    "like_count": 309,
+    "retweet_count": 101,
+    "reply_count": 15,
+    "quote_count": 2,
+    "bookmark_count": 150
+   },
+   "text": "午前2時17分、夫から電話がかかってきた。6歳の娘が学校で突然倒れ、病院に搬送されたという。\n私はパジャマのまま、東京都新宿区にある東京医科大学病院へと急いだ。手が震えて、スマートフォンを持つことさえ難しかった。",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110020771716505706",
    "url": "https://x.com/high_empty/status/2110020771716505706",
    "user": "high_empty",
@@ -690,6 +716,34 @@
    "media": [],
    "lang": "en",
    "text_ja": "シンガポールにオフィスを開設しました。アジア太平洋地域で5拠点目です。また、AIの安全性と責任ある導入について、シンガポール政府と覚書（MOU）を結びました。\n\n新オフィスについて詳しくはこちら：https://t.co/125mBgHLkM"
+  },
+  {
+   "id": "2110425806833119609",
+   "url": "https://x.com/GeminiApp/status/2110425806833119609",
+   "user": "GeminiApp",
+   "created_utc": "2026-10-14T17:41:36Z",
+   "created_jst": "2026-10-15T02:41:36+09:00",
+   "ts": 1791999696,
+   "metrics": {
+    "impression_count": 615269,
+    "like_count": 768,
+    "retweet_count": 73,
+    "reply_count": 78,
+    "quote_count": 5,
+    "bookmark_count": 163
+   },
+   "text": "With Gemini 4 Argon, spend less time on repetitive admin and more time on your craft.\n\nJust connect your @GoogleWorkspace apps to turn scattered recipes, handwritten guest lists, and photos of seating charts into a polished proposal deck, email draft, and automated tracker.",
+   "categories": [
+    "新モデル・発表",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "Gemini"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "en",
+   "text_ja": "Gemini 4 Argonなら、繰り返しの事務作業を減らして、本業にもっと時間を使えます。\n\n@GoogleWorkspace のアプリをつなぐだけで、散らばったレシピ、手書きの招待客リスト、席次表の写真を、きれいな提案資料、メールの下書き、自動の管理表に変えられます。"
   },
   {
    "id": "2110013915950403818",
@@ -814,21 +868,21 @@
    "text_ja": "バイブコーディング、DIYハードウェア、3Dプリントが、アーケード型ゲームのルネサンスをもたらすだろう。 https://t.co/HMSR4Z9Llz"
   },
   {
-   "id": "2110425806833119609",
-   "url": "https://x.com/GeminiApp/status/2110425806833119609",
+   "id": "2110491356376576409",
+   "url": "https://x.com/GeminiApp/status/2110491356376576409",
    "user": "GeminiApp",
-   "created_utc": "2026-10-14T17:41:36Z",
-   "created_jst": "2026-10-15T02:41:36+09:00",
-   "ts": 1791999696,
+   "created_utc": "2026-10-14T22:02:05Z",
+   "created_jst": "2026-10-15T07:02:05+09:00",
+   "ts": 1792015325,
    "metrics": {
-    "impression_count": 492717,
-    "like_count": 678,
-    "retweet_count": 63,
-    "reply_count": 73,
-    "quote_count": 3,
-    "bookmark_count": 140
+    "impression_count": 472968,
+    "like_count": 3067,
+    "retweet_count": 103,
+    "reply_count": 869,
+    "quote_count": 86,
+    "bookmark_count": 486
    },
-   "text": "With Gemini 4 Argon, spend less time on repetitive admin and more time on your craft.\n\nJust connect your @GoogleWorkspace apps to turn scattered recipes, handwritten guest lists, and photos of seating charts into a polished proposal deck, email draft, and automated tracker.",
+   "text": "What are you building with Gemini 4 Argon? Show us what you've made 👇",
    "categories": [
     "新モデル・発表",
     "監視アカウント"
@@ -839,7 +893,7 @@
    "is_watched": true,
    "media": [],
    "lang": "en",
-   "text_ja": "Gemini 4 Argonなら、繰り返しの事務作業を減らして、本業にもっと時間を使えます。\n\n@GoogleWorkspace のアプリをつなぐだけで、散らばったレシピ、手書きの招待客リスト、席次表の写真を、きれいな提案資料、メールの下書き、自動の管理表に変えられます。"
+   "text_ja": "Gemini 4 Argonで何を作っていますか？作ったものを見せてください👇"
   },
   {
    "id": "2110032325233005047",
@@ -915,12 +969,12 @@
    "created_jst": "2026-10-15T03:45:57+09:00",
    "ts": 1792003557,
    "metrics": {
-    "impression_count": 312908,
-    "like_count": 2306,
-    "retweet_count": 174,
-    "reply_count": 443,
-    "quote_count": 111,
-    "bookmark_count": 318
+    "impression_count": 359120,
+    "like_count": 2567,
+    "retweet_count": 201,
+    "reply_count": 515,
+    "quote_count": 147,
+    "bookmark_count": 343
    },
    "text": "European businesses are rapidly expanding their use of AI agents. More than half of the AI use among our EU enterprise and business customers now involves these tools, and the number of small business users has grown 8x across the region.\n\nOur latest Economic Research report explores Europe’s shift toward agentic AI—and the opportunity to turn broader adoption into deeper use.\n\nhttps://t.co/jUjCF5sW0B",
    "categories": [
@@ -979,34 +1033,6 @@
    "text_ja": "https://t.co/9H4THRPl3N"
   },
   {
-   "id": "2110491356376576409",
-   "url": "https://x.com/GeminiApp/status/2110491356376576409",
-   "user": "GeminiApp",
-   "created_utc": "2026-10-14T22:02:05Z",
-   "created_jst": "2026-10-15T07:02:05+09:00",
-   "ts": 1792015325,
-   "metrics": {
-    "impression_count": 302183,
-    "like_count": 2189,
-    "retweet_count": 75,
-    "reply_count": 673,
-    "quote_count": 58,
-    "bookmark_count": 345
-   },
-   "text": "What are you building with Gemini 4 Argon? Show us what you've made 👇",
-   "categories": [
-    "新モデル・発表",
-    "監視アカウント"
-   ],
-   "matched_terms": [
-    "Gemini"
-   ],
-   "is_watched": true,
-   "media": [],
-   "lang": "en",
-   "text_ja": "Gemini 4 Argonで何を作っていますか？作ったものを見せてください👇"
-  },
-  {
    "id": "2110282203343224877",
    "url": "https://x.com/lnkiai/status/2110282203343224877",
    "user": "lnkiai",
@@ -1057,6 +1083,38 @@
    ],
    "is_watched": false,
    "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2110659634189238299",
+   "url": "https://x.com/hayakawagomi/status/2110659634189238299",
+   "user": "hayakawagomi",
+   "created_utc": "2026-10-15T09:10:45Z",
+   "created_jst": "2026-10-15T18:10:45+09:00",
+   "ts": 1792055445,
+   "metrics": {
+    "impression_count": 259686,
+    "like_count": 276,
+    "retweet_count": 16,
+    "reply_count": 0,
+    "quote_count": 10,
+    "bookmark_count": 139
+   },
+   "text": "アッ https://t.co/RNKEVYetIl https://t.co/coM3WjhqrQ",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqRv-CbEAAr4hI.jpg",
+     "width": 3076,
+     "height": 3076
+    }
+   ],
    "lang": "ja"
   },
   {
@@ -1440,6 +1498,47 @@
    "lang": "ja"
   },
   {
+   "id": "2110441716507693450",
+   "url": "https://x.com/AIatMeta/status/2110441716507693450",
+   "user": "AIatMeta",
+   "created_utc": "2026-10-14T18:44:49Z",
+   "created_jst": "2026-10-15T03:44:49+09:00",
+   "ts": 1792003489,
+   "metrics": {
+    "impression_count": 164227,
+    "like_count": 607,
+    "retweet_count": 88,
+    "reply_count": 60,
+    "quote_count": 51,
+    "bookmark_count": 213
+   },
+   "text": "We’re exploring how AI can accelerate health science research.\n\nWhile AI has made significant breakthroughs in formal sciences like mathematics, health data science depends on imperfect real-world data and consequential choices about cohorts, variables, and causal assumptions.\n\nTo explore how AI can assist health researchers, we built a human-led research scaffold powered by Muse Spark 1.3 and Muse Wonder with access to 5M retrospective de-identified electronic health records and publicly available data. A cohort of medical experts used the system to conduct original research, accelerate hypothesis generation, code execution, and manuscript drafting while maintaining full authority over scientific decisions.\n\nToday, we’re sharing 10 research manuscripts produced through this exploration, spanning cardiology, oncology, infectious disease, emergency medicine, and more.\n\nRead more in our research blog: https://t.co/26l6Du6vIk",
+   "categories": [
+    "医療・介護×AI",
+    "研究・論文",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "research",
+    "AI",
+    "medical AI"
+   ],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2110440851360878593/img/ryDI-P4tAI1ymBD_.jpg",
+     "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110440851360878593/img/ryDI-P4tAI1ymBD_.jpg",
+     "width": 3840,
+     "height": 2160,
+     "video_url": "https://video.twimg.com/amplify_video/2110440851360878593/vid/avc1/3840x2160/Dyk6w7KEfvxGj3bn.mp4",
+     "view_count": 57797
+    }
+   ],
+   "lang": "en",
+   "text_ja": "AIが健康科学の研究をどう加速できるかを探っています。\n\nAIは数学などの形式科学で大きな飛躍を遂げましたが、健康データサイエンスは不完全な実世界データと、コホート、変数、因果の仮定についての重大な選択に左右されます。\n\nAIが健康研究者をどう支援できるかを探るため、Muse Spark 1.3とMuse Wonderを使い、匿名化された500万件の過去の電子カルテと公開データにアクセスできる、人間主導の研究基盤を作りました。医療の専門家のグループがこのシステムでオリジナルの研究を行い、仮説の生成、コードの実行、論文の執筆を加速させながら、科学的な判断の権限はすべて自分たちで持ち続けました。\n\n本日、この取り組みで作られた10本の研究論文を公開します。循環器、腫瘍、感染症、救急医療などの分野にわたります。\n\n詳しくは研究ブログで：https://t.co/26l6Du6vIk"
+  },
+  {
    "id": "2110253396838289873",
    "url": "https://x.com/AUTOMATONJapan/status/2110253396838289873",
    "user": "AUTOMATONJapan",
@@ -1528,47 +1627,6 @@
    "lang": "ja"
   },
   {
-   "id": "2110441716507693450",
-   "url": "https://x.com/AIatMeta/status/2110441716507693450",
-   "user": "AIatMeta",
-   "created_utc": "2026-10-14T18:44:49Z",
-   "created_jst": "2026-10-15T03:44:49+09:00",
-   "ts": 1792003489,
-   "metrics": {
-    "impression_count": 139057,
-    "like_count": 528,
-    "retweet_count": 82,
-    "reply_count": 45,
-    "quote_count": 45,
-    "bookmark_count": 195
-   },
-   "text": "We’re exploring how AI can accelerate health science research.\n\nWhile AI has made significant breakthroughs in formal sciences like mathematics, health data science depends on imperfect real-world data and consequential choices about cohorts, variables, and causal assumptions.\n\nTo explore how AI can assist health researchers, we built a human-led research scaffold powered by Muse Spark 1.3 and Muse Wonder with access to 5M retrospective de-identified electronic health records and publicly available data. A cohort of medical experts used the system to conduct original research, accelerate hypothesis generation, code execution, and manuscript drafting while maintaining full authority over scientific decisions.\n\nToday, we’re sharing 10 research manuscripts produced through this exploration, spanning cardiology, oncology, infectious disease, emergency medicine, and more.\n\nRead more in our research blog: https://t.co/26l6Du6vIk",
-   "categories": [
-    "医療・介護×AI",
-    "研究・論文",
-    "監視アカウント"
-   ],
-   "matched_terms": [
-    "research",
-    "AI",
-    "medical AI"
-   ],
-   "is_watched": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://pbs.twimg.com/amplify_video_thumb/2110440851360878593/img/ryDI-P4tAI1ymBD_.jpg",
-     "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110440851360878593/img/ryDI-P4tAI1ymBD_.jpg",
-     "width": 3840,
-     "height": 2160,
-     "video_url": "https://video.twimg.com/amplify_video/2110440851360878593/vid/avc1/3840x2160/Dyk6w7KEfvxGj3bn.mp4",
-     "view_count": 49025
-    }
-   ],
-   "lang": "en",
-   "text_ja": "AIが健康科学の研究をどう加速できるかを探っています。\n\nAIは数学などの形式科学で大きな飛躍を遂げましたが、健康データサイエンスは不完全な実世界データと、コホート、変数、因果の仮定についての重大な選択に左右されます。\n\nAIが健康研究者をどう支援できるかを探るため、Muse Spark 1.3とMuse Wonderを使い、匿名化された500万件の過去の電子カルテと公開データにアクセスできる、人間主導の研究基盤を作りました。医療の専門家のグループがこのシステムでオリジナルの研究を行い、仮説の生成、コードの実行、論文の執筆を加速させながら、科学的な判断の権限はすべて自分たちで持ち続けました。\n\n本日、この取り組みで作られた10本の研究論文を公開します。循環器、腫瘍、感染症、救急医療などの分野にわたります。\n\n詳しくは研究ブログで：https://t.co/26l6Du6vIk"
-  },
-  {
    "id": "2110039277442682916",
    "url": "https://x.com/GoogleDeepMind/status/2110039277442682916",
    "user": "GoogleDeepMind",
@@ -1605,6 +1663,43 @@
    ],
    "lang": "en",
    "text_ja": "試し方はこちら：\n🔵 一般ユーザー：Google AI ProとUltraの加入者は @GeminiApp と検索のAIモードで。\n🔵 開発者：Gemini APIの有料プラン。Google AI Ultra加入者は @Antigravity と @GoogleAIStudio でも。\n🔵 研究者：@Antigravity の最上位利用枠に無料で申し込めます。\n🔵 企業：Gemini for businessとAntigravityで。\n\n詳しくは → https://t.co/6nH9sCdObL"
+  },
+  {
+   "id": "2110421861435879476",
+   "url": "https://x.com/GoogleDeepMind/status/2110421861435879476",
+   "user": "GoogleDeepMind",
+   "created_utc": "2026-10-14T17:25:56Z",
+   "created_jst": "2026-10-15T02:25:56+09:00",
+   "ts": 1791998756,
+   "metrics": {
+    "impression_count": 132338,
+    "like_count": 2184,
+    "retweet_count": 271,
+    "reply_count": 166,
+    "quote_count": 68,
+    "bookmark_count": 346
+   },
+   "text": "Gemini 4 Argon is already unlocking new scientific breakthroughs in quantum computing, nuclear fusion, protein design and beyond. 🧵",
+   "categories": [
+    "新モデル・発表",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "Gemini"
+   ],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HUm4960WkAECy-M.jpg",
+     "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HUm4960WkAECy-M.jpg",
+     "width": 1080,
+     "height": 1080,
+     "video_url": "https://video.twimg.com/tweet_video/HUm4960WkAECy-M.mp4"
+    }
+   ],
+   "lang": "en",
+   "text_ja": "Gemini 4 Argonはすでに量子コンピューティング、核融合、タンパク質設計など、科学の新たなブレークスルーを解き放ちつつあります。🧵"
   },
   {
    "id": "2110059330422833518",
@@ -1669,6 +1764,37 @@
     }
    ],
    "lang": "ja"
+  },
+  {
+   "id": "2110720940665372825",
+   "url": "https://x.com/AnthropicAI/status/2110720940665372825",
+   "user": "AnthropicAI",
+   "created_utc": "2026-10-15T13:14:22Z",
+   "created_jst": "2026-10-15T22:14:22+09:00",
+   "ts": 1792070062,
+   "metrics": {
+    "impression_count": 131133,
+    "like_count": 1769,
+    "retweet_count": 132,
+    "reply_count": 149,
+    "quote_count": 48,
+    "bookmark_count": 936
+   },
+   "text": "Applications are now open for two new Anthropic Fellowships.\n\nSTEM Fellows (science and engineering) and Conceptual Reasoning Fellows (philosophy, cognitive science, economics, policy, and law) will spend four months at Anthropic from January 2027, working to help Claude reason well about some of the hardest problems in those fields.\n\nFor more information, see the descriptions below. The application deadline is October 28.\n\nConceptual Reasoning Fellows: https://t.co/kTaBPqttbK\n\nSTEM Fellows: https://t.co/KkD5ruJkjq",
+   "categories": [
+    "新モデル・発表",
+    "研究・論文",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "Anthropic",
+    "Claude",
+    "reasoning"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "en",
+   "text_ja": "Anthropicの新たな2つのフェローシップへの応募受付が始まりました。\n\nSTEMフェロー（科学・工学）とConceptual Reasoningフェロー（哲学、認知科学、経済学、政策、法学）は、2027年1月からAnthropicで4か月間、各分野の難問についてClaudeがうまく推論できるよう取り組む予定です。\n\n詳細は下記の説明をご覧ください。応募締切は10月28日です。\n\nConceptual Reasoning Fellows: https://t.co/kTaBPqttbK\n\nSTEM Fellows: https://t.co/KkD5ruJkjq"
   },
   {
    "id": "2110075611633074295",
@@ -1907,6 +2033,31 @@
     "Antigravity"
    ],
    "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2110502834139783481",
+   "url": "https://x.com/dennotai/status/2110502834139783481",
+   "user": "dennotai",
+   "created_utc": "2026-10-14T22:47:41Z",
+   "created_jst": "2026-10-15T07:47:41+09:00",
+   "ts": 1792018061,
+   "metrics": {
+    "impression_count": 93727,
+    "like_count": 494,
+    "retweet_count": 31,
+    "reply_count": 6,
+    "quote_count": 7,
+    "bookmark_count": 42
+   },
+   "text": "さすがは俺たちの生田衣梨奈！ https://t.co/HWxpohjlyF",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
    "media": [],
    "lang": "ja"
   },
@@ -2256,6 +2407,43 @@
    "lang": "ja"
   },
   {
+   "id": "2110642848714383636",
+   "url": "https://x.com/salary_kintaro/status/2110642848714383636",
+   "user": "salary_kintaro",
+   "created_utc": "2026-10-15T08:04:03Z",
+   "created_jst": "2026-10-15T17:04:03+09:00",
+   "ts": 1792051443,
+   "metrics": {
+    "impression_count": 66151,
+    "like_count": 212,
+    "retweet_count": 67,
+    "reply_count": 7,
+    "quote_count": 10,
+    "bookmark_count": 68
+   },
+   "text": "【速報】\n👀メドレーさん、目を疑いました。\n\n患者情報を流出させといて、本当に「軽微」なんですか？\n\n医療機関向けシステム「アットリンク」に不正アクセス。\n最大787医療機関で患者情報が流出した可能性。\n\n関連サービスは停止。\n復旧見通しは未定。\n\nそして、本日9時に公表されたメドレーの適時開示。\n\n最後の項目を見て、目を疑った。\n\n🔴「2026年12月期の連結業績に与える影響につきましては、軽微であると見込んでおります。」\n\n群馬県の神岡産婦人科医院は公式サイトで、来院受付・診察呼出・予約取得・変更などを、すべて手作業・紙管理に切り替えると公表。\n\n患者の待ち時間も長くなる見込みだという。\n\n不正アクセスの影響範囲は調査中。\n個人情報の漏えいも未確定。\n復旧時期すらわからない。\n\nにもかかわらず、業績への影響は「軽微」。\n\nもちろん、これは連結業績への影響であり、患者や病院への影響が軽微という意味ではない。\n適時開示として業績への言及が必要なことも理解している。\n\nしかし、医療ITに関わる立場として、どうしても聞きたい。\n\nこの「軽微」は、一体何をどこまで織り込んだ判断なのか？\n\n✅ 医療機関の代替運用コストは？\n✅ 復旧が長期化した場合の影響は？\n✅ 患者への対応や病院への支援は？\n✅ 今後発生し得る補償費用は？\n\n病院はシステムを外部委託できても、患者に医療を提供し続ける責任までは委託できない。\n\nベンダーの決算では軽微。\nでも、病院の現場では業務が止まり、紙と電話に戻る。\n\nこの落差こそ、日本の医療DXが抱える深刻な問題だと思う。\n\nメドレーさん。\n\n連結業績への影響を示すだけでなく、医療現場への影響と支援状況も、ぜひ具体的に説明してほしい。\n\n医療機関の皆さん、今回の停止による現場への影響は、本当に軽微ですか？",
+   "categories": [
+    "医療・介護×AI",
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院",
+    "医療",
+    "患者",
+    "医療DX"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqBh_BbQAAKkI2.jpg",
+     "width": 1220,
+     "height": 1546
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2110250843136225302",
    "url": "https://x.com/HimazinProducer/status/2110250843136225302",
    "user": "HimazinProducer",
@@ -2314,6 +2502,33 @@
     "監視アカウント"
    ],
    "matched_terms": [],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2110377199568367706",
+   "url": "https://x.com/takahiroanno/status/2110377199568367706",
+   "user": "takahiroanno",
+   "created_utc": "2026-10-14T14:28:27Z",
+   "created_jst": "2026-10-14T23:28:27+09:00",
+   "ts": 1791988107,
+   "metrics": {
+    "impression_count": 65018,
+    "like_count": 1415,
+    "retweet_count": 190,
+    "reply_count": 15,
+    "quote_count": 23,
+    "bookmark_count": 111
+   },
+   "text": "【朗報：AIバイオセキュリティで進展】\n\nチームみらいとして、以前から国会で課題提起させていただいていた核酸合成対策の話が実現に向け動きました！（よかった！）",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
    "is_watched": true,
    "media": [],
    "lang": "ja"
@@ -2439,31 +2654,6 @@
      "view_count": 19639
     }
    ],
-   "lang": "ja"
-  },
-  {
-   "id": "2110502834139783481",
-   "url": "https://x.com/dennotai/status/2110502834139783481",
-   "user": "dennotai",
-   "created_utc": "2026-10-14T22:47:41Z",
-   "created_jst": "2026-10-15T07:47:41+09:00",
-   "ts": 1792018061,
-   "metrics": {
-    "impression_count": 59020,
-    "like_count": 350,
-    "retweet_count": 22,
-    "reply_count": 5,
-    "quote_count": 4,
-    "bookmark_count": 30
-   },
-   "text": "さすがは俺たちの生田衣梨奈！ https://t.co/HWxpohjlyF",
-   "categories": [
-    "AIその他",
-    "監視アカウント"
-   ],
-   "matched_terms": [],
-   "is_watched": true,
-   "media": [],
    "lang": "ja"
   },
   {
@@ -2633,33 +2823,6 @@
     "AI"
    ],
    "is_watched": false,
-   "media": [],
-   "lang": "ja"
-  },
-  {
-   "id": "2110377199568367706",
-   "url": "https://x.com/takahiroanno/status/2110377199568367706",
-   "user": "takahiroanno",
-   "created_utc": "2026-10-14T14:28:27Z",
-   "created_jst": "2026-10-14T23:28:27+09:00",
-   "ts": 1791988107,
-   "metrics": {
-    "impression_count": 54889,
-    "like_count": 1251,
-    "retweet_count": 169,
-    "reply_count": 12,
-    "quote_count": 21,
-    "bookmark_count": 94
-   },
-   "text": "【朗報：AIバイオセキュリティで進展】\n\nチームみらいとして、以前から国会で課題提起させていただいていた核酸合成対策の話が実現に向け動きました！（よかった！）",
-   "categories": [
-    "AIその他",
-    "監視アカウント"
-   ],
-   "matched_terms": [
-    "AI"
-   ],
-   "is_watched": true,
    "media": [],
    "lang": "ja"
   },
@@ -2901,6 +3064,40 @@
     "福祉",
     "認知症",
     "処遇改善"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2110622792010133609",
+   "url": "https://x.com/kaigo_anntomo/status/2110622792010133609",
+   "user": "kaigo_anntomo",
+   "created_utc": "2026-10-15T06:44:21Z",
+   "created_jst": "2026-10-15T15:44:21+09:00",
+   "ts": 1792046661,
+   "metrics": {
+    "impression_count": 46165,
+    "like_count": 85,
+    "retweet_count": 10,
+    "reply_count": 4,
+    "quote_count": 6,
+    "bookmark_count": 10
+   },
+   "text": "看護師と介護職の給与が逆転するかもしれないとかで看護師が介護職になるとかって話がでてるけど、看護師が施設で介護職をするとなると初任者研修終了者扱いになるので介護福祉士の配置数に関わる加算が取れなくなる可能性が生じるんよね。",
+   "categories": [
+    "医療ニュース",
+    "介護・福祉",
+    "制度・報酬改定"
+   ],
+   "matched_terms": [
+    "看護師",
+    "看護",
+    "介護",
+    "介護職",
+    "介護福祉士",
+    "福祉",
+    "加算"
    ],
    "is_watched": false,
    "media": [],
@@ -3155,6 +3352,33 @@
      "height": 891
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2110399146851213352",
+   "url": "https://x.com/ts3carp/status/2110399146851213352",
+   "user": "ts3carp",
+   "created_utc": "2026-10-14T15:55:40Z",
+   "created_jst": "2026-10-15T00:55:40+09:00",
+   "ts": 1791993340,
+   "metrics": {
+    "impression_count": 37849,
+    "like_count": 221,
+    "retweet_count": 4,
+    "reply_count": 0,
+    "quote_count": 2,
+    "bookmark_count": 4
+   },
+   "text": "クソ生成AIのせいでこういう冤罪が生まれていく。\nマジでクタバレ生成AI。 https://t.co/5El0jmaj9m",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -3467,6 +3691,39 @@
    "lang": "ja"
   },
   {
+   "id": "2110489845990842784",
+   "url": "https://x.com/katsumoku__/status/2110489845990842784",
+   "user": "katsumoku__",
+   "created_utc": "2026-10-14T21:56:04Z",
+   "created_jst": "2026-10-15T06:56:04+09:00",
+   "ts": 1792014964,
+   "metrics": {
+    "impression_count": 29863,
+    "like_count": 210,
+    "retweet_count": 55,
+    "reply_count": 8,
+    "quote_count": 11,
+    "bookmark_count": 78
+   },
+   "text": "昨夜はアメリカのCPI発表で想定を上回るインフレ上昇を確認直後にコアウィーブとマイクロンをショートしましたが、コアウィーブは15％以上の下落で大正解です。\n\nAIバブルで本当に怖いのは、株価が下がることではなく、「資金を貸す側」が先にNOを出し始めることです。 https://t.co/5J8F3J9grp https://t.co/rdzJqLSuxQ",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUn3Ud3b0AAu8iH.jpg",
+     "width": 1200,
+     "height": 800
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2108724947090915615",
    "url": "https://x.com/fukushishimbun/status/2108724947090915615",
    "user": "fukushishimbun",
@@ -3493,6 +3750,33 @@
     "報酬改定",
     "厚労省",
     "処遇改善"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2110539422563500532",
+   "url": "https://x.com/nhk_news/status/2110539422563500532",
+   "user": "nhk_news",
+   "created_utc": "2026-10-15T01:13:04Z",
+   "created_jst": "2026-10-15T10:13:04+09:00",
+   "ts": 1792026784,
+   "metrics": {
+    "impression_count": 28493,
+    "like_count": 30,
+    "retweet_count": 19,
+    "reply_count": 2,
+    "quote_count": 2,
+    "bookmark_count": 3
+   },
+   "text": "NY市場 ナスダック株価指数大幅安 AI関連企業資金調達など懸念\nhttps://t.co/ZYnFH5mANr #nhk_news",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "資金調達",
+    "AI"
    ],
    "is_watched": false,
    "media": [],
@@ -3671,6 +3955,38 @@
    "lang": "ja"
   },
   {
+   "id": "2110561490176802914",
+   "url": "https://x.com/Joint_kaigo/status/2110561490176802914",
+   "user": "Joint_kaigo",
+   "created_utc": "2026-10-15T02:40:46Z",
+   "created_jst": "2026-10-15T11:40:46+09:00",
+   "ts": 1792032046,
+   "metrics": {
+    "impression_count": 25055,
+    "like_count": 182,
+    "retweet_count": 41,
+    "reply_count": 0,
+    "quote_count": 13,
+    "bookmark_count": 28
+   },
+   "text": "ショートステイの長期利用、既存の減算を廃止　厚労省案　連続31日から特養並み報酬に｜来年度改定\nhttps://t.co/I4eH8TmTY3\n#介護 #ケアマネ #介護施設",
+   "categories": [
+    "介護・福祉",
+    "制度・報酬改定",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "介護",
+    "介護施設",
+    "ケアマネ",
+    "特養",
+    "厚労省"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2109429984393822393",
    "url": "https://x.com/dennotai/status/2109429984393822393",
    "user": "dennotai",
@@ -3700,6 +4016,38 @@
      "height": 1099
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2110600325631725967",
+   "url": "https://x.com/MHLWitter/status/2110600325631725967",
+   "user": "MHLWitter",
+   "created_utc": "2026-10-15T05:15:05Z",
+   "created_jst": "2026-10-15T14:15:05+09:00",
+   "ts": 1792041305,
+   "metrics": {
+    "impression_count": 24139,
+    "like_count": 36,
+    "retweet_count": 12,
+    "reply_count": 4,
+    "quote_count": 2,
+    "bookmark_count": 4
+   },
+   "text": "【未来の看護師を育てる「実習」にご協力をお願いします！】\n\n病院などで看護学生を見かけたことはありますか？\n実習では、患者さんやご家族との関わりを通じて、人に寄り添う力や看護に必要な想像力・思考力を学んでいます。\n\n実習の大切さを #厚労省note で紹介します。\nhttps://t.co/LKqvgs3QKn",
+   "categories": [
+    "医療ニュース",
+    "制度・報酬改定",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "病院",
+    "看護師",
+    "看護",
+    "患者",
+    "厚労省"
+   ],
+   "is_watched": true,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -3974,6 +4322,40 @@
    "lang": "ja"
   },
   {
+   "id": "2110582303667954051",
+   "url": "https://x.com/Joint_kaigo/status/2110582303667954051",
+   "user": "Joint_kaigo",
+   "created_utc": "2026-10-15T04:03:28Z",
+   "created_jst": "2026-10-15T13:03:28+09:00",
+   "ts": 1792037008,
+   "metrics": {
+    "impression_count": 20528,
+    "like_count": 74,
+    "retweet_count": 14,
+    "reply_count": 13,
+    "quote_count": 21,
+    "bookmark_count": 14
+   },
+   "text": "デイサービスの共同送迎、対象者を拡大　買い物支援や通園・通学も可に　厚労省案｜介護報酬改定\nhttps://t.co/unuSh4joUx\n#介護 #ケアマネ #デイサービス #通所介護",
+   "categories": [
+    "介護・福祉",
+    "制度・報酬改定",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "介護",
+    "ケアマネ",
+    "デイサービス",
+    "介護報酬改定",
+    "介護報酬",
+    "報酬改定",
+    "厚労省"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2109091612991066150",
    "url": "https://x.com/polymarketjapan/status/2109091612991066150",
    "user": "polymarketjapan",
@@ -4196,6 +4578,48 @@
    "lang": "ja"
   },
   {
+   "id": "2110630754837471651",
+   "url": "https://x.com/codexneo4/status/2110630754837471651",
+   "user": "codexneo4",
+   "created_utc": "2026-10-15T07:16:00Z",
+   "created_jst": "2026-10-15T16:16:00+09:00",
+   "ts": 1792048560,
+   "metrics": {
+    "impression_count": 18729,
+    "like_count": 162,
+    "retweet_count": 15,
+    "reply_count": 4,
+    "quote_count": 1,
+    "bookmark_count": 239
+   },
+   "text": "【衝撃】\nClaude CodeがCodexの\nComputer Useを自由に使えるwww                                                                                                                                                                                                                                                    \n↓\n今までCodex側で使っていた\nComputer Useを、Claude Codeから\n利用できるようになった。\n\nできることは、\n\n① PC画面の構造を読み取る\n② アプリのボタンを自動クリック\n③ テキストの入力・フォーム操作\n④ スクリーンショットの取得\n⑤ Chromeのタブ操作\n⑥ 複数のアプリを横断した作業\n\nこれらをClaude Codeに指示するだけ。\n\nしかも恐ろしいのが、Codexにログインする必要がないこと。\n\nローカルに公式ChatGPTデスクトップアプリをインストールして、LCUを設定すれば利用できる。\n\n仕組みも面白い。\n\nLCUが画面操作を担当し、Claudeが取得した情報を理解して次の操作を判断する。\n\nつまり、Claude Codeの推論能力とCodex由来のComputer Useを組み合わせられる。\n\nしかもLCU自体はCodexのモデル推論枠を使わない仕組み。\n\n要するに、\n\n頭脳はClaude Code、手足はCodexのComputer Use。\n\nこれが可能になった。\n\nもちろん画面操作の権限設定には注意が必要だし、すべての操作を完全放置できるわけではない。\n\nただ、AIエージェントがPCを直接操作して仕事を進める環境が、どんどん身近になっている。\n\nもうAIはコードを書くだけの存在じゃない。\n\nPCそのものを操作するデジタル社員になりつつある。\n\n使い方はリプから教えてます",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用",
+    "研究・論文"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "Claude",
+    "Claude Code",
+    "Codex",
+    "AIエージェント",
+    "エージェント",
+    "推論",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUlrP79aIAA61fr.jpg",
+     "width": 1170,
+     "height": 683
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2110222245285204395",
    "url": "https://x.com/YUGAYUG01511120/status/2110222245285204395",
    "user": "YUGAYUG01511120",
@@ -4323,6 +4747,33 @@
     "監視アカウント"
    ],
    "matched_terms": [],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2110702785872424985",
+   "url": "https://x.com/ImAI_Eruel/status/2110702785872424985",
+   "user": "ImAI_Eruel",
+   "created_utc": "2026-10-15T12:02:13Z",
+   "created_jst": "2026-10-15T21:02:13+09:00",
+   "ts": 1792065733,
+   "metrics": {
+    "impression_count": 15872,
+    "like_count": 113,
+    "retweet_count": 14,
+    "reply_count": 1,
+    "quote_count": 2,
+    "bookmark_count": 24
+   },
+   "text": "PIVOTのマーケット超分析に出演しました！\n木野内さんの濃密なマーケット分析と、それを受けて完璧に回しながら私が「喋りすぎたかな？」と思ったAI話題を的確にまとめてくれた柴田さんのおかげで、大変楽しい収録でした！\nhttps://t.co/tbepkxnF15 https://t.co/PjUFz2bgTS",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
    "is_watched": true,
    "media": [],
    "lang": "ja"
@@ -4518,6 +4969,33 @@
    "lang": "ja"
   },
   {
+   "id": "2110384753082053093",
+   "url": "https://x.com/Not_named_alice/status/2110384753082053093",
+   "user": "Not_named_alice",
+   "created_utc": "2026-10-14T14:58:28Z",
+   "created_jst": "2026-10-14T23:58:28+09:00",
+   "ts": 1791989908,
+   "metrics": {
+    "impression_count": 14682,
+    "like_count": 85,
+    "retweet_count": 14,
+    "reply_count": 18,
+    "quote_count": 12,
+    "bookmark_count": 13
+   },
+   "text": "仮に仕組みが同じだとして\n著作権法は「人が著作物を鑑賞する行為」を問題にしていない。その結果起きる「学習」についても問題にせず、制作された著作物についてのみ問題としている。\n一方、生成AIの場合は機械学習のために著作物のデータを入力した次点で著作権法が定める複製権の侵害が発生する。 https://t.co/3RSJs24QfO",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2109572822746140744",
    "url": "https://x.com/usutaku_channel/status/2109572822746140744",
    "user": "usutaku_channel",
@@ -4540,6 +5018,40 @@
    "matched_terms": [],
    "is_watched": true,
    "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2110566395042025614",
+   "url": "https://x.com/MHLWitter/status/2110566395042025614",
+   "user": "MHLWitter",
+   "created_utc": "2026-10-15T03:00:15Z",
+   "created_jst": "2026-10-15T12:00:15+09:00",
+   "ts": 1792033215,
+   "metrics": {
+    "impression_count": 14455,
+    "like_count": 60,
+    "retweet_count": 26,
+    "reply_count": 4,
+    "quote_count": 1,
+    "bookmark_count": 1
+   },
+   "text": "【 #骨髄バンク へのドナー登録を考えてみませんか？】\n\n10月は #造血幹細胞移植普及推進月間 です。\n\n一人でも多くの若い世代のドナー登録が、\n患者さんの移植機会の拡大につながります。\n\nこの機会に、ドナー登録について考えてみませんか？\n\n■ドナー登録についてはこちら\nhttps://t.co/5szICJ45zi https://t.co/1DrPUZNy0h",
+   "categories": [
+    "医療ニュース",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "患者"
+   ],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUo88NMagAItKHr.jpg",
+     "width": 1920,
+     "height": 1920
+    }
+   ],
    "lang": "ja"
   },
   {
@@ -4605,6 +5117,66 @@
      "url": "https://pbs.twimg.com/media/HUjtvoyaAAAMWLk.jpg",
      "width": 765,
      "height": 1024
+    }
+   ],
+   "lang": "ja"
+  },
+  {
+   "id": "2110533585279344955",
+   "url": "https://x.com/hayakawagomi/status/2110533585279344955",
+   "user": "hayakawagomi",
+   "created_utc": "2026-10-15T00:49:53Z",
+   "created_jst": "2026-10-15T09:49:53+09:00",
+   "ts": 1792025393,
+   "metrics": {
+    "impression_count": 13278,
+    "like_count": 140,
+    "retweet_count": 10,
+    "reply_count": 1,
+    "quote_count": 0,
+    "bookmark_count": 83
+   },
+   "text": "これめちゃおいしかったな https://t.co/MOOebJZtok",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2110683433328644177",
+   "url": "https://x.com/MHLWitter/status/2110683433328644177",
+   "user": "MHLWitter",
+   "created_utc": "2026-10-15T10:45:19Z",
+   "created_jst": "2026-10-15T19:45:19+09:00",
+   "ts": 1792061119,
+   "metrics": {
+    "impression_count": 13167,
+    "like_count": 47,
+    "retweet_count": 17,
+    "reply_count": 5,
+    "quote_count": 5,
+    "bookmark_count": 13
+   },
+   "text": "【ステミラック注の本承認が了承されました】\n本日の薬事審議会で、日本発の脊髄損傷用再生医療等製品の本承認が了承されました。\n条件・期限付き承認後のデータに基づき、本承認に至る初の事例です。\n引き続き、有効性・安全性を適切に評価し、イノベーションを患者さんに届けてまいります。 https://t.co/f56cIh3Grv",
+   "categories": [
+    "医療ニュース",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "医療",
+    "患者"
+   ],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqnYJLaIAAi73W.jpg",
+     "width": 1840,
+     "height": 833
     }
    ],
    "lang": "ja"
@@ -4705,6 +5277,65 @@
    "text_ja": "公開ガイドはこちら： https://t.co/5IMQn5eOFF\n\nいつものツールでOriginを試す： https://t.co/BkJ1MGNV6g"
   },
   {
+   "id": "2110667592541290965",
+   "url": "https://x.com/MHLWitter/status/2110667592541290965",
+   "user": "MHLWitter",
+   "created_utc": "2026-10-15T09:42:23Z",
+   "created_jst": "2026-10-15T18:42:23+09:00",
+   "ts": 1792057343,
+   "metrics": {
+    "impression_count": 11952,
+    "like_count": 30,
+    "retweet_count": 6,
+    "reply_count": 3,
+    "quote_count": 1,
+    "bookmark_count": 3
+   },
+   "text": "本日、上野大臣は、東京都の介護サービス、埼玉県の障害福祉サービス、それぞれの現場を視察し、認知症や医療的ケアが必要な方への支援、障害のある方への就労支援の現状と課題について意見交換を行いました。\n\n来年の介護・障害福祉報酬改定に向けて、必要な対応について検討を進めてまいります。 https://t.co/n5oNP0mC30",
+   "categories": [
+    "医療ニュース",
+    "介護・福祉",
+    "制度・報酬改定",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "医療",
+    "介護",
+    "障害福祉",
+    "福祉",
+    "認知症",
+    "報酬改定"
+   ],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqY_LEakAARZjF.jpg",
+     "width": 1396,
+     "height": 966
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqY_LnbgAAS5It.jpg",
+     "width": 1532,
+     "height": 921
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqY_Llb0AA4NFl.jpg",
+     "width": 1591,
+     "height": 1158
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqY_LpbEAAUtLq.jpg",
+     "width": 1318,
+     "height": 959
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2109165098820567291",
    "url": "https://x.com/hayakawagomi/status/2109165098820567291",
    "user": "hayakawagomi",
@@ -4752,6 +5383,138 @@
    "matched_terms": [],
    "is_watched": true,
    "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2110657367201501445",
+   "url": "https://x.com/MHLWitter/status/2110657367201501445",
+   "user": "MHLWitter",
+   "created_utc": "2026-10-15T09:01:45Z",
+   "created_jst": "2026-10-15T18:01:45+09:00",
+   "ts": 1792054905,
+   "metrics": {
+    "impression_count": 11290,
+    "like_count": 27,
+    "retweet_count": 5,
+    "reply_count": 0,
+    "quote_count": 1,
+    "bookmark_count": 1
+   },
+   "text": "【令和8年熊本地震で被災された事業主の方へ】\n雇用維持を支援するため、今の会社に在籍したまま別の会社で働く「在籍型出向」を助成する特例措置を実施します。\n\n第1回説明会(10月21日・熊本市)を皮切りに、熊本市、嘉島町、宇城市、八代市で計9回開催予定。熊本労働局助成金センター： 096-312-0086 https://t.co/OJB0JNC7Wq",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqPr4QaQAA2Fye.jpg",
+     "width": 794,
+     "height": 1123
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqPr5MaMAEy1u5.jpg",
+     "width": 720,
+     "height": 1040
+    }
+   ],
+   "lang": "ja"
+  },
+  {
+   "id": "2110642015096680765",
+   "url": "https://x.com/MHLWitter/status/2110642015096680765",
+   "user": "MHLWitter",
+   "created_utc": "2026-10-15T08:00:44Z",
+   "created_jst": "2026-10-15T17:00:44+09:00",
+   "ts": 1792051244,
+   "metrics": {
+    "impression_count": 10988,
+    "like_count": 17,
+    "retweet_count": 2,
+    "reply_count": 1,
+    "quote_count": 0,
+    "bookmark_count": 2
+   },
+   "text": "【登壇者決定！】\n\n11月6日に開催の「健康的で持続可能な食環境戦略イニシアチブ オープンフォーラム2026」の登壇者が決まりました。\n\n学術関係者や本イニシアチブに参画する食品関連事業者が、産学官等の連携による食環境づくりの取り組みやメリットなどをご紹介します。\n\nhttps://t.co/8xtyce2F5s https://t.co/AmIG2osLAv",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqBue4aMAAgYJf.jpg",
+     "width": 794,
+     "height": 1123
+    }
+   ],
+   "lang": "ja"
+  },
+  {
+   "id": "2110581917515137450",
+   "url": "https://x.com/hayakawagomi/status/2110581917515137450",
+   "user": "hayakawagomi",
+   "created_utc": "2026-10-15T04:01:56Z",
+   "created_jst": "2026-10-15T13:01:56+09:00",
+   "ts": 1792036916,
+   "metrics": {
+    "impression_count": 10911,
+    "like_count": 106,
+    "retweet_count": 1,
+    "reply_count": 1,
+    "quote_count": 0,
+    "bookmark_count": 1
+   },
+   "text": "ていうか有線イヤホンって、便利じゃね？",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2110382322587754834",
+   "url": "https://x.com/usutaku_channel/status/2110382322587754834",
+   "user": "usutaku_channel",
+   "created_utc": "2026-10-14T14:48:49Z",
+   "created_jst": "2026-10-14T23:48:49+09:00",
+   "ts": 1791989329,
+   "metrics": {
+    "impression_count": 10811,
+    "like_count": 128,
+    "retweet_count": 7,
+    "reply_count": 3,
+    "quote_count": 4,
+    "bookmark_count": 88
+   },
+   "text": "AIで動画を作る時に使える、指示の出し方 https://t.co/AUd9GRs1SU",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2110382104702029824/img/Y4lqC3OE-zd2lCOw.jpg",
+     "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110382104702029824/img/Y4lqC3OE-zd2lCOw.jpg",
+     "width": 1080,
+     "height": 1920,
+     "video_url": "https://video.twimg.com/amplify_video/2110382104702029824/vid/avc1/1080x1920/BZcfBlmV2JerzaCn.mp4",
+     "view_count": 3354
+    }
+   ],
    "lang": "ja"
   },
   {
