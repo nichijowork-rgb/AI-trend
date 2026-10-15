@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T16:40:29+09:00",
+ "generated_at": "2026-10-15T16:54:18+09:00",
  "daily": [
   {
    "date": "2026-10-14",
@@ -16,27 +16,6 @@
      "views": 2207531,
      "hours_since_post": 8.57,
      "views_per_hour": 257588,
-     "condition_label": "投稿から12時間以内で20万表示以上"
-    },
-    {
-     "id": "2110194452157587542",
-     "views": 445165,
-     "hours_since_post": 11.83,
-     "views_per_hour": 37630,
-     "condition_label": "投稿から12時間以内で20万表示以上"
-    },
-    {
-     "id": "2110225334377578715",
-     "views": 403801,
-     "hours_since_post": 9.78,
-     "views_per_hour": 41288,
-     "condition_label": "投稿から12時間以内で20万表示以上"
-    },
-    {
-     "id": "2110191941690241323",
-     "views": 355574,
-     "hours_since_post": 11.99,
-     "views_per_hour": 29655,
      "condition_label": "投稿から12時間以内で20万表示以上"
     },
     {
@@ -66,34 +45,6 @@
      "hours_since_post": 8.56,
      "views_per_hour": 25879,
      "condition_label": "投稿から12時間以内で20万表示以上"
-    },
-    {
-     "id": "2110205675880042601",
-     "views": 201515,
-     "hours_since_post": 11.09,
-     "views_per_hour": 18170,
-     "condition_label": "投稿から12時間以内で20万表示以上"
-    },
-    {
-     "id": "2110294092001251470",
-     "views": 169035,
-     "hours_since_post": 5.23,
-     "views_per_hour": 32320,
-     "condition_label": "投稿から6時間以内で10万表示以上"
-    },
-    {
-     "id": "2110357411878027658",
-     "views": 131043,
-     "hours_since_post": 1.04,
-     "views_per_hour": 126002,
-     "condition_label": "投稿から2時間以内で5万表示以上"
-    },
-    {
-     "id": "2110363317382369453",
-     "views": 53190,
-     "hours_since_post": 0.65,
-     "views_per_hour": 81830,
-     "condition_label": "投稿から2時間以内で5万表示以上"
     }
    ],
    "rising_watch": [
@@ -107,12 +58,6 @@
     }
    ],
    "review": [
-    {
-     "id": "2110194452157587542",
-     "before_views": 387159,
-     "after_views": 445165,
-     "crossed_500k": true
-    },
     {
      "id": "2110204194569519347",
      "before_views": 204257,
@@ -142,7 +87,16 @@
   {
    "date": "2026-10-15",
    "rising": [],
-   "rising_watch": [],
+   "rising_watch": [
+    {
+     "id": "2110502834139783481",
+     "views": 59020,
+     "hours_since_post": 9.11,
+     "views_per_hour": 6478,
+     "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
+     "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
+    }
+   ],
    "review": [],
    "hit_rate": []
   }
