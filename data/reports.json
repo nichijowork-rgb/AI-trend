@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T23:12:00+09:00",
+ "generated_at": "2026-10-15T16:25:17+09:00",
  "daily": [
   {
    "date": "2026-10-14",
@@ -138,6 +138,21 @@
      "crossed": 1
     }
    ]
+  },
+  {
+   "date": "2026-10-15",
+   "rising": [
+    {
+     "id": "2110491356376576409",
+     "views": 302183,
+     "hours_since_post": 9.39,
+     "views_per_hour": 32192,
+     "condition_label": "投稿から12時間以内で20万表示以上"
+    }
+   ],
+   "rising_watch": [],
+   "review": [],
+   "hit_rate": []
   }
  ],
  "weekly": []
