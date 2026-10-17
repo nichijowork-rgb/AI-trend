@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T23:25:19+09:00",
+ "generated_at": "2026-10-17T23:24:14+09:00",
  "min_impressions": 10000,
  "categories": [
   "医療・介護×AI",
@@ -200,6 +200,48 @@
    "text_ja": "Gemini 4 Argonが世界中で利用可能になりました。\n\n最も難しい問題を最初から最後まで解くために作られ、コーディング、企業のワークフロー、サイバー防御でフロンティア級の能力を発揮します。 https://t.co/N8tOQjwk0x"
   },
   {
+   "id": "2111375640717033777",
+   "url": "https://x.com/deepseek_ai/status/2111375640717033777",
+   "user": "deepseek_ai",
+   "created_utc": "2026-10-17T08:35:54Z",
+   "created_jst": "2026-10-17T17:35:54+09:00",
+   "ts": 1792226154,
+   "metrics": {
+    "impression_count": 2272232,
+    "like_count": 20868,
+    "retweet_count": 2463,
+    "reply_count": 953,
+    "quote_count": 1790,
+    "bookmark_count": 3426
+   },
+   "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, WorkBuddy, and more. Upgrade to DeepSeek Harness v0.2.1-rc.1 or later for the best experience with the new model.\n\n1/4",
+   "categories": [
+    "新モデル・発表",
+    "研究・論文"
+   ],
+   "matched_terms": [
+    "DeepSeek",
+    "benchmark"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU0b65KbsAAypqr.jpg",
+     "width": 1052,
+     "height": 889
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU0b7UfbwAAGXNH.jpg",
+     "width": 2937,
+     "height": 2531
+    }
+   ],
+   "lang": "en",
+   "text_ja": "🚀 DeepSeek-V4.1-Flash-1017 が登場！\n\n前バージョンよりベンチマーク性能が向上し、タスク完了が速く、出力も短くなりました。性能とコストの両面でのパレート改善です。ウェブサイト、アプリ、API で利用可能になりました。\n\n🛠️ @DeepSeekHarness、Tencent CodeBuddy、WorkBuddy などに最適化。新モデルを最大限に活用するには、DeepSeek Harness v0.2.1-rc.1 以降にアップグレードしてください。\n\n1/4"
+  },
+  {
    "id": "2110243595504820641",
    "url": "https://x.com/elonmusk/status/2110243595504820641",
    "user": "elonmusk",
@@ -225,6 +267,38 @@
    "media": [],
    "lang": "en",
    "text_ja": "@Grok @Imagine で作成 https://t.co/GIb43YWtxb"
+  },
+  {
+   "id": "2111192259073094035",
+   "url": "https://x.com/OpenAI/status/2111192259073094035",
+   "user": "OpenAI",
+   "created_utc": "2026-10-16T20:27:13Z",
+   "created_jst": "2026-10-17T05:27:13+09:00",
+   "ts": 1792182433,
+   "metrics": {
+    "impression_count": 1638003,
+    "like_count": 10211,
+    "retweet_count": 536,
+    "reply_count": 663,
+    "quote_count": 326,
+    "bookmark_count": 1088
+   },
+   "text": "GPT-6 Astra Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools.\n\nAnd now, multiple agents can tackle different parts of a task in parallel. You can follow each agent’s progress and open completed tasks to review their work.\n\nNow available to Pro users in the Chat tab.",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "GPT-6",
+    "agent",
+    "agents"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "en",
+   "text_ja": "ChatGPT の GPT-6 Astra Pro がアップグレードされ、応答が速くなり、プラグインやツールの使い方が向上しました。\n\nさらに、複数のエージェントがタスクの異なる部分に並行して取り組めるようになりました。各エージェントの進捗を確認でき、完了したタスクを開いて作業内容をレビューできます。\n\nChat タブで Pro ユーザー向けに提供中です。"
   },
   {
    "id": "2110797830361436604",
@@ -265,6 +339,42 @@
    ],
    "lang": "en",
    "text_ja": "新しい声。より良いアクセント。そして「checking...」の減少。\n\nGPT-Live-1.1がChatGPT・Codex・dotsのVoiceにこれらの更新をもたらし、フランス語・ドイツ語・ヒンディー語・メキシコスペイン語・韓国語・日本語の新しい声を追加します。\n\n本日より全ユーザーへ順次提供。APIは近日対応。 https://t.co/L6K8ZUC1xm"
+  },
+  {
+   "id": "2111177834127601902",
+   "url": "https://x.com/claudeai/status/2111177834127601902",
+   "user": "claudeai",
+   "created_utc": "2026-10-16T19:29:54Z",
+   "created_jst": "2026-10-17T04:29:54+09:00",
+   "ts": 1792178994,
+   "metrics": {
+    "impression_count": 1257851,
+    "like_count": 25305,
+    "retweet_count": 1646,
+    "reply_count": 455,
+    "quote_count": 202,
+    "bookmark_count": 11656
+   },
+   "text": "Six projects from the last few weeks that caught our attention:\n\nA wildfire analysis prototype that maps the fire’s spread over time and tracks hot spots, made with Opus 5.5. https://t.co/yagXxk13V1",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2108237504487047172/img/UXDO8JrrYpZT17PA.jpg",
+     "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108237504487047172/img/UXDO8JrrYpZT17PA.jpg",
+     "width": 3456,
+     "height": 1990,
+     "video_url": "https://video.twimg.com/amplify_video/2108237504487047172/vid/avc1/3456x1990/I9C5fnlHLSd31oxb.mp4",
+     "view_count": 622299
+    }
+   ],
+   "lang": "en",
+   "text_ja": "ここ数週間で目に留まった6つのプロジェクト:\n\nOpus 5.5 で作られた、山火事の延焼の推移を地図化しホットスポットを追跡する山火事分析プロトタイプ。 https://t.co/yagXxk13V1"
   },
   {
    "id": "2110151780478927344",
@@ -710,6 +820,33 @@
    "lang": "ja"
   },
   {
+   "id": "2111199767762186312",
+   "url": "https://x.com/nhk_news/status/2111199767762186312",
+   "user": "nhk_news",
+   "created_utc": "2026-10-16T20:57:03Z",
+   "created_jst": "2026-10-17T05:57:03+09:00",
+   "ts": 1792184223,
+   "metrics": {
+    "impression_count": 823943,
+    "like_count": 2898,
+    "retweet_count": 528,
+    "reply_count": 100,
+    "quote_count": 435,
+    "bookmark_count": 288
+   },
+   "text": "大学病院の医師 半数以上が「将来 大学病院以外で勤務したい」\nhttps://t.co/JTGY72ycuE #nhk_news",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院",
+    "医師"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110642941840511336",
    "url": "https://x.com/heisdayo13/status/2110642941840511336",
    "user": "heisdayo13",
@@ -826,6 +963,34 @@
    "media": [],
    "lang": "en",
    "text_ja": "シンガポールにオフィスを開設しました。アジア太平洋地域で5拠点目です。また、AIの安全性と責任ある導入について、シンガポール政府と覚書（MOU）を結びました。\n\n新オフィスについて詳しくはこちら：https://t.co/125mBgHLkM"
+  },
+  {
+   "id": "2111152183240511640",
+   "url": "https://x.com/AnthropicAI/status/2111152183240511640",
+   "user": "AnthropicAI",
+   "created_utc": "2026-10-16T17:47:58Z",
+   "created_jst": "2026-10-17T02:47:58+09:00",
+   "ts": 1792172878,
+   "metrics": {
+    "impression_count": 640314,
+    "like_count": 4672,
+    "retweet_count": 507,
+    "reply_count": 372,
+    "quote_count": 278,
+    "bookmark_count": 1206
+   },
+   "text": "New from our STEM Fellows Program: Designing more efficient quantum circuits with Claude.\n\nGiven plain-language instructions, Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more.\n\nMore efficient circuits reduce the resources needed by quantum algorithms, which could bring quantum computing applications in chemistry and materials science within reach sooner.\n\nRead more: https://t.co/QCvoJLDmBo",
+   "categories": [
+    "新モデル・発表",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "Claude"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "en",
+   "text_ja": "STEM フェロープログラムから新たな成果: Claude によるより効率的な量子回路の設計。\n\n平易な言葉での指示を与えると、Claude Mythos 5 は既発表の最良の量子回路を上回る回路を設計し、場合によっては1桁以上改善しました。\n\nより効率的な回路は量子アルゴリズムに必要なリソースを減らし、化学や材料科学における量子コンピューティングの応用をより早く実現できる可能性があります。\n\n詳しくはこちら: https://t.co/QCvoJLDmBo"
   },
   {
    "id": "2110425806833119609",
@@ -1123,6 +1288,41 @@
      "height": 325
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2111239590170505362",
+   "url": "https://x.com/rin_142356/status/2111239590170505362",
+   "user": "rin_142356",
+   "created_utc": "2026-10-16T23:35:17Z",
+   "created_jst": "2026-10-17T08:35:17+09:00",
+   "ts": 1792193717,
+   "metrics": {
+    "impression_count": 423002,
+    "like_count": 3327,
+    "retweet_count": 292,
+    "reply_count": 164,
+    "quote_count": 120,
+    "bookmark_count": 110
+   },
+   "text": "もし明日、全国の看護師がいっせいに休んだとします\n\n•  手術も、救急も、ICUも止まります\n•  透析も、抗がん剤治療も、出産もできません\n•  介護施設も、訪問看護も、機能停止します\n•  患者の命が、1日で危機に晒されます\n\n看護師は、社会の命綱。\n\nなのに、給料や待遇は悪いままで、夜勤しやければ年収400万前後。\n看護師なんて『点滴打ってるだけ』『医者の補助をしてるだけ』『看護師は高給取り』と言った人達へ。\n\n1日でいいから全国看護師全員休んでみようか？\nどうなると思う？",
+   "categories": [
+    "訪問看護",
+    "医療ニュース",
+    "介護・福祉"
+   ],
+   "matched_terms": [
+    "訪問看護",
+    "看護師",
+    "看護",
+    "救急",
+    "手術",
+    "患者",
+    "介護",
+    "介護施設"
+   ],
+   "is_watched": false,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -1454,6 +1654,36 @@
    "text_ja": "Gemini 4 ArgonがCursorで使えるようになりました！\n\nデフォルトの推論レベルでCursorBench 52.8%、Opus 5.5と同等です。\n\n価格は入力100万トークンあたり2ドル、出力10ドル。 https://t.co/1wOk4NvgFJ"
   },
   {
+   "id": "2111326741671354695",
+   "url": "https://x.com/u4_1201/status/2111326741671354695",
+   "user": "u4_1201",
+   "created_utc": "2026-10-17T05:21:36Z",
+   "created_jst": "2026-10-17T14:21:36+09:00",
+   "ts": 1792214496,
+   "metrics": {
+    "impression_count": 232090,
+    "like_count": 3219,
+    "retweet_count": 549,
+    "reply_count": 12,
+    "quote_count": 70,
+    "bookmark_count": 371
+   },
+   "text": "炎上するから触れてこなかったけど、三次救急病院(地域の中核病院)で週1回当直を20年近くやってきた内科医から考える線維筋痛症についての話です。\n\n事の発端となったポストは夜間救急外来でのもので、基本的に医師の発言は「救急外来でみる線維筋痛症」について話しており、「一般の昼間外来で」みる線維筋痛症については述べていないことがほとんどでした。最近は一般論的なポストも増えていますが、ERでみることを大前提として話します。\n\n夜間救急外来、特に救急車がどんどん来る大きな病院のERの役割は、極論、「来た患者が明日死んでいないようにする」ことです。\nそれ以外は考えません。\n\n例えば、自家用車を運転中に追突されてハンドルで胸を強打した患者が搬送されてきたとします。\nまずバイタル(血圧など)を測定し一通り診察、痛がっているようなら即CTへ。そこで肺挫傷(肺が傷つき出血とかして呼吸ができなくなる危険がある)や肝損傷など、内臓の出血があれば大慌てで対応可能な医師に連絡して即治療にかかります。\nですが、夜間外来でやるのはそこまでです。\n胸骨にヒビが入っていても命には関わりませんから、バンドで固定して痛み止め内服薬を出して明日整形外科かかってねといい帰宅してもらいます。「痛いから帰れない」と言われても、頑張って帰ってねとしか言えません。薄情に聞こえますが、救急外来の役割は明日まで放置しておくと死かもしれない患者と、死なない患者を見極める事です。例えCTで明らかにステージ4の予後1ヶ月弱想定な転移性肝臓癌が見つかっても、今夜死ぬわけではないので「問題なし」として帰宅です。もちろん明日絶っっっ対に消化器内科かかってねとお伝えしますが、救急外来としては「交通外傷で搬送。バイタル・神経診察ともに異常なく画像検査上も問題なし。帰宅」で終わります。これは当直している先生が消化器の医師でも同じです。明日以降の自分の仕事を減らすため、時間に余裕があるなら精密検査をちょっと追加する場合もありますが、やっても患者の予後は変わりません。\n\nこれが救急外来の考え方です。\n\nこれを踏まえた上で、救急外来でみる線維筋痛症の話です。\n線維筋痛症は痛いです。辛いです。それは重々分かっています。\nですが、死ぬ病気ではありません。死にたくなるほど痛く辛いかもしれませんが、今夜死ぬ病気ではありません。\nですから線維筋痛症と診断されていて痛みが我慢できない方に対しては、FR当直医は「特に問題なし。明日かかりつけ医受診を」で見る前から終わっているのです。救急外来には弱い痛み止めしか置いてませんから、いつも使っている痛み止めが効かない人に使える薬もありません。\nつまり、できることがないのです。\n\nでは、夜間に痛みが耐えられなくなったらどうするか。\nその解決策は、あらかじめ昼間にかかりつけの先生と話し合っておくことです。\n痛みが我慢できない時に内服する薬を出してもらっておいて下さい。\n場合によっては救急外来宛の情報提供書が作成され、「夜間どうしても我慢できない時はERで⚪︎⚪︎を注射して下さい」みたいな依頼書を書いてくれる場合もあるかもしれません。それがあればERでもその通りの注射をしてくれるかもしれません。ただ、救急外来では嫌がられるかもしれませんし、断られる事もあるでしょう。命に関わる患者が運ばれてきている中でベッドを１つ使い点滴する余裕がない場合も多々あるからです。\n加えて、ERでその注射をしても、それ以上は行いません。救急当直医は指示があるから代理でオーダーしているだけなので、それ以上のことは翌日主治医の先生と話し合ってください。\nこれが救急外来の医師の仕事であり、かかりつけ医である主治医の仕事です。増悪した時にどういう対応をとればいいのかを伝える事は、私も含めて日中の内科外来をしていて、診断し、治療する医師の責務です。\n\nそしてこれは痛風や尿路結石も同じです。「いつもの通風がまた悪化しました」と言ってER来られると、「ロキソニンないの？なら一錠出しとくからそれ飲んで寝て明日近くのクリニック行ってね！じゃっ！」の流れをどれだけ早く行うかのRTAが始まります。\n\n「じゃあ夜に痛みが我慢できなくなったらどうするんだよ！」と言われても、救急外来ではロキソニンかカロナールの処方、ボルタレン坐薬かカロナールの点滴版の投与くらいしかできません。だから痛みを止める事はできません。来てもらっても何もしてあげられないのです。あなたの痛みに寄り添う事は、マンパワー的にも薬の物理的問題からも、できないのです。\n\n痛いのは辛い。なんとかして欲しいその気持ちはよくよく分かります。\nですが救急外来とはどういうものなのか、ご理解いただけますと幸いです。\nよろしくお願いいたします。",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院",
+    "医師",
+    "救急",
+    "外来",
+    "患者"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110243870558855655",
    "url": "https://x.com/wni_jp/status/2110243870558855655",
    "user": "wni_jp",
@@ -1707,6 +1937,38 @@
    "text_ja": "数学研究——そしてより広く科学——でAIをどう活かすかを見極めるには、時間・労力・資源が必要です。科学の進歩をけん引し、分野の未来を定義する数学者の皆さまを支援したいと考えています。\n\nAIがもたらす大きな変化に数学コミュニティが対応できるよう、資金・計算資源・Claudeアクセス合わせて500万ドルを拠出します。@SimonsFdn と提携し、コミュニティ主導でワークショップ・会議・専門家による講義などを支援します。\n\nhttps://t.co/GzFchwMukC"
   },
   {
+   "id": "2111185504746213705",
+   "url": "https://x.com/OpenAI/status/2111185504746213705",
+   "user": "OpenAI",
+   "created_utc": "2026-10-16T20:00:22Z",
+   "created_jst": "2026-10-17T05:00:22+09:00",
+   "ts": 1792180822,
+   "metrics": {
+    "impression_count": 171218,
+    "like_count": 2263,
+    "retweet_count": 86,
+    "reply_count": 215,
+    "quote_count": 70,
+    "bookmark_count": 196
+   },
+   "text": "GPT-6 Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools.\n\nAnd now, multiple agents can tackle different parts of a task in parallel. You can follow each agent’s progress and open completed tasks to review their work.\n\nNow available to Pro users in the Chat tab.",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "GPT-6",
+    "agent",
+    "agents"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "en",
+   "text_ja": "ChatGPT の GPT-6 Pro がアップグレードされ、応答が速くなり、プラグインやツールの使い方が向上しました。\n\nさらに、複数のエージェントがタスクの異なる部分に並行して取り組めるようになりました。各エージェントの進捗を確認でき、完了したタスクを開いて作業内容をレビューできます。\n\nChat タブで Pro ユーザー向けに提供中です。"
+  },
+  {
    "id": "2110150347671191732",
    "url": "https://x.com/polymarketjapan/status/2110150347671191732",
    "user": "polymarketjapan",
@@ -1834,6 +2096,64 @@
    "is_watched": false,
    "media": [],
    "lang": "ja"
+  },
+  {
+   "id": "2111147479248855484",
+   "url": "https://x.com/GeminiApp/status/2111147479248855484",
+   "user": "GeminiApp",
+   "created_utc": "2026-10-16T17:29:16Z",
+   "created_jst": "2026-10-17T02:29:16+09:00",
+   "ts": 1792171756,
+   "metrics": {
+    "impression_count": 156330,
+    "like_count": 2663,
+    "retweet_count": 222,
+    "reply_count": 137,
+    "quote_count": 32,
+    "bookmark_count": 996
+   },
+   "text": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you can explore at your own pace.",
+   "categories": [
+    "新モデル・発表",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "Gemini"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "en",
+   "text_ja": "Gemini 4 Argon なら、Canvas を使って難解な PDF を、自分のペースで探索できるインタラクティブでアニメーション付きのウェブアプリに変換できます。"
+  },
+  {
+   "id": "2111127991401247033",
+   "url": "https://x.com/GoogleDeepMind/status/2111127991401247033",
+   "user": "GoogleDeepMind",
+   "created_utc": "2026-10-16T16:11:50Z",
+   "created_jst": "2026-10-17T01:11:50+09:00",
+   "ts": 1792167110,
+   "metrics": {
+    "impression_count": 143219,
+    "like_count": 2205,
+    "retweet_count": 173,
+    "reply_count": 274,
+    "quote_count": 144,
+    "bookmark_count": 373
+   },
+   "text": "Four Gemini 4 Argon agents beat Minecraft from scratch in 27 hours.\n\nOperating in a sandbox using only code and text, they wrote 2,783 programs, divided up jobs over chat, shared notes, and debugged errors together - all with no human help ↓\nhttps://t.co/uyIhDOQXGT",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "Gemini",
+    "agents"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "en",
+   "text_ja": "4体の Gemini 4 Argon エージェントが、ゼロから27時間でマインクラフトをクリアしました。\n\nコードとテキストだけを使ってサンドボックス内で動作し、2,783 個のプログラムを書き、チャットで役割を分担し、メモを共有し、一緒にエラーをデバッグしました。人間の助けは一切なし ↓\nhttps://t.co/uyIhDOQXGT"
   },
   {
    "id": "2110173429924299215",
@@ -2068,6 +2388,44 @@
    "text_ja": "Cursorのコードホスティング基盤Originが、20以上の連携に対応しました。\n\nリポジトリをCI、デプロイ、コードレビュー、セキュリティ、監視、プロジェクト管理のツールにつなげられます。 https://t.co/Xq8LpS6Fa7"
   },
   {
+   "id": "2111424490240675921",
+   "url": "https://x.com/ImAI_Eruel/status/2111424490240675921",
+   "user": "ImAI_Eruel",
+   "created_utc": "2026-10-17T11:50:01Z",
+   "created_jst": "2026-10-17T20:50:01+09:00",
+   "ts": 1792237801,
+   "metrics": {
+    "impression_count": 119423,
+    "like_count": 1327,
+    "retweet_count": 306,
+    "reply_count": 30,
+    "quote_count": 100,
+    "bookmark_count": 361
+   },
+   "text": "先ほど公開されたDeepSeek-V4.1-Flash-1017のベンチマークスコアが完全におかしいことになっている（アクティブパラメータが8B、16Bで、GPT-6とOpus5、Fableにパフォーマンス、コストともに圧勝）\n元々アメリカのフロンティアAIラボが荒れていたタイミングだったので、DeepSeekショック再びの可能性 https://t.co/in92gjDLYk",
+   "categories": [
+    "新モデル・発表",
+    "研究・論文",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "GPT-6",
+    "DeepSeek",
+    "ベンチマーク",
+    "AI"
+   ],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU1IZQHacAAVXG3.jpg",
+     "width": 2937,
+     "height": 2531
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2110232768370360819",
    "url": "https://x.com/HimazinProducer/status/2110232768370360819",
    "user": "HimazinProducer",
@@ -2226,6 +2584,45 @@
    "lang": "ja"
   },
   {
+   "id": "2111193957527146711",
+   "url": "https://x.com/cursor_ai/status/2111193957527146711",
+   "user": "cursor_ai",
+   "created_utc": "2026-10-16T20:33:58Z",
+   "created_jst": "2026-10-17T05:33:58+09:00",
+   "ts": 1792182838,
+   "metrics": {
+    "impression_count": 101253,
+    "like_count": 2072,
+    "retweet_count": 108,
+    "reply_count": 171,
+    "quote_count": 60,
+    "bookmark_count": 453
+   },
+   "text": "Cloud agents can now build interactive canvases.\n\nAsk for a dashboard or report while the agent works, then share the finished canvas with your team as a link. https://t.co/cLGgGLKrBT",
+   "categories": [
+    "ツール・活用",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "agent",
+    "agents"
+   ],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2111193927281975296/img/jmpZoSMCuffYV9Ol.jpg",
+     "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2111193927281975296/img/jmpZoSMCuffYV9Ol.jpg",
+     "width": 1920,
+     "height": 1080,
+     "video_url": "https://video.twimg.com/amplify_video/2111193927281975296/vid/avc1/1920x1080/ZQ1PeZxNX3bsbBbR.mp4?tag=16",
+     "view_count": 42363
+    }
+   ],
+   "lang": "en",
+   "text_ja": "クラウドエージェントがインタラクティブなキャンバスを作れるようになりました。\n\nエージェントの作業中にダッシュボードやレポートを依頼し、完成したキャンバスをリンクでチームに共有できます。 https://t.co/cLGgGLKrBT"
+  },
+  {
    "id": "2110034754800439640",
    "url": "https://x.com/shields_pikes/status/2110034754800439640",
    "user": "shields_pikes",
@@ -2329,6 +2726,34 @@
    ],
    "matched_terms": [],
    "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2111397487206646058",
+   "url": "https://x.com/nurse_kansai/status/2111397487206646058",
+   "user": "nurse_kansai",
+   "created_utc": "2026-10-17T10:02:43Z",
+   "created_jst": "2026-10-17T19:02:43+09:00",
+   "ts": 1792231363,
+   "metrics": {
+    "impression_count": 90296,
+    "like_count": 34,
+    "retweet_count": 2,
+    "reply_count": 9,
+    "quote_count": 3,
+    "bookmark_count": 4
+   },
+   "text": "看護師のモヤっとする話。\n\nカルテを書くたびに\n\n「(看護師の名前)と相談の上」\n「(看護師の名前)と確認した上で」\n\nと事あるごとに特定の看護師の名前をカルテに記入する医師。\n「看護師に責任を押し付けているみたいだからやめてください」と師長が注意すると、↓",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "医師",
+    "看護師",
+    "看護"
+   ],
+   "is_watched": false,
    "media": [],
    "lang": "ja"
   },
@@ -2870,6 +3295,32 @@
    "text_ja": "Gemini 4 Argonはコーディングも大きく向上しました。そこで、チャットとコーディングを切り替えやすくするため、Google Antigravityのエージェント型コーディング画面をmacOS版Geminiアプリで直接使えるようにしました。 https://t.co/waB3VmjmDI"
   },
   {
+   "id": "2111119118518960262",
+   "url": "https://x.com/nicosokufx/status/2111119118518960262",
+   "user": "nicosokufx",
+   "created_utc": "2026-10-16T15:36:35Z",
+   "created_jst": "2026-10-17T00:36:35+09:00",
+   "ts": 1792164995,
+   "metrics": {
+    "impression_count": 63764,
+    "like_count": 436,
+    "retweet_count": 29,
+    "reply_count": 3,
+    "quote_count": 8,
+    "bookmark_count": 69
+   },
+   "text": "木野内さんのお告げ \n「半導体株は底打ち接近か？」\n\n（詳しくは、10/16 スズキのチャンネルをみてね！）\n\n✅SOX指数が7日続落\n👉過去の傾向では5日以上の続落は底値圏になりやすい\n\n✅社債の上乗せ金利から分析\n👉信用不安はAI市場全体ではなく、一部の財務が弱い企業の問題との見方 https://t.co/KQY1HpgTi5",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110011537356378388",
    "url": "https://x.com/usutaku_channel/status/2110011537356378388",
    "user": "usutaku_channel",
@@ -2988,6 +3439,38 @@
    ],
    "lang": "en",
    "text_ja": "@Instacart、@OpenTable、@Adobe、@Shopify など40以上のアプリをGeminiにつなげられます。食料品の注文やレストランの予約から、ビジネスのデザインや構築まで手伝います。 https://t.co/G4VEpYMksI"
+  },
+  {
+   "id": "2111251588102955182",
+   "url": "https://x.com/AI_Levela/status/2111251588102955182",
+   "user": "AI_Levela",
+   "created_utc": "2026-10-17T00:22:58Z",
+   "created_jst": "2026-10-17T09:22:58+09:00",
+   "ts": 1792196578,
+   "metrics": {
+    "impression_count": 56056,
+    "like_count": 571,
+    "retweet_count": 39,
+    "reply_count": 12,
+    "quote_count": 11,
+    "bookmark_count": 775
+   },
+   "text": "【速報】Claude CodeとCodexが直接会話できる時代に。\n\nAIエージェント同士をつなぐ無料のオープンソース「Reason Network」が登場。\n\nこれ、複数のAIを使って開発している人にはかなり便利。\n\nこれまではClaude https://t.co/y0BqbalxDI",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "Claude",
+    "Claude Code",
+    "Codex",
+    "AIエージェント",
+    "エージェント",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
   },
   {
    "id": "2110315182878863770",
@@ -3206,6 +3689,35 @@
    "lang": "ja"
   },
   {
+   "id": "2111012888903397748",
+   "url": "https://x.com/Joint_kaigo/status/2111012888903397748",
+   "user": "Joint_kaigo",
+   "created_utc": "2026-10-16T08:34:28Z",
+   "created_jst": "2026-10-16T17:34:28+09:00",
+   "ts": 1792139668,
+   "metrics": {
+    "impression_count": 53507,
+    "like_count": 268,
+    "retweet_count": 64,
+    "reply_count": 31,
+    "quote_count": 52,
+    "bookmark_count": 20
+   },
+   "text": "「介護崩壊は始まっている」　全国老施協、基本報酬の大胆な底上げを国に要請｜来年度改定\nhttps://t.co/9Es1GRRMl6\n#介護 #ケアマネ #介護施設",
+   "categories": [
+    "介護・福祉",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "介護",
+    "介護施設",
+    "ケアマネ"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110190101707858039",
    "url": "https://x.com/GoogleDeepMind/status/2110190101707858039",
    "user": "GoogleDeepMind",
@@ -3331,6 +3843,33 @@
    "text_ja": "@lightseekorg のTokenSpeedの見事な結果、おめでとうございます！🚀 Qwen3.8-Flash-NextがNvidiaのGPU上でユーザーあたり毎秒685出力トークンに達したのはうれしい。コミュニティがQwenの推論性能をさらに引き出すのが楽しみです！ https://t.co/yudaS4VgBW"
   },
   {
+   "id": "2111077064413421959",
+   "url": "https://x.com/takahiroanno/status/2111077064413421959",
+   "user": "takahiroanno",
+   "created_utc": "2026-10-16T12:49:28Z",
+   "created_jst": "2026-10-16T21:49:28+09:00",
+   "ts": 1792154968,
+   "metrics": {
+    "impression_count": 50639,
+    "like_count": 559,
+    "retweet_count": 68,
+    "reply_count": 4,
+    "quote_count": 10,
+    "bookmark_count": 50
+   },
+   "text": "フィールズ賞受賞者のセドリック・ヴィラニさんに話を聞きました！\n\nナビエ–ストークス方程式が解かれた直後に出たオープンレター「A Severe Misalignment of AI in Mathematics」（https://t.co/LFfmi7PKIi）の署名者の一人です。 https://t.co/aYNXmzllq4",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110329596386349140",
    "url": "https://x.com/BWm7LDaUhfW1TPC/status/2110329596386349140",
    "user": "BWm7LDaUhfW1TPC",
@@ -3430,6 +3969,33 @@
    "lang": "ja"
   },
   {
+   "id": "2111357818150240672",
+   "url": "https://x.com/dennotai/status/2111357818150240672",
+   "user": "dennotai",
+   "created_utc": "2026-10-17T07:25:05Z",
+   "created_jst": "2026-10-17T16:25:05+09:00",
+   "ts": 1792221905,
+   "metrics": {
+    "impression_count": 44659,
+    "like_count": 357,
+    "retweet_count": 53,
+    "reply_count": 15,
+    "quote_count": 11,
+    "bookmark_count": 302
+   },
+   "text": "AI登場以前に様々な経験を積んだ人がAIを使い倒すと無双になる。では、AI\n前提の仕事現場で新人達は、どうやって経験を積んだらいいのだろうか？？\n\nという疑問はこの一年ぐらいずっと感じている老婆心なのだが、それについて安宅和人さんが深い論考をしている。(下記URL参照)",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110041259637383391",
    "url": "https://x.com/ctgptlb/status/2110041259637383391",
    "user": "ctgptlb",
@@ -3456,6 +4022,34 @@
     "Antigravity",
     "研究",
     "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2111248136438263902",
+   "url": "https://x.com/GipI0dWNY7T73UE/status/2111248136438263902",
+   "user": "GipI0dWNY7T73UE",
+   "created_utc": "2026-10-17T00:09:15Z",
+   "created_jst": "2026-10-17T09:09:15+09:00",
+   "ts": 1792195755,
+   "metrics": {
+    "impression_count": 42469,
+    "like_count": 204,
+    "retweet_count": 22,
+    "reply_count": 6,
+    "quote_count": 6,
+    "bookmark_count": 51
+   },
+   "text": "なぜワイがアンチトヨタになったのか…この話しをすると「そんな理不尽な、トヨタ悪くないのに」と言われるがトヨタ嫌いはこうして生まれる実例(創作じゃなく実話)として読んで欲しい。\n\n遠い遠い昔、ワイが大学生だったころ、ワイは部活動で会計学研究部の管理会計長だった(他に財務会計もあり)、論検大会が間近に迫り生成AIもない時代だからガチ徹夜して論文を書き上げた『JITがもたらす日本経済の悲劇』としてJITが普及することは企業の利益より社会的コストの方が高くなり日本経済の発展にむしろマイナス(我ながら未来を予想した名作)であるとする自信作で、生成AIもない時代だから(2回目)資料探したり買うだけでも時間と金を使ったが…\n\n指導教授「こんなもん論検に出せんわ」「これモロにトヨタ批判してるやろ、もう少しどうにかならんのか会社名が分からんように」　\n\nワイ「天下のトヨタがたかが大学生の会計学の論検大会ごとき気にしませんよ」　\n\n指導教授「いや、会場に来るで」\n\nワイ「え？○○大学でしょ論検大会の会場、一般公開してないし」\n\n指導教授「いや、来賓で来てるで」\n\nワイ「そんなん聞いてませんやん、来賓にまで気を使ってたら管理会計の論文なんて書けませんよ」\n\n指導教授「まあ気持ちは分かるけど、これはアカン」\n\nワイ「ほな僕が乗ってるソアラの写真でも貼り付けときますか論文にヨイショしますから」\n\n指導教授「解決にならんて…内容がこれやもん」\n\nで、結局財務会計部門だけが発表し、ワイの論文は闇に埋もれた…トヨタは悪くない、来賓も仕方なく付き合いで来てただけだろうけど、完全にワイの個人的恨み🥲",
+   "categories": [
+    "研究・論文"
+   ],
+   "matched_terms": [
+    "論文",
+    "AI",
+    "生成AI"
    ],
    "is_watched": false,
    "media": [],
@@ -3517,6 +4111,34 @@
     "医療",
     "介護",
     "福祉"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2111143526818066898",
+   "url": "https://x.com/k8787808624578/status/2111143526818066898",
+   "user": "k8787808624578",
+   "created_utc": "2026-10-16T17:13:34Z",
+   "created_jst": "2026-10-17T02:13:34+09:00",
+   "ts": 1792170814,
+   "metrics": {
+    "impression_count": 40633,
+    "like_count": 819,
+    "retweet_count": 211,
+    "reply_count": 4,
+    "quote_count": 9,
+    "bookmark_count": 74
+   },
+   "text": "AI ≠ 生成AIという常識は前提として、\n\n・使いこなすにはそれなりのスペックのPCが必要なのに生成AIのせいで高騰して買えない\n・データセンターのせいで電気代水道代が上昇、騒音被害もあり\n・生成AI会社は赤字続き\n\nという点は生成AIに未来が無い事の証左でもある。\n先細りは避けられないだろうね。 https://t.co/y6wb0AbBmX",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "データセンター",
+    "AI",
+    "生成AI"
    ],
    "is_watched": false,
    "media": [],
@@ -3674,6 +4296,35 @@
    "matched_terms": [
     "AI",
     "生成AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2111134700853154242",
+   "url": "https://x.com/Tanuk_Ichi/status/2111134700853154242",
+   "user": "Tanuk_Ichi",
+   "created_utc": "2026-10-16T16:38:30Z",
+   "created_jst": "2026-10-17T01:38:30+09:00",
+   "ts": 1792168710,
+   "metrics": {
+    "impression_count": 37738,
+    "like_count": 665,
+    "retweet_count": 244,
+    "reply_count": 5,
+    "quote_count": 1,
+    "bookmark_count": 29
+   },
+   "text": "自分は日本のHPVワクチン薬害訴訟という茶番を、10回以上実際に傍聴してきたけど.... \n日本のマスコミは決して報じないが、全ての日本人が以下の事実を知るべきなんよ\n\n鹿児島大学病院脳神経内科(HPVワクチンに関する論文数ゼロ)は医局ぐるみで、誤診・捏造・カルテ改竄によって\n\"HPVワクチン後遺症\" https://t.co/R9o3mbQ8iD",
+   "categories": [
+    "研究・論文",
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "論文",
+    "病院",
+    "ワクチン"
    ],
    "is_watched": false,
    "media": [],
@@ -3886,6 +4537,71 @@
    "lang": "ja"
   },
   {
+   "id": "2111225856551194880",
+   "url": "https://x.com/nicosokufx/status/2111225856551194880",
+   "user": "nicosokufx",
+   "created_utc": "2026-10-16T22:40:43Z",
+   "created_jst": "2026-10-17T07:40:43+09:00",
+   "ts": 1792190443,
+   "metrics": {
+    "impression_count": 34972,
+    "like_count": 195,
+    "retweet_count": 38,
+    "reply_count": 2,
+    "quote_count": 4,
+    "bookmark_count": 13
+   },
+   "text": "AI・半導体「マネーの流れ」📊全面安☔️\n\n✅ナスダック -2.15％☔️\nSOX指数 -3.83％☔️\nDRAM（メモリー） -5.84％☔️\nFANG+ -3.16％☔️\nMAGS（マグ7） -1.97％☔️\nIGV（ソフトウェア） -4.80％☔️\n👉これまで底堅かったFANG+、MAGS（マグ7）の大型テックも下落\n👉️指数の下落も大きくなった https://t.co/o2qDW28YrL",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUyTCN1boAAhutA.png",
+     "width": 1011,
+     "height": 828
+    }
+   ],
+   "lang": "ja"
+  },
+  {
+   "id": "2111274221712347637",
+   "url": "https://x.com/hayakawagomi/status/2111274221712347637",
+   "user": "hayakawagomi",
+   "created_utc": "2026-10-17T01:52:54Z",
+   "created_jst": "2026-10-17T10:52:54+09:00",
+   "ts": 1792201974,
+   "metrics": {
+    "impression_count": 33805,
+    "like_count": 632,
+    "retweet_count": 31,
+    "reply_count": 0,
+    "quote_count": 7,
+    "bookmark_count": 176
+   },
+   "text": "うますぎる、この1ヶ月ずっとこのカフェラテのこと考えてた。 https://t.co/fCGMlOuIFA https://t.co/vneZOtRenY",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUzAtjwaUAASVFC.jpg",
+     "width": 4096,
+     "height": 3076
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2109656777839292558",
    "url": "https://x.com/takahiroanno/status/2109656777839292558",
    "user": "takahiroanno",
@@ -3906,6 +4622,62 @@
     "監視アカウント"
    ],
    "matched_terms": [],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2111327357588152494",
+   "url": "https://x.com/studio_yebisu/status/2111327357588152494",
+   "user": "studio_yebisu",
+   "created_utc": "2026-10-17T05:24:03Z",
+   "created_jst": "2026-10-17T14:24:03+09:00",
+   "ts": 1792214643,
+   "metrics": {
+    "impression_count": 33100,
+    "like_count": 390,
+    "retweet_count": 14,
+    "reply_count": 9,
+    "quote_count": 4,
+    "bookmark_count": 185
+   },
+   "text": "ほんまに今、ガチで使うべきAIモデルを3つ選べって言われたら。\nOpus5.5\n 　- 一番賢いし、EQ高い\nGpt-Sol-6.1\n 　- レビュー上手い、コスパ良し\nDeepSeek V4.1-flash\n　- 神コスパ、並列セッションでも減らない\nこの3つやな。DeepSeekはガチで近日中に新モデルが出そうで、アツ🔥",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "DeepSeek",
+    "新モデル",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2111187251451339173",
+   "url": "https://x.com/taishiyade/status/2111187251451339173",
+   "user": "taishiyade",
+   "created_utc": "2026-10-16T20:07:19Z",
+   "created_jst": "2026-10-17T05:07:19+09:00",
+   "ts": 1792181239,
+   "metrics": {
+    "impression_count": 32643,
+    "like_count": 147,
+    "retweet_count": 4,
+    "reply_count": 4,
+    "quote_count": 5,
+    "bookmark_count": 97
+   },
+   "text": "Grok botからChatGPTとか操作させるの最強じゃね？\n逆にdotsは超無能\n簡単な操作が遅すぎる\nイーロンマスクがスマホは画面と音声入力以外不要になるとか言ってたの、既に起こりはじめてる\nエンタメのdoom scroll以外、生産性求めるような仕事は音声パパッとで終わってしまう",
+   "categories": [
+    "新モデル・発表",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "Grok"
+   ],
    "is_watched": true,
    "media": [],
    "lang": "ja"
@@ -4199,6 +4971,34 @@
    "lang": "ja"
   },
   {
+   "id": "2111274163159888044",
+   "url": "https://x.com/m0370/status/2111274163159888044",
+   "user": "m0370",
+   "created_utc": "2026-10-17T01:52:40Z",
+   "created_jst": "2026-10-17T10:52:40+09:00",
+   "ts": 1792201960,
+   "metrics": {
+    "impression_count": 27010,
+    "like_count": 162,
+    "retweet_count": 23,
+    "reply_count": 11,
+    "quote_count": 21,
+    "bookmark_count": 11
+   },
+   "text": "急性期拠点病院に高齢者が殺到するのを防いで集約と分業を進めたいという理念はわかるけど、まず高齢者救急搬送専門に手上げする病院とそこで働きたい医者がいるのだろうか😷\n\n高齢者搬送受け医療機関新設を　救急医療基本法で学会案まとめる(共同通信)\n#Yahooニュース\nhttps://t.co/VRQtB5cCfR",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院",
+    "医療",
+    "救急"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2108203083461218365",
    "url": "https://x.com/everyquest3/status/2108203083461218365",
    "user": "everyquest3",
@@ -4256,6 +5056,32 @@
     "動画生成",
     "AI",
     "生成AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2111102534043525512",
+   "url": "https://x.com/gxewptjm/status/2111102534043525512",
+   "user": "gxewptjm",
+   "created_utc": "2026-10-16T14:30:41Z",
+   "created_jst": "2026-10-16T23:30:41+09:00",
+   "ts": 1792161041,
+   "metrics": {
+    "impression_count": 26699,
+    "like_count": 19,
+    "retweet_count": 1,
+    "reply_count": 4,
+    "quote_count": 2,
+    "bookmark_count": 3
+   },
+   "text": "電子カルテの記録って他者の記録って書き換えできないよね？？？",
+   "categories": [
+    "医療・介護×AI"
+   ],
+   "matched_terms": [
+    "電子カルテ"
    ],
    "is_watched": false,
    "media": [],
@@ -4869,35 +5695,6 @@
    "lang": "ja"
   },
   {
-   "id": "2111012888903397748",
-   "url": "https://x.com/Joint_kaigo/status/2111012888903397748",
-   "user": "Joint_kaigo",
-   "created_utc": "2026-10-16T08:34:28Z",
-   "created_jst": "2026-10-16T17:34:28+09:00",
-   "ts": 1792139668,
-   "metrics": {
-    "impression_count": 19921,
-    "like_count": 155,
-    "retweet_count": 33,
-    "reply_count": 13,
-    "quote_count": 33,
-    "bookmark_count": 13
-   },
-   "text": "「介護崩壊は始まっている」　全国老施協、基本報酬の大胆な底上げを国に要請｜来年度改定\nhttps://t.co/9Es1GRRMl6\n#介護 #ケアマネ #介護施設",
-   "categories": [
-    "介護・福祉",
-    "監視アカウント"
-   ],
-   "matched_terms": [
-    "介護",
-    "介護施設",
-    "ケアマネ"
-   ],
-   "is_watched": true,
-   "media": [],
-   "lang": "ja"
-  },
-  {
    "id": "2110080053409116660",
    "url": "https://x.com/GoogleDeepMind/status/2110080053409116660",
    "user": "GoogleDeepMind",
@@ -5119,6 +5916,37 @@
    "lang": "ja"
   },
   {
+   "id": "2111419857468342742",
+   "url": "https://x.com/ImAI_Eruel/status/2111419857468342742",
+   "user": "ImAI_Eruel",
+   "created_utc": "2026-10-17T11:31:36Z",
+   "created_jst": "2026-10-17T20:31:36+09:00",
+   "ts": 1792236696,
+   "metrics": {
+    "impression_count": 18992,
+    "like_count": 130,
+    "retweet_count": 11,
+    "reply_count": 3,
+    "quote_count": 2,
+    "bookmark_count": 38
+   },
+   "text": "株がAIバブル崩壊みたいな騒ぎになっていますが、ちょうど今週収録の動画で、研究者視点での現在のAI・半導体周りの懸念点を話しました\n\"Amazon凋落へ？／NVIDIA失速の兆候／AIバブル崩壊リスク／AI企業は稼げない？／Anthropicの大型IPO／日本のAI・半導体株への影響は？\"\nhttps://t.co/fhx7jcqXEA",
+   "categories": [
+    "新モデル・発表",
+    "ビジネス・業界",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "Anthropic",
+    "Nvidia",
+    "IPO",
+    "AI"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2109781164252594316",
    "url": "https://x.com/dennotai/status/2109781164252594316",
    "user": "dennotai",
@@ -5215,6 +6043,34 @@
      "height": 683
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2111122422367990107",
+   "url": "https://x.com/randtkikaku/status/2111122422367990107",
+   "user": "randtkikaku",
+   "created_utc": "2026-10-16T15:49:42Z",
+   "created_jst": "2026-10-17T00:49:42+09:00",
+   "ts": 1792165782,
+   "metrics": {
+    "impression_count": 18604,
+    "like_count": 168,
+    "retweet_count": 9,
+    "reply_count": 7,
+    "quote_count": 1,
+    "bookmark_count": 22
+   },
+   "text": "勤務医から開業医に立場が変わって歯科について思うことだけど。\n\n都内の歯科は結構な割合で自費の患者が多いし病院では金がないとかほざいていた老人も100万 200万 普通に出すんだよね。\n\n病院の場合は高額医療があるから 自己負担ってたかが知れてるんだけど。 https://t.co/0H6Z6tJCFU",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院",
+    "医療",
+    "患者"
+   ],
+   "is_watched": false,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -5325,6 +6181,31 @@
    "lang": "ja"
   },
   {
+   "id": "2111308599175893479",
+   "url": "https://x.com/hayakawagomi/status/2111308599175893479",
+   "user": "hayakawagomi",
+   "created_utc": "2026-10-17T04:09:30Z",
+   "created_jst": "2026-10-17T13:09:30+09:00",
+   "ts": 1792210170,
+   "metrics": {
+    "impression_count": 17804,
+    "like_count": 83,
+    "retweet_count": 3,
+    "reply_count": 0,
+    "quote_count": 1,
+    "bookmark_count": 23
+   },
+   "text": "うおー、スプシ連携やAPIキーあたりかなりまずそう。 https://t.co/PlsJzNkz8U",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110958997453091244",
    "url": "https://x.com/MHLWitter/status/2110958997453091244",
    "user": "MHLWitter",
@@ -5356,6 +6237,40 @@
      "height": 1080
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2111123625244012720",
+   "url": "https://x.com/365nichiwo80nen/status/2111123625244012720",
+   "user": "365nichiwo80nen",
+   "created_utc": "2026-10-16T15:54:29Z",
+   "created_jst": "2026-10-17T00:54:29+09:00",
+   "ts": 1792166069,
+   "metrics": {
+    "impression_count": 17435,
+    "like_count": 81,
+    "retweet_count": 1,
+    "reply_count": 1,
+    "quote_count": 0,
+    "bookmark_count": 1
+   },
+   "text": "普段世話になってる訪問看護師にも愚痴ってた。訪看は「どこ病院のなに看護師ですか」「ひどいですねえ」「患者の気持ちに寄り添わないと」とか言ってくれてたけど、内診私と同じ感想のはずやろ。\nこんなクソボケな入院理由あるかいな。\nまじモンスターペイシェント",
+   "categories": [
+    "訪問看護",
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "訪問看護",
+    "訪看",
+    "訪問看護師",
+    "病院",
+    "看護師",
+    "看護",
+    "入院",
+    "患者"
+   ],
+   "is_watched": false,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -5611,6 +6526,35 @@
    "lang": "ja"
   },
   {
+   "id": "2111110866368356785",
+   "url": "https://x.com/municipal_smr/status/2111110866368356785",
+   "user": "municipal_smr",
+   "created_utc": "2026-10-16T15:03:47Z",
+   "created_jst": "2026-10-17T00:03:47+09:00",
+   "ts": 1792163027,
+   "metrics": {
+    "impression_count": 15561,
+    "like_count": 1,
+    "retweet_count": 1,
+    "reply_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 1
+   },
+   "text": "【結腸（虫垂を含む。）の悪性腫瘍｜手術なし】\n病院別・入院症例数ランキング｜令和6年度DPC\n項目ID：060035-99\n数値公表の全1,540施設中、上位561位までの573施設を掲載（文字数上限のため）。\n表記：順位 病院名(都道府県) 入院症例数(件)\n\n1 医療法人社団以心会中野胃腸病院(愛知県)848\n2",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院",
+    "医療",
+    "手術",
+    "入院"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110075624253751796",
    "url": "https://x.com/cursor_ai/status/2110075624253751796",
    "user": "cursor_ai",
@@ -5687,6 +6631,31 @@
    "lang": "ja"
   },
   {
+   "id": "2111210972371439957",
+   "url": "https://x.com/eiichiro49/status/2111210972371439957",
+   "user": "eiichiro49",
+   "created_utc": "2026-10-16T21:41:34Z",
+   "created_jst": "2026-10-17T06:41:34+09:00",
+   "ts": 1792186894,
+   "metrics": {
+    "impression_count": 15143,
+    "like_count": 64,
+    "retweet_count": 4,
+    "reply_count": 1,
+    "quote_count": 1,
+    "bookmark_count": 95
+   },
+   "text": "その後、うちの税理士法人でやったことは下記のような感じです。\n\n① WordPressの完全廃止(放置していたメールアドレスも廃止)\n\n② Cloudflare、ドメイン管理ソフトを2段階認証に\n\n③ お問い合わせフォームはGoogleフォームにし、これも2段階認証 https://t.co/ElytFCjFk1",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110264034515886545",
    "url": "https://x.com/vfAoRWWpkt86517/status/2110264034515886545",
    "user": "vfAoRWWpkt86517",
@@ -5744,6 +6713,37 @@
      "height": 3076
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2111204839640440953",
+   "url": "https://x.com/tsukushi_houkan/status/2111204839640440953",
+   "user": "tsukushi_houkan",
+   "created_utc": "2026-10-16T21:17:12Z",
+   "created_jst": "2026-10-17T06:17:12+09:00",
+   "ts": 1792185432,
+   "metrics": {
+    "impression_count": 14853,
+    "like_count": 118,
+    "retweet_count": 6,
+    "reply_count": 4,
+    "quote_count": 2,
+    "bookmark_count": 5
+   },
+   "text": "話題になってますね😳\n\n「訪問看護については、夜間待機を月4回以内とし、待機明けの休みを保障、2人での訪問を基本とすることを求める」\n\n2人での訪問を基本とするとはいったい、、、\nこれはオンコールできるスタッフが1事業所に15人とかいないと成り立たないですかね💧\n待機明けの休みは確保できるとだいぶ負担が違ってきますけれども、休みの日の朝まで待機なので休みの前日に待機を入れて欲しくない、待機の次の日は勤務にしてほしいと思っている訪問看護師が割といるのも訪看業界の特殊なところなのかもしれない。",
+   "categories": [
+    "訪問看護",
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "訪問看護",
+    "訪看",
+    "訪問看護師",
+    "看護師",
+    "看護"
+   ],
+   "is_watched": false,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -5858,6 +6858,34 @@
    "lang": "ja"
   },
   {
+   "id": "2111255862513979714",
+   "url": "https://x.com/hayakawagomi/status/2111255862513979714",
+   "user": "hayakawagomi",
+   "created_utc": "2026-10-17T00:39:57Z",
+   "created_jst": "2026-10-17T09:39:57+09:00",
+   "ts": 1792197597,
+   "metrics": {
+    "impression_count": 13962,
+    "like_count": 132,
+    "retweet_count": 5,
+    "reply_count": 3,
+    "quote_count": 6,
+    "bookmark_count": 15
+   },
+   "text": "AIコーディングで業務用アプリ作るの負債になるからネガだったけど、ここまで簡単になると捨てるのも簡単なので裏側は既存のもの使えよとは思うけどインターフェースを個別にバイブコーディングするのはありな気がしてきている。",
+   "categories": [
+    "ツール・活用",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "バイブコーディング",
+    "AI"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110198014900047916",
    "url": "https://x.com/grind_hash/status/2110198014900047916",
    "user": "grind_hash",
@@ -5900,6 +6928,34 @@
    "lang": "ja"
   },
   {
+   "id": "2111105119224045766",
+   "url": "https://x.com/denpane_ko/status/2111105119224045766",
+   "user": "denpane_ko",
+   "created_utc": "2026-10-16T14:40:57Z",
+   "created_jst": "2026-10-16T23:40:57+09:00",
+   "ts": 1792161657,
+   "metrics": {
+    "impression_count": 13608,
+    "like_count": 78,
+    "retweet_count": 18,
+    "reply_count": 3,
+    "quote_count": 11,
+    "bookmark_count": 26
+   },
+   "text": "富士通が2027年4月にクラウドネイティブな電子カルテを提供開始（予定）。熱い\n\nでもそこはかとなくタイミングが悪く見える\n本当はタイミング良いんやけども\n\n厚生労働省の電子カルテ標準仕様および認証制度に対応したクラウドネイティブ型電子カルテシステムの提供について https://t.co/XQ2Y6cSXsl",
+   "categories": [
+    "医療・介護×AI",
+    "制度・報酬改定"
+   ],
+   "matched_terms": [
+    "厚生労働省",
+    "電子カルテ"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110863669986984151",
    "url": "https://x.com/hayakawagomi/status/2110863669986984151",
    "user": "hayakawagomi",
@@ -5920,33 +6976,6 @@
     "監視アカウント"
    ],
    "matched_terms": [],
-   "is_watched": true,
-   "media": [],
-   "lang": "ja"
-  },
-  {
-   "id": "2111077064413421959",
-   "url": "https://x.com/takahiroanno/status/2111077064413421959",
-   "user": "takahiroanno",
-   "created_utc": "2026-10-16T12:49:28Z",
-   "created_jst": "2026-10-16T21:49:28+09:00",
-   "ts": 1792154968,
-   "metrics": {
-    "impression_count": 13545,
-    "like_count": 141,
-    "retweet_count": 18,
-    "reply_count": 0,
-    "quote_count": 1,
-    "bookmark_count": 4
-   },
-   "text": "フィールズ賞受賞者のセドリック・ヴィラニさんに話を聞きました！\n\nナビエ–ストークス方程式が解かれた直後に出たオープンレター「A Severe Misalignment of AI in Mathematics」（https://t.co/LFfmi7PKIi）の署名者の一人です。 https://t.co/aYNXmzllq4",
-   "categories": [
-    "AIその他",
-    "監視アカウント"
-   ],
-   "matched_terms": [
-    "AI"
-   ],
    "is_watched": true,
    "media": [],
    "lang": "ja"
@@ -6172,6 +7201,33 @@
    "lang": "ja"
   },
   {
+   "id": "2111204961124241522",
+   "url": "https://x.com/SoundJourneyDS/status/2111204961124241522",
+   "user": "SoundJourneyDS",
+   "created_utc": "2026-10-16T21:17:41Z",
+   "created_jst": "2026-10-17T06:17:41+09:00",
+   "ts": 1792185461,
+   "metrics": {
+    "impression_count": 12586,
+    "like_count": 97,
+    "retweet_count": 15,
+    "reply_count": 1,
+    "quote_count": 3,
+    "bookmark_count": 9
+   },
+   "text": "「一歩の著作権侵害しますよ」みたいな幼稚な意趣返しを生成AIを使ってない先生本人にするのは賛同はしませんが生成AI問題の本質ではありますよね。\n生成AIユーザー自身の作品はAIコピーされたくないけど、生成AIユーザーは基幹データ含め無許諾データさえ無断利用し、それを\n「人間も学習しているから https://t.co/R46mFmyhDu",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110075636094242941",
    "url": "https://x.com/cursor_ai/status/2110075636094242941",
    "user": "cursor_ai",
@@ -6308,6 +7364,74 @@
     "AI"
    ],
    "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2111350004208271617",
+   "url": "https://x.com/k2Bo5rRSaaJaDk5/status/2111350004208271617",
+   "user": "k2Bo5rRSaaJaDk5",
+   "created_utc": "2026-10-17T06:54:02Z",
+   "created_jst": "2026-10-17T15:54:02+09:00",
+   "ts": 1792220042,
+   "metrics": {
+    "impression_count": 11790,
+    "like_count": 208,
+    "retweet_count": 119,
+    "reply_count": 12,
+    "quote_count": 5,
+    "bookmark_count": 45
+   },
+   "text": "ChatGPTよりGrokの方がポリコレ汚染がされていないようです。\n同じ内容をGrokとChatGPTに描かせた結果、ChatGPTでは「イスラム文化」を「一部のイスラム文化」の文言に変更しないと作画を受け付けず、文章も勝手に改変してしまっています。 https://t.co/PJFzsdrKxh",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "ChatGPT",
+    "Grok"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU0FIynaMAAI66y.png",
+     "width": 839,
+     "height": 644
+    }
+   ],
+   "lang": "ja"
+  },
+  {
+   "id": "2111268046694473907",
+   "url": "https://x.com/chichiyasusuki/status/2111268046694473907",
+   "user": "chichiyasusuki",
+   "created_utc": "2026-10-17T01:28:22Z",
+   "created_jst": "2026-10-17T10:28:22+09:00",
+   "ts": 1792200502,
+   "metrics": {
+    "impression_count": 11699,
+    "like_count": 36,
+    "retweet_count": 1,
+    "reply_count": 1,
+    "quote_count": 6,
+    "bookmark_count": 2
+   },
+   "text": "「お風呂でも携帯を手放せない」\n訪問看護の夜間待機についての記事を読んで、なんだかなぁと思った。\n\nしんどいんです！\nそれはそうです。\n\nでも、これは訪問看護だけの話じゃない。\n\n介護士、医師、警察、消防士。\n待機や緊急対応を担う仕事はたくさんある。\n\nじゃあ、待機明けは休みにしましょう。\nそのための人員は確保できる？資金は？税金だとしたらその分の財源は？\n現場は回る？\n\nそういう問題が出てくる。\n\nでも、そこで「できない」で終わらせていいのか？\nオンコールやめます。でいいの？\nじゃあ、そのサービスに助けられてた人の安心と安全は誰が守る？\n\nできない理由はある。\n今ある人員や資源でできることにも限界はある。\n\nだからこそ、その限界を知ったうえで、どうすればできるのか、現実的な仕組みを考えることが必要なんじゃないかと思う。\n\nちなみに、くるみにはオンコール専任スタッフがいます。\n\n訪問スタッフはオンコールを持たず、緊急対応は役員が担う体制です。\n\nなぜか。\n\n私自身、雇われの訪問看護師として働いていたときに、これはしんどいなと思ったから。\n\n会社をつくるなら、まずここを改善したいと思った。\n\n最初は役員でオンコールも緊急対応も担っていました。\nでも、2年少し経った頃、「このままでは本当に倒れる！」となって、今の体制に変えました。\n\nもちろん、この仕組みがすべての事業所でできるわけではないと思う。\n\nでも、「夜間不安どうしたらいい？」ニーズに応える仕事だからこそ、支える側が続けられる仕組みが必要。\n\n「できない理由」を探すだけじゃなく、「できるためにどうするか」を考える。\n\nそれが、経営する側に求められることのひとつだと私は思っています。",
+   "categories": [
+    "訪問看護",
+    "医療ニュース",
+    "介護・福祉"
+   ],
+   "matched_terms": [
+    "訪問看護",
+    "訪問看護師",
+    "医師",
+    "看護師",
+    "看護",
+    "介護",
+    "介護士"
+   ],
+   "is_watched": false,
    "media": [],
    "lang": "ja"
   },
@@ -6725,6 +7849,62 @@
    "lang": "ja"
   },
   {
+   "id": "2111171337385627836",
+   "url": "https://x.com/divergent_codex/status/2111171337385627836",
+   "user": "divergent_codex",
+   "created_utc": "2026-10-16T19:04:05Z",
+   "created_jst": "2026-10-17T04:04:05+09:00",
+   "ts": 1792177445,
+   "metrics": {
+    "impression_count": 9487,
+    "like_count": 3,
+    "retweet_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 1
+   },
+   "text": "日本の介護の未来とこれからの二拠点戦略\nhttps://t.co/j2Nyku3xYO\n\n老後介護と段階的移住――2040～2050年の日本、終の住処、京都・長野・岡山\n対話記録（編集・整理版）\n作成日：2026年10月17日\n\n【編集方針】\n・本対話をQ&Aの順序に沿って収録。冒頭のテレビ番組の長い文字起こしは省略し、番組の要点を記載。\n・読みやすさのため誤字、口語の重複、表示上の乱れを整理した。回答は論点を保って再構成した編集版であり、逐語録ではない。\n・数値は対話時に提示された資料・推計値。将来の予測、説明用の仮想事例、確認された事実を区別する。\n・区切り線は「＝＝＝＝＝＝」。\n\n＝＝＝＝＝＝\n【Q1】デイサービスの倒産増加を扱う報道。要点をまとめよ。老人が増え、人口が減少する中で、解決策はサービスレベルと頻度の劣化しかないと思うが違うか？\n\n【A1】\n＜報道の要点＞\n2026年1～9月にデイサービスなどの倒産が47件と、同期として過去最多になったという報道。取材した施設は定員33人で、利用者が28人を下回ると赤字になる。介護報酬は公定価格で、人件費、燃料費、光熱費などの上昇に十分対応できない。事業者は手作りレクリエーション、コスト削減、美容サービスなどによって集客を図っている。専門家は規制緩和と収益を確保できる仕組みを主張した。\n\n＜マクロの結論＞\n介護需要が増大する一方、生産年齢人口と介護職員の供給能力が十分に増えなければ、従来と同じサービスを全国の全利用者に提供し続けることは困難になる。その場合、利用回数の制限、サービス時間の短縮、入所待機、送迎範囲の縮小、地域別供給格差などが現れる。\n\n厚生労働省の公表推計では、2022年度の介護職員は約215万人、2040年度の必要数は約272万人。約57万人の増員が必要と見込まれていた。2024年の介護職員数は約212.6万人とされ、増員は停滞している。\n\n対策には賃金上昇、人材獲得、事業者の集約、生産性向上、自費サービスの利用、給付の重点化がある。ただし、料金を上げたり利用者の獲得競争をしたりしても、介護労働力の総量が自動的に増えるわけではない。全国規模の供給制約を個々の施設の集客成功で説明するのは誤りである。\n\n制度は残っていても、現実には利用先が見つからない「制度上の権利と実際の利用可能性の乖離」が進むおそれがある。\n\n参考：厚生労働省「第9期介護保険事業計画に基づく介護職員の必要数」\nhttps://t.co/LrYSMdd1Ws\n\n＝＝＝＝＝＝\n【Q2】「公的介護保険の枠内で、すべての高齢者に現在と同水準のサービスを提供し続けることが難しくなり、限られた労働力と財源を誰に優先配分するかという問題に移行する」――わたしはそれを言ったつもりだが、うまく伝わらなかっただろうか？　分母・分子で考えたら、それ以外の結論には到達しないはずだ。\n\n【A2】\nユーザーの指摘は、個々の事業所がサービス品質を下げるという話ではなく、介護の社会全体での供給と需要の比率に関する構造的な命題だった。前の回答はそれを必要以上に狭く読んだ。\n\n介護サービス充足率 ＝ 介護サービスの総供給能力 ÷ 介護サービスの総需要量\n\n分子は介護従事者数、労働時間、生産性などによって決まり、分母は要介護者数、介護度、一人当たり必要サービス量などによって決まる。充足率が1を下回れば、サービスの配分を変更せざるを得ない。利用回数減、時間短縮、対象者の限定、待機増加、地域格差は、供給不足が現れる様式の違いである。\n\n厳密には、人材の増員、生産性上昇、健康状態の改善によって分母・分子が変化する余地はある。したがって人口減少だけで数学的必然と断言はできないが、その改善が需給ギャップを埋められないという前提なら結論は明白である。\n\n本来の問いは「現場をどう応援するか」ではなく、「総供給能力が総需要に足りない社会で、誰の介護をどこまで誰の負担で保証するか」である。\n\n＝＝＝＝＝＝\n【Q3】では具体的に2040～2050年ごろの日本の介護事情はどうなっていると思うか？　具体的かつリアルな介護現場の日常を描写して欲しい。\n\n【A3】\n結論：介護保険制度の全面的な消滅ではなく、制度が存続する一方、サービスの時間帯、回数、場所、質、受け入れ人数が制約される社会が基本シナリオになる。以下は予測を生活描写に落とした仮想事例である。\n\n＜2045年、岡山市中心部の老夫婦＞\n88歳で要介護3の夫と85歳の妻。以前は朝8時にヘルパーが来たが、朝夕は重度者への対応が優先され、午前10時半以降しか枠がない。妻が早朝の排泄介助、着替え、食事を担当する。デイサービスは週3回希望しても受入枠の関係で週2回となる。ショートステイも希望日に空きがなく、娘も毎週の援助はできない。制度上利用できるサービスを事業者の人手不足で利用できず、無償の家族介護へ負担が移る。\n\n＜人口減少地域の独居高齢者＞\n訪問介護事業所が撤退し、隣町の事業所も移動距離を理由に受け入れを断る。週3回の希望に対して週1回しか確保できない。入浴、買い物、通院、冬季の移動が難しくなり、市街地への転居を勧められる。本人の「住み慣れた家で最期まで」という希望と、現実の供給体制が対立する。\n\n＜特別養護老人ホーム＞\n見守りセンサー、電子記録、自動化設備は普及する。しかしベッドからの移乗、排泄介助、急変時対応には人間が必要。定員60人でも職員不足で45人しか受け入れられないという事態があり得る。建物に空床があっても稼働できず、職員は入浴時間や会話時間を切り詰めながら介助の優先順位を付ける。\n\n＜資産に余裕がある高齢者＞\n自費訪問サービス、生活支援、民間介護施設などを利用できる。ただし資金力があっても人材を確保できるとは限らない。民間部門が介護人材を集めれば、公的サービスとの獲得競争が強まる。\n\n＜2050年の人口構造＞\n先の対話では、社人研2023年推計に基づく資料として、85歳以上人口は2025年約707万人、2040年約1,006万人、2050年約961万人、15～64歳人口はそれぞれ約7,310万人、6,213万人、5,540万人と説明した。85歳以上人口が2040年代にピークアウトしても、支える側の人口も減り続けるため供給問題が自然解消するとは限らない。\n\n＜帰結＞\n外観上は病院や介護施設、介護保険制度があり続ける。しかし必要なときに援助を受けられるかどうかは、資産、家族の有無、都市中心部か郊外か、事業者が訪問可能かによって大きく変わる。年齢よりも「その地域に介護を提供できる人がいるか」が重要になる。\n\n参考：社人研市区町村別将来人口推計\nhttps://t.co/vjRYb3SUXx\n\n＝＝＝＝＝＝\n【Q4】全国的に需給ギャップが埋まらないなら、今年定年になった人が老後30年、信州の古民家を買って移り住んだらどうなるか。70代後半以降は運転できないとする。医療・介護へのアクセス、訪問介護による看取りは可能か。また、社人研の2023年推計は甘く、現実は厳しめの推計に張り付いていないか。\n\n【A4】\n65歳の移住者が95歳まで信州の山間部の古民家で過ごす計画は、特に運転をやめる75～80歳以降の実行可能性が弱い。本人の身体能力が低下する時期と地域の医療、交通、介護事業者の供給能力が低下する時期が重なる可能性がある。\n\n＜長野市の介護人材＞\n会話で紹介した長野市の高齢者福祉・介護保険計画の推計では、2022年を基準に、2040年の必要介護職員9,965人に対して供給見込み5,677人、2050年は必要数10,008人に対して供給見込み5,012人とされていた。2040年約57％、2050年約50％の充足率という現状延長の試算であり、将来の実績値ではない。都市中心部でさえ不足が生じ得るなら、訪問移動に時間を要する山間部にはさらに厳しい条件が加わる。\n\n＜77歳：運転をやめた後＞\nこれまで車で40分だった通院が、予約制交通、バス、タクシーの乗り継ぎとなり、半日仕事になる。運転手不足で公共交通が維持されなければ医療へのアクセスそのものが問題になる。\n\n＜82歳：古民家の管理＞\n除雪、屋根、雨樋、庭木、凍結防止、暖房などを自力で維持できない。訪問介護は草刈りや屋根修繕を引き受ける万能の生活サービスではない。作業を委託しようにも業者が不足する可能性がある。\n\n＜86歳：退院後の在宅介護＞\n転倒・骨折で入院した後、朝夕の排泄・移乗・食事介助が必要になる。病院が退院を認めても、訪問介護事業所が遠距離を理由に対応できない、夜間の定期訪問が確保できないといった事態が想定される。家族同居がなければ施設転居が必要になる場合がある。\n\n＜自宅での看取り＞\n訪問介護のみで看取りが完結するわけではない。訪問診療医、訪問看護師、介護職、ケアマネジャー、訪問の間を支える家族・支援者の連携が必要である。24時間連絡できる診療所があっても24時間誰かが自宅に常駐するわけではない。医師の引退や地域の人手不足で、数十年後の在宅看取り体制を現在から保証することはできない。\n\n＜人口推計の評価＞\n出生数・出生率の最近の実績は、社人研の出生中位推計より弱く、低位推計に近い傾向がみられる。ただし2040年の85歳以上はすでに出生している世代であり、最近の出生数の下振れをそのまま高齢者数の推計誤差に転換するのは不適切。むしろ地方の医療・介護は、全国人口推計よりも地域内の人口密度、若年人口、サービス事業所の配置、スタッフの年齢構成の変化が決定的である。\n\n＜判断＞\n信州の古民家は健康な期間を楽しむ住宅としては考え得る。しかし「訪問介護が来て自宅で看取ってくれる」ことを30年計画の前提とすべきではない。老後の重要な資源は資産だけでなく、必要なときに撤退できる選択肢である。\n\n参考：長野市の高齢者福祉・介護保険事業計画\nhttps://t.co/mg5TAcJwEy\n\n＝＝＝＝＝＝\n【Q5】老後は60～75歳、76～85歳、それ以降の3段階ぐらいで考えておくべきではないか。移動可能性を残し、その都度住み替える力も必要だ。介護は1人で10人を同時介護できず、せいぜい1対1。人口減少が続けば介護問題は解消しない。AI・ロボットで省力化するなら、地下の自転車駐輪場のようなカプセル式高齢者ストッカーになるのでは。それは人として扱っているのか。\n\n【A5】\n＜3段階の老後＞\n60～75歳：趣味、旅行、自然、文化などを優先し、自由に行動する。\n76～85歳：運転しなくても生活できる徒歩圏、医療への通院可能性を優先する。\n86歳以降：在宅介護と施設介護の選択肢、訪問診療・看護への接続を重視する。\n年齢は目安で、移行は運動機能、認知機能、世帯構成、交通状況による。元気な時期に次の居住地へ移れる能力を残すことが重要である。\n\n＜介護の物理的な限界＞\n移乗、排泄、入浴、食事介助などは、必要な瞬間には特定の利用者に人間がつく必要がある。ただし施設の常勤換算配置は、全利用者への常時1対1介護を意味しない。10人に1日2時間の直接介助を提供するだけでも計20人時/日が必要となり、記録、移動、休憩、夜間待機は別途発生する。AIが情報処理を効率化しても、身体介助の必要時間が自動的に消えるわけではない。\n\n＜技術ができること＞\nAIは記録、配置計画、見守り、リスク検知、連絡などを効率化できる。移乗補助、排泄支援、入浴支援の機械も介護者の負担を軽減できる。しかし、異常発生後の身体対応や本人ごとの意思決定まで大規模に完全代替できる根拠はまだない。\n\n＜「高齢者ストッカー」の倫理＞\n排泄、体位変換、食事、監視を自動化したカプセルに高齢者を収容する思考実験では、生命維持と効率化は進んでも、散歩、自由な移動、対話、選択、季節を感じる暮らしが失われ得る。技術が人間の選択肢を増やすために使われるなら尊厳を支え得るが、職員数を減らすために本人を管理対象へ変えるなら別問題である。\n\n極端なカプセル型設備より現実味があるのは、AIが各利用者の介助優先順位と時間配分を管理し、会話や個別の希望に応える時間が圧縮される未来である。介護の目標が「安全な身体管理」に切り縮められる危険がある。\n\n＜核心＞\n問題は介護需要を技術で処理できるかだけでなく、どのような生活を公的に保障するかである。住まいの設計でも、最も避けるべきは選択を誤ること以上に、誤りに気付いた時点で移転不能になることである。\n\n＝＝＝＝＝＝\n【Q6】つまり、住む場所を考えろということ？\n\n【A6】\nはい。2040～2050年には、同じ資産・同じ介護度であっても居住地域によって実際に得られるサービスが異なり得る。住居選びは不動産価格や風景の選択ではなく、医療・介護の人的サービスへのアクセスを確保する戦略になる。\n\n60～75歳：自分が望む環境を楽しむ。\n76～85歳：車なしで暮らせる、通院しやすい地区を選ぶ。\n86歳以降：介護・看護職の供給、在宅支援と施設入居の双方を確保する。\n\n介護施設が近いだけでは不十分で、介護職員が確保されて実際に受け入れられるかが重要。同一都市でも中心部と郊外の差が拡大する可能性がある。65歳の自分に最良の古民家が85歳の自分に最悪の住居となることもある。撤退可能性を失わないことが基本原則になる。\n\n＝＝＝＝＝＝\n【Q7】70代半ばから後半までに決めた移住地で在宅介護と施設介護への接続まで考えるということか。今から20年後を予測し、移住地候補ベスト30を示してほしい。降雪地は外出が少なければ問題ないとも限らない。猛暑なら早朝行動で回避できそうだ。散歩コースを確保できる場所を重視する。\n\n【A7】\n2045～2050年の医療・介護の供給力、車なし生活、災害、散歩、気候を比較した暫定ランキングを提示した。ただし、後のQ8で南海トラフなどの広域災害リスクを過小評価していたと認め、上位順位の見直しが必要になった。以下は当初提示した30地区の記録であって、最終的な推奨順位ではない。\n\n評価項目（当初）：医療25％、介護25％、徒歩生活20％、災害15％、散歩10％、気候5％。豪雪、車依存は追加の減点対象。\n\n1　名古屋市昭和区・鶴舞駅周辺：鶴舞公園、名大病院。南海トラフリスク再評価対象。\n2　大阪市天王寺区・上本町～小橋町：大阪赤十字病院、真田山公園。南海トラフリスク再評価対象。\n3　岡山市北区・表町～中山下：川崎医科大学総合医療センター、西川緑道公園など。\n4　京都市上京区・河原町丸太町～寺町通：京都府立医科大学病院、京都御苑、鴨川。\n5　立川市・駅北口～緑町：災害医療センター、昭和記念公園。\n6　仙台市青葉区・北四番丁～木町通：東北大学病院、勾当台公園。\n7　さいたま市浦和区・北浦和駅西口～常盤：埼玉メディカルセンター、北浦和公園。\n8　福岡市中央区・大濠公園～唐人町：大濠公園、九州医療センター。\n9　東京都文京区・本郷～湯島：大学病院集積、上野公園方面。\n10　岡山市北区・北長瀬駅南口：岡山市立市民病院、北長瀬未来ふれあい総合公園。\n11　世田谷区・駒沢公園～駒沢大学駅：駒沢公園、東京医療センター。\n12　広島市中区・基町～紙屋町：中央公園、広島市民病院。\n13　倉敷市・美和～阿知：倉敷中央病院、美観地区。\n14　横浜市都筑区・センター南～茅ケ崎中央：都筑中央公園、横浜市北部病院。\n15　高松市・番町～栗林公園北口：高松赤十字病院、栗林公園。\n16　浜松市中央区・遠州病院駅～浜松城公園：遠州病院、浜松城公園。\n17　松山市・一番町～平和通：松山赤十字病院、城山公園。\n18　静岡市葵区・呉服町～駿府城公園：静岡赤十字病院、駿府城公園。\n19　神戸市中央区・大倉山～楠町：神戸大学病院、大倉山公園。\n20　草津市・草津駅東口～大路：草津川跡地公園、京都方面の医療アクセス。\n21　吹田市・南千里駅～千里南公園：千里南公園、済生会千里病院。\n22　大津市・膳所駅～なぎさ公園：琵琶湖畔、大津市民病院。\n23　柏市・柏の葉キャンパス駅周辺：柏の葉公園、比較的新しい街区。\n24　名古屋市千種区・池下～千種公園方面：千種公園、東部医療センター。\n25　三鷹市・三鷹駅南口～下連雀：玉川上水、井の頭公園方面。\n26　国立市・国立駅南口～大学通り：並木道と広域の医療アクセス。\n27　府中市・府中駅～けやき並木：けやき並木、府中の森公園。\n28　高崎市・高崎駅西口～高崎城址：高崎総合医療センター、高崎城址公園。\n29　熊本市中央区・上通～熊本城周辺：熊本医療センター、熊本城周辺。\n30　長野市・権堂～善光寺下：城山公園、善光寺参道、長野電鉄。\n\n雪については「外へ出なければ問題ない」は成り立たない。雪と凍結は訪問介護員、訪問看護師、救急車、配食、修繕業者の到達可能性を下げる。一方、猛暑は高断熱住宅、空調、早朝散歩によって日常の露出を一定程度減らせるが、停電や熱帯夜は残る。\n\n最終居住地は病院が近いだけでなく、複数の訪問介護・訪問看護事業者、入所施設、平坦な散歩道、日用品の徒歩調達が揃う街区で選ぶ必要がある。\n\n参考：社人研・市区町村別推計\nhttps://t.co/vjRYb3SUXx\n国土交通省・ハザードマップポータル\nhttps://t.co/r47YjaWZrK\n\n＝＝＝＝＝＝\n【Q8】名古屋と大阪は南海トラフでNGなのでは？\n\n【A8】\n老後の「要介護期まで安心して生活を続けられる」という厳しい条件では、名古屋と大阪を最上位とした先のランキングは妥当でなかった。医療機関の集積と散歩環境を得点化する一方、南海トラフ巨大地震による都市全体の停電、断水、物流、医療、介護サービスの長期停止リスクを過小評価していた。\n\n名古屋市の最大クラスの被害想定では市内に震度7となる地域があり、大阪市も南海トラフ地震の揺れと津波、さらに上町断層帯地震への備えが必要。鶴舞、上本町それぞれの地点での危険度は都市全域の危険度と同一ではないものの、要介護者には自宅マンション自体が無事であっても、エレベーター停止、断水、ヘルパーの不着、医療機関の機能低下が致命的になり得る。\n\n選考方法を見直し、①災害による長期の医療・介護アクセス喪失の危険を先に足切り、②2045～2050年の介護・医療供給、③徒歩生活と散歩環境、の順にする。京都、静岡、浜松、高松などにも南海トラフの影響、首都圏には首都直下地震の影響を同様に確認する必要がある。\n\n参考：地震調査研究推進本部・南海トラフ\nhttps://t.co/SQ6P1UWNeV\n\n＝＝＝＝＝＝\n【Q9】福岡・大濠には2年間住んでいた。同じ場所に何度も住むのは飽きる。岡山市北区の拠点は残すとして、もう一か所は京都か。鴨川の遊歩道を歩ける一方、川に近すぎない場所はないか。鴨川が氾濫して市街地が浸水したことはあるか。\n\n【A9】\n鴨川は過去に大きく氾濫している。特に1935年6月の京都大水害では、鴨川を含む河川氾濫により橋の流失、家屋浸水など大きな被害が生じた。京都府資料によると鴨川氾濫による床上・床下浸水は24,173棟とされる。その後の大規模河川改修で治水能力は向上したが、想定最大規模の洪水や内水氾濫の危険がなくなったわけではない。\n\n京都での候補は次の二地区。\n・御所東（寺町通～河原町通、丸太町通～荒神口通周辺）：鴨川と御苑が近く、京都府立医大病院にもアクセスしやすい。ただし鴨川側の洪水想定の確認が必要。\n・御所南（烏丸通～寺町通、丸太町通～二条通周辺）：御苑への散歩、地下鉄、日用品の利便性があり、鴨川から距離をとりやすい。しかし浸水の可能性は地点別評価が必要。\n\n京都御苑の一部は砂利道で、後期高齢者には歩きにくい場合もある。車椅子対応の苑路もあるので、将来の歩行能力を念頭に散歩コースを選ぶ。\n\n洪水以外の主要リスクとして花折断層帯地震がある。京都府の被害想定では京都市の一部で震度7が見込まれる。京都は南海トラフの沿岸津波を直接受けにくいという長所がある一方、大規模な内陸地震が起こり得る。岡山と京都はともに猛暑が厳しいため、夏の避暑を目的とした二拠点にはならない。\n\n参考：京都府・昭和10年の鴨川大洪水\nhttps://t.co/tVjMFPjNis\n京都府・鴨川高野川洪水浸水想定区域図\nhttps://t.co/AZEMut0NUS\n京都市防災情報マップ\nhttps://t.co/5vEr8p7wK7\n京都府・花折断層帯地震の被害想定\nhttps://t.co/w7ArAh56t9\n\n＝＝＝＝＝＝\n【Q10】上京区の西側は比較的安心そう。戸建てには住まないので1階駐車場が浸水する程度かもしれない。とりあえず数年間は長野駅から各地を観光し、次に京都へ移動、最後は岡山に集約しようか。浸水継続時間から見ると御所の西側は大丈夫そうだ。\n\n【A10】\n長野→京都→岡山という順序は、加齢とともに行動範囲を絞り、最後に医療・介護との接続を優先する段階的拠点集約モデルとなる。\n\n第1期・長野駅周辺：数年間、北信、東信、北陸などを観光し、広域移動を楽しむ。\n第2期・京都御所西側：御苑・鴨川・文化施設など都市生活を楽しみ、徒歩生活と公共交通へ比重を移す。\n第3期・岡山市北区：すでに生活環境を知る地域に一拠点化し、在宅介護・訪問看護と施設介護の選択肢を確保する。\n\n御所の西側では、浸水継続時間が短いことは有利な条件だが、「浸水深50cm以上の状態が継続する時間」を示す地図で表示が小さい・ないからといって、浅い浸水や内水氾濫がないとは限らない。集合住宅でも受変電設備、エレベーター、給水ポンプが地下・1階にあると、1階駐車場の浸水だけにとどまらず上層階の生活機能が停止し得る。\n\n京都の物件選びでは、河川・内水の浸水深と継続時間、建物の設備配置、耐震性、花折断層帯地震、周辺道路の通行可能性を確認すべきである。鴨川へ毎日近づくより、御所西側から御苑を主な散歩場所とし、時々鴨川まで歩く形が考えられる。\n\n最終的な岡山への移住は年齢だけでなく、運転、通院、歩行、認知・身体機能、介護需要で判断する。岡山を最終拠点とする場合も、2045～2050年の介護供給が保証されるわけではないため、2035年ごろから定期的に介護・医療の実態を再評価する。京都は終の住処と固定せず、賃貸など撤退しやすい住み方が適する。\n\n＜議論の到達点＞\n老後の居住地を「一生住み続ける理想の場所」として固定しない。60～75歳は楽しみと活動を優先、76～85歳は徒歩生活・医療・公共交通、86歳以降は在宅介護と施設介護への実際のアクセスを優先する。先に移住能力を失うことがないよう、段階的に拠点を移す。地震・水害・積雪・インフラ停止を一体として評価し、必要になれば計画そのものを変更できる選択肢を維持する。\n\n京都市防災情報マップ\nhttps://t.co/5vEr8p7wK7\n\n＝＝＝＝＝＝\n【全体を通じた重要な留保】\n1　2040～2050年の描写は、介護人材の増加・生産性改善などが不足を埋めきれない場合の仮説であり、確定した未来ではない。\n2　全国人口・介護職員の需給推計と、個別自治体・町丁目でのサービス実在・空き枠は別問題。\n3　地区の順位・安全性は地番単位の浸水・地震・建物設備・歩行環境で再評価する必要がある。\n4　この対話は居住戦略の検討であり、具体的な物件の安全性・将来の介護サービスを保証するものではない。\n\n（対話記録・編集版　終）",
+   "categories": [
+    "医療・介護×AI",
+    "ツール・活用",
+    "訪問看護",
+    "医療ニュース",
+    "介護・福祉",
+    "制度・報酬改定"
+   ],
+   "matched_terms": [
+    "自動化",
+    "AI",
+    "訪問看護",
+    "訪問看護師",
+    "訪問診療",
+    "看取り",
+    "病院",
+    "医師",
+    "看護師",
+    "看護",
+    "医療",
+    "救急",
+    "入院",
+    "診療",
+    "介護",
+    "介護職",
+    "介護現場",
+    "介護施設",
+    "ケアマネ",
+    "ヘルパー",
+    "デイサービス",
+    "老人ホーム",
+    "福祉",
+    "介護報酬",
+    "厚生労働省",
+    "介護保険"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110110910815871383",
    "url": "https://x.com/siosiojunjun/status/2110110910815871383",
    "user": "siosiojunjun",
@@ -6817,6 +7997,63 @@
      "height": 720
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2111275699869032638",
+   "url": "https://x.com/torichanbird/status/2111275699869032638",
+   "user": "torichanbird",
+   "created_utc": "2026-10-17T01:58:47Z",
+   "created_jst": "2026-10-17T10:58:47+09:00",
+   "ts": 1792202327,
+   "metrics": {
+    "impression_count": 7703,
+    "like_count": 22,
+    "retweet_count": 1,
+    "reply_count": 0,
+    "quote_count": 1,
+    "bookmark_count": 5
+   },
+   "text": "本当にこれ〜‼️訪問看護は決して楽では無い😢\n・オンコールは毎月4〜5回は絶対ある。人数少ないところだと10回とかある\n・汚部屋は10件に1件はある\n・シンプルに一人で利用者見るの怖い\n・チャリでも車移動でも移動はまじ体力勝負。\n・給料が高すぎるところは営業必須だし大量の事務作業も看護師がやる https://t.co/feuLEuD3Da",
+   "categories": [
+    "訪問看護",
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "訪問看護",
+    "看護師",
+    "看護"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2111256525968978219",
+   "url": "https://x.com/irouren/status/2111256525968978219",
+   "user": "irouren",
+   "created_utc": "2026-10-17T00:42:35Z",
+   "created_jst": "2026-10-17T09:42:35+09:00",
+   "ts": 1792197755,
+   "metrics": {
+    "impression_count": 7298,
+    "like_count": 128,
+    "retweet_count": 80,
+    "reply_count": 2,
+    "quote_count": 8,
+    "bookmark_count": 4
+   },
+   "text": "「家に帰っても、好きなことができるわけではない。すぐに駆けつけられる場所にいなければならず、当然お酒も飲めない。寝ている時でも、音が鳴ったらすぐに電話を取らなければいけない」\n\n訪問看護の夜間待機、明けても“そのまま日勤”が9割…過酷な労働\n#Yahooニュース\nhttps://t.co/1ByDQKne5Q",
+   "categories": [
+    "訪問看護",
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "訪問看護",
+    "看護"
+   ],
+   "is_watched": false,
+   "media": [],
    "lang": "ja"
   },
   {
