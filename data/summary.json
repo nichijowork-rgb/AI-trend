@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T23:28:56+09:00",
+ "generated_at": "2026-10-29T23:19:19+09:00",
  "min_impressions": 10000,
  "thresholds": {
   "ai": 100000,
@@ -8,14 +8,14 @@
   "medical": 10000,
   "watched": 100000
  },
- "total_posts": 1122,
- "total_accounts": 257,
- "below_threshold_posts": 35,
+ "total_posts": 1219,
+ "total_accounts": 263,
+ "below_threshold_posts": 37,
  "report_missing_ids": [],
  "unknown_user_posts": 0,
  "period": {
   "oldest_jst": "2026-10-08T17:13:17+09:00",
-  "newest_jst": "2026-10-28T22:30:01+09:00"
+  "newest_jst": "2026-10-29T22:20:30+09:00"
  },
  "categories": [
   "医療・介護×AI",
@@ -246,59 +246,59 @@
  ],
  "by_category": {
   "医療・介護×AI": {
-   "posts": 24,
-   "impressions": 7797889,
-   "likes": 34340
+   "posts": 25,
+   "impressions": 7810277,
+   "likes": 34374
   },
   "新モデル・発表": {
-   "posts": 180,
-   "impressions": 87305454,
-   "likes": 480405
+   "posts": 199,
+   "impressions": 96558886,
+   "likes": 541672
   },
   "ツール・活用": {
-   "posts": 200,
-   "impressions": 55484381,
-   "likes": 311986
+   "posts": 209,
+   "impressions": 55808558,
+   "likes": 313581
   },
   "研究・論文": {
-   "posts": 35,
-   "impressions": 32090626,
-   "likes": 176435
+   "posts": 36,
+   "impressions": 32225218,
+   "likes": 177887
   },
   "ビジネス・業界": {
-   "posts": 281,
-   "impressions": 39863972,
-   "likes": 123389
+   "posts": 315,
+   "impressions": 40953859,
+   "likes": 126091
   },
   "AIその他": {
-   "posts": 280,
-   "impressions": 37747544,
-   "likes": 246194
+   "posts": 291,
+   "impressions": 38769591,
+   "likes": 251440
   },
   "訪問看護": {
-   "posts": 29,
-   "impressions": 979280,
-   "likes": 5576
+   "posts": 32,
+   "impressions": 1006185,
+   "likes": 5700
   },
   "医療ニュース": {
-   "posts": 211,
-   "impressions": 36756493,
-   "likes": 129582
+   "posts": 235,
+   "impressions": 38257213,
+   "likes": 137545
   },
   "介護・福祉": {
-   "posts": 68,
-   "impressions": 4481108,
-   "likes": 21210
+   "posts": 72,
+   "impressions": 4665338,
+   "likes": 21981
   },
   "制度・報酬改定": {
-   "posts": 71,
-   "impressions": 12516308,
-   "likes": 20028
+   "posts": 77,
+   "impressions": 12889952,
+   "likes": 21009
   },
   "監視アカウント": {
-   "posts": 337,
-   "impressions": 95469156,
-   "likes": 558352
+   "posts": 352,
+   "impressions": 104168759,
+   "likes": 605522
   }
  },
  "by_account": [
@@ -319,9 +319,9 @@
   {
    "user": "YahooNewsTopics",
    "is_watched": false,
-   "posts": 31,
-   "impressions": 22366385,
-   "likes": 52481
+   "posts": 34,
+   "impressions": 22659043,
+   "likes": 53117
   },
   {
    "user": "OpenAI",
@@ -331,18 +331,18 @@
    "likes": 112846
   },
   {
-   "user": "nikkei",
-   "is_watched": false,
-   "posts": 177,
-   "impressions": 16713336,
-   "likes": 42215
-  },
-  {
    "user": "claudeai",
    "is_watched": true,
-   "posts": 6,
-   "impressions": 12422705,
-   "likes": 113718
+   "posts": 7,
+   "impressions": 18762817,
+   "likes": 142119
+  },
+  {
+   "user": "nikkei",
+   "is_watched": false,
+   "posts": 196,
+   "impressions": 17717021,
+   "likes": 44857
   },
   {
    "user": "deepseek_ai",
@@ -361,16 +361,16 @@
   {
    "user": "GoogleDeepMind",
    "is_watched": true,
-   "posts": 12,
-   "impressions": 6656521,
-   "likes": 47031
+   "posts": 13,
+   "impressions": 7923101,
+   "likes": 60383
   },
   {
    "user": "Sankei_news",
    "is_watched": false,
-   "posts": 49,
-   "impressions": 4118864,
-   "likes": 47175
+   "posts": 52,
+   "impressions": 4317884,
+   "likes": 48862
   },
   {
    "user": "antigravity",
@@ -387,6 +387,13 @@
    "likes": 26421
   },
   {
+   "user": "takahiroanno",
+   "is_watched": true,
+   "posts": 17,
+   "impressions": 3152349,
+   "likes": 25695
+  },
+  {
    "user": "abacusai",
    "is_watched": false,
    "posts": 1,
@@ -396,9 +403,9 @@
   {
    "user": "MHLWitter",
    "is_watched": true,
-   "posts": 56,
-   "impressions": 2884283,
-   "likes": 5151
+   "posts": 58,
+   "impressions": 2925921,
+   "likes": 5294
   },
   {
    "user": "asahi_apital",
@@ -410,16 +417,23 @@
   {
    "user": "nhk_news",
    "is_watched": false,
-   "posts": 33,
-   "impressions": 2527822,
-   "likes": 8260
+   "posts": 37,
+   "impressions": 2653862,
+   "likes": 8509
   },
   {
    "user": "taishiyade",
    "is_watched": true,
-   "posts": 17,
-   "impressions": 2498586,
-   "likes": 5996
+   "posts": 24,
+   "impressions": 2651002,
+   "likes": 6709
+  },
+  {
+   "user": "BloombergJapan",
+   "is_watched": false,
+   "posts": 95,
+   "impressions": 2476437,
+   "likes": 6754
   },
   {
    "user": "hayakawagomi",
@@ -429,11 +443,11 @@
    "likes": 11324
   },
   {
-   "user": "takahiroanno",
-   "is_watched": true,
-   "posts": 16,
-   "impressions": 2356723,
-   "likes": 21510
+   "user": "masahirochaen",
+   "is_watched": false,
+   "posts": 48,
+   "impressions": 2340410,
+   "likes": 10441
   },
   {
    "user": "jjaow_",
@@ -443,25 +457,11 @@
    "likes": 4386
   },
   {
-   "user": "masahirochaen",
-   "is_watched": false,
-   "posts": 42,
-   "impressions": 2184362,
-   "likes": 9531
-  },
-  {
    "user": "usutaku_channel",
    "is_watched": true,
-   "posts": 30,
-   "impressions": 2144776,
-   "likes": 21765
-  },
-  {
-   "user": "BloombergJapan",
-   "is_watched": false,
-   "posts": 80,
-   "impressions": 2130673,
-   "likes": 5987
+   "posts": 31,
+   "impressions": 2161503,
+   "likes": 21927
   },
   {
    "user": "ImAI_Eruel",
@@ -478,6 +478,13 @@
    "likes": 26042
   },
   {
+   "user": "Google",
+   "is_watched": false,
+   "posts": 3,
+   "impressions": 1739735,
+   "likes": 14199
+  },
+  {
    "user": "AIatMeta",
    "is_watched": true,
    "posts": 4,
@@ -485,18 +492,18 @@
    "likes": 16032
   },
   {
-   "user": "dennotai",
-   "is_watched": true,
-   "posts": 38,
-   "impressions": 1487769,
-   "likes": 10917
-  },
-  {
    "user": "Joint_kaigo",
    "is_watched": true,
-   "posts": 16,
-   "impressions": 1436633,
-   "likes": 5588
+   "posts": 17,
+   "impressions": 1509833,
+   "likes": 5702
+  },
+  {
+   "user": "dennotai",
+   "is_watched": true,
+   "posts": 39,
+   "impressions": 1501073,
+   "likes": 11017
   },
   {
    "user": "thsottiaux",
@@ -520,6 +527,13 @@
    "likes": 953
   },
   {
+   "user": "yuana_nurse",
+   "is_watched": false,
+   "posts": 7,
+   "impressions": 1227348,
+   "likes": 9938
+  },
+  {
    "user": "iamyamada89",
    "is_watched": false,
    "posts": 1,
@@ -532,13 +546,6 @@
    "posts": 1,
    "impressions": 1066031,
    "likes": 2824
-  },
-  {
-   "user": "yuana_nurse",
-   "is_watched": false,
-   "posts": 5,
-   "impressions": 1054519,
-   "likes": 9268
   },
   {
    "user": "OfficialLoganK",
@@ -576,25 +583,18 @@
    "likes": 6174
   },
   {
+   "user": "uhouhonurse",
+   "is_watched": false,
+   "posts": 11,
+   "impressions": 767865,
+   "likes": 1449
+  },
+  {
    "user": "Awakend_Citizen",
    "is_watched": false,
    "posts": 1,
    "impressions": 703861,
    "likes": 441
-  },
-  {
-   "user": "Google",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 689212,
-   "likes": 1484
-  },
-  {
-   "user": "uhouhonurse",
-   "is_watched": false,
-   "posts": 6,
-   "impressions": 608491,
-   "likes": 1199
   },
   {
    "user": "studio_yebisu",
@@ -669,9 +669,9 @@
   {
    "user": "IHayato",
    "is_watched": false,
-   "posts": 16,
-   "impressions": 324635,
-   "likes": 1855
+   "posts": 21,
+   "impressions": 391517,
+   "likes": 2365
   },
   {
    "user": "polymarketjapan",
@@ -681,6 +681,13 @@
    "likes": 1806
   },
   {
+   "user": "Hs1Ur",
+   "is_watched": false,
+   "posts": 4,
+   "impressions": 305225,
+   "likes": 3573
+  },
+  {
    "user": "ryou271006",
    "is_watched": false,
    "posts": 1,
@@ -688,11 +695,25 @@
    "likes": 254
   },
   {
+   "user": "karousisunnzenn",
+   "is_watched": false,
+   "posts": 4,
+   "impressions": 291791,
+   "likes": 219
+  },
+  {
    "user": "lnkiai",
    "is_watched": false,
    "posts": 1,
    "impressions": 282800,
    "likes": 2458
+  },
+  {
+   "user": "GoogleAI",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 277700,
+   "likes": 5202
   },
   {
    "user": "Haruki_Sonehara",
@@ -723,18 +744,18 @@
    "likes": 1365
   },
   {
+   "user": "itmedia_news",
+   "is_watched": false,
+   "posts": 11,
+   "impressions": 242458,
+   "likes": 1662
+  },
+  {
    "user": "nurse_kansai",
    "is_watched": false,
    "posts": 1,
    "impressions": 240102,
    "likes": 94
-  },
-  {
-   "user": "karousisunnzenn",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 235343,
-   "likes": 158
   },
   {
    "user": "asahi",
@@ -751,13 +772,6 @@
    "likes": 1862
   },
   {
-   "user": "itmedia_news",
-   "is_watched": false,
-   "posts": 10,
-   "impressions": 219582,
-   "likes": 1466
-  },
-  {
    "user": "tetumemo",
    "is_watched": false,
    "posts": 10,
@@ -770,6 +784,20 @@
    "posts": 1,
    "impressions": 207848,
    "likes": 4748
+  },
+  {
+   "user": "gosrum",
+   "is_watched": false,
+   "posts": 4,
+   "impressions": 205092,
+   "likes": 976
+  },
+  {
+   "user": "drlion1111",
+   "is_watched": false,
+   "posts": 2,
+   "impressions": 199201,
+   "likes": 466
   },
   {
    "user": "kajikent",
@@ -849,6 +877,13 @@
    "likes": 998
   },
   {
+   "user": "ctgptlb",
+   "is_watched": false,
+   "posts": 3,
+   "impressions": 150234,
+   "likes": 1079
+  },
+  {
    "user": "MLBear2",
    "is_watched": false,
    "posts": 4,
@@ -884,25 +919,25 @@
    "likes": 168
   },
   {
+   "user": "astro4672",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 130827,
+   "likes": 54
+  },
+  {
+   "user": "Yomiuri_Online",
+   "is_watched": false,
+   "posts": 7,
+   "impressions": 125322,
+   "likes": 629
+  },
+  {
    "user": "00_99am",
    "is_watched": false,
    "posts": 1,
    "impressions": 117136,
    "likes": 16
-  },
-  {
-   "user": "ctgptlb",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 111805,
-   "likes": 825
-  },
-  {
-   "user": "Yomiuri_Online",
-   "is_watched": false,
-   "posts": 6,
-   "impressions": 108658,
-   "likes": 519
   },
   {
    "user": "nhk_nehorin",
@@ -954,13 +989,6 @@
    "likes": 1092
   },
   {
-   "user": "Hs1Ur",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 94718,
-   "likes": 134
-  },
-  {
    "user": "Sui_A",
    "is_watched": false,
    "posts": 1,
@@ -973,6 +1001,13 @@
    "posts": 1,
    "impressions": 89424,
    "likes": 215
+  },
+  {
+   "user": "cb__news",
+   "is_watched": false,
+   "posts": 2,
+   "impressions": 87325,
+   "likes": 290
   },
   {
    "user": "kyodo_official",
@@ -1008,13 +1043,6 @@
    "posts": 1,
    "impressions": 84270,
    "likes": 38
-  },
-  {
-   "user": "cb__news",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 81510,
-   "likes": 223
   },
   {
    "user": "FMY33761505",
@@ -1106,6 +1134,20 @@
    "posts": 1,
    "impressions": 66151,
    "likes": 212
+  },
+  {
+   "user": "0o_wtf_o0",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 61981,
+   "likes": 559
+  },
+  {
+   "user": "pc_watch",
+   "is_watched": false,
+   "posts": 2,
+   "impressions": 60884,
+   "likes": 289
   },
   {
    "user": "R5200332049850",
@@ -1211,13 +1253,6 @@
    "posts": 3,
    "impressions": 47244,
    "likes": 373
-  },
-  {
-   "user": "pc_watch",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 46823,
-   "likes": 262
   },
   {
    "user": "kenn",
@@ -1372,20 +1407,6 @@
    "posts": 1,
    "impressions": 36887,
    "likes": 133
-  },
-  {
-   "user": "drlion1111",
-   "is_watched": false,
-   "posts": 1,
-   "impressions": 36249,
-   "likes": 96
-  },
-  {
-   "user": "gosrum",
-   "is_watched": false,
-   "posts": 2,
-   "impressions": 35512,
-   "likes": 318
   },
   {
    "user": "ka2aki86",
@@ -1696,6 +1717,13 @@
    "likes": 57
   },
   {
+   "user": "snows_nurse",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 15912,
+   "likes": 46
+  },
+  {
    "user": "JF1GBM",
    "is_watched": false,
    "posts": 1,
@@ -1785,6 +1813,13 @@
    "posts": 1,
    "impressions": 13479,
    "likes": 41
+  },
+  {
+   "user": "gizmodojapan",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 13114,
+   "likes": 26
   },
   {
    "user": "infinite_glider",
@@ -2065,6 +2100,13 @@
    "posts": 1,
    "impressions": 5223,
    "likes": 588
+  },
+  {
+   "user": "MorepowerWhere",
+   "is_watched": false,
+   "posts": 1,
+   "impressions": 5178,
+   "likes": 11
   },
   {
    "user": "yun06121224",
@@ -2466,21 +2508,40 @@
   },
   {
    "date": "2026-10-28",
-   "posts": 108,
-   "impressions": 12013706,
-   "likes": 62118,
+   "posts": 112,
+   "impressions": 13322246,
+   "likes": 68241,
    "categories": {
     "医療・介護×AI": 2,
     "新モデル・発表": 6,
     "ツール・活用": 9,
     "研究・論文": 1,
     "ビジネス・業界": 56,
-    "AIその他": 17,
+    "AIその他": 19,
     "訪問看護": 1,
-    "医療ニュース": 17,
-    "介護・福祉": 2,
-    "制度・報酬改定": 6,
-    "監視アカウント": 19
+    "医療ニュース": 18,
+    "介護・福祉": 3,
+    "制度・報酬改定": 7,
+    "監視アカウント": 21
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "posts": 93,
+   "impressions": 12165930,
+   "likes": 73163,
+   "categories": {
+    "医療・介護×AI": 1,
+    "新モデル・発表": 19,
+    "ツール・活用": 9,
+    "研究・論文": 1,
+    "ビジネス・業界": 34,
+    "AIその他": 9,
+    "訪問看護": 3,
+    "医療ニュース": 23,
+    "介護・福祉": 3,
+    "制度・報酬改定": 5,
+    "監視アカウント": 13
    }
   }
  ],
@@ -2580,6 +2641,25 @@
      "新モデル・発表"
     ],
     "is_watched": false
+   },
+   {
+    "id": "2115467192276025500",
+    "url": "https://x.com/claudeai/status/2115467192276025500",
+    "user": "claudeai",
+    "created_jst": "2026-10-29T00:34:16+09:00",
+    "metrics": {
+     "impression_count": 6340112,
+     "like_count": 28401,
+     "retweet_count": 1897,
+     "reply_count": 791,
+     "quote_count": 1287,
+     "bookmark_count": 18929
+    },
+    "categories": [
+     "新モデル・発表",
+     "監視アカウント"
+    ],
+    "is_watched": true
    },
    {
     "id": "2111375640717033777",
@@ -2841,24 +2921,6 @@
      "監視アカウント"
     ],
     "is_watched": true
-   },
-   {
-    "id": "2111877649513529345",
-    "url": "https://x.com/elonmusk/status/2111877649513529345",
-    "user": "elonmusk",
-    "created_jst": "2026-10-19T02:50:43+09:00",
-    "metrics": {
-     "impression_count": 2348420,
-     "like_count": 4525,
-     "retweet_count": 707,
-     "reply_count": 1013,
-     "quote_count": 69,
-     "bookmark_count": 177
-    },
-    "categories": [
-     "新モデル・発表"
-    ],
-    "is_watched": false
    }
   ],
   "by_likes": [
@@ -2937,6 +2999,25 @@
      "研究・論文"
     ],
     "is_watched": false
+   },
+   {
+    "id": "2115467192276025500",
+    "url": "https://x.com/claudeai/status/2115467192276025500",
+    "user": "claudeai",
+    "created_jst": "2026-10-29T00:34:16+09:00",
+    "metrics": {
+     "impression_count": 6340112,
+     "like_count": 28401,
+     "retweet_count": 1897,
+     "reply_count": 791,
+     "quote_count": 1287,
+     "bookmark_count": 18929
+    },
+    "categories": [
+     "新モデル・発表",
+     "監視アカウント"
+    ],
+    "is_watched": true
    },
    {
     "id": "2114780711664398349",
@@ -3181,6 +3262,25 @@
     "is_watched": false
    },
    {
+    "id": "2115489356437651654",
+    "url": "https://x.com/GoogleDeepMind/status/2115489356437651654",
+    "user": "GoogleDeepMind",
+    "created_jst": "2026-10-29T02:02:21+09:00",
+    "metrics": {
+     "impression_count": 1266580,
+     "like_count": 13352,
+     "retweet_count": 1277,
+     "reply_count": 630,
+     "quote_count": 1013,
+     "bookmark_count": 1341
+    },
+    "categories": [
+     "新モデル・発表",
+     "監視アカウント"
+    ],
+    "is_watched": true
+   },
+   {
     "id": "2110151780478927344",
     "url": "https://x.com/thsottiaux/status/2110151780478927344",
     "user": "thsottiaux",
@@ -3197,44 +3297,6 @@
      "新モデル・発表"
     ],
     "is_watched": false
-   },
-   {
-    "id": "2111642151138546118",
-    "url": "https://x.com/elonmusk/status/2111642151138546118",
-    "user": "elonmusk",
-    "created_jst": "2026-10-18T11:14:55+09:00",
-    "metrics": {
-     "impression_count": 1595390,
-     "like_count": 11751,
-     "retweet_count": 902,
-     "reply_count": 1026,
-     "quote_count": 103,
-     "bookmark_count": 284
-    },
-    "categories": [
-     "新モデル・発表"
-    ],
-    "is_watched": false
-   },
-   {
-    "id": "2113718797505036665",
-    "url": "https://x.com/OpenAI/status/2113718797505036665",
-    "user": "OpenAI",
-    "created_jst": "2026-10-24T04:46:46+09:00",
-    "metrics": {
-     "impression_count": 5515238,
-     "like_count": 11138,
-     "retweet_count": 958,
-     "reply_count": 927,
-     "quote_count": 984,
-     "bookmark_count": 4220
-    },
-    "categories": [
-     "研究・論文",
-     "ツール・活用",
-     "監視アカウント"
-    ],
-    "is_watched": true
    }
   ]
  }
