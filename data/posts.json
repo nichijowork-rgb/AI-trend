@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T23:16:14+09:00",
+ "generated_at": "2026-11-08T23:22:55+09:00",
  "min_impressions": 10000,
  "categories": [
   "医療・介護×AI",
@@ -1932,6 +1932,39 @@
    "text_ja": "このレッドチーミング演習の中で、Node.js、Bun、Envoy など多くのソフトウェアに組み込まれている広く使われる圧縮ライブラリ Brotli に、認証なしでリモートからコードを実行できる脆弱性も見つかりました。\n\nこの欠陥により、攻撃者は悪意のある圧縮データを送信または返信するだけで、ユーザーアカウントを作成することなく、影響を受けるシステム上で自分のコードを実行できる可能性がありました。つまり、圧縮された入力を受け付けるパッチ未適用のサーバーは悪意あるクライアントに乗っ取られ得るし、圧縮された入力を受け付けるパッチ未適用のクライアント（「curl --compressed」など）は悪意あるサーバーに乗っ取られ得る、ということです。\n\nこの根本原因は実は2月に Brotli のソースコードで修正されていましたが、当時はそれがセキュリティ脆弱性につながることが知られておらず、その後 Brotli の新しいリリースもありませんでした。Brotli は他のソフトウェアに組み込まれているため、このライブラリを含むソフトウェアはすべてアップデートを取り込む必要があり、さらにそのソフトウェアの利用者も更新する必要があります。私たちは Brotli と Node.js などの下流プロジェクトに脆弱性を開示し、各プロジェクトはセキュリティアップデートをリリース済みまたはリリース中です。Brotli は新バージョンを公開し、CVE を発行しました。\n\nパッチと緩和策の詳細はこちら：\nhttps://t.co/Y1Y72aHxrW"
   },
   {
+   "id": "2119275976416968841",
+   "url": "https://x.com/livedoornews/status/2119275976416968841",
+   "user": "livedoornews",
+   "created_utc": "2026-11-08T03:49:01Z",
+   "created_jst": "2026-11-08T12:49:01+09:00",
+   "ts": 1794109741,
+   "metrics": {
+    "impression_count": 1414821,
+    "like_count": 5396,
+    "retweet_count": 1043,
+    "reply_count": 163,
+    "quote_count": 206,
+    "bookmark_count": 324
+   },
+   "text": "【言及】サンド伊達「病院にクレーム言ってない」病院食のおかゆ巡り一部記事を否定\nhttps://t.co/QPWEjyasNw\n\n伊達がラジオで病院食のおかゆについて「大嫌い」と話したことが、一部記事ではクレームをつけたように書かれていた。伊達は病院に対し「普通の飯にしてくれなんて言ったことない」とした。 https://t.co/rZPjggOMQJ",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWkuM9baMAAwKVy.png",
+     "width": 376,
+     "height": 500
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2116922728657637756",
    "url": "https://x.com/Jankobanker/status/2116922728657637756",
    "user": "Jankobanker",
@@ -3068,6 +3101,32 @@
    "lang": "ja"
   },
   {
+   "id": "2119309429933998518",
+   "url": "https://x.com/livedoornews/status/2119309429933998518",
+   "user": "livedoornews",
+   "created_utc": "2026-11-08T06:01:57Z",
+   "created_jst": "2026-11-08T15:01:57+09:00",
+   "ts": 1794117717,
+   "metrics": {
+    "impression_count": 865396,
+    "like_count": 2739,
+    "retweet_count": 492,
+    "reply_count": 122,
+    "quote_count": 108,
+    "bookmark_count": 293
+   },
+   "text": "【判明】「一生許すことはない」男性医師に独身だと偽られ妊娠・出産、30代女性が提訴\nhttps://t.co/O7hRNQ8CqZ\n\n原告側は、独身偽装をされて交際し、その後も離婚すると繰り返しながら関係を続けたと主張している。妊娠中には、抗不安薬を無理やり飲まされたとも訴えている。求めた賠償額は2200万円。",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "医師"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110741355739963884",
    "url": "https://x.com/OpenAI/status/2110741355739963884",
    "user": "OpenAI",
@@ -3511,12 +3570,12 @@
    "created_jst": "2026-11-07T15:00:02+09:00",
    "ts": 1794031202,
    "metrics": {
-    "impression_count": 718219,
-    "like_count": 2613,
-    "retweet_count": 310,
-    "reply_count": 49,
-    "quote_count": 42,
-    "bookmark_count": 159
+    "impression_count": 808709,
+    "like_count": 2985,
+    "retweet_count": 331,
+    "reply_count": 58,
+    "quote_count": 51,
+    "bookmark_count": 176
    },
    "text": "【痛そう】庄司智春、胃にアニサキス8匹いた過去語る 医師「学会で発表できるレベル」\nhttps://t.co/QpRKQeIAbj\n\n庄司は「私、アニサキスが胃に8匹いました」と告白。内視鏡でアニサキスを摘出したが、営業が入っていたため、治療を中断して4匹残った状態で仕事に向かったという。",
    "categories": [
@@ -5049,6 +5108,40 @@
    "lang": "ja"
   },
   {
+   "id": "2119184533912530950",
+   "url": "https://x.com/uhouhonurse/status/2119184533912530950",
+   "user": "uhouhonurse",
+   "created_utc": "2026-11-07T21:45:40Z",
+   "created_jst": "2026-11-08T06:45:40+09:00",
+   "ts": 1794087940,
+   "metrics": {
+    "impression_count": 457227,
+    "like_count": 1193,
+    "retweet_count": 66,
+    "reply_count": 25,
+    "quote_count": 37,
+    "bookmark_count": 18
+   },
+   "text": "看護師から製薬会社にお願い\n\nこいつの500mgの規格を早く作ってくれ…\n半分引いて捨てるのめんどいしもったいない… https://t.co/ndb87WVd5S",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "看護師",
+    "看護"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWjbGhkaIAAmhWQ.jpg",
+     "width": 1448,
+     "height": 1086
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2110784662071398807",
    "url": "https://x.com/AnthropicAI/status/2110784662071398807",
    "user": "AnthropicAI",
@@ -5521,6 +5614,35 @@
    "matched_terms": [
     "介護",
     "介護職"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2119355099361522009",
+   "url": "https://x.com/uhouhonurse/status/2119355099361522009",
+   "user": "uhouhonurse",
+   "created_utc": "2026-11-08T09:03:26Z",
+   "created_jst": "2026-11-08T18:03:26+09:00",
+   "ts": 1794128606,
+   "metrics": {
+    "impression_count": 367041,
+    "like_count": 307,
+    "retweet_count": 12,
+    "reply_count": 20,
+    "quote_count": 8,
+    "bookmark_count": 44
+   },
+   "text": "80代　窒息CPA  蘇生後\n\n👨‍⚕️『蘇生はしましたが血圧が保てず\nかなり厳しいです。\n出来ることはなかなかありません』\n\n👵『そんな…わかりました。』\n\n👨‍⚕️『残念ですが、救急外来でお看取りさせて\nいただきます。\n面会できる方を呼んでもらって構いません。』\n\n面会時\n👵『お父さん！お家帰るよ！\nまた焼肉食べようよ！お父さん！』\n\n👨‍⚕️👩‍⚕️『やばい、全然病状受け入れられて\nないかもしれない…』\n\n子ども、孫達続々と登場\n\n👱‍♀️👦👧\n『おじいちゃん頑張って！！！！！』\n\n血圧が奇跡的に上がってくる…\n\n👩‍⚕️『入院する個室を用意したので\nそちらに移動します。』\n\n3日後…",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "看取り",
+    "救急",
+    "外来",
+    "入院"
    ],
    "is_watched": false,
    "media": [],
@@ -6132,6 +6254,33 @@
      "height": 1086
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2119335321926316456",
+   "url": "https://x.com/takaichi_sanae/status/2119335321926316456",
+   "user": "takaichi_sanae",
+   "created_utc": "2026-11-08T07:44:50Z",
+   "created_jst": "2026-11-08T16:44:50+09:00",
+   "ts": 1794123890,
+   "metrics": {
+    "impression_count": 290176,
+    "like_count": 5787,
+    "retweet_count": 720,
+    "reply_count": 914,
+    "quote_count": 154,
+    "bookmark_count": 116
+   },
+   "text": "毎年11月11日は「介護の日」（いい日、いい日、毎日、あったか介護ありがとう）、その前後2週間（11月4日～17日）は「福祉人材確保重点実施期間」として、福祉人材確保に向けた啓発活動に取り組んでいます。",
+   "categories": [
+    "介護・福祉"
+   ],
+   "matched_terms": [
+    "介護",
+    "福祉"
+   ],
+   "is_watched": false,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -9561,6 +9710,36 @@
    "text_ja": "試し方はこちら：\n🔵 一般ユーザー：Google AI ProとUltraの加入者は @GeminiApp と検索のAIモードで。\n🔵 開発者：Gemini APIの有料プラン。Google AI Ultra加入者は @Antigravity と @GoogleAIStudio でも。\n🔵 研究者：@Antigravity の最上位利用枠に無料で申し込めます。\n🔵 企業：Gemini for businessとAntigravityで。\n\n詳しくは → https://t.co/6nH9sCdObL"
   },
   {
+   "id": "2119282529610117409",
+   "url": "https://x.com/yuana_nurse/status/2119282529610117409",
+   "user": "yuana_nurse",
+   "created_utc": "2026-11-08T04:15:04Z",
+   "created_jst": "2026-11-08T13:15:04+09:00",
+   "ts": 1794111304,
+   "metrics": {
+    "impression_count": 132509,
+    "like_count": 133,
+    "retweet_count": 13,
+    "reply_count": 11,
+    "quote_count": 1,
+    "bookmark_count": 18
+   },
+   "text": "外来の受付で見かけたトラブル。\n\n患者さん「院長の〇〇先生と知り合いなので、今すぐ診てもらえますか？」\n\n看護師「申し訳ありません、\n本日は予約制となっておりまして……」\n\n患者さん「知り合いだって言ってる\nでしょう、連絡取ってもらえます？」\n\n看護師「順番にご案内しておりますので、少々お待ちください」\n\n患者さん「あなたじゃ話にならない、\n院長呼んでくれる？」\n\n看護師「院長は現在手術中でございます」\n\n患者さん「そんなはずない、\nさっき廊下で見かけたけど？」\n\n結局、患者さんは受付カウンターを\n叩いて大声を出し始めた。\n\n患者さんは看護師に詰め寄った。",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "看護師",
+    "看護",
+    "手術",
+    "外来",
+    "患者"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110421861435879476",
    "url": "https://x.com/GoogleDeepMind/status/2110421861435879476",
    "user": "GoogleDeepMind",
@@ -11127,6 +11306,46 @@
    "lang": "ja"
   },
   {
+   "id": "2119355501746282950",
+   "url": "https://x.com/drlion1111/status/2119355501746282950",
+   "user": "drlion1111",
+   "created_utc": "2026-11-08T09:05:01Z",
+   "created_jst": "2026-11-08T18:05:01+09:00",
+   "ts": 1794128701,
+   "metrics": {
+    "impression_count": 107816,
+    "like_count": 176,
+    "retweet_count": 32,
+    "reply_count": 2,
+    "quote_count": 6,
+    "bookmark_count": 68
+   },
+   "text": "◾️保険診療を担いながら情報発信を行う医師たち\n・高橋怜奈先生\n・丸田佳奈先生\n・柴田綾子先生\n・宋美玄先生\n・二宮典子先生\n・大塚篤司先生\n・山本健人先生\n・石井洋介先生\n・鈴木幹啓先生\n・倉持仁先生 https://t.co/fq0jDoyBCy",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "医師",
+    "診療"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWlzLpzaEAElDMw.jpg",
+     "width": 1024,
+     "height": 1536
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWlzLp_aUAA3y7d.jpg",
+     "width": 1024,
+     "height": 1536
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2115050880995381667",
    "url": "https://x.com/nhk_nehorin/status/2115050880995381667",
    "user": "nhk_nehorin",
@@ -11352,6 +11571,32 @@
      "height": 1394
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2119159248093385012",
+   "url": "https://x.com/nikkei/status/2119159248093385012",
+   "user": "nikkei",
+   "created_utc": "2026-11-07T20:05:11Z",
+   "created_jst": "2026-11-08T05:05:11+09:00",
+   "ts": 1794081911,
+   "metrics": {
+    "impression_count": 104639,
+    "like_count": 354,
+    "retweet_count": 81,
+    "reply_count": 60,
+    "quote_count": 75,
+    "bookmark_count": 80
+   },
+   "text": "外務省、日本語学習アプリを開発へ　アニメキャラとAIで「知日派」拡大\nhttps://t.co/AeSPZ0kKnC",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -13891,6 +14136,32 @@
    "lang": "ja"
   },
   {
+   "id": "2119176831488131321",
+   "url": "https://x.com/BloombergJapan/status/2119176831488131321",
+   "user": "BloombergJapan",
+   "created_utc": "2026-11-07T21:15:03Z",
+   "created_jst": "2026-11-08T06:15:03+09:00",
+   "ts": 1794086103,
+   "metrics": {
+    "impression_count": 77181,
+    "like_count": 258,
+    "retweet_count": 58,
+    "reply_count": 1,
+    "quote_count": 20,
+    "bookmark_count": 30
+   },
+   "text": "コアウィーブ、テキサス次期知事に協力要請－データセンター計画巡り https://t.co/xoV3LBEQ70",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "データセンター"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2118932249835868624",
    "url": "https://x.com/nikkei/status/2118932249835868624",
    "user": "nikkei",
@@ -15157,6 +15428,35 @@
    "lang": "ja"
   },
   {
+   "id": "2119206691824898187",
+   "url": "https://x.com/Rain_BehindSun/status/2119206691824898187",
+   "user": "Rain_BehindSun",
+   "created_utc": "2026-11-07T23:13:42Z",
+   "created_jst": "2026-11-08T08:13:42+09:00",
+   "ts": 1794093222,
+   "metrics": {
+    "impression_count": 67253,
+    "like_count": 227,
+    "retweet_count": 10,
+    "reply_count": 5,
+    "quote_count": 6,
+    "bookmark_count": 17
+   },
+   "text": "市中病院では、医師は看護師の駒である\n\n看護師がちゃっちゃか段取りしてくれて、必要なところだけ医師が手を出す、ということが多い\n\nなので医師からしたら「市中病院の看護師はなんでもしてくれる！」という錯覚を覚える\n\n問題は、この段取りがそもそも間違っていることが往々にしてある、ということ\n\n大学病院では、医師は看護師の奴隷である",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院",
+    "医師",
+    "看護師",
+    "看護"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2113910397002735726",
    "url": "https://x.com/livedoornews/status/2113910397002735726",
    "user": "livedoornews",
@@ -15304,6 +15604,33 @@
      "height": 1546
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2119250056838778923",
+   "url": "https://x.com/usutaku_channel/status/2119250056838778923",
+   "user": "usutaku_channel",
+   "created_utc": "2026-11-08T02:06:01Z",
+   "created_jst": "2026-11-08T11:06:01+09:00",
+   "ts": 1794103561,
+   "metrics": {
+    "impression_count": 66057,
+    "like_count": 252,
+    "retweet_count": 18,
+    "reply_count": 9,
+    "quote_count": 25,
+    "bookmark_count": 26
+   },
+   "text": "良いものとは何かを知っている人だけが\n良いものをAIで作れる、ただそれだけの話",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": true,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -16261,12 +16588,12 @@
    "created_jst": "2026-11-07T14:51:11+09:00",
    "ts": 1794030671,
    "metrics": {
-    "impression_count": 60901,
-    "like_count": 163,
-    "retweet_count": 63,
-    "reply_count": 14,
-    "quote_count": 23,
-    "bookmark_count": 23
+    "impression_count": 89093,
+    "like_count": 229,
+    "retweet_count": 84,
+    "reply_count": 18,
+    "quote_count": 27,
+    "bookmark_count": 35
    },
    "text": "サイバー攻撃に強い「基幹インフラ」病院　28年までに30施設、厚労省\nhttps://t.co/NhaLEAxP7c",
    "categories": [
@@ -17688,12 +18015,12 @@
    "created_jst": "2026-11-07T19:45:32+09:00",
    "ts": 1794048332,
    "metrics": {
-    "impression_count": 53873,
-    "like_count": 47,
-    "retweet_count": 5,
-    "reply_count": 32,
-    "quote_count": 6,
-    "bookmark_count": 7
+    "impression_count": 130478,
+    "like_count": 100,
+    "retweet_count": 6,
+    "reply_count": 42,
+    "quote_count": 15,
+    "bookmark_count": 12
    },
    "text": "あなたは三次救急の救急科の医者です。\n\n4件の収容依頼が来ました。\n今は一件しか受け入れられません。\nどれを選びますか？ https://t.co/oTc5NnlXJM",
    "categories": [
@@ -17885,6 +18212,40 @@
    "matched_terms": [],
    "is_watched": true,
    "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2119251250671919301",
+   "url": "https://x.com/usutaku_channel/status/2119251250671919301",
+   "user": "usutaku_channel",
+   "created_utc": "2026-11-08T02:10:46Z",
+   "created_jst": "2026-11-08T11:10:46+09:00",
+   "ts": 1794103846,
+   "metrics": {
+    "impression_count": 53373,
+    "like_count": 227,
+    "retweet_count": 12,
+    "reply_count": 8,
+    "quote_count": 23,
+    "bookmark_count": 29
+   },
+   "text": "AI生成のリプライがつまらないのは\n\nAIに面白いリプを作る能力がないからではなく、\n\n面白いリプライをしようと人生で一度も思ったことがない人達が、AIを動かしているからである https://t.co/fcwBOI4x7b https://t.co/1Jhc6S7Ou9",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWkXtPpbgAAnCue.jpg",
+     "width": 1106,
+     "height": 1106
+    }
+   ],
    "lang": "ja"
   },
   {
@@ -18749,6 +19110,33 @@
    "lang": "ja"
   },
   {
+   "id": "2119218655246291295",
+   "url": "https://x.com/nikkei/status/2119218655246291295",
+   "user": "nikkei",
+   "created_utc": "2026-11-08T00:01:15Z",
+   "created_jst": "2026-11-08T09:01:15+09:00",
+   "ts": 1794096075,
+   "metrics": {
+    "impression_count": 50494,
+    "like_count": 62,
+    "retweet_count": 18,
+    "reply_count": 9,
+    "quote_count": 6,
+    "bookmark_count": 17
+   },
+   "text": "オカムラ、AIで会議内容分析　発言者の偏りや目標達成度合い可視化\nhttps://t.co/wu80UUT9Pq\n\nマイクで発言を聞き取り、発言人数や会議の目標達成度などをAIが分析してスコア化。今後、会議の進め方などの改善案を提案する機能を追加します。",
+   "categories": [
+    "ツール・活用",
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2111999339056751092",
    "url": "https://x.com/nikkei/status/2111999339056751092",
    "user": "nikkei",
@@ -18824,6 +19212,33 @@
     "介護",
     "介護報酬",
     "厚労省"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2119327828432793811",
+   "url": "https://x.com/BloombergJapan/status/2119327828432793811",
+   "user": "BloombergJapan",
+   "created_utc": "2026-11-08T07:15:04Z",
+   "created_jst": "2026-11-08T16:15:04+09:00",
+   "ts": 1794122104,
+   "metrics": {
+    "impression_count": 49887,
+    "like_count": 351,
+    "retweet_count": 150,
+    "reply_count": 20,
+    "quote_count": 39,
+    "bookmark_count": 44
+   },
+   "text": "欧州各地でAIデータセンター反対デモ、ダブリンでは約2000人が行進 https://t.co/nRh398OJNI",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "データセンター",
+    "AI"
    ],
    "is_watched": false,
    "media": [],
@@ -20768,12 +21183,12 @@
    "created_jst": "2026-11-07T19:01:12+09:00",
    "ts": 1794045672,
    "metrics": {
-    "impression_count": 44165,
-    "like_count": 169,
-    "retweet_count": 49,
-    "reply_count": 6,
-    "quote_count": 21,
-    "bookmark_count": 37
+    "impression_count": 80419,
+    "like_count": 291,
+    "retweet_count": 89,
+    "reply_count": 11,
+    "quote_count": 35,
+    "bookmark_count": 63
    },
    "text": "帯状疱疹はワクチンで防ぐ　50歳から接種検討を\nhttps://t.co/euUGaRCtun\n\n水ぼうそうに感染したことがある人は、誰でも帯状疱疹を発症する可能性があります。ワクチンを接種すれば発症だけでなく、重症化や神経痛などの後遺症のリスクも下げることができます。",
    "categories": [
@@ -21749,6 +22164,34 @@
    "lang": "ja"
   },
   {
+   "id": "2119393188767240265",
+   "url": "https://x.com/Hs1Ur/status/2119393188767240265",
+   "user": "Hs1Ur",
+   "created_utc": "2026-11-08T11:34:47Z",
+   "created_jst": "2026-11-08T20:34:47+09:00",
+   "ts": 1794137687,
+   "metrics": {
+    "impression_count": 41619,
+    "like_count": 30,
+    "retweet_count": 0,
+    "reply_count": 2,
+    "quote_count": 0,
+    "bookmark_count": 8
+   },
+   "text": "「お産で入院してる最中に、妊娠糖尿病を患ってしまって。出産後の血糖値の管理をされてて」と、血糖値管理を受けていた。そこで「就寝時間に寝てたら、恐らく血糖値を測られたんでしょうね。突然、夜中に看護師さんから足バンバン叩かれて“寝ないでください。低血糖起こしてるんで”って言われて」\n\n優秀な看護師に看てもらってよかった。\n\n低血糖で意識障害なってたら五体満足でおれんかったかもしれん。\n\n言い方とかよりも、もう少し病気のこと勉強しよ。\n\n感謝案件やったことがわかるぞ。\n\n真木よう子　出産入院中に年下看護師から“理不尽な怒られ方”　妊娠糖尿病患い…就寝中に突然(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/qgwbkCIzKw",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "看護師",
+    "看護",
+    "入院"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2117542593613426986",
    "url": "https://x.com/nikkei/status/2117542593613426986",
    "user": "nikkei",
@@ -22378,12 +22821,12 @@
    "created_jst": "2026-11-07T11:25:03+09:00",
    "ts": 1794018303,
    "metrics": {
-    "impression_count": 40241,
-    "like_count": 78,
-    "retweet_count": 40,
+    "impression_count": 45191,
+    "like_count": 90,
+    "retweet_count": 45,
     "reply_count": 9,
     "quote_count": 7,
-    "bookmark_count": 5
+    "bookmark_count": 6
    },
    "text": "長時間労働や賃金不払いなど 厚労省が全国一斉の電話相談\nhttps://t.co/7l4XxKeYmB #nhk_news",
    "categories": [
@@ -23172,6 +23615,32 @@
    "matched_terms": [
     "AI",
     "生成AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2119399838294958218",
+   "url": "https://x.com/nikkei/status/2119399838294958218",
+   "user": "nikkei",
+   "created_utc": "2026-11-08T12:01:12Z",
+   "created_jst": "2026-11-08T21:01:12+09:00",
+   "ts": 1794139272,
+   "metrics": {
+    "impression_count": 38853,
+    "like_count": 102,
+    "retweet_count": 27,
+    "reply_count": 11,
+    "quote_count": 11,
+    "bookmark_count": 18
+   },
+   "text": "高卒と大卒で同じ初任給、ミスミが30万円に統一　AI時代揺らぐ学歴 https://t.co/Svz1nvZ77R",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
    ],
    "is_watched": false,
    "media": [],
@@ -26143,12 +26612,12 @@
    "created_jst": "2026-11-07T20:31:11+09:00",
    "ts": 1794051071,
    "metrics": {
-    "impression_count": 33832,
-    "like_count": 55,
-    "retweet_count": 25,
-    "reply_count": 5,
-    "quote_count": 3,
-    "bookmark_count": 9
+    "impression_count": 64750,
+    "like_count": 128,
+    "retweet_count": 50,
+    "reply_count": 11,
+    "quote_count": 12,
+    "bookmark_count": 21
    },
    "text": "サイバー攻撃に強い「基幹インフラ」病院、28年までに30施設\nhttps://t.co/0NyfZ7yCjc\n\n過去には病院へのサイバー攻撃で診療が停止し、救急患者の受け入れを制限した例があります。厚労省は大学病院などを念頭に、28年までに30施設を指定します。",
    "categories": [
@@ -26485,11 +26954,11 @@
    "created_jst": "2026-11-07T16:11:03+09:00",
    "ts": 1794035463,
    "metrics": {
-    "impression_count": 33422,
-    "like_count": 35,
-    "retweet_count": 19,
+    "impression_count": 37621,
+    "like_count": 39,
+    "retweet_count": 23,
     "reply_count": 2,
-    "quote_count": 2,
+    "quote_count": 4,
     "bookmark_count": 7
    },
    "text": "介護現場のカスハラの実態は? 厚労省は対策強化へ\nhttps://t.co/gvN34Ugmlv #nhk_news",
@@ -27847,6 +28316,33 @@
    "lang": "ja"
   },
   {
+   "id": "2119407382484717679",
+   "url": "https://x.com/nikkei/status/2119407382484717679",
+   "user": "nikkei",
+   "created_utc": "2026-11-08T12:31:11Z",
+   "created_jst": "2026-11-08T21:31:11+09:00",
+   "ts": 1794141071,
+   "metrics": {
+    "impression_count": 31414,
+    "like_count": 39,
+    "retweet_count": 16,
+    "reply_count": 9,
+    "quote_count": 8,
+    "bookmark_count": 12
+   },
+   "text": "人気のアニメキャラが日本語の先生に　外務省、日本語学習アプリを開発へ\nhttps://t.co/NwKInjWcwe\n\nAIを活用し自然な会話を練習できるようにします。2027年度から有名キャラの版権元と交渉を始め、28年度中の完成をめざします。",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "活用",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2116726194880287075",
    "url": "https://x.com/masahirochaen/status/2116726194880287075",
    "user": "masahirochaen",
@@ -28491,6 +28987,32 @@
    ],
    "matched_terms": [],
    "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2119290084729970884",
+   "url": "https://x.com/BloombergJapan/status/2119290084729970884",
+   "user": "BloombergJapan",
+   "created_utc": "2026-11-08T04:45:05Z",
+   "created_jst": "2026-11-08T13:45:05+09:00",
+   "ts": 1794113105,
+   "metrics": {
+    "impression_count": 30181,
+    "like_count": 103,
+    "retweet_count": 38,
+    "reply_count": 4,
+    "quote_count": 6,
+    "bookmark_count": 13
+   },
+   "text": "AI相場失速でアジア株の投資戦略見直し、中国・インドに資金回帰 https://t.co/vOh2pqYfkx",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
    "media": [],
    "lang": "ja"
   },
@@ -30103,6 +30625,31 @@
    "lang": "ja"
   },
   {
+   "id": "2119249039762108449",
+   "url": "https://x.com/usutaku_channel/status/2119249039762108449",
+   "user": "usutaku_channel",
+   "created_utc": "2026-11-08T02:01:59Z",
+   "created_jst": "2026-11-08T11:01:59+09:00",
+   "ts": 1794103319,
+   "metrics": {
+    "impression_count": 27733,
+    "like_count": 293,
+    "retweet_count": 10,
+    "reply_count": 5,
+    "quote_count": 5,
+    "bookmark_count": 83
+   },
+   "text": "基本的に土日も休まず働いていると\n\n「なんでそんなに頑張れるんですか？」\n\nとよく言ってもらえるが\n\n個人的には頑張っているつもりはなく\n\n単純に「当たり前の基準」の話だと思っている\n\nというのも僕は昔から休むという概念がなかった\n\n中学の吹奏楽部が強豪でお盆と正月以外休みがなく\n\n高校は土曜も授業、塾も部活もあったから休みがなく\n\n大学は授業とラグビー部の練習以外の全部の時間を長期インターンに使っていたから休みがなかった\n\nなので新卒でAmazonに入った時も、\n・7時-9時自己研鑽\n・9時-18時で仕事\n・18時-23時で自己研鑽\n・土日はフルで自己研鑽\nというスケジュールに勝手になっていた\n\nそして起業してからは当然全ての時間を仕事に使えるようになり、ずっと働いている\n\nなので僕が特段努力家というよりは、元からそういう環境だったというのが大きい\n\nこの「当たり前の基準」というのは結構周りの人で決まるので、\n\n「努力をもっとしなくちゃ」と思う人は努力をするのが当たり前の組織とかに所属すると良いかと思う\n\n例えばSNSの発信を毎日したいけどできない、という人は、1日3投稿するのが当たり前だよねというクリエイター集団に所属すればいいし、\n\n1日に5kmも走れない、という人は毎日10km走る人のランコミュニティに入ればいい、\n\n人間は弱く、努力の孤軍奮闘というのは基本的にできないものだと捉えると、自分を変えやすい",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2116700762000732343",
    "url": "https://x.com/hayakawagomi/status/2116700762000732343",
    "user": "hayakawagomi",
@@ -30774,6 +31321,31 @@
    "lang": "ja"
   },
   {
+   "id": "2119368730094551244",
+   "url": "https://x.com/takahiroanno/status/2119368730094551244",
+   "user": "takahiroanno",
+   "created_utc": "2026-11-08T09:57:35Z",
+   "created_jst": "2026-11-08T18:57:35+09:00",
+   "ts": 1794131855,
+   "metrics": {
+    "impression_count": 26780,
+    "like_count": 588,
+    "retweet_count": 64,
+    "reply_count": 12,
+    "quote_count": 7,
+    "bookmark_count": 19
+   },
+   "text": "総務委員会で、不正アクセス禁止法について課題提起しました。善意の脆弱性調査が萎縮しない仕組みが必要だと考えております。大臣の答弁は慎重でしたが、ここは引き続き取り組みます。\n\n質疑の全体は記事にまとめましたので、ぜひご覧ください。 https://t.co/2W0JJnPRkY",
+   "categories": [
+    "ビジネス・業界",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2114273194551206024",
    "url": "https://x.com/MHLWitter/status/2114273194551206024",
    "user": "MHLWitter",
@@ -30941,6 +31513,31 @@
      "height": 1536
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2119176387731091744",
+   "url": "https://x.com/dennotai/status/2119176387731091744",
+   "user": "dennotai",
+   "created_utc": "2026-11-07T21:13:17Z",
+   "created_jst": "2026-11-08T06:13:17+09:00",
+   "ts": 1794085997,
+   "metrics": {
+    "impression_count": 26524,
+    "like_count": 263,
+    "retweet_count": 15,
+    "reply_count": 3,
+    "quote_count": 1,
+    "bookmark_count": 7
+   },
+   "text": "紅白でも盛れ💃 https://t.co/6j1KBoKYEN",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -34904,6 +35501,33 @@
    "lang": "ja"
   },
   {
+   "id": "2119313473327046996",
+   "url": "https://x.com/usutaku_channel/status/2119313473327046996",
+   "user": "usutaku_channel",
+   "created_utc": "2026-11-08T06:18:01Z",
+   "created_jst": "2026-11-08T15:18:01+09:00",
+   "ts": 1794118681,
+   "metrics": {
+    "impression_count": 21602,
+    "like_count": 75,
+    "retweet_count": 2,
+    "reply_count": 1,
+    "quote_count": 4,
+    "bookmark_count": 2
+   },
+   "text": "面白い人は、他人の投稿にAIでリプライを送りません https://t.co/JDLOGyN0ab",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2113510220517507250",
    "url": "https://x.com/keitowebai/status/2113510220517507250",
    "user": "keitowebai",
@@ -37271,12 +37895,12 @@
    "created_jst": "2026-11-07T22:31:11+09:00",
    "ts": 1794058271,
    "metrics": {
-    "impression_count": 19589,
-    "like_count": 23,
-    "retweet_count": 17,
-    "reply_count": 2,
-    "quote_count": 2,
-    "bookmark_count": 6
+    "impression_count": 57211,
+    "like_count": 120,
+    "retweet_count": 61,
+    "reply_count": 7,
+    "quote_count": 11,
+    "bookmark_count": 15
    },
    "text": "米スーパーや病院の冷蔵庫にサイバー攻撃リスク　FBI｢直ちに対策を｣\nhttps://t.co/BxIDAVQyh5\n\nインターネットに接続する温度制御装置などが狙われ、設定温度を遠隔で変更される可能性があります。大規模な在庫損失などを引き起こすリスクがあります。",
    "categories": [
@@ -37314,6 +37938,53 @@
    ],
    "is_watched": true,
    "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2119308955017162862",
+   "url": "https://x.com/drlion1111/status/2119308955017162862",
+   "user": "drlion1111",
+   "created_utc": "2026-11-08T06:00:04Z",
+   "created_jst": "2026-11-08T15:00:04+09:00",
+   "ts": 1794117604,
+   "metrics": {
+    "impression_count": 19566,
+    "like_count": 19,
+    "retweet_count": 6,
+    "reply_count": 1,
+    "quote_count": 1,
+    "bookmark_count": 17
+   },
+   "text": "◾️大学附属病院の100床あたり1日平均新規入棟患者数ランキングTOP149\n\n01位 藤田医科大学病院（愛知県）16.46人\n02位 藤田医科大学ばんたね病院（愛知県）15.14人\n03位 日本医科大学千葉北総病院（千葉県）14.21人\n04位 東北医科薬科大学病院（宮城県）12.90人\n05位 自治医科大学附属さいたま医療センター（埼玉県）12.84人\n06位 東海大学医学部付属病院（神奈川県）12.45人\n07位 日本医科大学付属病院（東京都）12.22人\n08位 藤田医科大学岡崎医療センター（愛知県）12.15人\n09位 愛知医科大学病院（愛知県）11.57人\n10位 横浜市立大学附属市民総合医療センター（神奈川県）11.43人\n\n11位 聖路加国際病院（東京都）11.34人\n12位 関西医科大学附属病院（大阪府）11.20人\n13位 名古屋市立大学病院（愛知県）11.13人\n14位 日本医科大学武蔵小杉病院（神奈川県）11.08人\n15位 昭和医科大学横浜市北部病院（神奈川県）10.90人\n16位 北海道医療大学病院（北海道）10.82人\n17位 昭和医科大学病院（東京都）10.78人\n18位 東邦大学医療センター大橋病院（東京都）10.76人\n19位 順天堂大学医学部附属静岡病院（静岡県）10.61人\n20位 慶應義塾大学病院（東京都）10.54人\n\n21位 順天堂大学医学部附属練馬病院（東京都）10.48人\n22位 東邦大学医療センター佐倉病院（千葉県）10.46人\n23位 東京女子医科大学附属足立医療センター（東京都）10.35人\n24位 東京医科大学病院（東京都）10.23人\n25位 東海大学医学部付属八王子病院（東京都）10.21人\n26位 島根大学医学部附属病院（島根県）10.02人\n27位 聖マリアンナ医科大学病院（神奈川県）9.98人\n28位 名古屋市立大学医学部附属東部医療センター（愛知県）9.87人\n29位 順天堂大学医学部附属順天堂医院（東京都）9.86人\n30位 千葉大学医学部附属病院（千葉県）9.71人\n\n31位 鳥取大学医学部附属病院（鳥取県）9.45人\n32位 信州大学医学部附属病院（長野県）9.38人\n33位 昭和医科大学藤が丘病院（神奈川県）9.38人\n34位 帝京大学医学部附属溝口病院（神奈川県）9.34人\n35位 近畿大学病院（大阪府）9.23人\n36位 浜松医科大学医学部附属病院（静岡県）9.15人\n37位 東京慈恵会医科大学葛飾医療センター（東京都）9.14人\n38位 三重大学医学部附属病院（三重県）9.14人\n39位 神戸大学医学部附属国際がん医療・研究センター（兵庫県）9.10人\n40位 埼玉医科大学国際医療センター（埼玉県）9.04人\n\n41位 兵庫医科大学病院（兵庫県）9.03人\n42位 徳島大学病院（徳島県）9.01人\n43位 福岡大学筑紫病院（福岡県）8.98人\n44位 杏林大学医学部付属病院（東京都）8.95人\n45位 岐阜大学医学部附属病院（岐阜県）8.94人\n46位 関西医科大学総合医療センター（大阪府）8.93人\n47位 大阪公立大学医学部附属病院（大阪府）8.92人\n48位 広島大学病院（広島県）8.86人\n49位 名古屋大学医学部附属病院（愛知県）8.78人\n50位 熊本大学病院（熊本県）8.77人\n【続く】",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院",
+    "医療",
+    "患者"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWlK5SXbIAAzemM.jpg",
+     "width": 1024,
+     "height": 1536
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWlK5SUaUAA-cqv.jpg",
+     "width": 1024,
+     "height": 1536
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWlK5SRbgAAqWul.jpg",
+     "width": 1024,
+     "height": 1536
+    }
+   ],
    "lang": "ja"
   },
   {
@@ -39074,6 +39745,43 @@
    "lang": "ja"
   },
   {
+   "id": "2119253962402759015",
+   "url": "https://x.com/yuana_nurse/status/2119253962402759015",
+   "user": "yuana_nurse",
+   "created_utc": "2026-11-08T02:21:33Z",
+   "created_jst": "2026-11-08T11:21:33+09:00",
+   "ts": 1794104493,
+   "metrics": {
+    "impression_count": 18094,
+    "like_count": 94,
+    "retweet_count": 8,
+    "reply_count": 26,
+    "quote_count": 4,
+    "bookmark_count": 6
+   },
+   "text": "賛否あるかもしれないけど、、\n\nこれくらい怖がられると\nやってる看護師は犯罪してる感じがして\n注射したくないのは私だけ？\n\nできれば当たりたくない患者… https://t.co/SxKd8V2zgH",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "看護師",
+    "看護",
+    "患者"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2058027692243791872/img/iT5nUG5PaGNbVkg5.jpg",
+     "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058027692243791872/img/iT5nUG5PaGNbVkg5.jpg",
+     "width": 1024,
+     "height": 576,
+     "video_url": "https://video.twimg.com/amplify_video/2058027692243791872/vid/avc1/1024x576/pptGghCms-EiIEq4.mp4"
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2115359868295024716",
    "url": "https://x.com/BloombergJapan/status/2115359868295024716",
    "user": "BloombergJapan",
@@ -39632,6 +40340,32 @@
    "matched_terms": [
     "AIエージェント",
     "エージェント",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2119286204114022717",
+   "url": "https://x.com/Sankei_news/status/2119286204114022717",
+   "user": "Sankei_news",
+   "created_utc": "2026-11-08T04:29:40Z",
+   "created_jst": "2026-11-08T13:29:40+09:00",
+   "ts": 1794112180,
+   "metrics": {
+    "impression_count": 17657,
+    "like_count": 86,
+    "retweet_count": 29,
+    "reply_count": 30,
+    "quote_count": 23,
+    "bookmark_count": 22
+   },
+   "text": "「AIのせいで学校現場は大混乱」内田樹さんの危惧　初中等教育では「触らせない方が…」　実践！『街場の教育論』　番外編 \nhttps://t.co/AoLX7dI2rY \n\n最大の欠点は、AIを便利に使うようになると本を読まなくなることです。長い文章を読むのが面倒くさくなる。",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
     "AI"
    ],
    "is_watched": false,
@@ -40527,6 +41261,31 @@
     "AI"
    ],
    "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2119256307677229150",
+   "url": "https://x.com/usutaku_channel/status/2119256307677229150",
+   "user": "usutaku_channel",
+   "created_utc": "2026-11-08T02:30:52Z",
+   "created_jst": "2026-11-08T11:30:52+09:00",
+   "ts": 1794105052,
+   "metrics": {
+    "impression_count": 17068,
+    "like_count": 175,
+    "retweet_count": 10,
+    "reply_count": 1,
+    "quote_count": 10,
+    "bookmark_count": 55
+   },
+   "text": "「仕事は嫌なことをどうにかやって、その対価としてお金をもらうものである」と考えてる人と、\n\n「仕事を通じて自分が成長できるのが心から嬉しくて、お金は副産物に過ぎない」と考えてる人、\n\nこの両者は全く話が噛み合わないので、仕事論を語る時はこの前提を擦り合わせたほうがいい",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
    "media": [],
    "lang": "ja"
   },
@@ -43411,6 +44170,33 @@
    "lang": "ja"
   },
   {
+   "id": "2119274594662306277",
+   "url": "https://x.com/miyatti/status/2119274594662306277",
+   "user": "miyatti",
+   "created_utc": "2026-11-08T03:43:32Z",
+   "created_jst": "2026-11-08T12:43:32+09:00",
+   "ts": 1794109412,
+   "metrics": {
+    "impression_count": 15035,
+    "like_count": 137,
+    "retweet_count": 10,
+    "reply_count": 6,
+    "quote_count": 1,
+    "bookmark_count": 282
+   },
+   "text": "昨日1日でGrokBotからMuseに乗り換えるためにあれやこれややってたのを記事にしてみた。正直どのエージェントでもいいんだけどね。私が考える最強の「ふるまい」をMuseに移植した話。 https://t.co/Eg8OCsO5dV",
+   "categories": [
+    "ツール・活用",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "エージェント"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2116908293796835365",
    "url": "https://x.com/dennotai/status/2116908293796835365",
    "user": "dennotai",
@@ -44174,6 +44960,39 @@
    "lang": "ja"
   },
   {
+   "id": "2119340424737526017",
+   "url": "https://x.com/keith_market/status/2119340424737526017",
+   "user": "keith_market",
+   "created_utc": "2026-11-08T08:05:07Z",
+   "created_jst": "2026-11-08T17:05:07+09:00",
+   "ts": 1794125107,
+   "metrics": {
+    "impression_count": 14674,
+    "like_count": 306,
+    "retweet_count": 17,
+    "reply_count": 1,
+    "quote_count": 4,
+    "bookmark_count": 96
+   },
+   "text": "俺のAI株のビッグショートは民主党の中間選挙での大勝やテキサス州知事をめぐる動きなど、後から売り材料が次々と追加されたことも大きい。ただ、ショートを回転し続けた本質的な理由は、単に悪材料が増えていたからではなく、そもそもAIインフラ投資を取り巻く状況が改善する余地に乏しかったこと。 https://t.co/s4FlSrqb6N",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWlo4cWakAAASeI.jpg",
+     "width": 1180,
+     "height": 832
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2115337843405160889",
    "url": "https://x.com/MHLWitter/status/2115337843405160889",
    "user": "MHLWitter",
@@ -44905,6 +45724,33 @@
      "height": 868
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2119264394593149368",
+   "url": "https://x.com/PhysioSuzuki/status/2119264394593149368",
+   "user": "PhysioSuzuki",
+   "created_utc": "2026-11-08T03:03:00Z",
+   "created_jst": "2026-11-08T12:03:00+09:00",
+   "ts": 1794106980,
+   "metrics": {
+    "impression_count": 14088,
+    "like_count": 244,
+    "retweet_count": 15,
+    "reply_count": 9,
+    "quote_count": 1,
+    "bookmark_count": 8
+   },
+   "text": "要支援者はデイサービスのお風呂は無料で入れます。\n転倒等のリスク管理、職員の見守りや介助、光熱費までかかるのに、入浴に対する追加報酬は原則なし。\nよく考えたら、すごい制度だよな…",
+   "categories": [
+    "介護・福祉",
+    "制度・報酬改定"
+   ],
+   "matched_terms": [
+    "デイサービス"
+   ],
+   "is_watched": false,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -46210,6 +47056,42 @@
    "lang": "ja"
   },
   {
+   "id": "2119238672403099844",
+   "url": "https://x.com/yuana_nurse/status/2119238672403099844",
+   "user": "yuana_nurse",
+   "created_utc": "2026-11-08T01:20:47Z",
+   "created_jst": "2026-11-08T10:20:47+09:00",
+   "ts": 1794100847,
+   "metrics": {
+    "impression_count": 13258,
+    "like_count": 195,
+    "retweet_count": 17,
+    "reply_count": 17,
+    "quote_count": 3,
+    "bookmark_count": 14
+   },
+   "text": "現役看護師です。\n\nこれから看護師になろうとする人は\n現実を理解して欲しい。\n\nそんなにいい世界ではないです。\n\n人生やり直せるなら\n私は看護師やってません。 https://t.co/4GgGQKurbm",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "看護師",
+    "看護"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2100771748337819648/img/CS-8GBaG7FhfXpNG.jpg",
+     "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100771748337819648/img/CS-8GBaG7FhfXpNG.jpg",
+     "width": 750,
+     "height": 418,
+     "video_url": "https://video.twimg.com/amplify_video/2100771748337819648/vid/avc1/750x418/4R-6Ci71pPLgJIGN.mp4"
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2118171844184580267",
    "url": "https://x.com/Sankei_news/status/2118171844184580267",
    "user": "Sankei_news",
@@ -47115,6 +47997,33 @@
     "介護施設"
    ],
    "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2119308802659062201",
+   "url": "https://x.com/keitowebai/status/2119308802659062201",
+   "user": "keitowebai",
+   "created_utc": "2026-11-08T05:59:28Z",
+   "created_jst": "2026-11-08T14:59:28+09:00",
+   "ts": 1794117568,
+   "metrics": {
+    "impression_count": 12671,
+    "like_count": 144,
+    "retweet_count": 15,
+    "reply_count": 3,
+    "quote_count": 1,
+    "bookmark_count": 181
+   },
+   "text": "Codexのプラグインおすすめ24選。使い方・入れ方と実際に試した結果\nhttps://t.co/Of3vMvnDw7",
+   "categories": [
+    "ツール・活用",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "Codex"
+   ],
+   "is_watched": true,
    "media": [],
    "lang": "ja"
   },
@@ -48905,6 +49814,31 @@
      "view_count": 3159
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2119396360214700305",
+   "url": "https://x.com/dennotai/status/2119396360214700305",
+   "user": "dennotai",
+   "created_utc": "2026-11-08T11:47:23Z",
+   "created_jst": "2026-11-08T20:47:23+09:00",
+   "ts": 1794138443,
+   "metrics": {
+    "impression_count": 11783,
+    "like_count": 46,
+    "retweet_count": 2,
+    "reply_count": 0,
+    "quote_count": 2,
+    "bookmark_count": 4
+   },
+   "text": "まずはニーズを研究して欲しい。 https://t.co/xnVbz3XW5x",
+   "categories": [
+    "AIその他",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -53352,6 +54286,32 @@
    "lang": "ja"
   },
   {
+   "id": "2119243217308991832",
+   "url": "https://x.com/n_kata/status/2119243217308991832",
+   "user": "n_kata",
+   "created_utc": "2026-11-08T01:38:51Z",
+   "created_jst": "2026-11-08T10:38:51+09:00",
+   "ts": 1794101931,
+   "metrics": {
+    "impression_count": 10083,
+    "like_count": 76,
+    "retweet_count": 13,
+    "reply_count": 9,
+    "quote_count": 7,
+    "bookmark_count": 7
+   },
+   "text": "NoBorderうーん、私が喋ったことは大部分カットされててうーむ、、です。\n\n少なくともあの場では結局ワクチンは良いも悪いも両意見あるので今後も注意していきましょうね、、、くらいなまとまりかただったと思うのですが、、、。\n\n私的には興味ないしどうせ雑音と耳を塞いでいた識者たちの声を聞く気になれた事が大きかったです。\n\n再来週にも続きあるかもよ。",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "ワクチン"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2118580257611497795",
    "url": "https://x.com/gizmodojapan/status/2118580257611497795",
    "user": "gizmodojapan",
@@ -53877,6 +54837,37 @@
    "lang": "ja"
   },
   {
+   "id": "2119324042188767541",
+   "url": "https://x.com/n_kata/status/2119324042188767541",
+   "user": "n_kata",
+   "created_utc": "2026-11-08T07:00:01Z",
+   "created_jst": "2026-11-08T16:00:01+09:00",
+   "ts": 1794121201,
+   "metrics": {
+    "impression_count": 8055,
+    "like_count": 127,
+    "retweet_count": 19,
+    "reply_count": 9,
+    "quote_count": 4,
+    "bookmark_count": 5
+   },
+   "text": "90歳の高齢者に、できる限りの延命治療をすることが本当に良い医療なのでしょうか。\n\nこれは医療費削減の話ではありません。\n\n私は在宅医療に長く携わり、多くの高齢者の最期を診てきました。\n\n例えば90代で認知症が進行し、ほとんど寝たきりになっている方。",
+   "categories": [
+    "訪問看護",
+    "医療ニュース",
+    "介護・福祉"
+   ],
+   "matched_terms": [
+    "在宅医療",
+    "医療",
+    "医療費",
+    "認知症"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2111275699869032638",
    "url": "https://x.com/torichanbird/status/2111275699869032638",
    "user": "torichanbird",
@@ -54210,6 +55201,35 @@
    "matched_terms": [
     "医療",
     "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2119214042539762093",
+   "url": "https://x.com/hero_houkan/status/2119214042539762093",
+   "user": "hero_houkan",
+   "created_utc": "2026-11-07T23:42:55Z",
+   "created_jst": "2026-11-08T08:42:55+09:00",
+   "ts": 1794094975,
+   "metrics": {
+    "impression_count": 5976,
+    "like_count": 55,
+    "retweet_count": 5,
+    "reply_count": 7,
+    "quote_count": 4,
+    "bookmark_count": 8
+   },
+   "text": "「不登校は障害なんですか⁉️」\n思わず声を荒げてしまいました。僕自身、長男も次男も不登校を経験している親であり、訪問看護ステーションの経営者でもあります。\n\n支援が必要なことと、障害があることは別の話。\n\n学会での出来事と、僕なりの考えをコラムにしました。\n\nhttps://t.co/UQ8WguhJWA",
+   "categories": [
+    "訪問看護",
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "訪問看護",
+    "訪問看護ステーション",
+    "看護"
    ],
    "is_watched": false,
    "media": [],
