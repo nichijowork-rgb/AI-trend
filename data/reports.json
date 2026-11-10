@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T23:25:29+09:00",
+ "generated_at": "2026-11-10T23:16:30+09:00",
  "daily": [
   {
    "date": "2026-10-14",
@@ -3612,6 +3612,132 @@
      "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
     }
    ],
+   "review": [
+    {
+     "id": "2119739463459065860",
+     "before_views": 80860,
+     "after_views": 302730,
+     "crossed_500k": true
+    },
+    {
+     "id": "2119779775908819232",
+     "before_views": 202743,
+     "after_views": 965957,
+     "crossed_500k": true
+    },
+    {
+     "id": "2119702324813656252",
+     "before_views": 350271,
+     "after_views": 972752,
+     "crossed_500k": true
+    },
+    {
+     "id": "2119665789213241491",
+     "before_views": 70631,
+     "after_views": 77173,
+     "crossed_500k": false
+    },
+    {
+     "id": "2119626372075180065",
+     "before_views": 423335,
+     "after_views": 555789,
+     "crossed_500k": true
+    },
+    {
+     "id": "2119719736762372170",
+     "before_views": 32493,
+     "after_views": 43835,
+     "crossed_500k": false
+    },
+    {
+     "id": "2119719495128527139",
+     "before_views": 80727,
+     "after_views": 789473,
+     "crossed_500k": true
+    },
+    {
+     "id": "2119698123346030894",
+     "before_views": 77034,
+     "after_views": 120003,
+     "crossed_500k": true
+    }
+   ],
+   "hit_rate": [
+    {
+     "condition_label": "10万表示到達（前日rising全体）",
+     "total": 8,
+     "crossed": 6
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "rising": [
+    {
+     "id": "2119992280690151639",
+     "views": 68945,
+     "hours_since_post": 11.02,
+     "views_per_hour": 6256,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2120085813526671579",
+     "views": 244150,
+     "hours_since_post": 4.82,
+     "views_per_hour": 50603,
+     "condition_label": "投稿から6時間以内で10万表示以上"
+    },
+    {
+     "id": "2119990682521928158",
+     "views": 31284,
+     "hours_since_post": 11.12,
+     "views_per_hour": 2812,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2120143579939312004",
+     "views": 58947,
+     "hours_since_post": 1.0,
+     "views_per_hour": 59012,
+     "condition_label": "投稿から2時間以内で5万表示以上"
+    },
+    {
+     "id": "2120124116250603545",
+     "views": 21566,
+     "hours_since_post": 2.29,
+     "views_per_hour": 9425,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2120087027823833296",
+     "views": 119524,
+     "hours_since_post": 4.74,
+     "views_per_hour": 25193,
+     "condition_label": "投稿から6時間以内で10万表示以上"
+    },
+    {
+     "id": "2120070824900128860",
+     "views": 32635,
+     "hours_since_post": 5.82,
+     "views_per_hour": 5610,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2120054546592641116",
+     "views": 1764755,
+     "hours_since_post": 6.9,
+     "views_per_hour": 255936,
+     "condition_label": "投稿から12時間以内で20万表示以上"
+    },
+    {
+     "id": "2120117722230968385",
+     "views": 366046,
+     "hours_since_post": 2.71,
+     "views_per_hour": 135003,
+     "condition_label": "投稿から6時間以内で10万表示以上"
+    }
+   ],
+   "rising_watch": [],
    "review": [],
    "hit_rate": []
   }
