@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T23:15:24+09:00",
+ "generated_at": "2026-11-14T23:14:42+09:00",
  "min_impressions": 10000,
  "categories": [
   "医療・介護×AI",
@@ -3048,6 +3048,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121167303836307463",
+   "url": "https://x.com/nikkei/status/2121167303836307463",
+   "user": "nikkei",
+   "created_utc": "2026-11-13T09:04:29Z",
+   "created_jst": "2026-11-13T18:04:29+09:00",
+   "ts": 1794560669,
+   "metrics": {
+    "impression_count": 1163251,
+    "like_count": 1039,
+    "retweet_count": 296,
+    "reply_count": 131,
+    "quote_count": 483,
+    "bookmark_count": 301
+   },
+   "text": "ついに動いた農林中金、異例のAI株投資　「目先より成長」\nhttps://t.co/aw4GcIMphz",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2118814753154064501",
    "url": "https://x.com/AnthropicAI/status/2118814753154064501",
    "user": "AnthropicAI",
@@ -3776,6 +3802,37 @@
    ],
    "lang": "en",
    "text_ja": "最新のフロンティアモデル Gemini 4 Carbon を発表します。\n\nCarbon はあらゆる分野で性能が向上し、@ArtificialAnlys の Intelligence Index v5.0 で1位を獲得。サイバーセキュリティと長期タスク（ロングホライズン）能力で新たな最高水準を打ち立てました。\n\n今週から Fairwind プログラムを通じてサイバー防御担当者向けに提供を開始し、近日中に提供範囲を拡大します 🧵"
+  },
+  {
+   "id": "2121125600840888361",
+   "url": "https://x.com/Joint_kaigo/status/2121125600840888361",
+   "user": "Joint_kaigo",
+   "created_utc": "2026-11-13T06:18:46Z",
+   "created_jst": "2026-11-13T15:18:46+09:00",
+   "ts": 1794550726,
+   "metrics": {
+    "impression_count": 901542,
+    "like_count": 4391,
+    "retweet_count": 641,
+    "reply_count": 176,
+    "quote_count": 639,
+    "bookmark_count": 309
+   },
+   "text": "看護職員の「離職・流出が加速」　看護協会が警鐘　上野厚労相に賃上げを要請\nhttps://t.co/I9N5SlueNl\n#介護 #ケアマネ #医療 #看護",
+   "categories": [
+    "医療ニュース",
+    "介護・福祉",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "看護",
+    "医療",
+    "介護",
+    "ケアマネ"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
   },
   {
    "id": "2116737388957556895",
@@ -5083,6 +5140,32 @@
    "text": "「AI開発を続ければ人類は絶滅」 米機関の20歳研究員・林央氏インタビュー（前編）\nhttps://t.co/F9vDTc6jmn\n\n「AIの能力向上が予想以上に速い。AI自身が次のAIを研究開発する『再帰的自己改善』が始まれば、開発速度はさらに加速する。今後5年以内に人類が滅亡する可能性はかなり高いと考えている」",
    "categories": [
     "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121376813473812521",
+   "url": "https://x.com/YahooNewsTopics/status/2121376813473812521",
+   "user": "YahooNewsTopics",
+   "created_utc": "2026-11-13T22:57:00Z",
+   "created_jst": "2026-11-14T07:57:00+09:00",
+   "ts": 1794610620,
+   "metrics": {
+    "impression_count": 661027,
+    "like_count": 2990,
+    "retweet_count": 1104,
+    "reply_count": 75,
+    "quote_count": 238,
+    "bookmark_count": 342
+   },
+   "text": "【声や肖像 AIの無断利用に規制案】\nhttps://t.co/7oZPS7uiDl",
+   "categories": [
+    "ビジネス・業界"
    ],
    "matched_terms": [
     "AI"
@@ -6766,6 +6849,34 @@
    "text_ja": "心臓、脳、免疫系は同じDNA配列を持っています。では、1文字の変化が、ある細胞では病気を引き起こし、他の細胞では影響しないのはなぜでしょうか。\n\nAlphaGenome 2 は、特定の細胞に焦点を当てて、病気の原因を科学者が理解する助けとなる新しいAIモデルです。🧵"
   },
   {
+   "id": "2121384111533404217",
+   "url": "https://x.com/n_kata/status/2121384111533404217",
+   "user": "n_kata",
+   "created_utc": "2026-11-13T23:26:00Z",
+   "created_jst": "2026-11-14T08:26:00+09:00",
+   "ts": 1794612360,
+   "metrics": {
+    "impression_count": 441082,
+    "like_count": 1664,
+    "retweet_count": 355,
+    "reply_count": 43,
+    "quote_count": 42,
+    "bookmark_count": 122
+   },
+   "text": "新型コロナで亡くなった人見たら、そりゃこう思うよなあ。17万人が亡くなったんだもん。\n\n病院にお見舞いにも行けなかった。死んでも骨になるまで会えなかった。\n\nワクチンで亡くなった人を見た人って何人いるんだろう。\n2人くらいはいるんだろうけど、\nあんた見てんの？\n\n新型コロナでの死亡者は17万人居ますけど。\n\n何を言ってもそれが事実なんですよ。\n\n加藤茶さん「志村が教えてくれた」　心不全の危機を脱し新型コロナ予防、命を守る妻の工夫 https://t.co/l3Mc6pXz1x @Sankei_newsより",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院",
+    "新型コロナ",
+    "ワクチン"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2110156653580656848",
    "url": "https://x.com/Imaha486/status/2110156653580656848",
    "user": "Imaha486",
@@ -7382,6 +7493,39 @@
    "lang": "ja"
   },
   {
+   "id": "2121125735008190654",
+   "url": "https://x.com/SOU_BTC/status/2121125735008190654",
+   "user": "SOU_BTC",
+   "created_utc": "2026-11-13T06:19:18Z",
+   "created_jst": "2026-11-13T15:19:18+09:00",
+   "ts": 1794550758,
+   "metrics": {
+    "impression_count": 374564,
+    "like_count": 4486,
+    "retweet_count": 566,
+    "reply_count": 155,
+    "quote_count": 227,
+    "bookmark_count": 171
+   },
+   "text": "【速報】🇺🇸 NVIDIA社員、ジェンスン・フアン氏のCEO復帰を求める署名活動を開始\n\n・社員らがフアン氏のCEO復帰を要求 https://t.co/JriIMpzhc5",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Nvidia"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW_Am7Da8AAzo-Y.jpg",
+     "width": 1086,
+     "height": 1084
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2120202353907486826",
    "url": "https://x.com/OpenAI/status/2120202353907486826",
    "user": "OpenAI",
@@ -7418,6 +7562,32 @@
    ],
    "lang": "en",
    "text_ja": "OpenAIを守ってきた経験から得た教訓を、お客様向けの実用的なツールに変えています。木曜日に開催するライブ基調講演「Cyber at the Frontier」で、最新のサイバー関連の発表をお届けします。\n\n私たちはフロンティアモデルを活用し、自社のコードとインフラにある重要な脆弱性を特定・修正しました。この経験が、他のセキュリティチームの防御強化を支援するツールやプレイブックの開発に生かされています。\n\n@gdb が、私たちが学んだことと、モデルの能力向上に合わせてセキュリティチームが最新モデルを使い続けるべき理由を語ります。\n\n11月12日午前10時（太平洋時間）に視聴: https://t.co/jYly2SEDM0"
+  },
+  {
+   "id": "2121377739647119442",
+   "url": "https://x.com/nikkei/status/2121377739647119442",
+   "user": "nikkei",
+   "created_utc": "2026-11-13T23:00:41Z",
+   "created_jst": "2026-11-14T08:00:41+09:00",
+   "ts": 1794610841,
+   "metrics": {
+    "impression_count": 363369,
+    "like_count": 624,
+    "retweet_count": 163,
+    "reply_count": 103,
+    "quote_count": 242,
+    "bookmark_count": 105
+   },
+   "text": "動いた農林中金、AI株を「底値買い」\nhttps://t.co/rs6o2lWAf0\n\n農林中金は半導体株のETF投資に踏み切りました。米中間選挙で民主党が勝利した後、AI銘柄はさえない値動きですが「AIが成長するストーリーは変わらない」と担当者は分析しています。",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
   },
   {
    "id": "2110442001749659890",
@@ -7520,6 +7690,34 @@
    "is_watched": false,
    "media": [],
    "lang": "ja"
+  },
+  {
+   "id": "2121272083863011714",
+   "url": "https://x.com/AnthropicAI/status/2121272083863011714",
+   "user": "AnthropicAI",
+   "created_utc": "2026-11-13T16:00:50Z",
+   "created_jst": "2026-11-14T01:00:50+09:00",
+   "ts": 1794585650,
+   "metrics": {
+    "impression_count": 353599,
+    "like_count": 2135,
+    "retweet_count": 152,
+    "reply_count": 246,
+    "quote_count": 90,
+    "bookmark_count": 431
+   },
+   "text": "Streaming live at 12 PM ET: A fireside chat with JPMorgan CEO Jamie Dimon and @DarioAmodei. https://t.co/0L1FwTtEgD\n \nLegal disclaimer: Anthropic has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before",
+   "categories": [
+    "ビジネス・業界",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "Anthropic"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "en",
+   "text_ja": "米東部時間正午よりライブ配信：JPモルガンCEOのジェイミー・ダイモン氏と @DarioAmodei によるファイヤーサイド・チャット。https://t.co/0L1FwTtEgD\n \n免責事項：Anthropic は、本発表に関連する募集について、目論見書を含む登録届出書を米SECに提出しています。"
   },
   {
    "id": "2116186509384815084",
@@ -7650,37 +7848,6 @@
     "AI"
    ],
    "is_watched": false,
-   "media": [],
-   "lang": "ja"
-  },
-  {
-   "id": "2121125600840888361",
-   "url": "https://x.com/Joint_kaigo/status/2121125600840888361",
-   "user": "Joint_kaigo",
-   "created_utc": "2026-11-13T06:18:46Z",
-   "created_jst": "2026-11-13T15:18:46+09:00",
-   "ts": 1794550726,
-   "metrics": {
-    "impression_count": 340045,
-    "like_count": 2884,
-    "retweet_count": 398,
-    "reply_count": 100,
-    "quote_count": 354,
-    "bookmark_count": 194
-   },
-   "text": "看護職員の「離職・流出が加速」　看護協会が警鐘　上野厚労相に賃上げを要請\nhttps://t.co/I9N5SlueNl\n#介護 #ケアマネ #医療 #看護",
-   "categories": [
-    "医療ニュース",
-    "介護・福祉",
-    "監視アカウント"
-   ],
-   "matched_terms": [
-    "看護",
-    "医療",
-    "介護",
-    "ケアマネ"
-   ],
-   "is_watched": true,
    "media": [],
    "lang": "ja"
   },
@@ -9020,39 +9187,6 @@
    "lang": "ja"
   },
   {
-   "id": "2121125735008190654",
-   "url": "https://x.com/SOU_BTC/status/2121125735008190654",
-   "user": "SOU_BTC",
-   "created_utc": "2026-11-13T06:19:18Z",
-   "created_jst": "2026-11-13T15:19:18+09:00",
-   "ts": 1794550758,
-   "metrics": {
-    "impression_count": 245944,
-    "like_count": 3470,
-    "retweet_count": 445,
-    "reply_count": 113,
-    "quote_count": 196,
-    "bookmark_count": 123
-   },
-   "text": "【速報】🇺🇸 NVIDIA社員、ジェンスン・フアン氏のCEO復帰を求める署名活動を開始\n\n・社員らがフアン氏のCEO復帰を要求 https://t.co/JriIMpzhc5",
-   "categories": [
-    "ビジネス・業界"
-   ],
-   "matched_terms": [
-    "Nvidia"
-   ],
-   "is_watched": false,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HW_Am7Da8AAzo-Y.jpg",
-     "width": 1086,
-     "height": 1084
-    }
-   ],
-   "lang": "ja"
-  },
-  {
    "id": "2110204194569519347",
    "url": "https://x.com/DHUniv/status/2110204194569519347",
    "user": "DHUniv",
@@ -9335,6 +9469,33 @@
     }
    ],
    "lang": "ja"
+  },
+  {
+   "id": "2121411147714970092",
+   "url": "https://x.com/cursor_ai/status/2121411147714970092",
+   "user": "cursor_ai",
+   "created_utc": "2026-11-14T01:13:26Z",
+   "created_jst": "2026-11-14T10:13:26+09:00",
+   "ts": 1794618806,
+   "metrics": {
+    "impression_count": 231295,
+    "like_count": 1544,
+    "retweet_count": 123,
+    "reply_count": 157,
+    "quote_count": 113,
+    "bookmark_count": 491
+   },
+   "text": "We’ve published an update on our recent security incident. See a detailed overview of what happened and our remediation steps here: https://t.co/2lf6lRJPlL",
+   "categories": [
+    "ビジネス・業界",
+    "ツール・活用",
+    "監視アカウント"
+   ],
+   "matched_terms": [],
+   "is_watched": true,
+   "media": [],
+   "lang": "en",
+   "text_ja": "最近のセキュリティインシデントについての最新情報を公開しました。何が起きたか、および是正措置の詳細はこちらをご覧ください: https://t.co/2lf6lRJPlL"
   },
   {
    "id": "2117164858986946774",
@@ -9916,6 +10077,51 @@
    "lang": "ja"
   },
   {
+   "id": "2121156738498060560",
+   "url": "https://x.com/drlion1111/status/2121156738498060560",
+   "user": "drlion1111",
+   "created_utc": "2026-11-13T08:22:30Z",
+   "created_jst": "2026-11-13T17:22:30+09:00",
+   "ts": 1794558150,
+   "metrics": {
+    "impression_count": 206042,
+    "like_count": 347,
+    "retweet_count": 31,
+    "reply_count": 7,
+    "quote_count": 32,
+    "bookmark_count": 134
+   },
+   "text": "◾️PCI治療件数ランキングTOP74\n冠動脈カテーテル、1位の病院は急性心筋梗塞より狭心症が12.22倍も多い？\n本当に必要な治療だけやっているのでしょうか🤔\n　　　　　　　　↓ https://t.co/fjrOyWe5Hk",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW_cz21aMAA36Cg.jpg",
+     "width": 1582,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW_cz2_asAAiUri.jpg",
+     "width": 1582,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW_cz21bQAA7Gik.jpg",
+     "width": 1582,
+     "height": 2048
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2112465092281307289",
    "url": "https://x.com/livedoornews/status/2112465092281307289",
    "user": "livedoornews",
@@ -10188,6 +10394,34 @@
    "lang": "ja"
   },
   {
+   "id": "2121317227618340990",
+   "url": "https://x.com/AnthropicAI/status/2121317227618340990",
+   "user": "AnthropicAI",
+   "created_utc": "2026-11-13T19:00:13Z",
+   "created_jst": "2026-11-14T04:00:13+09:00",
+   "ts": 1794596413,
+   "metrics": {
+    "impression_count": 192742,
+    "like_count": 1940,
+    "retweet_count": 172,
+    "reply_count": 377,
+    "quote_count": 108,
+    "bookmark_count": 691
+   },
+   "text": "Safety evaluations are critical for understanding whether a model is ready to deploy, which safeguards to build for it, and where to focus training and research.\n\nOn our Engineering Blog, we offer 10 recommendations for how to design, run and report them.\n\nhttps://t.co/MtSQmqqi2D",
+   "categories": [
+    "研究・論文",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "research"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "en",
+   "text_ja": "安全性評価は、モデルを展開できる状態か、どのような安全策を構築すべきか、訓練や研究のどこに注力すべきかを理解するうえで不可欠です。\n\nエンジニアリングブログで、その設計・実施・報告に関する10の推奨事項を紹介しています。\n\nhttps://t.co/MtSQmqqi2D"
+  },
+  {
    "id": "2116472289411936606",
    "url": "https://x.com/yuana_nurse/status/2116472289411936606",
    "user": "yuana_nurse",
@@ -10400,32 +10634,6 @@
     "医師",
     "入院",
     "患者"
-   ],
-   "is_watched": false,
-   "media": [],
-   "lang": "ja"
-  },
-  {
-   "id": "2121167303836307463",
-   "url": "https://x.com/nikkei/status/2121167303836307463",
-   "user": "nikkei",
-   "created_utc": "2026-11-13T09:04:29Z",
-   "created_jst": "2026-11-13T18:04:29+09:00",
-   "ts": 1794560669,
-   "metrics": {
-    "impression_count": 183551,
-    "like_count": 385,
-    "retweet_count": 110,
-    "reply_count": 52,
-    "quote_count": 157,
-    "bookmark_count": 98
-   },
-   "text": "ついに動いた農林中金、異例のAI株投資　「目先より成長」\nhttps://t.co/aw4GcIMphz",
-   "categories": [
-    "ビジネス・業界"
-   ],
-   "matched_terms": [
-    "AI"
    ],
    "is_watched": false,
    "media": [],
@@ -12281,6 +12489,37 @@
    "lang": "ja"
   },
   {
+   "id": "2121461318293258259",
+   "url": "https://x.com/Hs1Ur/status/2121461318293258259",
+   "user": "Hs1Ur",
+   "created_utc": "2026-11-14T04:32:47Z",
+   "created_jst": "2026-11-14T13:32:47+09:00",
+   "ts": 1794630767,
+   "metrics": {
+    "impression_count": 140107,
+    "like_count": 811,
+    "retweet_count": 106,
+    "reply_count": 21,
+    "quote_count": 13,
+    "bookmark_count": 39
+   },
+   "text": "救急医療を支える看護師の賃上げが月4,000円、現場の過酷さをあまりにも軽視している。人手不足、夜勤、緊急対応、重い責任を背負い、心身を削って働く人たちへの評価がこの程度か。さらに最終目標が3％というのも糞。物価高騰に追いつくかどうかの数字を、さも手厚い処遇改善のように掲げる政府の感覚が意味不明。看護師を本気で守る気があるなら、恒久的かつ抜本的な賃上げを実行すべき。というか、お前らみたいに居眠りしてて給料は貰えないんだよ。",
+   "categories": [
+    "医療ニュース",
+    "制度・報酬改定"
+   ],
+   "matched_terms": [
+    "看護師",
+    "看護",
+    "医療",
+    "救急",
+    "処遇改善"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2117208194321932491",
    "url": "https://x.com/n_kata/status/2117208194321932491",
    "user": "n_kata",
@@ -12340,6 +12579,35 @@
    "text_ja": "本日、Gemini 4 Carbon の先行版を公開しました。\n\n@ArtificialAnlys の Intelligence Index v5 でスコア59（Argon比+9ポイント）を記録して1位となり、複雑な推論・知識・科学タスクの全般でトップです。 https://t.co/TGv00YmWr5"
   },
   {
+   "id": "2121169022112944521",
+   "url": "https://x.com/Sankei_news/status/2121169022112944521",
+   "user": "Sankei_news",
+   "created_utc": "2026-11-13T09:11:18Z",
+   "created_jst": "2026-11-13T18:11:18+09:00",
+   "ts": 1794561078,
+   "metrics": {
+    "impression_count": 133915,
+    "like_count": 1506,
+    "retweet_count": 274,
+    "reply_count": 117,
+    "quote_count": 124,
+    "bookmark_count": 51
+   },
+   "text": "自民・維新、70歳以上の医療費の窓口負担見直し　3割負担の対象者拡大など検討\nhttps://t.co/61LRUT87aa\n\n自民党と日本維新の会は、社会保障制度改革を巡る実務者協議を国会内で開き、70歳以上の高齢者が支払う医療費の窓口負担引き上げに向けた論点整理を進めることで一致した。",
+   "categories": [
+    "医療ニュース",
+    "制度・報酬改定"
+   ],
+   "matched_terms": [
+    "医療",
+    "医療費",
+    "社会保障"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2120348537838002230",
    "url": "https://x.com/YahooNewsTopics/status/2120348537838002230",
    "user": "YahooNewsTopics",
@@ -12390,6 +12658,39 @@
    ],
    "is_watched": false,
    "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121520779217252451",
+   "url": "https://x.com/SOU_BTC/status/2121520779217252451",
+   "user": "SOU_BTC",
+   "created_utc": "2026-11-14T08:29:04Z",
+   "created_jst": "2026-11-14T17:29:04+09:00",
+   "ts": 1794644944,
+   "metrics": {
+    "impression_count": 133233,
+    "like_count": 1919,
+    "retweet_count": 245,
+    "reply_count": 49,
+    "quote_count": 65,
+    "bookmark_count": 89
+   },
+   "text": "【速報】🇺🇸 NVIDIAフアン元CEOの復帰署名、6万5000人突破と報道\n\n・株主3万5000人以上が署名\n・現役・元従業員4700人も参加\n・イーロン・マスク氏も署名し、復帰を支持 https://t.co/AcTaAqEoiO",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Nvidia"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXEn5nuaoAAMiPe.jpg",
+     "width": 554,
+     "height": 554
+    }
+   ],
    "lang": "ja"
   },
   {
@@ -13501,51 +13802,6 @@
    "text_ja": "目線を上げたまま、1日をスムーズに。インテリジェントアイウェアの Gemini で。\n\n「Hey Gemini」と話しかけるだけで、ストリートアートを調べたり、目の前の棚から本のおすすめを聞いたり、リアルタイム翻訳をしたり、予定を確認したりできます。\n\n新しいインテリジェントアイウェアのコレクションをチェックして予約注文: https://t.co/SMb7DsWH3p"
   },
   {
-   "id": "2121156738498060560",
-   "url": "https://x.com/drlion1111/status/2121156738498060560",
-   "user": "drlion1111",
-   "created_utc": "2026-11-13T08:22:30Z",
-   "created_jst": "2026-11-13T17:22:30+09:00",
-   "ts": 1794558150,
-   "metrics": {
-    "impression_count": 119720,
-    "like_count": 203,
-    "retweet_count": 18,
-    "reply_count": 3,
-    "quote_count": 20,
-    "bookmark_count": 88
-   },
-   "text": "◾️PCI治療件数ランキングTOP74\n冠動脈カテーテル、1位の病院は急性心筋梗塞より狭心症が12.22倍も多い？\n本当に必要な治療だけやっているのでしょうか🤔\n　　　　　　　　↓ https://t.co/fjrOyWe5Hk",
-   "categories": [
-    "医療ニュース"
-   ],
-   "matched_terms": [
-    "病院"
-   ],
-   "is_watched": false,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HW_cz21aMAA36Cg.jpg",
-     "width": 1582,
-     "height": 2048
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HW_cz2_asAAiUri.jpg",
-     "width": 1582,
-     "height": 2048
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HW_cz21bQAA7Gik.jpg",
-     "width": 1582,
-     "height": 2048
-    }
-   ],
-   "lang": "ja"
-  },
-  {
    "id": "2115270329392418894",
    "url": "https://x.com/studio_yebisu/status/2115270329392418894",
    "user": "studio_yebisu",
@@ -14051,6 +14307,34 @@
    "is_watched": false,
    "media": [],
    "lang": "ja"
+  },
+  {
+   "id": "2121363868425306372",
+   "url": "https://x.com/GeminiApp/status/2121363868425306372",
+   "user": "GeminiApp",
+   "created_utc": "2026-11-13T22:05:33Z",
+   "created_jst": "2026-11-14T07:05:33+09:00",
+   "ts": 1794607533,
+   "metrics": {
+    "impression_count": 114276,
+    "like_count": 1836,
+    "retweet_count": 122,
+    "reply_count": 118,
+    "quote_count": 49,
+    "bookmark_count": 922
+   },
+   "text": "Go from idea to finished video with Gemini 4 Hydrogen.\n\nUsing a custom skill and simple brief, Gemini 4 Hydrogen created a sizzle reel about the element “Hydrogen,\" sourcing public-domain archival footage and cutting it into one continuous edit with clean narration.",
+   "categories": [
+    "新モデル・発表",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "Gemini"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "en",
+   "text_ja": "Gemini 4 Hydrogen で、アイデアから完成動画まで。\n\nカスタムスキルと簡単な指示書だけで、Gemini 4 Hydrogen は元素「水素」のシズルリール（紹介映像）を作成しました。パブリックドメインの記録映像を探し出し、クリーンなナレーションを付けて一本の連続した編集にまとめています。"
   },
   {
    "id": "2116273941354324308",
@@ -15509,6 +15793,35 @@
    "lang": "ja"
   },
   {
+   "id": "2121177568044798299",
+   "url": "https://x.com/ImAI_Eruel/status/2121177568044798299",
+   "user": "ImAI_Eruel",
+   "created_utc": "2026-11-13T09:45:16Z",
+   "created_jst": "2026-11-13T18:45:16+09:00",
+   "ts": 1794563116,
+   "metrics": {
+    "impression_count": 99440,
+    "like_count": 1267,
+    "retweet_count": 174,
+    "reply_count": 35,
+    "quote_count": 33,
+    "bookmark_count": 144
+   },
+   "text": "私自身は、NVIDIAの革ジャン復活の可能性はまだあるとみています。 大統領本人やNVIDIA内部、テック業界の支持がまだ維持されているのと、経済が彼に依存している部分が大きすぎるので、取締役会が内外の人と経済的な圧力に耐えきれなくなる可能性。\n 安全保障については、DeepSeek CEOの発言を見る限りでも、中国は既に半導体産業の自立方向（NVIDIAのGPUやCUDAからの離脱）に舵を切っているので、今さら革ジャンを解任したところで、今後の流れに影響するとは思えない（過去の安全保障上のやらかしは、それはそれで別の処分でいいはず）。",
+   "categories": [
+    "新モデル・発表",
+    "ビジネス・業界",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "DeepSeek",
+    "Nvidia"
+   ],
+   "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2111603735956791563",
    "url": "https://x.com/nikkei/status/2111603735956791563",
    "user": "nikkei",
@@ -16347,6 +16660,33 @@
     "医師",
     "医療",
     "診療"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121374165668139483",
+   "url": "https://x.com/nikkei/status/2121374165668139483",
+   "user": "nikkei",
+   "created_utc": "2026-11-13T22:46:28Z",
+   "created_jst": "2026-11-14T07:46:28+09:00",
+   "ts": 1794609988,
+   "metrics": {
+    "impression_count": 90410,
+    "like_count": 332,
+    "retweet_count": 117,
+    "reply_count": 9,
+    "quote_count": 24,
+    "bookmark_count": 59
+   },
+   "text": "AIデータセンター向け債務拡大、「規模を把握できず」　FRBが警鐘\nhttps://t.co/GGyQEIOxaX",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "データセンター",
+    "AI"
    ],
    "is_watched": false,
    "media": [],
@@ -17867,6 +18207,34 @@
    "lang": "ja"
   },
   {
+   "id": "2121270060945961308",
+   "url": "https://x.com/SOU_BTC/status/2121270060945961308",
+   "user": "SOU_BTC",
+   "created_utc": "2026-11-13T15:52:48Z",
+   "created_jst": "2026-11-14T00:52:48+09:00",
+   "ts": 1794585168,
+   "metrics": {
+    "impression_count": 76796,
+    "like_count": 758,
+    "retweet_count": 97,
+    "reply_count": 7,
+    "quote_count": 12,
+    "bookmark_count": 49
+   },
+   "text": "【速報】Anthropic、中国本土・香港の投資家をIPOから排除する方針か\n\n・新規株式公開（IPO）への参加対象から除外を目指す\n・Bloombergが報道",
+   "categories": [
+    "新モデル・発表",
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Anthropic",
+    "IPO"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2119986768640376880",
    "url": "https://x.com/nikkei/status/2119986768640376880",
    "user": "nikkei",
@@ -18283,6 +18651,57 @@
    "lang": "ja"
   },
   {
+   "id": "2121485914539196756",
+   "url": "https://x.com/drlion1111/status/2121485914539196756",
+   "user": "drlion1111",
+   "created_utc": "2026-11-14T06:10:31Z",
+   "created_jst": "2026-11-14T15:10:31+09:00",
+   "ts": 1794636631,
+   "metrics": {
+    "impression_count": 74539,
+    "like_count": 106,
+    "retweet_count": 12,
+    "reply_count": 0,
+    "quote_count": 2,
+    "bookmark_count": 67
+   },
+   "text": "◾️胃がんのオペと内視鏡切除件数が多い病院ランキングTOP100\n胃がんの治療件数が多い上位の病院では、内視鏡切除の比率も高いです。\n胃切除の方が多い病院は、100位までにあるのでしょうか？\n　　　　　　　　↓ https://t.co/ttYWEaCaF6",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXEIMa4awAAsWIT.jpg",
+     "width": 1554,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXEIMa9aoAAXIzN.jpg",
+     "width": 1554,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXEIMa6aMAAOHuc.jpg",
+     "width": 1554,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXEIMa6bcAA5-Px.jpg",
+     "width": 1554,
+     "height": 2048
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2114261945696317873",
    "url": "https://x.com/YahooNewsTopics/status/2114261945696317873",
    "user": "YahooNewsTopics",
@@ -18673,6 +19092,37 @@
    "lang": "ja"
   },
   {
+   "id": "2121259973917503536",
+   "url": "https://x.com/SOU_BTC/status/2121259973917503536",
+   "user": "SOU_BTC",
+   "created_utc": "2026-11-13T15:12:43Z",
+   "created_jst": "2026-11-14T00:12:43+09:00",
+   "ts": 1794582763,
+   "metrics": {
+    "impression_count": 71423,
+    "like_count": 397,
+    "retweet_count": 54,
+    "reply_count": 23,
+    "quote_count": 27,
+    "bookmark_count": 55
+   },
+   "text": "【速報】OpenAI、AIが買い物を代行する「ChatGPT Wallet」を提供開始\n\n・AIエージェントがユーザーに代わって商品を購入\n・クレジットカードを登録し、決済まで代行\n・購入時は本人の承認が必要",
+   "categories": [
+    "新モデル・発表",
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "OpenAI",
+    "ChatGPT",
+    "AIエージェント",
+    "エージェント",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2119595928843874500",
    "url": "https://x.com/MHLWitter/status/2119595928843874500",
    "user": "MHLWitter",
@@ -19050,6 +19500,32 @@
    ],
    "matched_terms": [
     "活用",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121406258263773512",
+   "url": "https://x.com/YahooNewsTopics/status/2121406258263773512",
+   "user": "YahooNewsTopics",
+   "created_utc": "2026-11-14T00:54:00Z",
+   "created_jst": "2026-11-14T09:54:00+09:00",
+   "ts": 1794617640,
+   "metrics": {
+    "impression_count": 68389,
+    "like_count": 50,
+    "retweet_count": 24,
+    "reply_count": 6,
+    "quote_count": 3,
+    "bookmark_count": 7
+   },
+   "text": "【FRB 市場の最大脅威は「AI関連」】\nhttps://t.co/u9ZtVg1V98",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
     "AI"
    ],
    "is_watched": false,
@@ -20204,6 +20680,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121440825741877644",
+   "url": "https://x.com/ochyai/status/2121440825741877644",
+   "user": "ochyai",
+   "created_utc": "2026-11-14T03:11:21Z",
+   "created_jst": "2026-11-14T12:11:21+09:00",
+   "ts": 1794625881,
+   "metrics": {
+    "impression_count": 63855,
+    "like_count": 568,
+    "retweet_count": 81,
+    "reply_count": 7,
+    "quote_count": 24,
+    "bookmark_count": 201
+   },
+   "text": "落合陽一｢肩書や資格で生きてきた人はただのおじさんに戻る｣…AIが答えを出す時代､論理的思考は王座を降りる #プレジデントオンライン https://t.co/Bo06OVntM4",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2111119118518960262",
    "url": "https://x.com/nicosokufx/status/2111119118518960262",
    "user": "nicosokufx",
@@ -20924,6 +21426,33 @@
    "lang": "ja"
   },
   {
+   "id": "2121385238962061755",
+   "url": "https://x.com/nikkei/status/2121385238962061755",
+   "user": "nikkei",
+   "created_utc": "2026-11-13T23:30:29Z",
+   "created_jst": "2026-11-14T08:30:29+09:00",
+   "ts": 1794612629,
+   "metrics": {
+    "impression_count": 59201,
+    "like_count": 89,
+    "retweet_count": 18,
+    "reply_count": 9,
+    "quote_count": 3,
+    "bookmark_count": 14
+   },
+   "text": "GMO、AIサーバー投資196億円縮小\nhttps://t.co/AzYwL1CBjW\n\n生成AIの開発に使うサーバーへの投資額を65億円に下げると発表。当初想定より高性能な製品を入手できるメドがたち、計画を見直しました。",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI",
+    "生成AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2116664261309288510",
    "url": "https://x.com/YahooNewsTopics/status/2116664261309288510",
    "user": "YahooNewsTopics",
@@ -21161,6 +21690,32 @@
     "bookmark_count": 35
    },
    "text": "韓国でAI悪用し800万超の個人情報入手か グループ検挙\nhttps://t.co/WenVv1XGnG #nhk_news",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121484895071408325",
+   "url": "https://x.com/nikkei/status/2121484895071408325",
+   "user": "nikkei",
+   "created_utc": "2026-11-14T06:06:28Z",
+   "created_jst": "2026-11-14T15:06:28+09:00",
+   "ts": 1794636388,
+   "metrics": {
+    "impression_count": 58013,
+    "like_count": 215,
+    "retweet_count": 137,
+    "reply_count": 7,
+    "quote_count": 28,
+    "bookmark_count": 15
+   },
+   "text": "マイクロソフト障害が全面復旧　メールやAI、ほぼ丸1日経て\nhttps://t.co/oSemwk9ZMU",
    "categories": [
     "ビジネス・業界"
    ],
@@ -22867,6 +23422,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121254878819319976",
+   "url": "https://x.com/nikkei/status/2121254878819319976",
+   "user": "nikkei",
+   "created_utc": "2026-11-13T14:52:28Z",
+   "created_jst": "2026-11-13T23:52:28+09:00",
+   "ts": 1794581548,
+   "metrics": {
+    "impression_count": 52782,
+    "like_count": 107,
+    "retweet_count": 44,
+    "reply_count": 10,
+    "quote_count": 10,
+    "bookmark_count": 15
+   },
+   "text": "マイクロソフト依存露呈の官民　メールやAI、クラウドにデータ集中\nhttps://t.co/ADaZna0fDw",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2114461787513073899",
    "url": "https://x.com/Hs1Ur/status/2114461787513073899",
    "user": "Hs1Ur",
@@ -22926,35 +23507,6 @@
     "AI"
    ],
    "is_watched": false,
-   "media": [],
-   "lang": "ja"
-  },
-  {
-   "id": "2121177568044798299",
-   "url": "https://x.com/ImAI_Eruel/status/2121177568044798299",
-   "user": "ImAI_Eruel",
-   "created_utc": "2026-11-13T09:45:16Z",
-   "created_jst": "2026-11-13T18:45:16+09:00",
-   "ts": 1794563116,
-   "metrics": {
-    "impression_count": 52623,
-    "like_count": 806,
-    "retweet_count": 110,
-    "reply_count": 21,
-    "quote_count": 24,
-    "bookmark_count": 96
-   },
-   "text": "私自身は、NVIDIAの革ジャン復活の可能性はまだあるとみています。 大統領本人やNVIDIA内部、テック業界の支持がまだ維持されているのと、経済が彼に依存している部分が大きすぎるので、取締役会が内外の人と経済的な圧力に耐えきれなくなる可能性。\n 安全保障については、DeepSeek CEOの発言を見る限りでも、中国は既に半導体産業の自立方向（NVIDIAのGPUやCUDAからの離脱）に舵を切っているので、今さら革ジャンを解任したところで、今後の流れに影響するとは思えない（過去の安全保障上のやらかしは、それはそれで別の処分でいいはず）。",
-   "categories": [
-    "新モデル・発表",
-    "ビジネス・業界",
-    "監視アカウント"
-   ],
-   "matched_terms": [
-    "DeepSeek",
-    "Nvidia"
-   ],
-   "is_watched": true,
    "media": [],
    "lang": "ja"
   },
@@ -24370,6 +24922,34 @@
    "lang": "ja"
   },
   {
+   "id": "2121252364841570732",
+   "url": "https://x.com/nikkei/status/2121252364841570732",
+   "user": "nikkei",
+   "created_utc": "2026-11-13T14:42:29Z",
+   "created_jst": "2026-11-13T23:42:29+09:00",
+   "ts": 1794580949,
+   "metrics": {
+    "impression_count": 48267,
+    "like_count": 156,
+    "retweet_count": 44,
+    "reply_count": 24,
+    "quote_count": 12,
+    "bookmark_count": 18
+   },
+   "text": "70歳以上医療費、3割負担対象増へ与党に3案　年齢上げ･所得基準変更\nhttps://t.co/ilEWNRftuI",
+   "categories": [
+    "制度・報酬改定",
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "医療",
+    "医療費"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2115722429691490326",
    "url": "https://x.com/nikkei/status/2115722429691490326",
    "user": "nikkei",
@@ -24584,6 +25164,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121174721316212994",
+   "url": "https://x.com/nikkei/status/2121174721316212994",
+   "user": "nikkei",
+   "created_utc": "2026-11-13T09:33:57Z",
+   "created_jst": "2026-11-13T18:33:57+09:00",
+   "ts": 1794562437,
+   "metrics": {
+    "impression_count": 47741,
+    "like_count": 55,
+    "retweet_count": 29,
+    "reply_count": 6,
+    "quote_count": 4,
+    "bookmark_count": 6
+   },
+   "text": "マイクロソフト障害、首相が関係省庁に対応指示「医療や金融被害なし」\nhttps://t.co/VQTblG6XvZ",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "医療"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2115552812784378336",
    "url": "https://x.com/nikkei/status/2115552812784378336",
    "user": "nikkei",
@@ -24730,6 +25336,40 @@
      "height": 720,
      "video_url": "https://video.twimg.com/amplify_video/2113782004416389120/vid/avc1/1280x720/b96jE-9aq4pJbP0f.mp4",
      "view_count": 16905
+    }
+   ],
+   "lang": "ja"
+  },
+  {
+   "id": "2121214854409441328",
+   "url": "https://x.com/Hs1Ur/status/2121214854409441328",
+   "user": "Hs1Ur",
+   "created_utc": "2026-11-13T12:13:26Z",
+   "created_jst": "2026-11-13T21:13:26+09:00",
+   "ts": 1794572006,
+   "metrics": {
+    "impression_count": 47487,
+    "like_count": 112,
+    "retweet_count": 6,
+    "reply_count": 28,
+    "quote_count": 12,
+    "bookmark_count": 5
+   },
+   "text": "正直に答えよ\n\n中堅以上の看護師\n\nめっちゃ緊急時、12誘導心電図適当に貼ってるやろ！！ https://t.co/jRUnEMdNQu",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "看護師",
+    "看護"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXARnJxbYAAl8kq.jpg",
+     "width": 1536,
+     "height": 1024
     }
    ],
    "lang": "ja"
@@ -24976,6 +25616,34 @@
     "AI"
    ],
    "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121171947149201732",
+   "url": "https://x.com/ImAI_Eruel/status/2121171947149201732",
+   "user": "ImAI_Eruel",
+   "created_utc": "2026-11-13T09:22:56Z",
+   "created_jst": "2026-11-13T18:22:56+09:00",
+   "ts": 1794561776,
+   "metrics": {
+    "impression_count": 47014,
+    "like_count": 650,
+    "retweet_count": 56,
+    "reply_count": 11,
+    "quote_count": 4,
+    "bookmark_count": 42
+   },
+   "text": "今日の報道ステーションに、今回のNVIDIA革ジャン辞任劇に関して私のコメントが出るかもしれません。\n基本的には、革ジャンが替えが効かない人材であり、現在のAI業界への貢献は計り知れない、という話をしました。\n（そもそもの問題となった案件は特に質問はされなかったのですが、それはそれとして「適切な」処分であればいいと思います。）",
+   "categories": [
+    "ビジネス・業界",
+    "監視アカウント"
+   ],
+   "matched_terms": [
+    "Nvidia",
+    "AI"
+   ],
+   "is_watched": true,
    "media": [],
    "lang": "ja"
   },
@@ -27542,6 +28210,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121080648777756825",
+   "url": "https://x.com/uhouhonurse/status/2121080648777756825",
+   "user": "uhouhonurse",
+   "created_utc": "2026-11-13T03:20:09Z",
+   "created_jst": "2026-11-13T12:20:09+09:00",
+   "ts": 1794540009,
+   "metrics": {
+    "impression_count": 41810,
+    "like_count": 40,
+    "retweet_count": 1,
+    "reply_count": 5,
+    "quote_count": 0,
+    "bookmark_count": 3
+   },
+   "text": "医療従事者の人達なら、、\nこれは病的だって思っちゃうかも、、 https://t.co/sAlVsdcM6f",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "医療"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2109140933946310960",
    "url": "https://x.com/CwpTBjqHIwuEnyf/status/2109140933946310960",
    "user": "CwpTBjqHIwuEnyf",
@@ -28486,6 +29180,33 @@
    ],
    "matched_terms": [
     "介護"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121396752544858180",
+   "url": "https://x.com/Sankei_news/status/2121396752544858180",
+   "user": "Sankei_news",
+   "created_utc": "2026-11-14T00:16:14Z",
+   "created_jst": "2026-11-14T09:16:14+09:00",
+   "ts": 1794615374,
+   "metrics": {
+    "impression_count": 40155,
+    "like_count": 479,
+    "retweet_count": 327,
+    "reply_count": 17,
+    "quote_count": 32,
+    "bookmark_count": 35
+   },
+   "text": "米マイクロソフト、大規模障害を謝罪　広い範囲で回復も完全復旧の見通し立たず\nhttps://t.co/w3Tf8i2LzS\n\n障害の原因はサイバー攻撃や人工知能（AI）が関わるものではなく、通信網の増強作業で生じた技術的な問題だったと説明した。",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI",
+    "人工知能"
    ],
    "is_watched": false,
    "media": [],
@@ -29470,32 +30191,6 @@
    "lang": "ja"
   },
   {
-   "id": "2121174721316212994",
-   "url": "https://x.com/nikkei/status/2121174721316212994",
-   "user": "nikkei",
-   "created_utc": "2026-11-13T09:33:57Z",
-   "created_jst": "2026-11-13T18:33:57+09:00",
-   "ts": 1794562437,
-   "metrics": {
-    "impression_count": 39109,
-    "like_count": 49,
-    "retweet_count": 28,
-    "reply_count": 6,
-    "quote_count": 4,
-    "bookmark_count": 4
-   },
-   "text": "マイクロソフト障害、首相が関係省庁に対応指示「医療や金融被害なし」\nhttps://t.co/VQTblG6XvZ",
-   "categories": [
-    "医療ニュース"
-   ],
-   "matched_terms": [
-    "医療"
-   ],
-   "is_watched": false,
-   "media": [],
-   "lang": "ja"
-  },
-  {
    "id": "2114653075277238727",
    "url": "https://x.com/nikkei/status/2114653075277238727",
    "user": "nikkei",
@@ -29961,6 +30656,39 @@
    "lang": "ja"
   },
   {
+   "id": "2121502419465150697",
+   "url": "https://x.com/SOU_BTC/status/2121502419465150697",
+   "user": "SOU_BTC",
+   "created_utc": "2026-11-14T07:16:07Z",
+   "created_jst": "2026-11-14T16:16:07+09:00",
+   "ts": 1794640567,
+   "metrics": {
+    "impression_count": 38585,
+    "like_count": 355,
+    "retweet_count": 34,
+    "reply_count": 7,
+    "quote_count": 4,
+    "bookmark_count": 8
+   },
+   "text": "【速報】🇺🇸 イーロン・マスク氏、フアン氏のCEO退任を巡る騒動の中、NVIDIAの取締役会の信頼性に公然と疑問を呈する\n\n「世界で最も価値のある企業だったNVIDIAの経営判断を、この取締役会が下しているというのか！？」\n\n現在、ジェンセン・フアン氏のNVIDIA CEO復帰を求める署名活動が進められている。 https://t.co/VkiUdGOnCV",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Nvidia"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXEXNBSboAAGP9_.jpg",
+     "width": 880,
+     "height": 495
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2117195202960011769",
    "url": "https://x.com/nikkei/status/2117195202960011769",
    "user": "nikkei",
@@ -30406,6 +31134,35 @@
    "lang": "ja"
   },
   {
+   "id": "2121290615962976377",
+   "url": "https://x.com/nikkei/status/2121290615962976377",
+   "user": "nikkei",
+   "created_utc": "2026-11-13T17:14:29Z",
+   "created_jst": "2026-11-14T02:14:29+09:00",
+   "ts": 1794590069,
+   "metrics": {
+    "impression_count": 38000,
+    "like_count": 60,
+    "retweet_count": 19,
+    "reply_count": 6,
+    "quote_count": 0,
+    "bookmark_count": 14
+   },
+   "text": "NVIDIAファン氏「AI投資の要」不在に　OpenAIや新興支える25兆円\nhttps://t.co/SrwjXPOcH5",
+   "categories": [
+    "新モデル・発表",
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "OpenAI",
+    "Nvidia",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2117009073208189146",
    "url": "https://x.com/T0QBUaDGeD6XUhW/status/2117009073208189146",
    "user": "T0QBUaDGeD6XUhW",
@@ -30739,6 +31496,32 @@
     "bookmark_count": 7
    },
    "text": "エヌビディアCEOが語った「AIの市場は広い」　楽観論に3年目の逆風\nhttps://t.co/ArP46xEFg4",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121373663316296189",
+   "url": "https://x.com/nikkei/status/2121373663316296189",
+   "user": "nikkei",
+   "created_utc": "2026-11-13T22:44:29Z",
+   "created_jst": "2026-11-14T07:44:29+09:00",
+   "ts": 1794609869,
+   "metrics": {
+    "impression_count": 37428,
+    "like_count": 34,
+    "retweet_count": 10,
+    "reply_count": 2,
+    "quote_count": 0,
+    "bookmark_count": 7
+   },
+   "text": "騰勢続く生活必需品株　「ＡＩ離れ」恩恵も割高感浮上\nhttps://t.co/WxL5D30yyE",
    "categories": [
     "ビジネス・業界"
    ],
@@ -32532,6 +33315,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121307223871688846",
+   "url": "https://x.com/nikkei/status/2121307223871688846",
+   "user": "nikkei",
+   "created_utc": "2026-11-13T18:20:28Z",
+   "created_jst": "2026-11-14T03:20:28+09:00",
+   "ts": 1794594028,
+   "metrics": {
+    "impression_count": 35255,
+    "like_count": 40,
+    "retweet_count": 19,
+    "reply_count": 2,
+    "quote_count": 3,
+    "bookmark_count": 8
+   },
+   "text": "GMO、AIサーバー投資196億円縮小　高性能品へ切り替え計画見直し\nhttps://t.co/dCOBnflALg",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2120892762606469589",
    "url": "https://x.com/ImAI_Eruel/status/2120892762606469589",
    "user": "ImAI_Eruel",
@@ -32874,6 +33683,43 @@
    "lang": "ja"
   },
   {
+   "id": "2121321470517551132",
+   "url": "https://x.com/SOU_BTC/status/2121321470517551132",
+   "user": "SOU_BTC",
+   "created_utc": "2026-11-13T19:17:05Z",
+   "created_jst": "2026-11-14T04:17:05+09:00",
+   "ts": 1794597425,
+   "metrics": {
+    "impression_count": 34733,
+    "like_count": 281,
+    "retweet_count": 59,
+    "reply_count": 5,
+    "quote_count": 16,
+    "bookmark_count": 37
+   },
+   "text": "【速報】🇺🇸 NVIDIA、人間から学び、ロボット同士で技能を共有する新AI「GR00T 2」を発表\n\n・人間の実演から技能を学習\n・自らの行動が現実世界に与える影響を予測\n・異なるロボット間で技能を共有し、再学習の手間を削減 https://t.co/c3NUXISPmI",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "Nvidia",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121319812412399616/img/5apOmvILDIB-h0zJ.jpg",
+     "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2121319812412399616/img/5apOmvILDIB-h0zJ.jpg",
+     "width": 1280,
+     "height": 720,
+     "video_url": "https://video.twimg.com/amplify_video/2121319812412399616/vid/avc1/1280x720/KhLFEOcpcUAsmE31.mp4",
+     "view_count": 252426
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2113557858583241008",
    "url": "https://x.com/nikkei/status/2113557858583241008",
    "user": "nikkei",
@@ -33199,6 +34045,45 @@
    ],
    "is_watched": false,
    "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121400395423793250",
+   "url": "https://x.com/SOU_BTC/status/2121400395423793250",
+   "user": "SOU_BTC",
+   "created_utc": "2026-11-14T00:30:42Z",
+   "created_jst": "2026-11-14T09:30:42+09:00",
+   "ts": 1794616242,
+   "metrics": {
+    "impression_count": 34287,
+    "like_count": 471,
+    "retweet_count": 50,
+    "reply_count": 3,
+    "quote_count": 5,
+    "bookmark_count": 8
+   },
+   "text": "【速報】🇺🇸 イーロン・マスク氏、NVIDIA元CEOフアン氏の復帰を支持\n\n・フアン氏のCEO復帰を求める署名活動が進行中と発表\n・マスク氏自身も署名する意向を表明\n・フアン氏のNVIDIA復帰を支持 https://t.co/pNcHydOXvw",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Nvidia"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXC6aDUa8AAK2hK.jpg",
+     "width": 1040,
+     "height": 1324
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXC6aDOaoAAq_5d.jpg",
+     "width": 1280,
+     "height": 1627
+    }
+   ],
    "lang": "ja"
   },
   {
@@ -34779,6 +35664,37 @@
    "lang": "ja"
   },
   {
+   "id": "2121363805951455694",
+   "url": "https://x.com/chuka33333/status/2121363805951455694",
+   "user": "chuka33333",
+   "created_utc": "2026-11-13T22:05:19Z",
+   "created_jst": "2026-11-14T07:05:19+09:00",
+   "ts": 1794607519,
+   "metrics": {
+    "impression_count": 32379,
+    "like_count": 124,
+    "retweet_count": 10,
+    "reply_count": 8,
+    "quote_count": 2,
+    "bookmark_count": 4
+   },
+   "text": "病院のベッドは患者の療養・治療を目的とした医療設備だよ。付き添いの夫が寝ることで、寝具の衛生管理や看護師による観察・処置の妨げになる可能性もある。\n\n「私だけが大変」という話ではなく、医療機関での適切な振る舞いができているかという話だよ。常識で考えろよ。 https://t.co/tOGQm9WDRF",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院",
+    "看護師",
+    "看護",
+    "医療",
+    "医療機関",
+    "患者"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2113794916350353514",
    "url": "https://x.com/taishiyade/status/2113794916350353514",
    "user": "taishiyade",
@@ -34968,6 +35884,40 @@
    "lang": "ja"
   },
   {
+   "id": "2121260224107725188",
+   "url": "https://x.com/SOU_BTC/status/2121260224107725188",
+   "user": "SOU_BTC",
+   "created_utc": "2026-11-13T15:13:43Z",
+   "created_jst": "2026-11-14T00:13:43+09:00",
+   "ts": 1794582823,
+   "metrics": {
+    "impression_count": 32176,
+    "like_count": 123,
+    "retweet_count": 14,
+    "reply_count": 1,
+    "quote_count": 0,
+    "bookmark_count": 13
+   },
+   "text": "【速報】AMD、NVIDIAに対する株価上昇率の差が過去最大に\n\n・直近5営業日でAMDは44.7%急騰、NVIDIAは8.5%下落\n・上昇率の差は53.2ポイントで、1999年のNVIDIA上場以来最大\n・従来の記録は2016年4月の49.9ポイント https://t.co/rMBNmAgKj4",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Nvidia",
+    "AMD"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXA67RSagAAOupC.jpg",
+     "width": 1206,
+     "height": 1540
+    }
+   ],
+   "lang": "ja"
+  },
+  {
    "id": "2116312194724118669",
    "url": "https://x.com/asahi/status/2116312194724118669",
    "user": "asahi",
@@ -35046,32 +35996,6 @@
    "lang": "ja"
   },
   {
-   "id": "2121080648777756825",
-   "url": "https://x.com/uhouhonurse/status/2121080648777756825",
-   "user": "uhouhonurse",
-   "created_utc": "2026-11-13T03:20:09Z",
-   "created_jst": "2026-11-13T12:20:09+09:00",
-   "ts": 1794540009,
-   "metrics": {
-    "impression_count": 32129,
-    "like_count": 36,
-    "retweet_count": 1,
-    "reply_count": 5,
-    "quote_count": 0,
-    "bookmark_count": 2
-   },
-   "text": "医療従事者の人達なら、、\nこれは病的だって思っちゃうかも、、 https://t.co/sAlVsdcM6f",
-   "categories": [
-    "医療ニュース"
-   ],
-   "matched_terms": [
-    "医療"
-   ],
-   "is_watched": false,
-   "media": [],
-   "lang": "ja"
-  },
-  {
    "id": "2114232292763918723",
    "url": "https://x.com/usutaku_channel/status/2114232292763918723",
    "user": "usutaku_channel",
@@ -35122,6 +36046,35 @@
    ],
    "matched_terms": [
     "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121341452332470554",
+   "url": "https://x.com/nikkei/status/2121341452332470554",
+   "user": "nikkei",
+   "created_utc": "2026-11-13T20:36:29Z",
+   "created_jst": "2026-11-14T05:36:29+09:00",
+   "ts": 1794602189,
+   "metrics": {
+    "impression_count": 32066,
+    "like_count": 15,
+    "retweet_count": 7,
+    "reply_count": 2,
+    "quote_count": 1,
+    "bookmark_count": 5
+   },
+   "text": "生産性向上で介護の賃上げ加算上乗せ、厚労省が継続検討　27年度改定で\nhttps://t.co/sGZMekBgtf",
+   "categories": [
+    "介護・福祉",
+    "制度・報酬改定"
+   ],
+   "matched_terms": [
+    "介護",
+    "厚労省",
+    "加算"
    ],
    "is_watched": false,
    "media": [],
@@ -35325,34 +36278,6 @@
     "AI"
    ],
    "is_watched": false,
-   "media": [],
-   "lang": "ja"
-  },
-  {
-   "id": "2121171947149201732",
-   "url": "https://x.com/ImAI_Eruel/status/2121171947149201732",
-   "user": "ImAI_Eruel",
-   "created_utc": "2026-11-13T09:22:56Z",
-   "created_jst": "2026-11-13T18:22:56+09:00",
-   "ts": 1794561776,
-   "metrics": {
-    "impression_count": 31841,
-    "like_count": 504,
-    "retweet_count": 39,
-    "reply_count": 8,
-    "quote_count": 2,
-    "bookmark_count": 32
-   },
-   "text": "今日の報道ステーションに、今回のNVIDIA革ジャン辞任劇に関して私のコメントが出るかもしれません。\n基本的には、革ジャンが替えが効かない人材であり、現在のAI業界への貢献は計り知れない、という話をしました。\n（そもそもの問題となった案件は特に質問はされなかったのですが、それはそれとして「適切な」処分であればいいと思います。）",
-   "categories": [
-    "ビジネス・業界",
-    "監視アカウント"
-   ],
-   "matched_terms": [
-    "Nvidia",
-    "AI"
-   ],
-   "is_watched": true,
    "media": [],
    "lang": "ja"
   },
@@ -36117,6 +37042,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121547037665890527",
+   "url": "https://x.com/nhk_news/status/2121547037665890527",
+   "user": "nhk_news",
+   "created_utc": "2026-11-14T10:13:24Z",
+   "created_jst": "2026-11-14T19:13:24+09:00",
+   "ts": 1794651204,
+   "metrics": {
+    "impression_count": 30991,
+    "like_count": 43,
+    "retweet_count": 15,
+    "reply_count": 11,
+    "quote_count": 13,
+    "bookmark_count": 12
+   },
+   "text": "依存してしまわないか…\n考える力は育つのか…\n誤情報を信じてしまったら…\n \nAIを使う子どもに 親はどうすれば？\n \n専門家の答えは?\n\nhttps://t.co/elALtvsWDr",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2111940388327960908",
    "url": "https://x.com/dennotai/status/2111940388327960908",
    "user": "dennotai",
@@ -36259,6 +37210,32 @@
    ],
    "matched_terms": [],
    "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121334406094705146",
+   "url": "https://x.com/nikkei/status/2121334406094705146",
+   "user": "nikkei",
+   "created_utc": "2026-11-13T20:08:29Z",
+   "created_jst": "2026-11-14T05:08:29+09:00",
+   "ts": 1794600509,
+   "metrics": {
+    "impression_count": 30850,
+    "like_count": 21,
+    "retweet_count": 6,
+    "reply_count": 2,
+    "quote_count": 3,
+    "bookmark_count": 3
+   },
+   "text": "AIに課税して人間に還元せよ　元米大統領選候補アンドリュー・ヤン氏\nhttps://t.co/0Az1d6kCG4",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
    "media": [],
    "lang": "ja"
   },
@@ -40107,6 +41084,33 @@
    "lang": "ja"
   },
   {
+   "id": "2121494613009608749",
+   "url": "https://x.com/BloombergJapan/status/2121494613009608749",
+   "user": "BloombergJapan",
+   "created_utc": "2026-11-14T06:45:05Z",
+   "created_jst": "2026-11-14T15:45:05+09:00",
+   "ts": 1794638705,
+   "metrics": {
+    "impression_count": 26052,
+    "like_count": 72,
+    "retweet_count": 13,
+    "reply_count": 0,
+    "quote_count": 3,
+    "bookmark_count": 8
+   },
+   "text": "アンソロピック、AI計算能力の確保が最大級の課題－IPO控えCEO https://t.co/Osfh5mtJLW",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "IPO",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2119987775097143670",
    "url": "https://x.com/nikkei/status/2119987775097143670",
    "user": "nikkei",
@@ -40159,6 +41163,41 @@
    ],
    "is_watched": false,
    "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121521020465213649",
+   "url": "https://x.com/OssanJam/status/2121521020465213649",
+   "user": "OssanJam",
+   "created_utc": "2026-11-14T08:30:01Z",
+   "created_jst": "2026-11-14T17:30:01+09:00",
+   "ts": 1794645001,
+   "metrics": {
+    "impression_count": 25994,
+    "like_count": 123,
+    "retweet_count": 7,
+    "reply_count": 8,
+    "quote_count": 2,
+    "bookmark_count": 17
+   },
+   "text": "【異例の訴訟】\n🇺🇸OpenAI・GoogleなどAI大手5社に「開発停止」を要求‼️\n\n米国で、AI業界を揺るがす可能性のある訴訟が起こされました、11月12日、米国の非営利団体4団体が、サンフランシスコの裁判所に提訴\n\n✅ 対象となったAI大手5社\n\n① OpenAI\n② Anthropic\n③ Google\n④ Meta\n⑤ https://t.co/RMJYuZUZvB",
+   "categories": [
+    "新モデル・発表"
+   ],
+   "matched_terms": [
+    "OpenAI",
+    "Anthropic",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXEoH3qakAAnftl.jpg",
+     "width": 1284,
+     "height": 1106
+    }
+   ],
    "lang": "ja"
   },
   {
@@ -40395,6 +41434,32 @@
     "ChatGPT",
     "Claude",
     "DeepSeek"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121579594839126137",
+   "url": "https://x.com/ochyai/status/2121579594839126137",
+   "user": "ochyai",
+   "created_utc": "2026-11-14T12:22:47Z",
+   "created_jst": "2026-11-14T21:22:47+09:00",
+   "ts": 1794658967,
+   "metrics": {
+    "impression_count": 25665,
+    "like_count": 259,
+    "retweet_count": 33,
+    "reply_count": 6,
+    "quote_count": 3,
+    "bookmark_count": 87
+   },
+   "text": "AIで仕事は速くなったのに，なぜ僕らは暇にならないのか．洗濯機が来ても家事の時間は減らなかった．ケインズの週15時間も来ていない．浮いた時間に次のノルマを入れているのは，心の中の査定係かもしれない．クビにせず，名刺を替える話を書きました．\nhttps://t.co/VSUjVixdzI",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
    ],
    "is_watched": false,
    "media": [],
@@ -40908,6 +41973,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121600537833665022",
+   "url": "https://x.com/YahooNewsTopics/status/2121600537833665022",
+   "user": "YahooNewsTopics",
+   "created_utc": "2026-11-14T13:46:00Z",
+   "created_jst": "2026-11-14T22:46:00+09:00",
+   "ts": 1794663960,
+   "metrics": {
+    "impression_count": 25265,
+    "like_count": 35,
+    "retweet_count": 23,
+    "reply_count": 2,
+    "quote_count": 0,
+    "bookmark_count": 4
+   },
+   "text": "【AI悪用攻撃拠点か 世界で千台発見】\nhttps://t.co/tRzZfmSOnD",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2118474813979132349",
    "url": "https://x.com/BloombergJapan/status/2118474813979132349",
    "user": "BloombergJapan",
@@ -41324,6 +42415,32 @@
     "bookmark_count": 5
    },
    "text": "北朝鮮ハッカー、AIで手口高度化か－バイナンス攻撃にも関与の疑い https://t.co/ieUPLiJZBX",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121398238557438379",
+   "url": "https://x.com/SOU_BTC/status/2121398238557438379",
+   "user": "SOU_BTC",
+   "created_utc": "2026-11-14T00:22:08Z",
+   "created_jst": "2026-11-14T09:22:08+09:00",
+   "ts": 1794615728,
+   "metrics": {
+    "impression_count": 24695,
+    "like_count": 234,
+    "retweet_count": 49,
+    "reply_count": 5,
+    "quote_count": 9,
+    "bookmark_count": 10
+   },
+   "text": "【速報】🇺🇸 米国全土の航空機離陸停止、サイバー攻撃の可能性も\n\n・米国土安全保障省が発表\n・原因としてAIやサイバー攻撃の可能性を排除できないと説明\n・現時点で攻撃が原因と確定したわけではない https://t.co/JDby1WGjCA",
    "categories": [
     "ビジネス・業界"
    ],
@@ -41791,6 +42908,32 @@
    ],
    "matched_terms": [
     "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121272640640065887",
+   "url": "https://x.com/SOU_BTC/status/2121272640640065887",
+   "user": "SOU_BTC",
+   "created_utc": "2026-11-13T16:03:03Z",
+   "created_jst": "2026-11-14T01:03:03+09:00",
+   "ts": 1794585783,
+   "metrics": {
+    "impression_count": 24378,
+    "like_count": 115,
+    "retweet_count": 14,
+    "reply_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 2
+   },
+   "text": "【速報】🇺🇸 米財務長官、NVIDIA半導体の禁輸判断は商務省に一任\n\n・ベッセント財務長官が13日、CNBCで発言\n・中国スパイ疑惑が浮上した企業への輸出規制を数カ月前から要求\n・「決定権は商務省にある」と説明",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Nvidia"
    ],
    "is_watched": false,
    "media": [],
@@ -43279,6 +44422,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121416694971420888",
+   "url": "https://x.com/Sankei_news/status/2121416694971420888",
+   "user": "Sankei_news",
+   "created_utc": "2026-11-14T01:35:28Z",
+   "created_jst": "2026-11-14T10:35:28+09:00",
+   "ts": 1794620128,
+   "metrics": {
+    "impression_count": 22957,
+    "like_count": 231,
+    "retweet_count": 128,
+    "reply_count": 9,
+    "quote_count": 8,
+    "bookmark_count": 14
+   },
+   "text": "IS連携勢力「民主同盟軍」が66人殺害か　コンゴのエボラ熱流行地域　医療施設に放火\nhttps://t.co/zK3XfTqQm1\n\n三つの医療施設が放火され、エボラ熱の感染者に接触した1000人以上の追跡ができなくなったという。",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "医療"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2118856034534006935",
    "url": "https://x.com/BloombergJapan/status/2118856034534006935",
    "user": "BloombergJapan",
@@ -43780,6 +44949,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121275892118749415",
+   "url": "https://x.com/BloombergJapan/status/2121275892118749415",
+   "user": "BloombergJapan",
+   "created_utc": "2026-11-13T16:15:58Z",
+   "created_jst": "2026-11-14T01:15:58+09:00",
+   "ts": 1794586558,
+   "metrics": {
+    "impression_count": 22453,
+    "like_count": 45,
+    "retweet_count": 11,
+    "reply_count": 1,
+    "quote_count": 1,
+    "bookmark_count": 6
+   },
+   "text": "フアン氏退場、対中半導体規制は強化へ－米中AI分断「不可逆的」に https://t.co/uOOic0qK00",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2119848757978153053",
    "url": "https://x.com/BloombergJapan/status/2119848757978153053",
    "user": "BloombergJapan",
@@ -43856,6 +45051,39 @@
    ],
    "is_watched": false,
    "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121398684562919477",
+   "url": "https://x.com/SOU_BTC/status/2121398684562919477",
+   "user": "SOU_BTC",
+   "created_utc": "2026-11-14T00:23:54Z",
+   "created_jst": "2026-11-14T09:23:54+09:00",
+   "ts": 1794615834,
+   "metrics": {
+    "impression_count": 22384,
+    "like_count": 74,
+    "retweet_count": 5,
+    "reply_count": 1,
+    "quote_count": 0,
+    "bookmark_count": 5
+   },
+   "text": "【速報】🇺🇸 NVIDIA元CEOフアン氏、不倫関係について自社の法務責任者を欺いたと報道\n\n・アリス・フアン氏との関係を通常の商取引と説明\n・NVIDIA幹部にも同様の説明\n・不倫報道を巡り、法務チームにNYTへの提訴を検討するよう圧力をかけたとされる https://t.co/1BoW4Wi1oW",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "Nvidia"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXC42yTbUAAZei3.jpg",
+     "width": 588,
+     "height": 441
+    }
+   ],
    "lang": "ja"
   },
   {
@@ -44001,35 +45229,6 @@
     "活用",
     "AI",
     "生成AI"
-   ],
-   "is_watched": false,
-   "media": [],
-   "lang": "ja"
-  },
-  {
-   "id": "2121169022112944521",
-   "url": "https://x.com/Sankei_news/status/2121169022112944521",
-   "user": "Sankei_news",
-   "created_utc": "2026-11-13T09:11:18Z",
-   "created_jst": "2026-11-13T18:11:18+09:00",
-   "ts": 1794561078,
-   "metrics": {
-    "impression_count": 22321,
-    "like_count": 570,
-    "retweet_count": 103,
-    "reply_count": 51,
-    "quote_count": 22,
-    "bookmark_count": 25
-   },
-   "text": "自民・維新、70歳以上の医療費の窓口負担見直し　3割負担の対象者拡大など検討\nhttps://t.co/61LRUT87aa\n\n自民党と日本維新の会は、社会保障制度改革を巡る実務者協議を国会内で開き、70歳以上の高齢者が支払う医療費の窓口負担引き上げに向けた論点整理を進めることで一致した。",
-   "categories": [
-    "医療ニュース",
-    "制度・報酬改定"
-   ],
-   "matched_terms": [
-    "医療",
-    "医療費",
-    "社会保障"
    ],
    "is_watched": false,
    "media": [],
@@ -44776,6 +45975,32 @@
     "AI"
    ],
    "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121377627101393111",
+   "url": "https://x.com/BloombergJapan/status/2121377627101393111",
+   "user": "BloombergJapan",
+   "created_utc": "2026-11-13T23:00:14Z",
+   "created_jst": "2026-11-14T08:00:14+09:00",
+   "ts": 1794610814,
+   "metrics": {
+    "impression_count": 21881,
+    "like_count": 19,
+    "retweet_count": 9,
+    "reply_count": 1,
+    "quote_count": 1,
+    "bookmark_count": 3
+   },
+   "text": "【コラム】カリスマ失墜で米AI政策の力学一変、半導体規制強化へ－米中関係も変化必至 https://t.co/VWoaobO2uC",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
    "media": [],
    "lang": "ja"
   },
@@ -46123,6 +47348,34 @@
     "ビジネス・業界"
    ],
    "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121283453631037578",
+   "url": "https://x.com/BloombergJapan/status/2121283453631037578",
+   "user": "BloombergJapan",
+   "created_utc": "2026-11-13T16:46:01Z",
+   "created_jst": "2026-11-14T01:46:01+09:00",
+   "ts": 1794588361,
+   "metrics": {
+    "impression_count": 20897,
+    "like_count": 17,
+    "retweet_count": 3,
+    "reply_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 3
+   },
+   "text": "ユナイテッド、AIエージェントの航空券予約禁止－プライバシー懸念で https://t.co/8BcaAJadQf",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "AIエージェント",
+    "エージェント",
     "AI"
    ],
    "is_watched": false,
@@ -54485,6 +55738,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121479962956038242",
+   "url": "https://x.com/yuana_nurse/status/2121479962956038242",
+   "user": "yuana_nurse",
+   "created_utc": "2026-11-14T05:46:53Z",
+   "created_jst": "2026-11-14T14:46:53+09:00",
+   "ts": 1794635213,
+   "metrics": {
+    "impression_count": 16135,
+    "like_count": 81,
+    "retweet_count": 8,
+    "reply_count": 4,
+    "quote_count": 0,
+    "bookmark_count": 2
+   },
+   "text": "処置の順番を待ってもらっていたら、\n患者さんにこう言われた。\n\n患者さん「ちょっと、こっちは税金払ってるんだから、もっと早く対応してよ」\n\n私「順番にご案内しておりますので、\n少々お待ちください」\n\n患者さん「税金で雇われてる立場でしょ、客を待たせるなんておかしいでしょ」\n\n私「緊急度に応じて対応させて\nいただいています」\n\n患者さん「屁理屈言ってないで、\nさっさとやってよ」\n\n意味がわからなかった。\n\n私「他の患者さんも同じように\n待っていただいています」\n\n患者さん「税金払ってない若い子に、\n偉そうに言われたくないわね」\n\nそう言って、待合室に聞こえるように\n声を荒げた。\n\nすると、\n隣で座っていた年配の男性が一言。",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "患者"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2118599371835265308",
    "url": "https://x.com/MHLWitter/status/2118599371835265308",
    "user": "MHLWitter",
@@ -55621,40 +56900,6 @@
    "lang": "ja"
   },
   {
-   "id": "2121214854409441328",
-   "url": "https://x.com/Hs1Ur/status/2121214854409441328",
-   "user": "Hs1Ur",
-   "created_utc": "2026-11-13T12:13:26Z",
-   "created_jst": "2026-11-13T21:13:26+09:00",
-   "ts": 1794572006,
-   "metrics": {
-    "impression_count": 15367,
-    "like_count": 33,
-    "retweet_count": 3,
-    "reply_count": 10,
-    "quote_count": 3,
-    "bookmark_count": 1
-   },
-   "text": "正直に答えよ\n\n中堅以上の看護師\n\nめっちゃ緊急時、12誘導心電図適当に貼ってるやろ！！ https://t.co/jRUnEMdNQu",
-   "categories": [
-    "医療ニュース"
-   ],
-   "matched_terms": [
-    "看護師",
-    "看護"
-   ],
-   "is_watched": false,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXARnJxbYAAl8kq.jpg",
-     "width": 1536,
-     "height": 1024
-    }
-   ],
-   "lang": "ja"
-  },
-  {
    "id": "2110151108064870773",
    "url": "https://x.com/hayakawagomi/status/2110151108064870773",
    "user": "hayakawagomi",
@@ -56064,6 +57309,34 @@
      "url": "https://pbs.twimg.com/media/HWUQ-ySbcAAAnRV.jpg"
     }
    ],
+   "lang": "ja"
+  },
+  {
+   "id": "2121393423043174493",
+   "url": "https://x.com/Sankei_news/status/2121393423043174493",
+   "user": "Sankei_news",
+   "created_utc": "2026-11-14T00:03:00Z",
+   "created_jst": "2026-11-14T09:03:00+09:00",
+   "ts": 1794614580,
+   "metrics": {
+    "impression_count": 15114,
+    "like_count": 63,
+    "retweet_count": 22,
+    "reply_count": 2,
+    "quote_count": 6,
+    "bookmark_count": 11
+   },
+   "text": "決済代行機能の提供開始「チャットGPTウォレット」　米国で、オープンAI\nhttps://t.co/LRQ0K7fGMg\n\n決済には、カード番号ではなく、カード会社が取引ごとに発行する番号を使い、商品の購入先などにはカード情報を提供しない。\n\nAIエージェント「ドッツ」専用の機能となる。",
+   "categories": [
+    "ツール・活用"
+   ],
+   "matched_terms": [
+    "AIエージェント",
+    "エージェント",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
    "lang": "ja"
   },
   {
@@ -60314,6 +61587,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121245663363211286",
+   "url": "https://x.com/OssanJam/status/2121245663363211286",
+   "user": "OssanJam",
+   "created_utc": "2026-11-13T14:15:51Z",
+   "created_jst": "2026-11-13T23:15:51+09:00",
+   "ts": 1794579351,
+   "metrics": {
+    "impression_count": 12874,
+    "like_count": 27,
+    "retweet_count": 2,
+    "reply_count": 0,
+    "quote_count": 1,
+    "bookmark_count": 1
+   },
+   "text": "【🇺🇸FRBグールズビー総裁、インフレに強い警戒感‼️】\n\n「FRBはインフレ率2%達成の軌道に乗っていない」\nシカゴ連銀のグールズビー総裁が、物価動向について慎重な見方を示しました\n\n✅ 発言のポイント\n\n① インフレ悪化を示唆するデータを警戒\n② 原油価格が急落しても、製油能力の制約からディーゼル・ジェット燃料価格は高止まりする可能性\n③ 雇用市場はおおむね安定しており、インフレ動向が今後の金利政策を左右する\n\n✅ 何が重要なのか？\n\n通常、原油価格の下落はインフレ沈静化に追い風となります、しかし、燃料の供給制約が残れば、原油安の恩恵が物流・航空などに十分波及しない可能性があります\n\nつまり、原油が下がってもFRBが安心して利下げできるとは限りません\n\n✅ 市場への示唆\n\nインフレが長引けば、高金利の長期化が意識され、NASDAQやAI・半導体などの高PER銘柄には逆風となる可能性があります\n\n「原油安＝インフレ沈静化」とは限らない\n\nウォーシュ体制のFRBはインフレを潰しに行くように見えますね...🤔",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2111021172767006870",
    "url": "https://x.com/MHLWitter/status/2111021172767006870",
    "user": "MHLWitter",
@@ -60648,6 +61947,37 @@
    "lang": "ja"
   },
   {
+   "id": "2121445262321426708",
+   "url": "https://x.com/etriasni/status/2121445262321426708",
+   "user": "etriasni",
+   "created_utc": "2026-11-14T03:28:59Z",
+   "created_jst": "2026-11-14T12:28:59+09:00",
+   "ts": 1794626939,
+   "metrics": {
+    "impression_count": 12691,
+    "like_count": 137,
+    "retweet_count": 1,
+    "reply_count": 2,
+    "quote_count": 5,
+    "bookmark_count": 1
+   },
+   "text": "大学病院の看護師さぁ\nゴミみたいなポエムより先に昨日感染症で入院した患者の朝のバイタルをカルテに入力してくれよ",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院",
+    "看護師",
+    "看護",
+    "感染症",
+    "入院",
+    "患者"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2119987952357081572",
    "url": "https://x.com/usutaku_channel/status/2119987952357081572",
    "user": "usutaku_channel",
@@ -60874,6 +62204,33 @@
    ],
    "matched_terms": [
     "AI"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121534617610285164",
+   "url": "https://x.com/Sankei_news/status/2121534617610285164",
+   "user": "Sankei_news",
+   "created_utc": "2026-11-14T09:24:03Z",
+   "created_jst": "2026-11-14T18:24:03+09:00",
+   "ts": 1794648243,
+   "metrics": {
+    "impression_count": 12518,
+    "like_count": 152,
+    "retweet_count": 98,
+    "reply_count": 4,
+    "quote_count": 6,
+    "bookmark_count": 9
+   },
+   "text": "ようやく「全面復旧」発表　マイクロソフト大規模障害、滞留メールの処理完了　丸1日続く\nhttps://t.co/Oqpe2gRjz5\n\n検証を終えた後、詳しい報告書を公表する。障害の原因はサイバー攻撃や人工知能（AI）が関わるものではなく、通信網の増強作業で生じた技術的な問題だったと説明した。",
+   "categories": [
+    "AIその他"
+   ],
+   "matched_terms": [
+    "AI",
+    "人工知能"
    ],
    "is_watched": false,
    "media": [],
@@ -62119,6 +63476,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121474213357981977",
+   "url": "https://x.com/uhouhonurse/status/2121474213357981977",
+   "user": "uhouhonurse",
+   "created_utc": "2026-11-14T05:24:02Z",
+   "created_jst": "2026-11-14T14:24:02+09:00",
+   "ts": 1794633842,
+   "metrics": {
+    "impression_count": 12026,
+    "like_count": 14,
+    "retweet_count": 0,
+    "reply_count": 3,
+    "quote_count": 0,
+    "bookmark_count": 2
+   },
+   "text": "6階からだと落ち方によっては逝けないんだよな…\n\nそして生きた場合はおそらく超重症外傷…\n病院に行けば何百単位の輸血がされて\n何時間にも及ぶ処置が待ってる…\n\nこの子が苦しんでないことを願う。 https://t.co/8Bd8WUnFaH",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2113759903131238845",
    "url": "https://x.com/itmedia_news/status/2113759903131238845",
    "user": "itmedia_news",
@@ -62388,6 +63771,41 @@
    ],
    "is_watched": false,
    "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121259841289404763",
+   "url": "https://x.com/OssanJam/status/2121259841289404763",
+   "user": "OssanJam",
+   "created_utc": "2026-11-13T15:12:11Z",
+   "created_jst": "2026-11-14T00:12:11+09:00",
+   "ts": 1794582731,
+   "metrics": {
+    "impression_count": 11961,
+    "like_count": 104,
+    "retweet_count": 7,
+    "reply_count": 1,
+    "quote_count": 1,
+    "bookmark_count": 3
+   },
+   "text": "【🇺🇸半導体株が急落！SOXL一時−14%超】\n\n米国市場でAI・半導体関連株に強い売り圧力↓↓\n\n半導体3倍ブルETF「SOXL」は、取引中に一時14%を超える下落を記録しています\n\n✅ 下落の背景は3つ\n\n① FRB高官のタカ派発言💦🦅\nシカゴ連銀グールズビー総裁が、インフレ率2%への回帰に懸念を表明\n\nサンフランシスコ連銀デイリー総裁も、追加利上げが必要になる可能性を示唆\n\n② 米長期金利の上昇\nインフレ再加速への警戒から米国債利回りが上昇、高PERのAI・半導体株には逆風となっています。\n\n③ AI関連株への不安\nNVIDIAの経営体制を巡る混乱に加え、AIインフラ投資の採算性や資金調達への懸念も継続、\n半導体株への売りを増幅している可能性があります\n\nPPIが前回ほどの伸びではなく、\n落ち着くかに見えましたが、FRB理事のタカ派発言が相次ぎました😥\nやはり、ウォーシュ体制は本気でインフレを抑えに行くつもりなのでしょうか？\n\n完全に個人の見解ですが、\nAI半導体株の高騰、加熱がインフレの主要因であると、FRBは捉えているのでは...🤔",
+   "categories": [
+    "ビジネス・業界"
+   ],
+   "matched_terms": [
+    "資金調達",
+    "Nvidia",
+    "AI"
+   ],
+   "is_watched": false,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXA6lMibAAA2hCZ.jpg",
+     "width": 1284,
+     "height": 1042
+    }
+   ],
    "lang": "ja"
   },
   {
@@ -64590,6 +66008,36 @@
     "AI"
    ],
    "is_watched": true,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121402231320895715",
+   "url": "https://x.com/tidepool_miso/status/2121402231320895715",
+   "user": "tidepool_miso",
+   "created_utc": "2026-11-14T00:38:00Z",
+   "created_jst": "2026-11-14T09:38:00+09:00",
+   "ts": 1794616680,
+   "metrics": {
+    "impression_count": 11162,
+    "like_count": 7,
+    "retweet_count": 0,
+    "reply_count": 0,
+    "quote_count": 1,
+    "bookmark_count": 1
+   },
+   "text": "病院で患者以外がベッドに寝たり腰掛けたりしてはいけないんですよ。\n感染症予防でシーツ交換しないといけないし、シーツ交換の間患者は具合悪くても待たないといけない。\nそもそも非常識だしシーツ交換するコストを考えろ。\n秒刻みのスケジュールで動いてる看護師に迷惑かけるな。 https://t.co/nA2lLwCdfr",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院",
+    "看護師",
+    "看護",
+    "感染症",
+    "患者"
+   ],
+   "is_watched": false,
    "media": [],
    "lang": "ja"
   },
@@ -67686,6 +69134,32 @@
    "lang": "ja"
   },
   {
+   "id": "2121480112990531741",
+   "url": "https://x.com/uhouhonurse/status/2121480112990531741",
+   "user": "uhouhonurse",
+   "created_utc": "2026-11-14T05:47:28Z",
+   "created_jst": "2026-11-14T14:47:28+09:00",
+   "ts": 1794635248,
+   "metrics": {
+    "impression_count": 10060,
+    "like_count": 45,
+    "retweet_count": 3,
+    "reply_count": 2,
+    "quote_count": 4,
+    "bookmark_count": 1
+   },
+   "text": "コードブルーで\n『病院の敷地内で若い女性が倒れてます』\nって内容で走って行ったら\n\nODで退院したばかりの奴が\nそのまま薬局で買った薬でODして\n倒れてたって分かって全員キレてた… https://t.co/EXM3aE7KUk",
+   "categories": [
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "病院"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
    "id": "2120825430064189703",
    "url": "https://x.com/Sankei_news/status/2120825430064189703",
    "user": "Sankei_news",
@@ -67864,6 +69338,36 @@
     "介護保険",
     "倒産",
     "医療機関"
+   ],
+   "is_watched": false,
+   "media": [],
+   "lang": "ja"
+  },
+  {
+   "id": "2121400764933521514",
+   "url": "https://x.com/DrYumekuiBaku/status/2121400764933521514",
+   "user": "DrYumekuiBaku",
+   "created_utc": "2026-11-14T00:32:10Z",
+   "created_jst": "2026-11-14T09:32:10+09:00",
+   "ts": 1794616330,
+   "metrics": {
+    "impression_count": 9295,
+    "like_count": 198,
+    "retweet_count": 17,
+    "reply_count": 5,
+    "quote_count": 2,
+    "bookmark_count": 10
+   },
+   "text": "先日精神科訪問看護さんのＦＡＸでめちゃくちゃ救われた(自分が知らなかったらとんでもないことになる話を患者さんがしてくれて、許可もくれて共有されたもの)ことがあった\nやっぱり今の再診の点数だと中々情報聞くのが厳しい…\nこれからもチーム医療やらせて欲しい\n家の様子見れないからね…",
+   "categories": [
+    "訪問看護",
+    "医療ニュース"
+   ],
+   "matched_terms": [
+    "訪問看護",
+    "看護",
+    "医療",
+    "患者"
    ],
    "is_watched": false,
    "media": [],

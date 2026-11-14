@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T23:15:24+09:00",
+ "generated_at": "2026-11-14T23:14:42+09:00",
  "daily": [
   {
    "date": "2026-10-14",
@@ -4161,6 +4161,90 @@
      "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
     }
    ],
+   "review": [
+    {
+     "id": "2121156738498060560",
+     "before_views": 119720,
+     "after_views": 206042,
+     "crossed_500k": true
+    },
+    {
+     "id": "2121214854409441328",
+     "before_views": 15367,
+     "after_views": 47487,
+     "crossed_500k": false
+    },
+    {
+     "id": "2121174721316212994",
+     "before_views": 39109,
+     "after_views": 47741,
+     "crossed_500k": false
+    },
+    {
+     "id": "2121169022112944521",
+     "before_views": 22321,
+     "after_views": 133915,
+     "crossed_500k": true
+    },
+    {
+     "id": "2121167303836307463",
+     "before_views": 183551,
+     "after_views": 1163251,
+     "crossed_500k": true
+    },
+    {
+     "id": "2121125600840888361",
+     "before_views": 340045,
+     "after_views": 901542,
+     "crossed_500k": true
+    },
+    {
+     "id": "2121080648777756825",
+     "before_views": 32129,
+     "after_views": 41810,
+     "crossed_500k": false
+    },
+    {
+     "id": "2121125735008190654",
+     "before_views": 245944,
+     "after_views": 374564,
+     "crossed_500k": true
+    }
+   ],
+   "hit_rate": [
+    {
+     "condition_label": "10万表示到達（前日rising全体）",
+     "total": 8,
+     "crossed": 5
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "rising": [
+    {
+     "id": "2121520779217252451",
+     "views": 133233,
+     "hours_since_post": 5.76,
+     "views_per_hour": 23128,
+     "condition_label": "投稿から6時間以内で10万表示以上"
+    },
+    {
+     "id": "2121485914539196756",
+     "views": 74539,
+     "hours_since_post": 8.07,
+     "views_per_hour": 9236,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2121461318293258259",
+     "views": 140107,
+     "hours_since_post": 9.7,
+     "views_per_hour": 14446,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    }
+   ],
+   "rising_watch": [],
    "review": [],
    "hit_rate": []
   }
