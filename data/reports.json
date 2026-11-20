@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:20:50+09:00",
+ "generated_at": "2026-11-20T23:23:59+09:00",
  "daily": [
   {
    "date": "2026-10-14",
@@ -4813,6 +4813,82 @@
      "views": 18241,
      "hours_since_post": 2.75,
      "views_per_hour": 6643,
+     "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
+     "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
+    }
+   ],
+   "review": [
+    {
+     "id": "2123373483807924401",
+     "before_views": 33497,
+     "after_views": 69178,
+     "crossed_500k": false
+    },
+    {
+     "id": "2123401049276891217",
+     "before_views": 24924,
+     "after_views": 47543,
+     "crossed_500k": false
+    },
+    {
+     "id": "2123364408290373878",
+     "before_views": 134835,
+     "after_views": 199610,
+     "crossed_500k": true
+    },
+    {
+     "id": "2123347624912880110",
+     "before_views": 121578,
+     "after_views": 140178,
+     "crossed_500k": true
+    }
+   ],
+   "hit_rate": [
+    {
+     "condition_label": "10万表示到達（前日rising全体）",
+     "total": 4,
+     "crossed": 2
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "rising": [
+    {
+     "id": "2123728915990446337",
+     "views": 38657,
+     "hours_since_post": 3.68,
+     "views_per_hour": 10515,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2123714231958933948",
+     "views": 26459,
+     "hours_since_post": 4.65,
+     "views_per_hour": 5691,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2123681259528552704",
+     "views": 33126,
+     "hours_since_post": 6.83,
+     "views_per_hour": 4848,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2123620704570458307",
+     "views": 862599,
+     "hours_since_post": 10.84,
+     "views_per_hour": 79555,
+     "condition_label": "投稿から12時間以内で20万表示以上"
+    }
+   ],
+   "rising_watch": [
+    {
+     "id": "2123664169555972320",
+     "views": 67475,
+     "hours_since_post": 7.96,
+     "views_per_hour": 8472,
      "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
      "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
     }
