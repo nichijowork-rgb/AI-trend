@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T23:17:34+09:00",
+ "generated_at": "2026-11-23T23:18:11+09:00",
  "daily": [
   {
    "date": "2026-10-14",
@@ -5068,6 +5068,158 @@
      "views": 32180,
      "hours_since_post": 4.03,
      "views_per_hour": 7992,
+     "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
+     "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
+    }
+   ],
+   "review": [
+    {
+     "id": "2124414831755448581",
+     "before_views": 310717,
+     "after_views": 511615,
+     "crossed_500k": true
+    },
+    {
+     "id": "2124424012482961879",
+     "before_views": 51656,
+     "after_views": 137733,
+     "crossed_500k": true
+    },
+    {
+     "id": "2124420615780385041",
+     "before_views": 69899,
+     "after_views": 103501,
+     "crossed_500k": true
+    },
+    {
+     "id": "2124412574775357814",
+     "before_views": 51620,
+     "after_views": 62089,
+     "crossed_500k": false
+    },
+    {
+     "id": "2124364752126185860",
+     "before_views": 67712,
+     "after_views": 113779,
+     "crossed_500k": true
+    },
+    {
+     "id": "2124344801881706963",
+     "before_views": 180728,
+     "after_views": 249732,
+     "crossed_500k": true
+    }
+   ],
+   "hit_rate": [
+    {
+     "condition_label": "10万表示到達（前日rising全体）",
+     "total": 6,
+     "crossed": 5
+    }
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "rising": [
+    {
+     "id": "2124827802939892204",
+     "views": 25384,
+     "hours_since_post": 2.8,
+     "views_per_hour": 9055,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2124812705257099663",
+     "views": 32091,
+     "hours_since_post": 3.8,
+     "views_per_hour": 8438,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2124788482732364195",
+     "views": 311328,
+     "hours_since_post": 5.41,
+     "views_per_hour": 57576,
+     "condition_label": "投稿から6時間以内で10万表示以上"
+    },
+    {
+     "id": "2124782507815993489",
+     "views": 17370,
+     "hours_since_post": 5.8,
+     "views_per_hour": 2993,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2124864800102715531",
+     "views": 97507,
+     "hours_since_post": 0.35,
+     "views_per_hour": 276397,
+     "condition_label": "投稿から2時間以内で5万表示以上"
+    },
+    {
+     "id": "2124703423400652819",
+     "views": 50140,
+     "hours_since_post": 11.04,
+     "views_per_hour": 4541,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2124744760476778570",
+     "views": 32161,
+     "hours_since_post": 8.3,
+     "views_per_hour": 3873,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2124710484914180373",
+     "views": 45267,
+     "hours_since_post": 10.57,
+     "views_per_hour": 4281,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2124809033311752288",
+     "views": 59773,
+     "hours_since_post": 4.05,
+     "views_per_hour": 14772,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2124779841564139976",
+     "views": 42739,
+     "hours_since_post": 5.98,
+     "views_per_hour": 7147,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2124703337836585137",
+     "views": 230345,
+     "hours_since_post": 11.05,
+     "views_per_hour": 20853,
+     "condition_label": "投稿から12時間以内で20万表示以上"
+    },
+    {
+     "id": "2124759204585955828",
+     "views": 60424,
+     "hours_since_post": 7.35,
+     "views_per_hour": 8225,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    }
+   ],
+   "rising_watch": [
+    {
+     "id": "2124808505467301958",
+     "views": 31084,
+     "hours_since_post": 4.08,
+     "views_per_hour": 7616,
+     "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
+     "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
+    },
+    {
+     "id": "2124766849485459678",
+     "views": 87335,
+     "hours_since_post": 6.84,
+     "views_per_hour": 12768,
      "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
      "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
     }
