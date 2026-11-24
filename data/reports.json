@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:18:11+09:00",
+ "generated_at": "2026-11-24T23:16:20+09:00",
  "daily": [
   {
    "date": "2026-10-14",
@@ -5220,6 +5220,183 @@
      "views": 87335,
      "hours_since_post": 6.84,
      "views_per_hour": 12768,
+     "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
+     "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
+    }
+   ],
+   "review": [
+    {
+     "id": "2124827802939892204",
+     "before_views": 25384,
+     "after_views": 57866,
+     "crossed_500k": false
+    },
+    {
+     "id": "2124812705257099663",
+     "before_views": 32091,
+     "after_views": 2178235,
+     "crossed_500k": true
+    },
+    {
+     "id": "2124788482732364195",
+     "before_views": 311328,
+     "after_views": 478549,
+     "crossed_500k": true
+    },
+    {
+     "id": "2124782507815993489",
+     "before_views": 17370,
+     "after_views": 36235,
+     "crossed_500k": false
+    },
+    {
+     "id": "2124864800102715531",
+     "before_views": 97507,
+     "after_views": 710960,
+     "crossed_500k": true
+    },
+    {
+     "id": "2124703423400652819",
+     "before_views": 50140,
+     "after_views": 128312,
+     "crossed_500k": true
+    },
+    {
+     "id": "2124744760476778570",
+     "before_views": 32161,
+     "after_views": 38405,
+     "crossed_500k": false
+    },
+    {
+     "id": "2124710484914180373",
+     "before_views": 45267,
+     "after_views": 70357,
+     "crossed_500k": false
+    },
+    {
+     "id": "2124809033311752288",
+     "before_views": 59773,
+     "after_views": 121108,
+     "crossed_500k": true
+    },
+    {
+     "id": "2124779841564139976",
+     "before_views": 42739,
+     "after_views": 53937,
+     "crossed_500k": false
+    },
+    {
+     "id": "2124703337836585137",
+     "before_views": 230345,
+     "after_views": 646443,
+     "crossed_500k": true
+    },
+    {
+     "id": "2124759204585955828",
+     "before_views": 60424,
+     "after_views": 74289,
+     "crossed_500k": false
+    }
+   ],
+   "hit_rate": [
+    {
+     "condition_label": "10万表示到達（前日rising全体）",
+     "total": 12,
+     "crossed": 6
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "rising": [
+    {
+     "id": "2125168327303770293",
+     "views": 34319,
+     "hours_since_post": 4.22,
+     "views_per_hour": 8131,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2125147622025658439",
+     "views": 16450,
+     "hours_since_post": 5.59,
+     "views_per_hour": 2942,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2125158030581137468",
+     "views": 16326,
+     "hours_since_post": 4.9,
+     "views_per_hour": 3330,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2125158027326275975",
+     "views": 16465,
+     "hours_since_post": 4.9,
+     "views_per_hour": 3358,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2125158024616804616",
+     "views": 92747,
+     "hours_since_post": 4.9,
+     "views_per_hour": 18918,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2125093302458577162",
+     "views": 46917,
+     "hours_since_post": 9.19,
+     "views_per_hour": 5105,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2125071222681796782",
+     "views": 171545,
+     "hours_since_post": 10.65,
+     "views_per_hour": 16105,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    }
+   ],
+   "rising_watch": [
+    {
+     "id": "2125213936052293678",
+     "views": 10226,
+     "hours_since_post": 1.2,
+     "views_per_hour": 8523,
+     "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
+     "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
+    },
+    {
+     "id": "2125199667235529033",
+     "views": 14394,
+     "hours_since_post": 2.14,
+     "views_per_hour": 6711,
+     "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
+     "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
+    },
+    {
+     "id": "2125161018041249984",
+     "views": 57935,
+     "hours_since_post": 4.7,
+     "views_per_hour": 12314,
+     "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
+     "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
+    },
+    {
+     "id": "2125129050444505101",
+     "views": 69068,
+     "hours_since_post": 6.82,
+     "views_per_hour": 10125,
+     "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
+     "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
+    },
+    {
+     "id": "2125102574185615632",
+     "views": 108291,
+     "hours_since_post": 8.57,
+     "views_per_hour": 12628,
      "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
      "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
     }
