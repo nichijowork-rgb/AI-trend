@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T23:15:10+09:00",
+ "generated_at": "2026-11-26T23:25:29+09:00",
  "daily": [
   {
    "date": "2026-10-14",
@@ -5518,6 +5518,166 @@
    "rising_watch": [],
    "review": [],
    "hit_rate": []
+  },
+  {
+   "date": "2026-11-26",
+   "rising": [
+    {
+     "id": "2125854242086801528",
+     "views": 58960,
+     "hours_since_post": 6.95,
+     "views_per_hour": 8487,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2125843760374575220",
+     "views": 41462,
+     "hours_since_post": 7.64,
+     "views_per_hour": 5426,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2125817501091057793",
+     "views": 216245,
+     "hours_since_post": 9.38,
+     "views_per_hour": 23054,
+     "condition_label": "投稿から12時間以内で20万表示以上"
+    },
+    {
+     "id": "2125815561208975733",
+     "views": 43433,
+     "hours_since_post": 9.51,
+     "views_per_hour": 4568,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2125930287565562277",
+     "views": 27764,
+     "hours_since_post": 1.91,
+     "views_per_hour": 14536,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2125910436872888377",
+     "views": 78510,
+     "hours_since_post": 3.22,
+     "views_per_hour": 24346,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2125896095301828955",
+     "views": 26460,
+     "hours_since_post": 4.17,
+     "views_per_hour": 6338,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2125889879565537699",
+     "views": 34319,
+     "hours_since_post": 4.59,
+     "views_per_hour": 7483,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2125831922333168126",
+     "views": 37541,
+     "hours_since_post": 8.42,
+     "views_per_hour": 4456,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2125827347677151719",
+     "views": 347033,
+     "hours_since_post": 8.73,
+     "views_per_hour": 39763,
+     "condition_label": "投稿から12時間以内で20万表示以上"
+    },
+    {
+     "id": "2125793249776595204",
+     "views": 42344,
+     "hours_since_post": 10.99,
+     "views_per_hour": 3854,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2125790915621257418",
+     "views": 98657,
+     "hours_since_post": 11.14,
+     "views_per_hour": 8855,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2125896124557144150",
+     "views": 34255,
+     "hours_since_post": 4.17,
+     "views_per_hour": 8209,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    },
+    {
+     "id": "2125808440127758403",
+     "views": 47198,
+     "hours_since_post": 9.98,
+     "views_per_hour": 4729,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2125781764945727930",
+     "views": 31611,
+     "hours_since_post": 11.75,
+     "views_per_hour": 2691,
+     "condition_label": "医療: 投稿から12時間以内で3万表示以上"
+    },
+    {
+     "id": "2125877484243825042",
+     "views": 31697,
+     "hours_since_post": 5.41,
+     "views_per_hour": 5861,
+     "condition_label": "医療: 投稿から6時間以内で1.5万表示以上"
+    }
+   ],
+   "rising_watch": [
+    {
+     "id": "2125899062729990394",
+     "views": 29628,
+     "hours_since_post": 3.98,
+     "views_per_hour": 7447,
+     "condition_label": "監視アカウント: 投稿から12時間以内で1時間あたり5,000表示以上",
+     "reason": "監視アカウントの投稿で伸びが速いが、伸びている投稿の条件には届かない"
+    }
+   ],
+   "review": [
+    {
+     "id": "2125522701347655916",
+     "before_views": 15781,
+     "after_views": 51528,
+     "crossed_500k": false
+    },
+    {
+     "id": "2125524570182496360",
+     "before_views": 42858,
+     "after_views": 310501,
+     "crossed_500k": true
+    },
+    {
+     "id": "2125529677930578249",
+     "before_views": 312710,
+     "after_views": 814941,
+     "crossed_500k": true
+    },
+    {
+     "id": "2125501240771850630",
+     "before_views": 79467,
+     "after_views": 122715,
+     "crossed_500k": true
+    }
+   ],
+   "hit_rate": [
+    {
+     "condition_label": "10万表示到達（前日rising全体）",
+     "total": 4,
+     "crossed": 3
+    }
+   ]
   }
  ],
  "weekly": []
